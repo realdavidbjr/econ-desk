@@ -74,7 +74,7 @@
     {"key": "surveys", "tab": "data", "title": "Sentiment and surveys", "note": "The ISM manufacturing and services surveys aren't available on FRED; the morning brief covers them from the news.", "series": [
       {"id": "UMCSENT", "name": "UMich consumer sentiment", "main": "level", "fmt": "idx1"},
       {"id": "GACDFSA066MSFRBPHI", "name": "Philadelphia Fed manufacturing", "main": "level", "fmt": "idx1"},
-      {"id": "GACDINA066MSFRBNY", "name": "Empire State manufacturing", "main": "level", "fmt": "idx1"}
+      {"id": "GACDISA066MSFRBNY", "name": "Empire State manufacturing", "main": "level", "fmt": "idx1"}
     ]},
 
     {"key": "equities", "tab": "markets", "title": "Stocks and volatility", "series": [
@@ -204,7 +204,7 @@
     {"name": "H.4.1 balance sheet release", "url": "https://www.federalreserve.gov/releases/h41/"},
     {"name": "Beige Book", "url": "https://www.federalreserve.gov/monetarypolicy/beige-book-default.htm"},
     {"name": "Atlanta Fed GDPNow", "url": "https://www.atlantafed.org/cqer/research/gdpnow"},
-    {"name": "BLS release calendar", "url": "https://www.bls.gov/schedule/news_release/"},
+    {"name": "Google News: BLS releases", "url": "https://news.google.com/rss/search?q=%22Bureau+of+Labor+Statistics%22+when:7d&hl=en-US&gl=US&ceid=US:en"},
     {"name": "BEA release schedule", "url": "https://www.bea.gov/news/schedule"}
   ],
 
