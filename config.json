@@ -1,0 +1,249 @@
+{
+  "_help": "This file controls everything on your dashboard. To add a FRED series, copy an existing entry and change the id (find ids at fred.stlouisfed.org, the code after /series/ in the address bar). To remove something, delete its entry. Keep the commas and brackets intact; paste this file into jsonlint.com to check it if the update fails after an edit.",
+
+  "dashboard_title": "Econ Desk",
+  "contact_email": "",
+
+  "_help_fmt": "fmt options: pct2, pct1, usd_auto (dollar amounts, auto-scaled to $B/$T), k (thousands), kdiff (change in thousands), count_k, k_to_m, idx1, idx2, usd2, pts0, ratio3, fx2, fx4. main options: level, yoy (% change from a year ago), mom (% change from last period), diff (change from last period). bp: true shows changes in basis points.",
+
+  "headline_tiles": ["CPIAUCSL", "PCEPILFE", "UNRATE", "PAYEMS", "DGS10", "MORTGAGE30US", "SP500", "GASREGW", "WALCL", "M2SL"],
+
+  "corridor": {
+    "upper": "DFEDTARU",
+    "lower": "DFEDTARL",
+    "lines": [
+      {"id": "IORB", "name": "Interest on reserves"},
+      {"id": "EFFR", "name": "Effective fed funds"},
+      {"id": "SOFR", "name": "SOFR"},
+      {"id": "RRPONTSYAWARD", "name": "Reverse repo rate"}
+    ]
+  },
+
+  "sections": [
+    {"key": "fed_rates", "tab": "fed", "title": "Policy and money market rates", "series": [
+      {"id": "DFEDTARU", "name": "Fed funds target, upper bound", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "DFEDTARL", "name": "Fed funds target, lower bound", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "EFFR", "name": "Effective fed funds rate", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "IORB", "name": "Interest on reserve balances", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "RRPONTSYAWARD", "name": "Overnight reverse repo rate", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "SOFR", "name": "SOFR", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "DPCREDIT", "name": "Discount rate (primary credit)", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "DPRIME", "name": "Bank prime loan rate", "main": "level", "fmt": "pct2", "bp": true}
+    ]},
+    {"key": "plumbing", "tab": "fed", "title": "Liquidity and plumbing", "series": [
+      {"id": "WALCL", "name": "Fed total assets", "main": "level", "fmt": "usd_auto", "also": ["yoy"]},
+      {"id": "WRESBAL", "name": "Bank reserves", "main": "level", "fmt": "usd_auto", "also": ["yoy"]},
+      {"id": "RRPONTSYD", "name": "Overnight reverse repo usage", "main": "level", "fmt": "usd_auto"},
+      {"id": "WTREGEN", "name": "Treasury General Account", "main": "level", "fmt": "usd_auto"},
+      {"id": "RPONTSYD", "name": "Repo operations (standing repo facility)", "main": "level", "fmt": "usd_auto"},
+      {"id": ["WLCFLPCL"], "name": "Discount window lending (primary credit)", "main": "level", "fmt": "usd_auto"}
+    ]},
+
+    {"key": "inflation", "tab": "data", "title": "Inflation", "series": [
+      {"id": "CPIAUCSL", "name": "CPI, headline", "main": "yoy", "fmt": "pct1", "also": ["mom"]},
+      {"id": "CPILFESL", "name": "CPI, core", "main": "yoy", "fmt": "pct1", "also": ["mom"]},
+      {"id": "PCEPI", "name": "PCE prices, headline", "main": "yoy", "fmt": "pct1", "also": ["mom"]},
+      {"id": "PCEPILFE", "name": "PCE prices, core (the Fed's target)", "main": "yoy", "fmt": "pct1", "also": ["mom"]},
+      {"id": "PPIFIS", "name": "PPI, final demand", "main": "yoy", "fmt": "pct1", "also": ["mom"]},
+      {"id": "MICH", "name": "UMich 1-year inflation expectations", "main": "level", "fmt": "pct1"},
+      {"id": "T5YIFR", "name": "5y5y forward inflation expectation", "main": "level", "fmt": "pct2", "bp": true}
+    ]},
+    {"key": "labor", "tab": "data", "title": "Labor market", "series": [
+      {"id": "UNRATE", "name": "Unemployment rate", "main": "level", "fmt": "pct1"},
+      {"id": "PAYEMS", "name": "Nonfarm payrolls, monthly change", "main": "diff", "fmt": "kdiff"},
+      {"id": "ICSA", "name": "Initial jobless claims", "main": "level", "fmt": "count_k"},
+      {"id": "CCSA", "name": "Continuing jobless claims", "main": "level", "fmt": "count_k"},
+      {"id": "JTSJOL", "name": "Job openings (JOLTS)", "main": "level", "fmt": "k_to_m"},
+      {"id": "CES0500000003", "name": "Average hourly earnings", "main": "yoy", "fmt": "pct1", "also": ["mom"]},
+      {"id": "ECIALLCIV", "name": "Employment Cost Index", "main": "yoy", "fmt": "pct1"},
+      {"id": "CIVPART", "name": "Labor force participation", "main": "level", "fmt": "pct1"}
+    ]},
+    {"key": "growth", "tab": "data", "title": "Growth and activity", "series": [
+      {"id": "A191RL1Q225SBEA", "name": "Real GDP, annualized quarterly growth", "main": "level", "fmt": "pct1"},
+      {"id": "RSAFS", "name": "Retail sales", "main": "mom", "fmt": "pct1", "also": ["yoy"]},
+      {"id": "INDPRO", "name": "Industrial production", "main": "mom", "fmt": "pct1", "also": ["yoy"]},
+      {"id": "TCU", "name": "Capacity utilization", "main": "level", "fmt": "pct1"}
+    ]},
+    {"key": "housing", "tab": "data", "title": "Housing", "series": [
+      {"id": "MORTGAGE30US", "name": "30-year mortgage rate", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "MORTGAGE15US", "name": "15-year mortgage rate", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "HOUST", "name": "Housing starts (annual rate)", "main": "level", "fmt": "k", "also": ["yoy"]},
+      {"id": "PERMIT", "name": "Building permits (annual rate)", "main": "level", "fmt": "k", "also": ["yoy"]},
+      {"id": "CSUSHPINSA", "name": "Case-Shiller national home prices", "main": "yoy", "fmt": "pct1"}
+    ]},
+    {"key": "surveys", "tab": "data", "title": "Sentiment and surveys", "note": "The ISM manufacturing and services surveys aren't available on FRED; the morning brief covers them from the news.", "series": [
+      {"id": "UMCSENT", "name": "UMich consumer sentiment", "main": "level", "fmt": "idx1"},
+      {"id": "GACDFSA066MSFRBPHI", "name": "Philadelphia Fed manufacturing", "main": "level", "fmt": "idx1"},
+      {"id": "GACDINA066MSFRBNY", "name": "Empire State manufacturing", "main": "level", "fmt": "idx1"}
+    ]},
+
+    {"key": "equities", "tab": "markets", "title": "Stocks and volatility", "series": [
+      {"id": "SP500", "name": "S&P 500", "main": "level", "fmt": "pts0", "also": ["mom", "yoy"]},
+      {"id": "DJIA", "name": "Dow Jones Industrial Average", "main": "level", "fmt": "pts0", "also": ["mom", "yoy"]},
+      {"id": "NASDAQCOM", "name": "Nasdaq Composite", "main": "level", "fmt": "pts0", "also": ["mom", "yoy"]},
+      {"id": "VIXCLS", "name": "VIX volatility index", "main": "level", "fmt": "idx2"}
+    ]},
+    {"key": "yields", "tab": "markets", "title": "Treasury yields", "series": [
+      {"id": "DGS3MO", "name": "3-month Treasury", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "DGS2", "name": "2-year Treasury", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "DGS10", "name": "10-year Treasury", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "DGS30", "name": "30-year Treasury", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "T10Y2Y", "name": "2s10s spread", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "T10Y3M", "name": "3-month/10-year spread", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "DFII10", "name": "10-year real yield (TIPS)", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "T10YIE", "name": "10-year breakeven inflation", "main": "level", "fmt": "pct2", "bp": true}
+    ]},
+    {"key": "credit", "tab": "markets", "title": "Credit spreads", "series": [
+      {"id": "BAMLH0A0HYM2", "name": "High-yield bond spread", "main": "level", "fmt": "pct2", "bp": true},
+      {"id": "BAMLC0A0CM", "name": "Investment-grade bond spread", "main": "level", "fmt": "pct2", "bp": true}
+    ]},
+    {"key": "commodities", "tab": "markets", "title": "Energy and the dollar", "series": [
+      {"id": "DCOILWTICO", "name": "WTI crude oil, $/barrel", "main": "level", "fmt": "usd2", "also": ["yoy"]},
+      {"id": "DCOILBRENTEU", "name": "Brent crude oil, $/barrel", "main": "level", "fmt": "usd2", "also": ["yoy"]},
+      {"id": "GASREGW", "name": "Regular gasoline, $/gallon", "main": "level", "fmt": "usd2", "also": ["yoy"]},
+      {"id": "DTWEXBGS", "name": "Broad trade-weighted dollar", "main": "level", "fmt": "idx2", "also": ["yoy"]},
+      {"id": "DEXUSEU", "name": "Dollars per euro", "main": "level", "fmt": "fx4"},
+      {"id": "DEXJPUS", "name": "Yen per dollar", "main": "level", "fmt": "fx2"}
+    ]},
+
+    {"key": "money", "tab": "money", "title": "Monetary aggregates", "series": [
+      {"id": "M2SL", "name": "M2 money stock", "main": "level", "fmt": "usd_auto", "also": ["mom", "yoy"], "chart": "yoy"},
+      {"id": "M1SL", "name": "M1 money stock", "main": "level", "fmt": "usd_auto", "also": ["mom", "yoy"], "chart": "yoy"},
+      {"id": "BOGMBASE", "name": "Monetary base", "main": "level", "fmt": "usd_auto", "also": ["mom", "yoy"], "chart": "yoy"},
+      {"id": "M2V", "name": "Velocity of M2", "main": "level", "fmt": "ratio3"}
+    ]},
+    {"key": "credit_bank", "tab": "money", "title": "Bank credit", "series": [
+      {"id": "TOTBKCR", "name": "Bank credit, all commercial banks", "main": "level", "fmt": "usd_auto", "also": ["yoy"], "chart": "yoy"},
+      {"id": "TOTCI", "name": "Commercial and industrial loans", "main": "level", "fmt": "usd_auto", "also": ["yoy"], "chart": "yoy"},
+      {"id": "TOTALSL", "name": "Consumer credit outstanding", "main": "level", "fmt": "usd_auto", "also": ["yoy"], "chart": "yoy"}
+    ]}
+  ],
+
+  "yield_curve": [
+    {"id": "DGS1MO", "label": "1M"}, {"id": "DGS3MO", "label": "3M"}, {"id": "DGS6MO", "label": "6M"},
+    {"id": "DGS1", "label": "1Y"}, {"id": "DGS2", "label": "2Y"}, {"id": "DGS5", "label": "5Y"},
+    {"id": "DGS10", "label": "10Y"}, {"id": "DGS30", "label": "30Y"}
+  ],
+
+  "balance_sheet": {
+    "_help": "Each part lists one or more FRED ids; the first one that works is used. Anything not covered by the listed parts shows as 'Everything else'.",
+    "start": "2007-01-01",
+    "total": "WALCL",
+    "assets": [
+      {"name": "Treasury securities", "ids": ["TREAST"]},
+      {"name": "Mortgage-backed securities", "ids": ["WSHOMCB"]},
+      {"name": "Unamortized premiums", "ids": ["WUPSHO"]},
+      {"name": "Loans", "ids": ["WLCFLL"]},
+      {"name": "Central bank liquidity swaps", "ids": ["SWPT"]}
+    ],
+    "treasuries_total": "TREAST",
+    "treasuries": [
+      {"name": "Bills", "ids": ["WSHOBL"]},
+      {"name": "Notes and bonds", "ids": ["WSHONBNL"]},
+      {"name": "TIPS", "ids": ["WSHONBIIL"]},
+      {"name": "TIPS inflation compensation", "ids": ["WSHOICL"]}
+    ],
+    "liabilities": [
+      {"name": "Currency", "ids": ["WLFN", "WCURCIR"]},
+      {"name": "Bank reserves", "ids": ["WRBWFRBL", "WRESBAL"]},
+      {"name": "Reverse repos", "ids": ["WLRRAL", "RRPONTSYD"]},
+      {"name": "Treasury General Account", "ids": ["WDTGAL", "WTREGEN"]}
+    ],
+    "events": [
+      {"date": "2008-11-25", "label": "QE1"},
+      {"date": "2010-11-03", "label": "QE2"},
+      {"date": "2012-09-13", "label": "QE3"},
+      {"date": "2017-10-01", "label": "QT begins"},
+      {"date": "2019-08-01", "label": "QT ends"},
+      {"date": "2020-03-15", "label": "Pandemic purchases"},
+      {"date": "2022-06-01", "label": "QT begins"},
+      {"date": "2023-03-12", "label": "SVB / bank term funding"},
+      {"date": "2025-12-01", "label": "QT ends"}
+    ]
+  },
+
+  "fomc_meetings": [
+    {"start": "2026-10-27", "end": "2026-10-28", "sep": false},
+    {"start": "2026-12-08", "end": "2026-12-09", "sep": true},
+    {"start": "2027-01-26", "end": "2027-01-27", "sep": false},
+    {"start": "2027-03-16", "end": "2027-03-17", "sep": true},
+    {"start": "2027-04-27", "end": "2027-04-28", "sep": false},
+    {"start": "2027-06-08", "end": "2027-06-09", "sep": true},
+    {"start": "2027-07-27", "end": "2027-07-28", "sep": false},
+    {"start": "2027-09-14", "end": "2027-09-15", "sep": true},
+    {"start": "2027-10-26", "end": "2027-10-27", "sep": false},
+    {"start": "2027-12-07", "end": "2027-12-08", "sep": true},
+    {"start": "2028-01-25", "end": "2028-01-26", "sep": false}
+  ],
+
+  "_help_extra_events": "Add any date you want on the calendar, like Jackson Hole, a Fed chair testimony or a company earnings day.",
+  "extra_events": [
+    {"date": "2027-01-01", "name": "Example event: replace or delete me"}
+  ],
+
+  "calendar_keywords": [
+    "Consumer Price Index", "Producer Price Index", "Employment Situation", "Gross Domestic Product",
+    "Personal Income and Outlays", "Unemployment Insurance Weekly Claims", "Job Openings and Labor Turnover",
+    "Advance Monthly Sales for Retail", "Industrial Production", "H.4.1", "H.6 Money Stock",
+    "New Residential Construction", "Surveys of Consumers", "Employment Cost Index",
+    "Primary Mortgage Market Survey", "Manufacturing Business Outlook", "Empire State",
+    "Productivity and Costs", "Import and Export Price", "Consumer Credit", "H.8"
+  ],
+
+  "global_banks": [
+    {"name": "European Central Bank", "rate_name": "Deposit facility rate", "ids": ["ECBDFR"], "link": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"},
+    {"name": "Bank of England", "rate_name": "Short-term policy rate (OECD, monthly)", "ids": ["IRSTCI01GBM156N"], "link": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates"},
+    {"name": "Bank of Japan", "rate_name": "Short-term policy rate (OECD, monthly)", "ids": ["IRSTCI01JPM156N"], "link": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"},
+    {"name": "Bank of Canada", "rate_name": "Short-term policy rate (OECD, monthly)", "ids": ["IRSTCI01CAM156N"], "link": "https://www.bankofcanada.ca/press/upcoming-events/"}
+  ],
+
+  "useful_links": [
+    {"name": "CME FedWatch (market odds of the next Fed move)", "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html"},
+    {"name": "FOMC calendar, statements and minutes", "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"},
+    {"name": "Fed events calendar (speeches, testimony)", "url": "https://www.federalreserve.gov/newsevents/calendar.htm"},
+    {"name": "H.4.1 balance sheet release", "url": "https://www.federalreserve.gov/releases/h41/"},
+    {"name": "Beige Book", "url": "https://www.federalreserve.gov/monetarypolicy/beige-book-default.htm"},
+    {"name": "Atlanta Fed GDPNow", "url": "https://www.atlantafed.org/cqer/research/gdpnow"},
+    {"name": "BLS release calendar", "url": "https://www.bls.gov/schedule/news_release/"},
+    {"name": "BEA release schedule", "url": "https://www.bea.gov/news/schedule"}
+  ],
+
+  "_help_feeds": "News sources. Any feed that stops working shows up in the status panel at the bottom of the dashboard; delete it or replace its url. Google News searches (news.google.com/rss/search?q=...) work for almost any topic.",
+  "feeds": [
+    {"category": "Official", "max_age_days": 10, "feeds": [
+      {"name": "Fed press releases", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
+      {"name": "Fed speeches", "url": "https://www.federalreserve.gov/feeds/speeches.xml"},
+      {"name": "Fed testimony", "url": "https://www.federalreserve.gov/feeds/testimony.xml"},
+      {"name": "BLS", "url": "https://www.bls.gov/feed/bls_latest.rss"},
+      {"name": "BEA", "url": "https://apps.bea.gov/rss/rss.xml"},
+      {"name": "ECB", "url": "https://www.ecb.europa.eu/rss/press.html"},
+      {"name": "Bank of England", "url": "https://www.bankofengland.co.uk/rss/news"}
+    ]},
+    {"category": "News", "max_age_days": 3, "feeds": [
+      {"name": "Google News: Federal Reserve", "url": "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+when:2d&hl=en-US&gl=US&ceid=US:en"},
+      {"name": "Google News: Economy", "url": "https://news.google.com/rss/search?q=inflation+OR+jobs+report+OR+economy+when:2d&hl=en-US&gl=US&ceid=US:en"},
+      {"name": "Google News: Bond market", "url": "https://news.google.com/rss/search?q=Treasury+yields+OR+bond+market+when:2d&hl=en-US&gl=US&ceid=US:en"},
+      {"name": "Google News: Global central banks", "url": "https://news.google.com/rss/search?q=ECB+OR+%22Bank+of+Japan%22+OR+%22Bank+of+England%22+when:2d&hl=en-US&gl=US&ceid=US:en"},
+      {"name": "CNBC Economy", "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html"},
+      {"name": "WSJ Markets", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"},
+      {"name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
+      {"name": "FT Global Economy", "url": "https://www.ft.com/global-economy?format=rss"}
+    ]},
+    {"category": "Companies", "max_age_days": 3, "feeds": [
+      {"name": "Google News: Earnings", "url": "https://news.google.com/rss/search?q=earnings+results+OR+guidance+when:2d&hl=en-US&gl=US&ceid=US:en"},
+      {"name": "Google News: Big banks", "url": "https://news.google.com/rss/search?q=JPMorgan+OR+Goldman+OR+%22Bank+of+America%22+OR+Citigroup+when:2d&hl=en-US&gl=US&ceid=US:en"},
+      {"name": "CNBC Business", "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html"}
+    ]},
+    {"category": "Research", "max_age_days": 30, "feeds": [
+      {"name": "FEDS Notes", "url": "https://www.federalreserve.gov/feeds/feds_notes.xml"},
+      {"name": "Liberty Street Economics", "url": "https://libertystreeteconomics.newyorkfed.org/feed/"},
+      {"name": "NBER working papers", "url": "https://www.nber.org/rss/new.xml"},
+      {"name": "BIS central banker speeches", "url": "https://www.bis.org/doclist/cbspeeches.rss"}
+    ]},
+    {"category": "Opinion", "max_age_days": 7, "feeds": [
+      {"name": "Project Syndicate", "url": "https://www.project-syndicate.org/rss"},
+      {"name": "FT Alphaville", "url": "https://www.ft.com/alphaville?format=rss"},
+      {"name": "Google News: Economics opinion", "url": "https://news.google.com/rss/search?q=opinion+%28Fed+OR+inflation+OR+economy%29+when:7d&hl=en-US&gl=US&ceid=US:en"}
+    ]}
+  ]
+}

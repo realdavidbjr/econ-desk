@@ -1,0 +1,609 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Econ Desk</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏦</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root {
+  --paper: #EDF1EE; --surface: #F8FAF8; --ink: #16233B; --muted: #5A6577; --rule: #CCD4CD;
+  --sage: #3F6F57; --rust: #A9472C; --gold: #92742A; --band: rgba(63,111,87,.14);
+  --s1: #24416B; --s2: #5E8C72; --s3: #B8964A; --s4: #8795A8; --s5: #A5664B; --s6: #BCC7BC;
+  --font: "Archivo", "Helvetica Neue", Arial, system-ui, sans-serif;
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #0F151C; --surface: #16202A; --ink: #E3E8E3; --muted: #95A2B0; --rule: #2A3743;
+    --sage: #80B597; --rust: #E08462; --gold: #D4B465; --band: rgba(128,181,151,.16);
+    --s1: #7C9CCB; --s2: #80B597; --s3: #D4B465; --s4: #A6B2C2; --s5: #D08A6C; --s6: #4A5A58;
+  }
+}
+*, *::before, *::after { box-sizing: inherit; }
+html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font);
+  font-size: 15px; line-height: 1.5; font-variant-numeric: tabular-nums; }
+a { color: inherit; text-decoration-color: color-mix(in srgb, var(--ink) 35%, transparent); text-underline-offset: 2px; }
+a:hover { text-decoration-color: var(--sage); }
+:focus-visible { outline: 2px solid var(--sage); outline-offset: 2px; border-radius: 3px; }
+.num { font-stretch: 72%; font-weight: 640; letter-spacing: -.01em; }
+.muted { color: var(--muted); }
+.wrap { max-width: 1240px; margin: 0 auto; padding: 0 20px; }
+
+/* header */
+header { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper);
+  border-bottom: 1px solid var(--rule); }
+.bar { display: flex; align-items: center; gap: 24px; min-height: 60px; flex-wrap: wrap; }
+.brand { font-stretch: 118%; font-weight: 780; font-size: 19px; letter-spacing: -.02em; white-space: nowrap; }
+nav { display: flex; gap: 2px; overflow-x: auto; flex: 1; scrollbar-width: none; }
+nav button { font: inherit; font-stretch: 88%; font-weight: 560; color: var(--muted); background: none; border: 0;
+  padding: 8px 12px; border-radius: 6px; cursor: pointer; white-space: nowrap; }
+nav button[aria-selected="true"] { color: var(--ink); background: var(--surface); box-shadow: inset 0 -2px 0 var(--sage); }
+.stamp { font-size: 13px; color: var(--muted); white-space: nowrap; }
+
+main { padding: 28px 0 60px; }
+section[data-tab] { display: none; }
+section[data-tab].on { display: block; }
+h2 { font-stretch: 105%; font-weight: 720; font-size: 22px; letter-spacing: -.015em; margin: 44px 0 6px; }
+h2:first-child { margin-top: 0; }
+.sub { color: var(--muted); margin: 0 0 16px; max-width: 70ch; font-size: 14px; }
+
+/* hero: the policy corridor */
+.hero { display: grid; grid-template-columns: minmax(280px, 430px) 1fr; gap: 28px; background: var(--surface);
+  border-radius: 14px; padding: 26px 28px; align-items: stretch; }
+.range { font-stretch: 64%; font-weight: 700; font-size: clamp(48px, 13vw, 96px); line-height: .9; white-space: nowrap;
+  letter-spacing: -.035em; margin: 6px 0 12px; }
+.hero .facts { display: grid; gap: 6px; font-size: 14px; }
+.hero .facts b { font-weight: 620; }
+.countdown { margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--rule); }
+.countdown .num { font-size: 40px; line-height: 1; }
+.corridor-legend { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; margin-bottom: 8px; }
+.corridor-legend span::before { content: ""; display: inline-block; width: 14px; height: 3px; border-radius: 2px;
+  background: var(--c); vertical-align: middle; margin-right: 6px; }
+.chartbox { position: relative; width: 100%; }
+
+/* headline tiles */
+.tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 10px; margin-top: 14px; }
+.tile { background: var(--surface); border-radius: 8px; padding: 14px 16px 12px; cursor: pointer; border: 1px solid transparent;
+  text-align: left; font: inherit; color: inherit; }
+.tile:hover { border-color: var(--rule); }
+.tile .name { font-size: 13px; color: var(--muted); line-height: 1.3; min-height: 2.6em; }
+.tile .num { font-size: 32px; line-height: 1.1; }
+.tile .meta { font-size: 12.5px; display: flex; justify-content: space-between; gap: 8px; color: var(--muted); }
+
+.two { display: grid; grid-template-columns: 1fr 1.25fr; gap: 36px; }
+
+/* calendar */
+.cal-day { display: grid; grid-template-columns: 92px 1fr; gap: 12px; padding: 10px 0; border-top: 1px solid var(--rule); }
+.cal-day:first-child { border-top: 0; }
+.cal-date { font-stretch: 80%; font-weight: 640; }
+.cal-date small { display: block; font-weight: 400; color: var(--muted); font-size: 12.5px; }
+.cal-day ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.cal-day li { font-size: 14px; }
+.cal-day li.fomc { color: var(--sage); font-weight: 620; }
+.cal-day.today .cal-date { color: var(--sage); }
+
+/* headlines */
+.news { list-style: none; margin: 0; padding: 0; }
+.news li { padding: 11px 0; border-top: 1px solid var(--rule); }
+.news li:first-child { border-top: 0; }
+.news a { font-weight: 560; text-decoration: none; }
+.news a:hover { text-decoration: underline; }
+.news .src { font-size: 12.5px; color: var(--muted); margin-top: 2px; }
+.news p { margin: 4px 0 0; font-size: 13.5px; color: var(--muted); max-width: 75ch; }
+
+/* series tables */
+.stable { background: var(--surface); border-radius: 10px; overflow: hidden; }
+.row { display: grid; grid-template-columns: minmax(190px, 1.6fr) 110px 110px 92px minmax(120px, 1.1fr) minmax(130px, 1fr);
+  gap: 14px; align-items: center; padding: 11px 16px; border-top: 1px solid var(--rule); cursor: pointer;
+  width: 100%; background: none; border-left: 0; border-right: 0; border-bottom: 0; font: inherit; color: inherit; text-align: left; }
+.row:first-child { border-top: 0; }
+.row:hover { background: color-mix(in srgb, var(--paper) 55%, transparent); }
+.row .nm { font-weight: 560; line-height: 1.3; }
+.row .nm small { display: block; font-weight: 400; color: var(--muted); font-size: 12.5px; }
+.row .val { font-size: 22px; text-align: right; }
+.chg { font-size: 13.5px; font-weight: 560; text-align: right; }
+.up { color: var(--sage); } .down { color: var(--rust); } .flat { color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 4px; }
+.chip { font-size: 12px; padding: 1px 7px; border-radius: 10px; background: var(--paper); color: var(--muted); white-space: nowrap; }
+.ctx { font-size: 12.5px; color: var(--gold); font-weight: 560; }
+.row.bad { cursor: default; opacity: .6; }
+.spark { width: 110px; height: 30px; }
+.detail { padding: 6px 16px 18px; border-top: 1px dashed var(--rule); }
+.detail .top { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 6px; font-size: 13px; }
+.note { font-size: 13px; color: var(--muted); padding: 10px 16px; border-top: 1px solid var(--rule); }
+
+/* segmented controls */
+.seg { display: inline-flex; background: var(--paper); border-radius: 7px; padding: 2px; gap: 2px; }
+.seg button { font: inherit; font-size: 13px; font-weight: 560; border: 0; background: none; color: var(--muted);
+  padding: 4px 10px; border-radius: 5px; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: 0 0 0 1px var(--rule); }
+.controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+.controls label { font-size: 13px; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
+
+/* balance sheet */
+.panel { background: var(--surface); border-radius: 12px; padding: 20px; }
+.bs-total { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; margin-bottom: 10px; }
+.bs-total .num { font-size: 44px; line-height: 1; }
+.comp { width: 100%; border-collapse: collapse; margin-top: 16px; font-size: 14px; }
+.comp th { text-align: right; font-weight: 500; color: var(--muted); font-size: 12.5px; padding: 6px 8px; border-bottom: 1px solid var(--rule); }
+.comp th:first-child, .comp td:first-child { text-align: left; }
+.comp td { text-align: right; padding: 7px 8px; border-bottom: 1px solid var(--rule); }
+.comp tr:last-child td { border-bottom: 0; font-weight: 640; }
+.sw { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 8px; vertical-align: baseline; }
+.scroll { overflow-x: auto; }
+
+.links { columns: 2 280px; font-size: 14px; padding: 0; list-style: none; margin: 0; }
+.links li { break-inside: avoid; padding: 5px 0; }
+.fomc-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 8px; }
+.fomc-list li { background: var(--surface); border-radius: 8px; padding: 10px 12px; font-size: 14px; }
+.fomc-list li.next { box-shadow: inset 3px 0 0 var(--sage); }
+.fomc-list small { color: var(--muted); display: block; }
+
+/* reading */
+.filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 16px; }
+input[type="search"], textarea { font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--rule);
+  border-radius: 7px; padding: 7px 10px; }
+input[type="search"] { min-width: 220px; }
+.reading { columns: 2 440px; column-gap: 40px; }
+.reading .news li { break-inside: avoid; }
+
+/* notebook */
+textarea { width: 100%; min-height: 110px; resize: vertical; }
+.btn { font: inherit; font-weight: 600; font-size: 14px; border: 0; border-radius: 7px; padding: 8px 14px; cursor: pointer;
+  background: var(--ink); color: var(--paper); }
+.btn.ghost { background: none; color: var(--ink); box-shadow: inset 0 0 0 1px var(--rule); }
+.notes { list-style: none; padding: 0; margin: 18px 0 0; display: grid; gap: 10px; }
+.notes li { background: var(--surface); border-radius: 8px; padding: 12px 14px; white-space: pre-wrap; }
+.notes .when { font-size: 12.5px; color: var(--muted); display: flex; justify-content: space-between; }
+.notes button { font: inherit; font-size: 12.5px; color: var(--muted); background: none; border: 0; cursor: pointer; text-decoration: underline; }
+
+footer { border-top: 1px solid var(--rule); padding: 18px 0 40px; font-size: 13px; color: var(--muted); }
+footer details { margin-top: 8px; }
+footer li { margin: 3px 0; }
+.empty { background: var(--surface); border-radius: 12px; padding: 28px; max-width: 640px; }
+
+@media (max-width: 720px) {
+  .bar { gap: 4px 16px; padding-top: 10px; }
+  nav { order: 3; flex-basis: 100%; margin: 0 -8px; padding-bottom: 6px; }
+  .stamp { margin-left: auto; font-size: 12px; }
+  .hero { padding: 20px; }
+}
+@media (max-width: 900px) {
+  .hero, .two { grid-template-columns: 1fr; }
+  .row { grid-template-columns: 1fr auto; gap: 4px 12px; }
+  .row .spark, .row .chips, .row .ctx:empty { display: none; }
+  .row .nm { grid-column: 1; } .row .val { grid-column: 2; grid-row: 1; font-size: 20px; }
+  .row .chg { grid-column: 2; } .row .ctx { grid-column: 1; grid-row: 2; }
+}
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <div class="brand" id="brand">Econ Desk</div>
+    <nav role="tablist" aria-label="Sections">
+      <button role="tab" data-go="today">Today</button>
+      <button role="tab" data-go="fed">The Fed</button>
+      <button role="tab" data-go="data">Data</button>
+      <button role="tab" data-go="markets">Markets</button>
+      <button role="tab" data-go="money">Money</button>
+      <button role="tab" data-go="global">Global</button>
+      <button role="tab" data-go="reading">Reading</button>
+      <button role="tab" data-go="notebook">Notebook</button>
+    </nav>
+    <div class="stamp" id="stamp">Loading…</div>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+  <section data-tab="today" id="tab-today"></section>
+  <section data-tab="fed" id="tab-fed"></section>
+  <section data-tab="data" id="tab-data"></section>
+  <section data-tab="markets" id="tab-markets"></section>
+  <section data-tab="money" id="tab-money"></section>
+  <section data-tab="global" id="tab-global"></section>
+  <section data-tab="reading" id="tab-reading"></section>
+  <section data-tab="notebook" id="tab-notebook"></section>
+</main>
+<footer><div class="wrap" id="foot"></div></footer>
+
+<script>
+"use strict";
+let D = null;                 // the data file
+const charts = {};            // live Chart.js instances by key
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const palette = () => ["--s1","--s2","--s3","--s4","--s5","--s6"].map(css);
+const bySeries = {};
+const FONT = 'Archivo, "Helvetica Neue", Arial, sans-serif';
+
+// ---------- helpers
+function dirClass(d) { return d > 0 ? "up" : d < 0 ? "down" : "flat"; }
+function arrow(d) { return d > 0 ? "▲ " : d < 0 ? "▼ " : ""; }
+function money(bn) { return Math.abs(bn) >= 1000 ? `$${(bn/1000).toFixed(2)}T` : `$${Math.round(bn).toLocaleString()}B`; }
+function signedMoney(bn) { return (bn > 0 ? "+" : bn < 0 ? "−" : "") + money(Math.abs(bn)); }
+function fmtDay(iso, opts = {weekday: "short", month: "short", day: "numeric"}) {
+  const [y, m, d] = iso.split("-").map(Number); return new Date(y, m - 1, d).toLocaleDateString(undefined, opts);
+}
+function ago(iso) {
+  if (!iso) return "";
+  const mins = (Date.now() - new Date(iso)) / 60000;
+  if (mins < 60) return `${Math.max(1, Math.round(mins))} min ago`;
+  if (mins < 1440) return `${Math.round(mins / 60)} h ago`;
+  const d = Math.round(mins / 1440); return d === 1 ? "yesterday" : `${d} days ago`;
+}
+function localToday() { const t = new Date(); return new Date(t.getTime() - t.getTimezoneOffset() * 60000).toISOString().slice(0, 10); }
+function sliceRange(points, years) {
+  if (!years || !points.length) return points;
+  const last = new Date(points[points.length - 1][0]); last.setFullYear(last.getFullYear() - years);
+  const cut = last.toISOString().slice(0, 10); return points.filter(p => p[0] >= cut);
+}
+function spark(points, dir) {
+  const pts = points.slice(-80); if (pts.length < 2) return "";
+  const vals = pts.map(p => p[1]); const lo = Math.min(...vals), hi = Math.max(...vals), span = hi - lo || 1;
+  const path = vals.map((v, i) => `${(i / (vals.length - 1) * 108 + 1).toFixed(1)},${(28 - (v - lo) / span * 26).toFixed(1)}`).join(" ");
+  return `<svg class="spark" viewBox="0 0 110 30" aria-hidden="true"><polyline fill="none" stroke="${css(dir < 0 ? "--rust" : "--sage")}" stroke-width="1.6" points="${path}"/></svg>`;
+}
+function kill(key) { if (charts[key]) { charts[key].destroy(); delete charts[key]; } }
+
+function baseOptions(extra = {}) {
+  const grid = css("--rule"), ink = css("--muted");
+  return Object.assign({
+    responsive: true, maintainAspectRatio: false, animation: false,
+    interaction: { mode: "index", intersect: false },
+    plugins: { legend: { display: false }, tooltip: { backgroundColor: css("--ink"), titleColor: css("--paper"), bodyColor: css("--paper"), footerColor: css("--paper") } },
+    scales: {
+      x: { ticks: { color: ink, maxTicksLimit: 7, maxRotation: 0, autoSkip: true, font: { family: FONT } }, grid: { display: false }, border: { color: grid } },
+      y: { ticks: { color: ink, font: { family: FONT } }, grid: { color: grid }, border: { display: false } }
+    }
+  }, extra);
+}
+// date labels: "2024" style on long ranges, "Mar 24" otherwise
+function tickLabel(labels) {
+  const long = labels.length > 1 && (new Date(labels[labels.length - 1]) - new Date(labels[0])) > 6 * 365 * 864e5;
+  return function (v) { const s = this.getLabelForValue(v); return long ? s.slice(0, 4) : fmtDay(s, { month: "short", year: "2-digit" }); };
+}
+const eventLines = {
+  id: "eventLines",
+  afterDatasetsDraw(chart, _a, opts) {
+    if (!opts || !opts.events || !opts.show) return;
+    const { ctx, chartArea: a, scales: { x } } = chart; const labels = chart.data.labels;
+    ctx.save(); ctx.font = "600 11px " + FONT; ctx.fillStyle = css("--gold"); ctx.strokeStyle = css("--gold");
+    ctx.setLineDash([3, 3]); ctx.lineWidth = 1;
+    let lastX = -999, row = 0;
+    opts.events.forEach(e => {
+      if (e.date < labels[0] || e.date > labels[labels.length - 1]) return;
+      const i = labels.findIndex(l => l >= e.date); if (i < 0) return;
+      const px = x.getPixelForValue(i);
+      ctx.beginPath(); ctx.moveTo(px, a.top); ctx.lineTo(px, a.bottom); ctx.stroke();
+      row = (px - lastX < 80) ? (row + 1) % 3 : 0; lastX = px;
+      ctx.fillText(e.label, Math.min(px + 4, a.right - 80), a.top + 12 + row * 13);
+    });
+    ctx.restore();
+  }
+};
+Chart.register(eventLines);
+Chart.defaults.font.family = FONT;
+
+function lineChart(key, canvas, points, label, years) {
+  kill(key);
+  const pts = sliceRange(points, years), labels = pts.map(p => p[0]);
+  charts[key] = new Chart(canvas, {
+    type: "line",
+    data: { labels, datasets: [{ label, data: pts.map(p => p[1]), borderColor: css("--s1"), borderWidth: 1.8, pointRadius: 0, tension: 0,
+      fill: { target: "origin", above: "transparent", below: "transparent" } }] },
+    options: baseOptions({ scales: { ...baseOptions().scales, x: { ...baseOptions().scales.x, ticks: { ...baseOptions().scales.x.ticks, callback: tickLabel(labels) } } } })
+  });
+}
+
+// ---------- series rows (used on most tabs)
+function seriesRow(s) {
+  bySeries[s.id] = s;
+  if (!s.ok) return `<div class="row bad"><div class="nm">${esc(s.name)}<small>Not available right now (FRED id ${esc(s.id)})</small></div></div>`;
+  return `<button class="row" data-series="${esc(s.id)}" aria-expanded="false">
+    <div class="nm">${esc(s.name)}<small>${esc(s.date)}</small></div>
+    ${spark(s.chart, s.direction)}
+    <div class="val num">${esc(s.value)}</div>
+    <div class="chg ${dirClass(s.direction)}">${s.change ? arrow(s.direction) + esc(s.change) : ""}</div>
+    <div class="chips">${(s.also || []).map(a => `<span class="chip">${esc(a)}</span>`).join("")}</div>
+    <div class="ctx">${esc(s.context || "")}</div>
+  </button>`;
+}
+function sectionBlock(sec) {
+  return `<h2>${esc(sec.title)}</h2><div class="stable">${sec.series.map(seriesRow).join("")}${sec.note ? `<div class="note">${esc(sec.note)}</div>` : ""}</div>`;
+}
+function toggleDetail(btn) {
+  const open = btn.getAttribute("aria-expanded") === "true";
+  const next = btn.nextElementSibling;
+  if (open) { btn.setAttribute("aria-expanded", "false"); if (next && next.classList.contains("detail")) { kill(next.dataset.key); next.remove(); } return; }
+  const s = bySeries[btn.dataset.series]; const key = "d-" + s.id + "-" + Math.random().toString(36).slice(2, 7);
+  btn.setAttribute("aria-expanded", "true");
+  btn.insertAdjacentHTML("afterend", `<div class="detail" data-key="${key}">
+    <div class="top"><span class="muted">${esc(s.chart_label)}. <a href="https://fred.stlouisfed.org/series/${encodeURIComponent(s.id)}" target="_blank" rel="noopener">${esc(s.fred_title)} on FRED</a></span>
+    <span class="seg" role="group" aria-label="Range">${[["1Y",1],["5Y",5],["10Y",10],["Max",0]].map(([t,y]) => `<button data-y="${y}" aria-pressed="${y===5}">${t}</button>`).join("")}</span></div>
+    <div class="chartbox" style="height:260px"><canvas></canvas></div></div>`);
+  const det = btn.nextElementSibling, canvas = $("canvas", det);
+  lineChart(key, canvas, s.chart, s.name, 5);
+  det.querySelectorAll(".seg button").forEach(b => b.addEventListener("click", () => {
+    det.querySelectorAll(".seg button").forEach(x => x.setAttribute("aria-pressed", x === b));
+    lineChart(key, canvas, s.chart, s.name, Number(b.dataset.y));
+  }));
+}
+
+// ---------- corridor
+function corridorChart(key, canvas, legendEl) {
+  const c = D.corridor; if (!c || !c.upper) { canvas.parentElement.innerHTML = `<p class="muted">Policy rate data isn't available yet.</p>`; return; }
+  kill(key);
+  const labels = c.upper.map(p => p[0]);
+  const idx = arr => { const m = new Map(arr); return labels.map(l => m.has(l) ? m.get(l) : null); };
+  const cols = palette();
+  const lineSets = c.lines.map((ln, i) => ({ label: ln.name, data: idx(ln.data), borderColor: cols[[0,2,4,3][i % 4]], borderWidth: 1.6, pointRadius: 0, spanGaps: true, fill: false }));
+  charts[key] = new Chart(canvas, {
+    type: "line",
+    data: { labels, datasets: [
+      { label: "Target, upper", data: idx(c.upper), borderColor: css("--sage"), borderWidth: 1, pointRadius: 0, stepped: true, fill: "+1", backgroundColor: css("--band") },
+      { label: "Target, lower", data: idx(c.lower), borderColor: css("--sage"), borderWidth: 1, pointRadius: 0, stepped: true, fill: false },
+      ...lineSets ] },
+    options: baseOptions({ scales: { ...baseOptions().scales,
+      x: { ...baseOptions().scales.x, ticks: { ...baseOptions().scales.x.ticks, callback: tickLabel(labels) } },
+      y: { ...baseOptions().scales.y, ticks: { ...baseOptions().scales.y.ticks, callback: v => v.toFixed(2) + "%" } } },
+      plugins: { ...baseOptions().plugins, tooltip: { ...baseOptions().plugins.tooltip, callbacks: { label: ctx => ctx.raw == null ? null : `${ctx.dataset.label}: ${ctx.raw.toFixed(2)}%` } } } })
+  });
+  if (legendEl) legendEl.innerHTML = `<span style="--c:${css("--sage")}">Target range</span>` +
+    lineSets.map(s => `<span style="--c:${s.borderColor}">${esc(s.label)}</span>`).join("");
+}
+
+function fomcCountdown() {
+  const n = D.next_fomc; if (!n) return `<p class="muted">Add upcoming FOMC dates in config.json.</p>`;
+  const days = Math.round((new Date(n.end + "T12:00") - new Date(localToday() + "T12:00")) / 864e5);
+  const when = days === 0 ? "today, 2:00 pm ET" : days === 1 ? "tomorrow" : `in ${days} days`;
+  return `<div class="countdown"><div class="muted" style="font-size:13px">Next FOMC decision</div>
+    <div class="num">${esc(fmtDay(n.end, { month: "long", day: "numeric" }))}</div>
+    <div style="font-size:14px">${when}${n.sep ? ", with new projections and dot plot" : ""}</div></div>`;
+}
+
+// ---------- tabs
+function renderToday() {
+  const c = D.corridor || {};
+  const tiles = D.headline_tiles.map(id => bySeries[id]).filter(s => s && s.ok);
+  const today = localToday();
+  const upcoming = D.calendar.filter(e => e.date >= today).slice(0, 40);
+  const days = {}; upcoming.forEach(e => (days[e.date] ||= []).push(e));
+  const dayKeys = Object.keys(days).slice(0, 7);
+  const top = [...(D.news.News || []).slice(0, 6), ...(D.news.Official || []).slice(0, 3)]
+    .sort((a, b) => (b.published || "").localeCompare(a.published || ""));
+  $("#tab-today").innerHTML = `
+    <div class="hero">
+      <div>
+        <div class="muted" style="font-size:14px">Federal funds target range</div>
+        <div class="range">${esc(c.range || "n/a")}</div>
+        <div class="facts">
+          ${c.last_move ? `<div>${esc(c.last_move)}</div>` : ""}
+          ${(c.lines || []).map(l => `<div>${esc(l.name)} <b class="num">${esc(l.latest)}</b></div>`).join("")}
+        </div>
+        ${fomcCountdown()}
+      </div>
+      <div><div class="corridor-legend" id="cl-today"></div><div class="chartbox" style="height:320px"><canvas id="corr-today"></canvas></div></div>
+    </div>
+    <h2>Headline numbers</h2>
+    <div class="tiles">${tiles.map(s => `<button class="tile" data-jump="${esc(s.id)}">
+      <div class="name">${esc(s.name)}</div><div class="num">${esc(s.value)}</div>
+      <div class="meta"><span class="${dirClass(s.direction)}">${s.change ? arrow(s.direction) + esc(s.change) : esc((s.also||[])[0] || "")}</span><span>${esc(s.date)}</span></div></button>`).join("")}</div>
+    <div class="two">
+      <div><h2>Coming up</h2>
+        ${dayKeys.length ? dayKeys.map(d => `<div class="cal-day ${d === today ? "today" : ""}"><div class="cal-date">${esc(fmtDay(d, { month: "short", day: "numeric" }))}<small>${d === today ? "Today" : esc(fmtDay(d, { weekday: "long" }))}</small></div>
+          <ul>${days[d].map(e => `<li class="${e.kind}">${esc(e.name)}</li>`).join("")}</ul></div>`).join("") : `<p class="muted">No releases found in the next four weeks.</p>`}
+      </div>
+      <div><h2>Top headlines</h2>${newsList(top, true)}<p><a href="#reading">All reading</a></p></div>
+    </div>`;
+  corridorChart("corr-today", $("#corr-today"), $("#cl-today"));
+}
+
+function newsList(items, compact) {
+  if (!items.length) return `<p class="muted">No recent items. Feeds refresh with each update.</p>`;
+  return `<ul class="news">${items.map(it => `<li><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+    <div class="src">${esc(it.source)}${it.published ? ", " + esc(ago(it.published)) : ""}</div>
+    ${!compact && it.summary ? `<p>${esc(it.summary)}</p>` : ""}</li>`).join("")}</ul>`;
+}
+
+let bsView = "assets", bsYears = 0, bsEvents = true;
+function renderFed() {
+  const secs = D.sections.filter(s => s.tab === "fed");
+  const today = localToday();
+  $("#tab-fed").innerHTML = `
+    <h2>The policy corridor</h2>
+    <p class="sub">The target range set by the FOMC, with the administered rates (interest on reserves, reverse repo) and the market rates that trade inside it.</p>
+    <div class="panel"><div class="corridor-legend" id="cl-fed"></div><div class="chartbox" style="height:340px"><canvas id="corr-fed"></canvas></div></div>
+    <h2>Balance sheet</h2>
+    <p class="sub">Weekly, from the H.4.1 release (Thursdays, 4:30 pm ET). Hover the chart to see every component for that week.</p>
+    <div class="panel" id="bs"></div>
+    ${secs.map(sectionBlock).join("")}
+    <h2>FOMC meetings</h2>
+    <ul class="fomc-list">${D.fomc_meetings.filter(m => m.end >= today).map((m, i) => `<li class="${i === 0 ? "next" : ""}">
+      ${esc(fmtDay(m.start, { month: "short", day: "numeric" }))}–${esc(fmtDay(m.end, { month: "short", day: "numeric", year: "numeric" }))}
+      <small>${m.sep ? "Projections and dot plot" : "Statement and press conference"}</small></li>`).join("")}</ul>
+    <h2>Useful links</h2>
+    <ul class="links">${D.useful_links.map(l => `<li><a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.name)}</a></li>`).join("")}</ul>`;
+  corridorChart("corr-fed", $("#corr-fed"), $("#cl-fed"));
+  renderBalanceSheet();
+}
+
+function renderBalanceSheet() {
+  const bs = D.balance_sheet, el = $("#bs");
+  if (!bs) { el.innerHTML = `<p class="muted">Balance sheet data isn't available yet.</p>`; return; }
+  const layers = bs[bsView] || bs.assets;
+  const wholeAll = bsView === "treasuries" ? bs.treasuries_total : bs.total;
+  let start = 0;
+  if (bsYears) { const cut = new Date(bs.dates[bs.dates.length - 1]); cut.setFullYear(cut.getFullYear() - bsYears);
+    const c = cut.toISOString().slice(0, 10); start = Math.max(0, bs.dates.findIndex(d => d >= c)); }
+  const labels = bs.dates.slice(start), n = bs.dates.length - 1;
+  const cols = palette();
+  const wk = Math.max(0, n - 1), yr = Math.max(0, bs.dates.findIndex(d => d >= (() => { const t = new Date(bs.dates[n]); t.setFullYear(t.getFullYear() - 1); return t.toISOString().slice(0, 10); })()));
+  const total = wholeAll[n];
+  const title = { assets: "Total assets", treasuries: "Treasury securities held", liabilities: "Total liabilities and capital" }[bsView];
+  el.innerHTML = `
+    <div class="controls">
+      <span class="seg" role="group" aria-label="View">${[["assets","Assets"],["treasuries","Treasuries by type"],["liabilities","Liabilities"]].filter(([k]) => bs[k]).map(([k,t]) => `<button data-v="${k}" aria-pressed="${k===bsView}">${t}</button>`).join("")}</span>
+      <span class="seg" role="group" aria-label="Range">${[["2Y",2],["5Y",5],["10Y",10],["All",0]].map(([t,y]) => `<button data-y="${y}" aria-pressed="${y===bsYears}">${t}</button>`).join("")}</span>
+      <label><input type="checkbox" id="bs-ev" ${bsEvents ? "checked" : ""}> QE and QT milestones</label>
+    </div>
+    <div class="bs-total"><span class="num">${money(total)}</span><span class="muted">${title}, week of ${esc(bs.as_of)}</span>
+      <span class="${dirClass(total - wholeAll[wk])}" style="font-size:14px;font-weight:560">${signedMoney(total - wholeAll[wk])} on the week, ${signedMoney(total - wholeAll[yr])} over a year</span></div>
+    <div class="chartbox" style="height:380px"><canvas id="bs-chart"></canvas></div>
+    <div class="scroll"><table class="comp"><thead><tr><th>Component</th><th>Latest</th><th>Share</th><th>1-week change</th><th>1-year change</th></tr></thead><tbody>
+      ${layers.map((l, i) => `<tr><td><span class="sw" style="background:${cols[i % cols.length]}"></span>${esc(l.name)}</td>
+        <td>${money(l.data[n])}</td><td>${total ? (l.data[n] / total * 100).toFixed(1) + "%" : ""}</td>
+        <td class="${dirClass(l.data[n] - l.data[wk])}">${signedMoney(l.data[n] - l.data[wk])}</td>
+        <td class="${dirClass(l.data[n] - l.data[yr])}">${signedMoney(l.data[n] - l.data[yr])}</td></tr>`).join("")}
+      <tr><td>Total</td><td>${money(total)}</td><td>100%</td><td>${signedMoney(total - wholeAll[wk])}</td><td>${signedMoney(total - wholeAll[yr])}</td></tr>
+    </tbody></table></div>`;
+  kill("bs");
+  charts.bs = new Chart($("#bs-chart"), {
+    type: "line",
+    data: { labels, datasets: layers.map((l, i) => ({ label: l.name, data: l.data.slice(start), borderColor: cols[i % cols.length],
+      backgroundColor: cols[i % cols.length] + "CC", borderWidth: 0.8, pointRadius: 0, fill: i === 0 ? "origin" : "-1" })) },
+    options: baseOptions({
+      scales: { x: { ...baseOptions().scales.x, ticks: { ...baseOptions().scales.x.ticks, callback: tickLabel(labels) } },
+        y: { ...baseOptions().scales.y, stacked: true, ticks: { ...baseOptions().scales.y.ticks, callback: v => money(v) } } },
+      plugins: { ...baseOptions().plugins, eventLines: { events: bs.events, show: bsEvents },
+        tooltip: { ...baseOptions().plugins.tooltip, itemSort: (a, b) => b.datasetIndex - a.datasetIndex,
+          callbacks: { title: it => "Week of " + fmtDay(it[0].label, { month: "short", day: "numeric", year: "numeric" }),
+            label: ctx => `${ctx.dataset.label}: ${money(ctx.raw)}`,
+            footer: it => "Total: " + money(wholeAll[start + it[0].dataIndex]) } } }
+    })
+  });
+  el.querySelectorAll("[data-v]").forEach(b => b.onclick = () => { bsView = b.dataset.v; renderBalanceSheet(); });
+  el.querySelectorAll("[data-y]").forEach(b => b.onclick = () => { bsYears = Number(b.dataset.y); renderBalanceSheet(); });
+  $("#bs-ev").onchange = e => { bsEvents = e.target.checked; renderBalanceSheet(); };
+}
+
+function renderData() {
+  $("#tab-data").innerHTML = `<p class="sub">Click any row for its full history. Inflation measures show the change from a year earlier; the chips show the latest monthly move.</p>` +
+    D.sections.filter(s => s.tab === "data").map(sectionBlock).join("");
+}
+
+function renderMarkets() {
+  const yc = D.yield_curve;
+  $("#tab-markets").innerHTML = `<p class="sub">Daily market data comes from FRED, so it reflects the prior close.</p>` +
+    (yc ? `<h2>Yield curve</h2><div class="panel"><div class="corridor-legend" id="yc-legend"></div><div class="chartbox" style="height:280px"><canvas id="yc"></canvas></div></div>` : "") +
+    D.sections.filter(s => s.tab === "markets").map(sectionBlock).join("");
+  if (yc) {
+    kill("yc"); const cols = [css("--s1"), css("--s3"), css("--s4")];
+    charts.yc = new Chart($("#yc"), { type: "line",
+      data: { labels: yc.maturities, datasets: yc.snapshots.map((s, i) => ({ label: `${s.label} (${s.date})`, data: s.values, borderColor: cols[i],
+        borderWidth: i === 0 ? 2.4 : 1.4, borderDash: i === 0 ? [] : [4, 3], pointRadius: 3, pointBackgroundColor: cols[i], spanGaps: true })) },
+      options: baseOptions({ scales: { x: { ...baseOptions().scales.x, ticks: { ...baseOptions().scales.x.ticks, maxTicksLimit: 12 } },
+        y: { ...baseOptions().scales.y, ticks: { ...baseOptions().scales.y.ticks, callback: v => v.toFixed(2) + "%" } } },
+        plugins: { ...baseOptions().plugins, tooltip: { ...baseOptions().plugins.tooltip, callbacks: { label: c => `${c.dataset.label}: ${c.raw?.toFixed(2)}%` } } } }) });
+    $("#yc-legend").innerHTML = yc.snapshots.map((s, i) => `<span style="--c:${cols[i]}">${esc(s.label)}, ${esc(s.date)}</span>`).join("");
+  }
+}
+
+function renderMoney() {
+  const m2 = bySeries["M2SL"];
+  $("#tab-money").innerHTML = `<p class="sub">Monthly money stock from the H.6 release; bank credit weekly from H.8. Charts show growth from a year earlier.</p>` +
+    (m2 && m2.ok ? `<h2>M2 growth</h2><div class="panel"><div class="chartbox" style="height:280px"><canvas id="m2"></canvas></div></div>` : "") +
+    D.sections.filter(s => s.tab === "money").map(sectionBlock).join("");
+  if (m2 && m2.ok) lineChart("m2", $("#m2"), m2.chart, "M2, % change from a year earlier", 0);
+}
+
+function renderGlobal() {
+  $("#tab-global").innerHTML = `<h2>Other central banks</h2>
+    <p class="sub">The ECB rate is daily. The others come from the OECD's monthly series, which can lag a decision by a month or more, so check the bank's own site for the latest.</p>
+    <div class="stable">${D.global.map(b => `<div class="row" style="cursor:default">
+      <div class="nm">${esc(b.name)}<small>${esc(b.rate_name)}</small></div>
+      ${b.chart ? spark(b.chart, 0) : "<span></span>"}
+      <div class="val num">${esc(b.value || "n/a")}</div><div class="chg flat">${esc(b.date || "")}</div>
+      <div class="chips">${b.last_change ? `<span class="chip">Last change ${esc(b.last_change)}</span>` : ""}</div>
+      <div>${b.link ? `<a href="${esc(b.link)}" target="_blank" rel="noopener">Meeting calendar</a>` : ""}</div></div>`).join("")}</div>
+    <h2>Global central bank news</h2>${newsList((D.news.News || []).filter(n => /ECB|Lagarde|Bank of (Japan|England|Canada)|BoJ|BoE|PBOC|central bank/i.test(n.title)).slice(0, 15), false)}`;
+}
+
+let readCat = "All", readQuery = "";
+function renderReading() {
+  const cats = Object.keys(D.news);
+  let items = readCat === "All" ? cats.flatMap(c => D.news[c].map(i => ({ ...i, cat: c }))) : D.news[readCat].map(i => ({ ...i, cat: readCat }));
+  if (readQuery) { const q = readQuery.toLowerCase(); items = items.filter(i => (i.title + " " + i.summary + " " + i.source).toLowerCase().includes(q)); }
+  items.sort((a, b) => (b.published || "").localeCompare(a.published || ""));
+  $("#tab-reading").innerHTML = `
+    <div class="filters"><span class="seg" role="group" aria-label="Category">${["All", ...cats].map(c => `<button data-c="${esc(c)}" aria-pressed="${c === readCat}">${esc(c)} ${c === "All" ? "" : `<span class="muted">${D.news[c].length}</span>`}</button>`).join("")}</span>
+    <input type="search" id="rq" placeholder="Filter by word, e.g. Powell or tariffs" value="${esc(readQuery)}" aria-label="Filter headlines"></div>
+    <div class="reading">${newsList(items.slice(0, 150), false)}</div>`;
+  document.querySelectorAll("#tab-reading [data-c]").forEach(b => b.onclick = () => { readCat = b.dataset.c; renderReading(); });
+  const rq = $("#rq"); rq.oninput = () => { readQuery = rq.value; const pos = rq.selectionStart; renderReading(); const r = $("#rq"); r.focus(); r.setSelectionRange(pos, pos); };
+}
+
+// notebook lives only in this browser
+const NOTES_KEY = "econdesk-notes";
+function loadNotes() { try { return JSON.parse(localStorage.getItem(NOTES_KEY) || "[]"); } catch { return []; } }
+function saveNotes(n) { try { localStorage.setItem(NOTES_KEY, JSON.stringify(n)); return true; } catch { return false; } }
+function renderNotebook() {
+  const notes = loadNotes();
+  $("#tab-notebook").innerHTML = `<h2>Story ideas and notes</h2>
+    <p class="sub">Notes are saved in this browser on this device only. Download them now and then to keep a copy.</p>
+    <textarea id="note-in" placeholder="An angle, a question for a source, a number to check…"></textarea>
+    <div class="controls" style="margin-top:8px"><button class="btn" id="note-add">Save note</button>
+      <button class="btn ghost" id="note-dl" ${notes.length ? "" : "disabled"}>Download notes</button></div>
+    <ul class="notes">${notes.map((n, i) => `<li><div class="when"><span>${esc(new Date(n.t).toLocaleString())}</span><button data-del="${i}">Delete</button></div>${esc(n.text)}</li>`).join("")}</ul>`;
+  $("#note-add").onclick = () => { const v = $("#note-in").value.trim(); if (!v) return; notes.unshift({ t: Date.now(), text: v });
+    if (!saveNotes(notes)) alert("This browser blocked saving. Download your notes to keep them."); renderNotebook(); };
+  $("#note-dl").onclick = () => { const blob = new Blob([notes.map(n => new Date(n.t).toLocaleString() + "\n" + n.text).join("\n\n---\n\n")], { type: "text/plain" });
+    const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "econ-desk-notes.txt"; a.click(); };
+  document.querySelectorAll("[data-del]").forEach(b => b.onclick = () => { notes.splice(Number(b.dataset.del), 1); saveNotes(notes); renderNotebook(); });
+}
+
+function renderFooter() {
+  const p = D.problems || [];
+  $("#foot").innerHTML = `Data from FRED (Federal Reserve Bank of St. Louis) and the listed news sources. Last updated ${esc(D.generated_at)} UTC.
+    Always confirm numbers against the original release before publishing.
+    ${p.length ? `<details><summary>${p.length} source${p.length > 1 ? "s" : ""} didn't load on the last update</summary><ul>${p.map(x => `<li>${esc(x.kind)}: <b>${esc(x.name)}</b>. ${esc(x.error)}</li>`).join("")}</ul>
+    <p>A series or feed that keeps failing can be fixed or removed in config.json.</p></details>` : ""}`;
+}
+
+// ---------- routing
+const renderers = { today: renderToday, fed: renderFed, data: renderData, markets: renderMarkets, money: renderMoney, global: renderGlobal, reading: renderReading, notebook: renderNotebook };
+const rendered = new Set();
+function show(tab) {
+  if (!renderers[tab]) tab = "today";
+  document.querySelectorAll("section[data-tab]").forEach(s => s.classList.toggle("on", s.dataset.tab === tab));
+  document.querySelectorAll("nav button").forEach(b => b.setAttribute("aria-selected", b.dataset.go === tab));
+  if (D && !rendered.has(tab)) { renderers[tab](); rendered.add(tab); }
+}
+function rerenderAll() { Object.keys(charts).forEach(kill); rendered.clear(); show((location.hash || "#today").slice(1)); }
+
+document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => { location.hash = b.dataset.go; }));
+window.addEventListener("hashchange", () => show(location.hash.slice(1)));
+document.addEventListener("click", e => {
+  const row = e.target.closest("button.row[data-series]"); if (row && !e.target.closest("a")) { toggleDetail(row); return; }
+  const tile = e.target.closest("[data-jump]");
+  if (tile) { const id = tile.dataset.jump; const sec = D.sections.find(s => s.series.some(x => x.id === id));
+    if (sec) { location.hash = sec.tab; setTimeout(() => { const r = document.querySelector(`#tab-${sec.tab} button.row[data-series="${CSS.escape(id)}"]`);
+      if (r) { r.scrollIntoView({ block: "center" }); if (r.getAttribute("aria-expanded") !== "true") toggleDetail(r); } }, 30); } }
+});
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => D && rerenderAll());
+
+fetch("data/data.json?t=" + Date.now()).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(data => {
+  D = data;
+  document.title = D.title; $("#brand").textContent = D.title;
+  D.sections.forEach(sec => sec.series.forEach(s => { bySeries[s.id] = s; }));
+  const t = new Date(D.generated_at.replace(" ", "T") + "Z");
+  $("#stamp").textContent = "Updated " + t.toLocaleString(undefined, { weekday: "short", hour: "numeric", minute: "2-digit" });
+  renderFooter();
+  show((location.hash || "#today").slice(1));
+}).catch(() => {
+  $("#stamp").textContent = "No data yet";
+  $("#main").innerHTML = `<div class="empty"><h2>No data yet</h2><p>The dashboard fills in after its first update. On GitHub, open the <b>Actions</b> tab, choose <b>Update dashboard</b>, and click <b>Run workflow</b>. It takes about two minutes.</p>
+    <p class="muted">If a run fails, open it and read the red step. The most common cause is a missing or mistyped FRED_API_KEY secret.</p></div>`;
+});
+</script>
+</body>
+</html>
