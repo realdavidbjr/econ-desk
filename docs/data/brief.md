@@ -1,12 +1,12 @@
 # Econ Desk snapshot
-Generated 2026-10-15 22:42 (UTC). Source: FRED unless noted.
+Generated 2026-10-16 10:56 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
 - Effective fed funds: 3.88%
 - SOFR: 3.88%
 - Reverse repo rate: 3.75%
-Next FOMC decision: 2026-10-28 (13 days away).
+Next FOMC decision: 2026-10-28 (12 days away).
 
 ## Policy and money market rates
 - Fed funds target, upper bound: 4.00%; change unch.; as of Oct 15, 2026
@@ -64,9 +64,9 @@ Next FOMC decision: 2026-10-28 (13 days away).
 - Empire State manufacturing: 25.5; change +17.9; as of Oct 2026; Highest since Dec 2021
 
 ## Stocks and volatility
-- S&P 500: 7,719; change -87; 1M +1.3%; YoY +16.2%; as of Oct 14, 2026; Lowest since Oct 2026
+- S&P 500: 7,744; change +25; 1M +2.1%; YoY +16.1%; as of Oct 15, 2026
 - Dow Jones Industrial Average: 52,178; change +556; 1M +0.2%; YoY +12.8%; as of Oct 15, 2026; Highest since Sep 2026
-- Nasdaq Composite: 26,693; change -512; 1M +1.9%; YoY +18.5%; as of Oct 14, 2026; Lowest since Sep 2026
+- Nasdaq Composite: 26,713; change +20; 1M +2.8%; YoY +17.8%; as of Oct 15, 2026
 - VIX volatility index: 16.87; change +1.60; as of Oct 14, 2026; Highest since Sep 2026
 
 ## Treasury yields
@@ -112,13 +112,6 @@ Next FOMC decision: 2026-10-28 (13 days away).
 - Everything else: 67
 
 ## Calendar, next 14 days
-- 2026-10-15: Advance Monthly Sales for Retail and Food Services
-- 2026-10-15: Empire State Manufacturing Survey
-- 2026-10-15: H.4.1 Factors Affecting Reserve Balances
-- 2026-10-15: Manufacturing Business Outlook Survey
-- 2026-10-15: Primary Mortgage Market Survey
-- 2026-10-15: Producer Price Index
-- 2026-10-15: Unemployment Insurance Weekly Claims Report
 - 2026-10-16: G.17 Industrial Production and Capacity Utilization
 - 2026-10-16: H.8 Assets and Liabilities of Commercial Banks in the United States
 - 2026-10-16: State Unemployment Insurance Weekly Claims Report
@@ -140,6 +133,9 @@ Next FOMC decision: 2026-10-28 (13 days away).
 - 2026-10-29: Personal Income and Outlays
 - 2026-10-29: Primary Mortgage Market Survey
 - 2026-10-29: Unemployment Insurance Weekly Claims Report
+- 2026-10-30: Employment Cost Index
+- 2026-10-30: H.8 Assets and Liabilities of Commercial Banks in the United States
+- 2026-10-30: State Unemployment Insurance Weekly Claims Report
 
 ## Headlines: Official
 - David Roberts CV and questionnaire for the Treasury Select Committee (Bank of England) https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment
@@ -156,57 +152,57 @@ Next FOMC decision: 2026-10-28 (13 days away).
 - Waller, The Signaling Value of the Summary of Economic Projections (Fed speeches) https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
 
 ## Headlines: News
-- I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business? (MarketWatch) https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories
 - How a midterm sweep by Democrats could turn this tech selloff into a tech crash (MarketWatch) https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories
-- Fed Officials Troubled by Hot Inflation Data as Rate Hike Looms (Investopedia) https://news.google.com/rss/articles/CBMimgFBVV95cUxObFhTR3R1MjNEY0VkVldFRlFlWXVhUVhaMEMzYXkwYnZ2UGs1cXJCRVY1X0p5ckVmcVpwQlZGMEJCNHdJcEN3dmZzblR1QzQtUFlUeGRoTU5TT2ZFWVdTdG9EMmlmRllBZjIyMEgxMnRyOUlXaEdCc3VjWFYxQ2dlYWtEQmtqX3A5OERGZmNzVDBrZ3V5X1N1eDNR?oc=5
-- Nvidia and other chip stocks face renewed pressure as AI fears swell (MarketWatch) https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories
-- Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset. (MarketWatch) https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories
-- CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending (MarketWatch) https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories
-- Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now. (MarketWatch) https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories
-- AI credit risk flare-up triggers flight to safety, US Treasury yields plunge over 10 basis points intraday (BigGo Finance) https://news.google.com/rss/articles/CBMidkFVX3lxTE96SUJ0NGtKQy1Pd2syTkVyMlk2NHNWUl82UzNGS1lHaGRxajludU5OT0Fqd0hHUmxXUkFOaHBsTHlBRllNMlFlRUpOdV96cDJfSnJ0LW91MzZKZWdsOHlweGdKZU92dWJZbjBqV0c0dWNSaGVLbUE?oc=5
-- Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets (MarketWatch) https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories
-- Economic and event calendar in Asia Friday, October 16, 2026 - Federal Reserve Chair Warsh speaking (investingLive) https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWEVRM1dZYW16SGhkLVMydlp1ZU83MVFDc3E4Nkt3MktMLXFOQ2ZMVTlCSENhR2VfSG1LSUlOaDhiYXdEVnBxZmxuQVRiM0hEbXZLd2dUeVlwdEV3RExfTXVRQzVNbWoxQlpiZGFlN0ZGODF6Q24yUEszRXlMQmtmTlRaNk0xTVBPbl9qVmR1dDJjb2NTbC1Gb2d1Z091MzZMaWsyVHdaMEY5d3lDR1VMUjlHVlRNWGNhV0t2bWFrTmR0d2ZCWkFSRm9HTUFXZEU0ekE?oc=5
-- US Equity Markets End Higher After Government Bond Yields Fall (Yahoo Finance) https://news.google.com/rss/articles/CBMimAFBVV95cUxQUW1zNm5qdGxlNVlGX3JqSUdXSHFsbkJnVHUycm5WVTdsZXRNTXBmdDU0ZmFsV2ZqRFFzeVRKb1FTWnhYWTJLaThOU081ZU1aTkFlYkgxTEtKRVN3eEZTcjIwZGZtSEEwT3RBWTlnLTBWODJTR3ZndWVleDlsdkQzeHVRTmwta3NPM2NKM0RIX1pDSktseUQ2MQ?oc=5
-- U.S. equities finished in the green after the latest PPI inflation report landed (Seeking Alpha) https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3Nha2NNNXdUUzI0UTlucGxjYzIyZU1rMDFNTUZOZXU0dnNZcGZZRU10Wl92NEE4dnUyRUw4dmxqVDRBMjlkYnJ6dUNwa290OER4c2V5Y29kU012b09zV3RmUGVxeTFGOUw2RW05anY0MUV3Uk1VeFdkTkFoYVhYaktOazkxNkhCZHlQcHozanJIS0dBc2hxLVhOdjAxUTYtejgyV0tTcnNGdlk3Z2E1UnBKZnVod3M?oc=5
+- Jefferies technical analyst finds an encouraging development in Thursday rebound, setting stage for rally into year-end (MarketWatch) https://www.marketwatch.com/story/jefferies-technical-analyst-finds-an-encouraging-development-in-thursday-rebound-setting-stage-for-rally-into-year-end-34ad6e31?mod=mw_rss_topstories
+- Warsh signals steady Fed outlook despite inflation jump (Axios) https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5
+- FirstFT: G7 plan simulated AI attacks on banks (FT Global Economy) https://www.ft.com/content/246f1614-cd9a-4747-bc58-97e9cb10fb4b?syn-25a6b1a6=1
+- The best of the AI trade could be behind us. Here’s how to prepare, according to Barclays. (MarketWatch) https://www.marketwatch.com/story/the-best-of-the-ai-trade-could-be-behind-us-heres-how-to-prepare-according-to-barclays-725ab4dd?mod=mw_rss_topstories
+- IMF says ECB likely to raise rates by 25 bps once more in 2026 (Investing.com) https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbllkdGt4UTlHd3ZYYkNsTDNJMDViU0VucU5saFFHc01mZ2sxbld6RnI2dWpsaDV4V1p4VTdKSDgyUjcwVkZ5akZaNXhBanR1cjJSdmxrSlVEaEkyRHpGdnF4V3lYRkVGVzVENGVkd0Z6QWZBaFhHVlFXejFtOWN2TlR4Q0tHVW01YjhiNV9SdE5nN0xtT090TFp0eGRwZ05HS29CVUs2eTAzTGVmcHBlbU5uYWtqUEhkQ000?oc=5
+- I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business? (MarketWatch) https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories
+- IMF expects at least one more 25 bps ECB rate hike in 2026 (Reuters) https://news.google.com/rss/articles/CBMingFBVV95cUxPbUVycFZsRzVkXzRQNHZLVXlhMUxUbmtmVW1fRDdjN1hOTWQwS18zX0VqeklHb0oydmE0bjJvdHJSbFFaM3dhZThqTkV5NHJVVFNyb29PMTJfNlRfUTZjSV84cWF4aC03b1l1eEdQWE1ZX1l4TXlwQjhOc29vajRoWGhsMVFEVEZZdlhjUWk3bDZ6YTdhV25iQ25VZE9RZw?oc=5
+- Global equity funds draw inflows for fourth week as Treasury yields ease (Reuters) https://news.google.com/rss/articles/CBMiggFBVV95cUxPTXRFM2NETEFFWnZ1M092Uk82VXF4cllZczJRQXlvdTM5YVZTdHRDMzJRR0NJZ1N3a1FhWmVxVV9ZOHJkQmNkZGFCb0RwWHotU1EzMjE4U19IdV9FRHdiZExtNVRLUlNPOEU0YkJFSzFwMUxoeDItODNRbU9OclFETGJn?oc=5
+- Republicans turn on Trump’s tariffs in battle for ‘political survival’ (FT Global Economy) https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1
+- Korea Treasury Bond Yields Fall Across the Board (Businesskorea) https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUXhvV0dxSkVOcnpBR3lqbjZiQTgtZnFWdTZGdi0wYXRhYUdKYkduaTFkMDFSUWJqX2x1cmlYTjBaNWhRNUR4eldqeXNKNkVMV2F3eEpWS0piYTVtQmhTR3J1WUFHY2J6NHVTMmFBVjloS0Fr?oc=5
+- Hightower's Stephanie Link explains why you should still be long on equities as Treasury yields rise (Business Insider) https://news.google.com/rss/articles/CBMilwFBVV95cUxOQldjcHp3YVB3YXU2NUtHSTBZVU1rMWhTLWdqRng5X1EwUVBvT0JadXh2TGJMWWR3ZC1PSExPYjNsbVVkR05SMUU4Ul9OSUFJSFUzdzdtdXRLdkpXVVFkZERxSkFHSkRvMmtUUWs3TFA1MWxvRXY2QkNDUmMyVk9rOTJiX2h6bk5uZlpHN0gwNlotTDdlVDg4?oc=5
 
 ## Headlines: Companies
-- JPMorgan's Chicago Office Renovation Costing Bank Over $800M, Dimon Says (Yahoo Finance) https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0JTTVZZelNWVFZXcnJWUnhlTWJjbWtfMUNNeE9CU1VzTmFfYktjN3VqNzlxTjJHMGkxcVpZeWVzaGJjVElYbWx0cEEzQ2s3SXVTUjIyaGtYYXhVcTdjVnZpMUhsZXdDZGVqZFRZM3RHaFBNTU1MUDg4aTVKR1pHTzRSYVBQV0NUTVVFWFBET3Z1M3h0YmNkM2Q2R1k3WVgxQTNsZXlIWWc?oc=5
-- Goldman projects $600 billion in equity offerings next year (CFO Brew) https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzJYR1RfWnRCNGZnWXFHTk54cDlkdVpSeDdRWnc3YVJrMGc0U3NlMUdZcGZUZG1sRjVMcDk1dlp1bV9GWXg1LUhScFotaVBVb2dhaTdpaTdWMU81aUFWcGRKWHVRN0UxMUZEUkk1c2hzaEZlb2xzLUdOallSRmZlb1ZOa1BrckFmMGxEZTVR?oc=5
-- Why Is Citigroup (C) Letting Saudi Staff Work Remotely Right Now? (Yahoo Finance) https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3hpUFQ3MkRSaGVhMFdTNUFESmlhLWpKRzVFQS1FY05heW44QW5xZUtmLW9qN0tiYWxBbm1qc0UyVnhwU0F6ODJXWmo2TndBYjBqUHRWeDNNc1RzQ01Xc1Vkc3FQUkFsaFNTQ2lxanRpY3VNY3RzWUhuNExuZGZKa25WZDhGdHhyM0NUWEtJRURGYmNaN3pTNFBn?oc=5
-- JPMorgan Chase (JPM) Misses Third Quarter Earnings, Is The Upside Already Priced In? (Yahoo Finance) https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmlIcDVKa3A1VDcxcDNBWnJ3M21ycllLdEJySExSSmJvTF9wV2xyand4QndXVVdub0o5b2lOTGF3cGJNM01HMU1hRzVxcUlheTc0WFNuMldneUx1bHU5eklHV0l2eUE5QlZBN2hEZER3eVlPQ3R1NUNMM1FtdnpDV1F0RkoxYndZYzFiR0NiX1NXWU9jcnVhOXlhb2c?oc=5
-- Core Scientific, Inc. Schedules Third Quarter Fiscal Year 2026 Earnings Release, Conference Call and Webcast (Core Scientific) https://news.google.com/rss/articles/CBMijAJBVV95cUxQSVhaek51MmdERHFORXpESUNGSko2TGJNZm5MMk9kb2FnR0RyVFVDMVpfd2hFUC1tbjV6LVNvTWl0bWRta00tdmhrcjZiZGcwdG83UHk0TW4td292TXZEcnJtd3h2dWlxNDZkNWNIR2RfNXd3eEthbHZDUWRHUU50MmxIMnBlTFlfTmlrcDFjaFMtMGxsR1h5TGxSX0pGdy1zUWU2M25KWEhpaEtmd2s4VG5nUk1PMlowQi1WbDM4Vk43MWpNdF9YSlRZMlVVMnBhaGg3NDNTc2JldGlIVno0Z3hiOVZEZ0o2bHNMOTVvVXFTclM2UTFSbnBZclZnSTVvdnoyNEM5UGFBRWs1?oc=5
-- KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades (CNBC Business) https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html
-- Diodes Incorporated to Announce Third Quarter 2026 Financial Results on November 5, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkhrOVBQTmtlaE5nSTVwVTVXcHpCNlJIWFNJSEtlSm5rT203TE42Q2F6bVpuTE5kcF9ud1NDdUhubVNlSW85b19KUm1rcVl5b0NtU3pKV20wYm1TWWlPUmdMR2JyVTAwOWNaZkJVZ0hGQnR5MkxDQmk2MGtRRnZiMXVMaF8wTWgzS1h5Yk5qTXdxcHhtdHBZeWZGV3JRY0dUQ1VHOUI0THlZbWs?oc=5
-- DFIN to Announce Third-Quarter Results and Host Investor Conference Call on October 29, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2lBdGJiZjFwck41eHJoWGt1X1M3SWZQVGpyM0xWb2RlZ0dvaTRCS1gzY2NJeEZRX2hwVk5kZmZsMV9la3UxTEFsMENzdEh3dUNETzVtdTJQMzY4cVZTdFhRNTRsMXh0R3VkOW5qVWd3VjV6WDVzdkhaNmFKd0Z2dTlUU1c0SzdNRjV2NnZFc0x1WXVvX1VzelZnWERVeEZCaXc?oc=5
-- Porsche reveals Mission S concept car that previews new design identity (CNBC Business) https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html
-- Hope Bancorp to Report Financial Results for the Third Quarter and Nine Months Ended September 30, 2026, on Wednesday, October 28, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUhqcEM5MGxSS3JUUmcxbTN1bG8zZWo3NjRqaExkZU1RbXNPSG5ROGNhSENuZnUwRWxfdFFtdkNlcFlBTFRVcEhkb21iME11d1F4NDgxWFBMTXpNaThFMG9ORmhQTE9CQy0xSXRJVjQxSUJTSWNjMmRDYnJqZi00UjVFXy13eTVKa3JmOHAzWmJRX3JOeXR0SXVYbkZONTZHVFJDMw?oc=5
-- Vistance Networks to Release Third Quarter 2026 Financial Results on November 5 (Yahoo Finance) https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3Y1cVhNSktCUk1GWlR6T29QQjRNaHA5VUZFejFMaTJxa0w5aXdlR3pkNFhTQjR5TlJYUzkzVXNCOWdvRkN5N1NjOG94YlI1dFgyZ2hiQjBjNWJXQ3R1N3BIdEp6ZmtQcHJGTEROUUgxUjdqbkhWUFJDVFJ5TGNTbklodlE2b29VRFBIeUZfX3g2aTFiVllJU2pkRkJIODh0amJJT3ZkQQ?oc=5
-- Power Integrations to Announce Third-Quarter Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWpvQ2xXQlVjUmhBWlc4VUQ1d3Vxemc3SWoxQzhuZWNKajJ5M29Tbzl0blBZSEprMlphbl9MQXVnSTJuMnNrbEtIelNqS1VuNFVNR2RpdVFCaWRIdGpycm9MVzBsY1E1OGltMTZBZnlqSFBodUFoakcwRHI2eDg4c2xlZFp5eUxqUHg0TjRCeF9VTlQ4RDhmRG1kMl9xR05SelZpdlFDcXUtQQ?oc=5
+- MasTec Schedules Third Quarter 2026 Earnings Conference Call (Business Wire) https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFdvWEJsXzhhY21KX0pySWhCV0phV0NCZm56OGlCY3F2V2lKMHNFcUM3UDdveXBDXzBaQ2ZPQkhhaW5xdFVvMTB6dmxkb0dzQ2dpZ25TRmtYZ1hvLWRDTkcyZ3IyaG15ZUZ1X2hzNklSMGxQUHZ3WVRUbGhOX1gyNjQ2dEhRZmJQdXo4Vl8tNUZFZWVJeng4czF3N184NlJnbktsdUJzOERFaEFqLU5oOWdMSFM5b2c3?oc=5
+- Jefferies Highlights Top Mid-Cap Biotech Stocks Ahead of Earnings (Yahoo Finance Singapore) https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjhJN3djcVRnWVFjdTFJNjcyUkhETUlPMUl5Zl9RNDk3NGw2YTNnNzJsQksxOUU4U0tmMG5IWGFrb2xyMnJ2Zlo3YjJfWTl1RlVPR2hJNThLNDNaX2RGQW5wRTZ0cE1YZGlTelQzYUFRWjVrQzMtd3EyRkNvZ09HRzV1WkR0N2FD?oc=5
+- CrossAmerica Partners LP to Announce Third Quarter 2026 Earnings Results on November 4 (Quiver Quantitative) https://news.google.com/rss/articles/CBMiuwFBVV95cUxNclFISk5TV3FqMGt0RTg4cVVRMnpmS1pma1ZPZ0JJSHN6SXlnMlJSYVJhcjhNaWxIMHJjaG1pcnZiM0RXQUFlQ000VFJKS3hOSmQzakpNVHVoT0RCSlo1bl9KMWlMNkVkSlhkODhXaVdlbFRlRlFldDBLdDhPOUZrdk5uaFRHdWxYVVFPSF9qa3ZmWkVlTllCOVR1Wm9pdjFGRHN4TmN0VjFLdUxqbnhsSFFwS3ZMb1BkM0J3?oc=5
+- Strawberry Fields REIT Announces Third Quarter 2026 Earnings Release and Conference Call Schedule (Quiver Quantitative) https://news.google.com/rss/articles/CBMiygFBVV95cUxNUDdfRHZIb19DaU9sVTZudmo0LWxaSXZtTkx0MEVOaHBuUlhTaWV2Z2xSeUxtdVdTdTZiRXBZeTBKY0FrczE0NWx1R3VhQVhpTklSZDdMelNQV3lkMjdGdkpEOWozS0IzLXdtSUliT09pOWxiSV9YS2kwLVpQUzR5dld1OGxsalFLZ2dDVlVsamxoRUw2Z0pWRDRzY2FoRFdiY0ladkJ6elo2VnYtbzlxZmJYRms2bUhGd2NwV0pvTjNUdWJVSzRtUE13?oc=5
+- Truist reports third quarter 2026 results (PR Newswire) https://news.google.com/rss/articles/CBMingFBVV95cUxQTVllY083dlVnTWZMNl94RVA5Xy14RFNGWHRXN1lFTTdFOEYweFVlSDI5NnhidDhSTW9weTJIU3dlblVEUzZxZGJTdnVCRGpCU0pjdkpMeUxrSG5hWmpsREVtNlEzSTNDNXcxSEYtQ01CN2k3emp3NXhHLTJZVDQtTy1hNWtXVEFEbFpRblozVVQ5VGF0dDkzMGN0cGJSUQ?oc=5
+- The Goldman Sachs Group, Inc. Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next (Simply Wall Street) https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRlhLaVRMWlFZeHNMZTkwWDZVYUlSWnFpU1JranJuTlFQSUlpbHBpN3pqTVRUVElqanZuSDZ3aFVIdHBsS1M1YTJPdm5oaFRBWXM2cDhocTN4WkpWdVVjdUIwazN3amFOd2Z0OGZMaE1CU3Y3bE0wYkFEbHplMC1IQ2cyUDFZY3RVb1VXbU1WVGdmcTY0ZjFFYUJOclEydm0xZFYxSWRZVGxseTBXdGlMSEtTd3FaWkZOQnVyTmJ6aEpXd3pzbVp6YWtzVVBITTJsLXd1OHFBRkVkcGtWcXBCZ0h4QdIB6AFBVV95cUxPSFpucFRnSkdqMkUtd3hwX3dvT1NGaWJnWWpzMGgyTGp0S05RWk9VUm9YRldRbTJYTVdqdmd4NndxbHFIZjdpdGJmSFRfWkx6ZGhZLVhDOEhLNUZzbjNxZkg5bi1pZnZJeHFIRGQxZ081elRhZ2RiSnAzNWhQNmpCOGJDRkhEWWc5cGhYVWdaVlhKWkVPSDh0OTc0bkdKT1c5d1Njc3lGcVIyNVVZVGZfT1FOdl9aQkQ4VnhGMTJhMC1lNjA1TGpVa2NJMVNnM0pRYWtpNVljbzJscmdHRThMX0NubFVWbTdL?oc=5
+- ZTO Express (ZTO) sets its Q3 earnings call for 7:30 p.m. U.S. Eastern on November 17. (Stock Titan) https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnVaZnNfSUEtcHpldUE5emI2R1E3c3lyZDFab2I5VWQtTVo2Y2RxcmFTU0p4bTZlaXBMMUN6cXJMM3I3bk1nTzNnSHY5bTlIWlJ1djd3bi1DVUpXZjlZQ3hkOHNCOF84SmtzZnFDYWZyclVaZV9wYnFQemJXYU0yRlQ5elZsVmRZSmVzaTRfdzVZSUhGcnJDM2w1NnVxUG1iMzdPZUJvLXNNLVlQZlVZWXh2Q09mb1lr?oc=5
+- Nestle upgraded at JPMorgan as FY27 is shaping up as a ’vintage year’ (Investing.com) https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkNCcEFaYTUwTW10LW5PYjllV2N6WU10Q2N0TU9NQmRQTmpqZlBSOEtGVmMzSDJ0YWhOZDlWbGdpYkFvU0ZjeHlJQms5UGluY201TmE2UHRVRklic2thRWcwTkRFWGdkR0ZEMjhmVUxNakkzcnRnT2F2MnBiN0hLdHVUOFFZcUwzLXQ0bEJ0S3pndV9jMVVVc3NDZXdTa3ZvVnpFYVJieVhXMUtvUGhCVndSYU1VQU81MnVRVnNXQUhrQQ?oc=5
+- Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings (Reuters) https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5
+- WisdomTree Schedules Earnings Conference Call for Q3 on October 30, 2026 at 11:00 a.m. ET (Business Wire) https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaktMVHZGVnVBYS0tTjd6dmNVUlpGVHpjMEFFQzNFSEVIVXpVYWFzTjlkZ1F0U1lSQ2lySU16OTJSR09BOFNqVU1EZ1Z3SldTYjEyVFdSNE0zckt1Z2VBZ1c2dDNpZVVreVpBVmNzUFhlOFFSeHpWY1JqNzhyX2R5MnhRRGlKc0h5TzdBREFLQkwwTkJqb2ZhaWhHcTFWeXpRNFdlOFhvQmtSWmc3RklFRy1BN0hJNFNFLWhucm5wLWR5ZDdZdG5pVUJvRDZWRlZldzUxeDRrc1hoRGE1?oc=5
+- MakeMyTrip Limited to report Fiscal 2027 Second Quarter Financial & Operating Results on October 26, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2xINnRtVGJ0VWRmcDk1UDJuWkhtSTFrNHBCSFlfTzR1QzFWam5ibmtoaFFSSTVWNjljVUtsMEZHb3NiR19fdmQyZmZfelJFNzlIaVFpRHpZRWJhRktKZm9OUTRvbUk3cE1LUEtyR2FzVmw4VWcwVXBVaXpoZFpjbnJtX1lraEJEZzRIcGg3elZiMlYzRHYwUEFTSXkyekhYS3UzUg?oc=5
+- Bank of America appoints president of Sarasota/Manatee, Florida (ATM Marketplace) https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXRFRVZRb3d6a3Z5WnpQNkE1Z3Z5M0w0RjEyMWZ1ZmY1WllraTdaSHRqem5BTHZBeUhWN3ZRSTY5TkJfNjR1MkJDQm9ldU9QRnFLZF9IcHR3bGdIRnFSTWE3bGVPWTlWeV9DWFFLS2dIODdvU0JLTXo3b3B1WTdmR21TbXpFcHBQZmt3TnFQY1lWUk5fU2o3MXo1Q29JWTQ?oc=5
 
 ## Headlines: Research
 - Revenue per Worker Is Up. Are Firms Getting a Larger Share? (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/10/revenue-per-worker-is-up-are-firms-getting-a-larger-share/
 - FEDS Note: The Rise of Semiliquid Funds for Retail Investors (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/the-rise-of-semiliquid-funds-for-retail-investors-20261014.html
 - Has the AI Boom Impacted the U.S. Current Account? (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/
 - Closing remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program (BIS central banker speeches) https://www.bis.org/speeches/20261014-closing-remarks-conference-main-findings-portugals-financial-sector-assessment-program
+- Investing through uncertainty - financing Europe's future (BIS central banker speeches) https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future
+- Money in the digital age - digital euro, tokenisation and the role of central banks (BIS central banker speeches) https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks
+- Cross-border payments as a necessity for Africa's resilience and economic transformation (BIS central banker speeches) https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation
+- Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program (BIS central banker speeches) https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program
+- Leveraging the Mauritius IFC as a payment system hub (BIS central banker speeches) https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub
 - The signaling value of the summary of economic projections (BIS central banker speeches) https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections
 - Intelligence-led financial crime prevention: the power of data, insights and collaboration (BIS central banker speeches) https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration
 - Introduction to the panel “Financial risks and macroprudential policy” (BIS central banker speeches) https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy
-- Opening remarks - Cargox Solution Day (BIS central banker speeches) https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day
-- Why is the last mile of disinflation taking so long? (BIS central banker speeches) https://www.bis.org/speeches/20261013-why-last-mile-disinflation-taking-so-long
-- Modernizing the regulatory and supervisory landscape (BIS central banker speeches) https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape
-- Investing through uncertainty - financing Europe's future (BIS central banker speeches) https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future
-- Money in the digital age - digital euro, tokenisation and the role of central banks (BIS central banker speeches) https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks
 
 ## Headlines: Opinion
+- From AI Boom to Economic Bust (Project Syndicate) https://www.project-syndicate.org/onpoint/ai-revolution-could-leave-everyone-worse-off-by-ian-goldin-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- FTAV’s further reading (FT Alphaville) https://www.ft.com/content/fca7f5ff-94c8-4c78-90cb-d458fd27724a
+- So. About next year’s earnings . . . (FT Alphaville) https://www.ft.com/content/d36787c1-f0b0-4445-8237-90eb4d521081
+- Fed's Warsh sees US economic tailwinds, mum on rate-path view (Centre Daily Times) https://news.google.com/rss/articles/CBMicEFVX3lxTE5WQXlrdWEwRGYzR0VCVFlRaWRTaFJqTEQ0clpWUTljcUU3VHBEVjRsWlVKNU9KZ01sYjNrZ3ZRWms3dkx2R2habmVVd1RBUVhKeDlFMmd3UFNPWi1JbzdqdXN6OHBoWVpKUEphaGV4Nzg?oc=5
 - Opinion | Recycling Strengthens the American Economy (WSJ) https://news.google.com/rss/articles/CBMihgFBVV95cUxNOExtYm1lR2lDZ2M0WXZUa2N5M3dST3dPalg4LWVGTnRmQXlPLUJiMTBvYjRBZ0NHMjVoUF9ON3MxcXEzRXBXQ3RrOGl5Tlg4WlQyZjdadnRDRkFlcTlUUU5vZUw5aDREam1ySEh1cTZBSXNTeno2NjNlRVRqeExwaUlUc2hoZw?oc=5
 - The Institutional Roots of Policy Nonsense (Project Syndicate) https://www.project-syndicate.org/commentary/antimicrobial-resistance-market-and-policy-failure-by-jim-o-neill-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - The global economy is muddling through against the odds. But a storm is coming | Larry Elliott (The Guardian) https://news.google.com/rss/articles/CBMipwFBVV95cUxOb280cktQVXBMYmdQaE9IRFhiOVltMEdtaEJXUHJuaDkxU2ZOSEFQYTR5Z2lJaFU2VEhBMURqNkV1OUc2akFMRk5ET2dKY3Vub1VWcGZCejdnemdFZGVmbnp3MkFmYkhNdEZseGs5V21XbUhTRVppYkNQSXRVaW9DQnc4bnlWRWRGVXR0QkNoOGJSWWJfQ3VPMkw1eWNURlhfLU1rY1BuVQ?oc=5
 - Is Christian Democracy Finished? (Project Syndicate) https://www.project-syndicate.org/commentary/german-christian-democracy-how-to-avert-collapse-by-jan-werner-mueller-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - Independent AI Auditing Now (Project Syndicate) https://www.project-syndicate.org/commentary/independent-ai-auditing-possible-and-necessary-by-angela-huyue-zhang-and-yue-zhao-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Yes, California, you’re the world’s fourth-largest economy (Orange County Register) https://news.google.com/rss/articles/CBMimAFBVV95cUxQcjNneU9YTEx3ck5INWlET1dIeFZkYjdkOU5tQW01MjdQUFlhbS1nYzM3UkVzWUJnZ0RPRDF0LUM1SGMtcWxSeWtjc3lsd1FaSGFjV053bUV4SXhvX0kyV2YxRWNZcjVBT1hJYldSNGdFaWQzXzh4YmdIOUJTRXJVRlEyQ2ZlY3d5Yld5Nlk3eEJDUFNpWlJzMA?oc=5
 - Strict Liability for AI Executives (Project Syndicate) https://www.project-syndicate.org/commentary/ai-firms-and-executives-must-be-held-liable-for-all-harms-caused-by-their-products-by-danielle-keats-citron-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - Brian Fabes: Is the economy good for Chicagoans? It depends on your salary. (Chicago Tribune) https://news.google.com/rss/articles/CBMijAFBVV95cUxOcExwTFU5elEzbERuZ0hHejI3S1VwYi0tbHl4SXdva29FTEJJbkpCeDlpdmNYdnNsV3JoVmxLejAyUWhZa3VEVUw1dHpzQ0ZCYTl6dTU0aE00ZFZZRUM0a1RueWFNOUlDSXJPS29ydnQwR1dPQkFGZ1hrcURmelpWTFZid3dOTWVCTEN6Mg?oc=5
 - GUEST OPINION: Pikes Peak arts drive the economy and benefit all (Colorado Springs Gazette) https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWZ6Y2lqMkxKMmxXNFdsUnFzNW9yOThYMW1nOXg1Z3hmLUhSMTVrdVBQckQ0TEhNdnE2RzB2aGw1YjRFbHhINFBuMHNGYVYzX0ZXTDMtRmY3cmpkSUZWWnZrV1dVU2MxOVZjTHFmNGlyVEQ0eDRJdDhFT3pLWVlMZEtfLU1FQ0tfb1FRZFJMZGwxcDAtWHZ5MHpCVQ?oc=5
-- Who Will Pay to Preserve Tropical Forests? (Project Syndicate) https://www.project-syndicate.org/commentary/tropical-forest-forever-facility-change-economic-incentives-nature-preservation-by-carlos-nobre-and-lee-white-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- CoreWeave’s bonds scream financial distress (FT Alphaville) https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b
-- Trump Has Brought Inflation Back to the Heartland (Bloomberg.com) https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazFyWlN6RG1wX2NLa1FuVW5WREw1SW91Z1BPNHpycDNFVFlUZGRUNXhZV0VSNFFOVGRiT0tEN0Y2djlwUnR3RzlmV0xIVDRjYUp3WDZUdDJDbFRta084QVdpbk9YQzJzLVBORTAyUHZrcVkwcEZETzZNR2V4dzROa2lGdWk0RFlYZm1tMzhhSUE4QXZnWE1xYXdNQkl5Tm5mcngxREM3UHVjMjhaVmstVkRzZTdxRm9iRGdkUnpmVVU?oc=5
