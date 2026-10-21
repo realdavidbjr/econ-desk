@@ -1,20 +1,20 @@
 # Econ Desk snapshot
-Generated 2026-10-21 10:57 (UTC). Source: FRED unless noted.
+Generated 2026-10-21 14:15 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
 - Effective fed funds: 3.88%
-- SOFR: 3.87%
+- SOFR: 3.88%
 - Reverse repo rate: 3.75%
 Next FOMC decision: 2026-10-28 (7 days away).
 
 ## Policy and money market rates
-- Fed funds target, upper bound: 4.00%; change unch.; as of Oct 20, 2026
-- Fed funds target, lower bound: 3.75%; change unch.; as of Oct 20, 2026
-- Effective fed funds rate: 3.88%; change unch.; as of Oct 19, 2026
+- Fed funds target, upper bound: 4.00%; change unch.; as of Oct 21, 2026
+- Fed funds target, lower bound: 3.75%; change unch.; as of Oct 21, 2026
+- Effective fed funds rate: 3.88%; change unch.; as of Oct 20, 2026
 - Interest on reserve balances: 3.90%; change unch.; as of Oct 21, 2026
 - Overnight reverse repo rate: 3.75%; change unch.; as of Oct 20, 2026
-- SOFR: 3.87%; change -1 bp; as of Oct 19, 2026
+- SOFR: 3.88%; change +1 bp; as of Oct 20, 2026
 - Discount rate (primary credit): 4.00%; change unch.; as of Oct 19, 2026
 - Bank prime loan rate: 7.00%; change unch.; as of Oct 13, 2026
 
@@ -67,7 +67,7 @@ Next FOMC decision: 2026-10-28 (7 days away).
 - S&P 500: 7,713; change +22; 1M +0.8%; YoY +14.5%; as of Oct 20, 2026
 - Dow Jones Industrial Average: 52,496; change +530; 1M +1.6%; YoY +12.4%; as of Oct 20, 2026; Highest since Sep 2026
 - Nasdaq Composite: 26,425; change -6; 1M -0.4%; YoY +14.9%; as of Oct 20, 2026
-- VIX volatility index: 18.44; change -1.55; as of Oct 19, 2026
+- VIX volatility index: 17.31; change -1.13; as of Oct 20, 2026
 
 ## Treasury yields
 - 3-month Treasury: 4.27%; change +1 bp; as of Oct 19, 2026
@@ -80,8 +80,8 @@ Next FOMC decision: 2026-10-28 (7 days away).
 - 10-year breakeven inflation: 2.35%; change unch.; as of Oct 20, 2026
 
 ## Credit spreads
-- High-yield bond spread: 3.29%; change -2 bp; as of Oct 19, 2026
-- Investment-grade bond spread: 0.87%; change +2 bp; as of Oct 19, 2026; Highest since Apr 2026
+- High-yield bond spread: 3.33%; change +4 bp; as of Oct 20, 2026; Highest since Mar 2026
+- Investment-grade bond spread: 0.87%; change unch.; as of Oct 20, 2026
 
 ## Energy and the dollar
 - WTI crude oil, $/barrel: $101.91; change +$1.05; YoY +71.2%; as of Oct 14, 2026; Highest since Sep 2026
@@ -147,57 +147,57 @@ Next FOMC decision: 2026-10-28 (7 days away).
 - Philip R. Lane: The AI opportunity for Europe (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html
 
 ## Headlines: News
-- UK's FTSE 100 pauses as hot inflation report outweighs energy boost (Reuters) https://news.google.com/rss/articles/CBMirAFBVV95cUxOMG9KdWFSdV90N2s0bHM3d0xsTVlOMGduRE1RZ1FvSi1SbnU4MFlRQUIteDlZTC03TmNHVFl3Z2lhV2FrN1NwQjV5Wk1rU096X1pUNXB4M2c2bS1MdXlSeEZHaTJobmFsQzlvYTN6WHpyd2FkRzFqOFdkbzZUdjZoNzJCa1B6c2RxMzBmemg3RnBWdldpM0x0VEtCR0F0YXE3N3V2YXppNnN6ejBs?oc=5
-- The Treasury Market’s New Power Brokers Are Pickier Than Ever (Bloomberg.com) https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2JFVWRUN1NCRmxtalJTV0h6SG1oZlYwd3JWVEZGdWIzQjRUMlQ3aU1sMjJtWm5lYWhFM0I5ZmZTWEQ5TVVSZnM4T2k4bzJBZThRY3djamNEX2FSRW03VGttVFJMQi0xaWpNNDdxUV9TN2x2dExMYkwxRzJHRjBpVXdidEFVelpqUUI3NVdJMk1SbG1FWGtIM3NKS2w1VkVyTnNVMU4wUHpWYVRfTWNzN1RB?oc=5
-- My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance? (MarketWatch) https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories
-- In the battle for AI supremacy, China is only six months behind the U.S — but that means it’s winning, says former Google CEO (MarketWatch) https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories
-- ECB’s Kazaks Says More Tightening May Be Needed: Econostream (Bloomberg.com) https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFlTazNROVoxcFQ3RDRiWmxUSVU5WWF4MlU0cDR1MlR5bmZVUmlzdmtnTFhhQ0kyZUNkU05LT2hHNVlTTmc5QlV4WFhYV0RzRm9vWUlzMVk2VmVxdHhYdjFEVmM4T3o1VnRGNVhVZ2tvVjlfdDRqS0NQWjZsRkVoN1NSUTdpaHJJYXVyS1JESm0zdjJza3l3cVdEMzl6OUFfRWtyc2p2SXhvQmpwNEJv?oc=5
-- Market Minute: The American term premium in three easy pieces (The Real Economy Blog) https://news.google.com/rss/articles/CBMilgFBVV95cUxNS25US29IWG9BVUY1eF9jQXN5RVFPajNVcXpUVmNmVlZiTWJROWhmQXlFVm5RdkZMTW9rMGRtcmRzRXg5Y3NKemc5VFI2NDJiRkd3cVE5eXQzZmtJN25qNVRvenE1bkJLNzZxZ2FJc3dUbVQyczFCOUpZMkhKdWdhQjZMWHg2aldwWUlySThvelVOWDVTVmc?oc=5
-- ECB's Kazaks says that some more policy tightening might be necessary if inflation continues to reside above target; recent rise in yields has already tightened financing conditions, Econostream reports (Newsquawk) https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOE5VNnRuWnEwRHNoeF9SeWE3TXppaGtWLURxd0ItdWNoTi1wMnB3ekxSNjByVERVd3Z6S0F1TFFycXFOQW1aX2lyZDFfaTd6VlJkVGluOEtlTkpwNlY1TnV5MXEyY1dteFdzblRFZG5KcHVGWm9YamF3cE1SU2YzS1hTdnMwRnRVZ2VDSUdKQkZKMGpyQVh2NGdoMnFyNG5zRXFsN210Zjd6ZHJiMHFBeXVPM0hVN1dTNVFHeld2RjZHV1h1dXNtaXlreGQ0M0hOQllOMklnd1Y0OUVxZWRaLVBoSnQ?oc=5
-- Sticky Inflation Is Testing the Fed’s Resolve (Bloomberg.com) https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkUxWWNmVENYWHNyd3ZtSlV1SGVPSGpFdXl0dm5GWHpVVktsMi1wZ3RmdG4xdkV4SUpmaVMxLTFhQkpDLUs0VDdWOXZnVGZidXVZRGdkOUFNS0E4Tmd2Z3VLZ0wyUjY3SGptbjZnLWp5TUVJekdodHdId0trTWFWUTZQT09YVWluWkdCNFBIaFhfYjZRQkRfNEVRS21PV181TlQyaklJNVM1Qm8?oc=5
-- Euro: France risks and ECB expectations keep EUR/USD steady – Commerzbank (FXStreet) https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1pSOGlkN1lFNVZjU0ZIZHkxT0VTanlOcHNGZUxQcGJWV3ROUkc2cUotZVNLc25HT1JIRDM3ak1qa1AzTVotcUJtOVFVOEtjMlRaUnFDeHIyY3ZIcmQteTZieFkxNlZIRVZoeVV3TjF3VE1YSDFqSU1vd1NDQVZGNFVmYjJwUWExU1lYVFRNdjJGOVk2R2p0UlhvemhsTFNCLVBGWVN4LUJCSzgxMy1mMFBYUQ?oc=5
-- Gold Declines Towards $4,120 as Iran Conflict and Federal Reserve Outlook Remain in Focus (Yahoo Finance) https://news.google.com/rss/articles/CBMingFBVV95cUxQMWppdy12Wl9VdHZZb05uRHdaeDh5ajJjZ0FRdF9iN0FqRzZHei16UWRWRXlwU1JRcklZRVZpWnc2SmlUcV9mc1dpVjlUdkZDeHZnYVozYzNrZld5aXNDTUNJdkhKeXFDNTNHUy1WRk9MUE5EYTVneWMxTzM4VDNoM2M0cTY1Mmx5Yk9DM3YyNFE3Y2x1WFI1cm1EQ3ljUQ?oc=5
-- Connecting the dots: How rising government bond yields could hurt your retirement savings (investingLive) https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3dlLTV2OHJreUthdVdaeTJ3dmJPOHNfbS11c19QdkxwWTJwTkxDWmZXRnozdFhPMklha0pKcmVQdkpqTFNZSGk2bFJ1Z3FMQUx5MW5xMVZqY05SaUlRdDBXRXdVVWNEeEg1VzhRN1F3eVowRTUxVG9adHBLUFhySFBpcDFwdXNmTkxienlhcXZRRHd1TFJ1UE94UzBUWFhVblppcHEyenREVTRuel8ydzBiVW5tVFd3Y2RycjJzbkEwLVE?oc=5
-- FirstFT: SpaceX and Tesla explore merger (FT Global Economy) https://www.ft.com/content/ae820b11-e085-44b4-a8ca-8e5fa2eeb571?syn-25a6b1a6=1
+- ‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad? (MarketWatch) https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories
+- Why SpaceX’s stock is surging — and lifting the broader AI universe along with it (MarketWatch) https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories
+- Meta’s AI spending spree has investors taking a page from the financial-crisis playbook (MarketWatch) https://www.marketwatch.com/story/metas-ai-spending-spree-has-investors-taking-a-page-from-the-financial-crisis-playbook-4ea05f5c?mod=mw_rss_topstories
+- ECB Finds Euro Zone Oil Dependence Halved as AI and Fiscal Spending Support Growth (ESG News) https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYV8zT2l5dGlsVmhVWktCZzVHTnI4bUp5MGF0RU9oNzVuOVlPYVRXdU9VZGxoWFpJWVVlelkzUzBqQ1pTeFR2WDRLMU5HN19sWHZKT0FFLWh3TU16OWZXQjZOV08zVVBkOEE?oc=5
+- We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right? (MarketWatch) https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories
+- It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections. (MarketWatch) https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories
+- FILE PHOTO: Federal Reserve Board building is seen in Washington (The Daily News | Texas' Oldest Newspaper) https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQm1xN3VkM1V5SklsUGl5TndIYnZkaVQ2WktMYVlyclBBSWg0U0taSHB5d052T2QtaGYyVXBiYmh6VXBVR0Zka2l2dXQ5ZVc5Vk1WQmxQcU00R09lTFFnWkVOa1lYSUpNUGYzTjRLY1lyRUh6ZzhRWnJMVWVPdHFFRlJIZnQ2OUhqaUZodHBCalRxU0QtQmxmY0dDTE1uZ3J6OXNNNGw5MGM2c1ozLXptWWZpWUpQTGYyVEFUM2dFeFI2R29IOG9JX1ozMUc3el9hMlpyUkphWERHc1ZQTi1DWFFDQThQbWhRWFBTUnJPcw?oc=5
+- In the battle for AI supremacy, China is only six months behind the U.S. — which means it’s winning, says former Google CEO (MarketWatch) https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories
+- Pending home sales sink to 25-year low as buyers flee high mortgage rates (MarketWatch) https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories
+- UK inflation and borrowing top forecasts in blow to Healey (FT Global Economy) https://www.ft.com/content/443ce2f3-ba36-4dc7-aa0b-a2bc593fa563?syn-25a6b1a6=1
+- Bank of England: Rate path shaped by energy shock – ING (FXStreet) https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2xwYUc3MmNNdUpTYjFlMUZDZHFIb05JV0pMczc2WUlOMVRQYS1URXhHaDdfMVozemdmeFZEVEh1SDJsRkR6ZHpqN0k3a3BHVWVCS3NYbmNNVUYwaVoxNVRsRFBPRUFrbWFfTlVITmZobk9pWklKdllKdGtMXzlRNWpQYUxqdmZ0cTR6eENZY3VwZkk5RFJMUGdmdw?oc=5
+- Andy Burnham plans to cut standing charges from household gas bills (FT Global Economy) https://www.ft.com/content/8eda2888-0b63-43c9-80b9-b4b7557374ca?syn-25a6b1a6=1
 
 ## Headlines: Companies
-- JPMorgan Gets Closer to Clinching Nigerian Banking License (PYMNTS.com) https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1dDTmt0WW5YYWxnSS1sQV9aTEJxUmRiWW1aNEZmZ0JlMHVza2lHWkI1M0x0eTRoaEltRlQtY1Jqc05XXzFxZGNvZkV0ZmtmSnBNVzFIaEtxWXp2VkdRWjlPSVZIaGdLa3YxVXZxdXEwMzRRSURuUkZZVHphTnNnTjRnS3BYLU1sLUUzNGs3LWFYYmxnNjNkb2tNajBadzB5?oc=5
-- AT&T Delivers Strong Third-Quarter 2026 Results (AT&T Newsroom) https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RdEFHUGh0TG1FUnc0TUZzNVlpczRJT0V4OU16T09aeUF4RVNfdnI4VlhZVHhvUWZ0V09wc1p1d2xfYVB0ejRKd3h5Q09DM1VHQlBQdjJRNDJBMnVKWEE?oc=5
-- Wabtec Reports Strong Third Quarter 2026 Results, Raised and Tightened Adjusted EPS Guidance (Business Wire) https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN0ZxQzJRS3dEMHBzZ3Z5eG0yMzJsalF0NWhxN2Y0d0N5WjFYbnhnSDhHUHpfTG45VnVxV3JtcmhfWndKQkNOZkJoR0s2ZGZwOFQyWEpCMGNWVVAtdVlLZUdFZ3c3RS1LN29FWHVhQ25hODhaQjJWdWNrUXprcHkwaGw3bjRRU0xHTnpjSVk4ZVB0MDhDT0oybWZDYTNTWkFtcjRtN3hwWk5qNFpWdWVtMHYtYzR2S2pVVWNIaEl4dDR1bFNDbGpIUTlHcTRxN09lS0ZKY25LMnRrMWI3VmZmNFNR?oc=5
-- BOE Plans AI Stress Test for Banks Amid Real-World Hacks (Bloomberg.com) https://news.google.com/rss/articles/CBMivAFBVV95cUxPemVoZXR2TFd1V1dmXzZfU1pERFBuR0dHNVBNdEtyd0tMSGpaOVBsdElEa3EwZ1I5TndJcXlqalUxWTRCV0ozVlA5dWdJaGJ3RHNnM3c0clJfOGl2ZFhLZHFQS2hjMUhpNFhmVWY5LU1TWkZCUnpIZ3UyNjFLOUQteWx3V2FUMkdiV21tSFZHVVNLMmQ4Mnk0STRVTFpvSmZzOVI1cmE1YkRjM0JKNDktcGExRmViSy05Z1N5Wg?oc=5
-- JPMorgan Chase & Co's Long Position In H-Shares Of Huatai Securities Increases To 8.22% On Oct 15, HKEX Says (TradingView) https://news.google.com/rss/articles/CBMihAJBVV95cUxQMnJTZi1kN1ZBb1BQd09lS3UxMHFuZ3lyZUZaZ3oxbFNxOGpFemtCRzJJSVVnLWtRLXFtRkhuWXpScDdjTE95aVdobEloREVwRjlIVGRSbk1ZYnhRalBsVDZyWXNva203RklHVmYtQl9qRE9LbUxZR21DaXNrajBpTUJxR1M0bGlzVUxRSEdhQTl1MC1RMmJfVEFObjlkVGZhZ2w0ZW1JQ2VSWXloR0ItZU94dnlVUzFWUFNWcG9UZkdSU0taazVQd051bDZpMWhwbXN3Wk13Ni0zNzRMcF9uRUd3UTVqZlN3Y0VRRjhPdXFzTXE3NTBMYUZwRExlZ0ZkRTd5VA?oc=5
-- Goldman Sachs Names UPSIDE Foods CEO Uma Valeti an Exceptional Entrepreneur of 2026 (vegconomist.com) https://news.google.com/rss/articles/CBMivgFBVV95cUxNanBOTVZNLVdIODdGWkI0SG0xdXhTSVdWM0NZQXRKeEdSWXpLUzJtS0JJMF93SF9sV3I0UmY2bjJvdEtrREpRYWlIN3Y5Wmh2VTZkU3p6SXpOWW1YM2tDcGxNU3B4TlMwVVJ0cUZ0UU1XYThSUXMyRWdhV0N4QmVuemU5V0VNT01KY2hqbm9OWWVXZGtmc3A1T0tpUmpzQmZrWndIUUNlY083Vi0yaVpZX215YVhFM19SeWVfYjR3?oc=5
-- Elevance Tops Earnings Expectations and Lifts Guidance (Barron's) https://news.google.com/rss/articles/CBMie0FVX3lxTE5VWjRQb1JRb2J0bVhVTV8wa2RuZEw3eHJRalE5OUdIUEhneEhDSHJodUc2Qm5uMVRTenJRcG1WckpkLVJMbzRVa0djbXUwaEJBSXk2VTZMdVNST3NaZ21vUzJxSzZrZ19jcWZVTG1zUGlnZDFqSU9WQm5WVQ?oc=5
-- Integra LifeSciences Reports Third Quarter 2026 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHF2T2wtdlc2Rmd1SENkN05YaDA3LVJqTXA3WkgtNE5nNzh2VU1OanNEaXhZSUFzR0ptMDJzTV9iRnRSbHJJUF9BMjlJOUl1b3pfT3hEYmQ1dDZkbVZUTUdRdy1abzBfYWVKMHE0SURIWl9BNjdPSWZKY2M1M2dISUd1UTNyX0Z3MzRyaEp4b3RLTVlNUXV0WVZxaXV6NXBiVnhiRkVR?oc=5
-- Thermo Fisher Scientific Reports Third Quarter 2026 Results (Business Wire) https://news.google.com/rss/articles/CBMitwFBVV95cUxPREpDWXQyNnZEUUZZcVBHdVhmZWFibThjY01idDlXb09GQjhPXzRVeXZGOTRWNy0wbFM3SUxlbkpIaHhqNnFucGl1c0c0U2FWRms2QXlLYlI5b08ydVp6Q3F0N2ExZXlfZE9SdTl6YXkyekFuVXVpQUdRZlBCdHY0WWN2enpyRUJCRzBKbTVzN1QtUDRpUFpzZlQ1Tk9GS2REc2RXQUF2R0o4OEh2bTZUdTVMV2ctNDA?oc=5
-- Goldman Sachs bets on these 8 Japanese chip stocks as earnings upgrades loom (Yahoo Finance) https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUlDeTdlYkNrQnVucHVQVFpnTmZaZGR3Wm5zeFlXbmgxRG8zSzVRN2RiRGtsLXZYQTBrUDduMUpkZHBGTDVaMlJISmpCYjZTWF9DSkFObENRUzZ0QkNBQzU3YVI2VWRodXdMVzFRWnpNWWd2QjdoVktxR3l5M0I5VlBTVFVJV2xxU0xfTkxGRVI5dGxpQmN4UFh3?oc=5
-- Intuitive Surgical Stock Slides Despite Earnings Beat as Company Discloses Settlement (Barron's) https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3RHTVVTcl9rNTlEb2t2R3Z0czF3YVJQdXZPYTZoSnFTUEszSzhXODFHQUV0bjN5LV9EbEpQSHlxZHJhTGhtOHYyTndsZkpLM1RvNWVTdXRTM25Gd1JOUXJvWFdrVzJaLUx5RXlDYzd1VkJDRjdYVjRsUVZ0ZXRueHFWUVJ2WnZL?oc=5
-- Lithia & Driveway (LAD) Reports Third Quarter Results, (GlobeNewswire) https://news.google.com/rss/articles/CBMi7AJBVV95cUxQbGt0bUtnbWtmVFJMX2ZfZXI3TnJiU2M3QmF0THQyOUt1SUZsZE9pVV9nRllnak1hWmpiTXJTZVUteUZjRkwxT2dKUHlvbTJxc1YySnNCQ0dkbGFCMV9oemhzZnJmLWZEUFFESjVDLXpnUU50eng3UUpvUFpqalRZNTFraUFabWJvTmEzdEV0cl9HS0wtRkJCanhBNmlZR29HbkE2MktIaFZUc0JFOHBPNFlRam1zbjZPMVN4N1Y5bUt4aEFZQWlVUjctaUc1dGMzMTN5a0ZNR0xrTlVvMkIwbUVjeXlPM1JVWHpWRWczTlozekdHQzhabjhWRUNCb3E1VnNLV3VaSloxNm5USkRqcmJIUXV5QjVIcDVQdkY1clJjck1EYmRZdWhrZWM1RWNjclZZbDRsZXZGS1lWcEI3Yi14eXRBNFJIVGllNDJuZGtxMlZ5UlNLRy1YRThLMUlULVRGVmU5eGJlZHQ0?oc=5
+- Abbott Laboratories’s (NYSE:ABT) Q3 2026 earnings results: revenue in line with expectations (StockStory) https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOW5PWE5TSVltYXllUFlhNlUyTlVFWVdTNzNsemM2ZW02MmtuLTZLM2V2WHh2RU1WN3RzSlpEcDNuRlJMb1J5NURHNE85QnNwOGpSM1UydWMycXRsRW41SE9PU1lLRW8yeklCWGRqQ1EwWGJObS16YjVsUXRIVUNtSWRRSVBxcjFkMmg1UGM4OEhfQnZJQnoxNjVCM2ZXSjZPX1pyaEVWYVNueTA2dVBJd1NhVm0zVmVsRndQWHFkaEg5T1FXTHVZWEhPNVVNS3hGZUtLQUloajZoZzA?oc=5
+- United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub (CNBC Business) https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html
+- SpaceX Bulls Rejoice: JPMorgan Sees 209% Upside (TIKR.com) https://news.google.com/rss/articles/CBMifEFVX3lxTE5pbkFmNVk2ZEk0X2o1d0RGRUhqdWZXNjNDWE5rUzNsY3djQWstOFU4c3dtaWIwMTRiYzk4bzBhSG1wczJJZnlWX3kwblNUN19Od0UyODZYTHNJTkRWaWdGV1F5d1ZPbW85Nmo0V1JvZ2tmeEN4UEtxWmVFX0c?oc=5
+- Wall St opens higher as SpaceX, Super Micro results lift AI stocks (Yahoo Finance) https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEc1MVFra0h4cFI4NGx1cEhLMWV3cHdoLU1nUldyQUowcll5dFVzc0tsUU1JUHV4TXcxYTE4ZTlXMV9ZSlpCRTFwY1l5dnlfUkprdy1JM3c1T0FMODhad2puNU80S1FLUUZFb0JYUzc3QjdqRmYzeEctWllHOURkNXZteC1Qdll3NGtqdHJNWnRiWlFUQlh3?oc=5
+- Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge (CNBC Business) https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html
+- Jamie Dimon warned about America’s reliance on China. JPMorgan has put $230 billion behind fixing it (Fortune) https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGZiODMzQ0ZIRTdnbzA4R0prTmhkbUxmcFZ0YVpuMlNrd1FHYlA4Tk9jQ21ZQnk4T1hjT0hiMjBlYWVzQ0VOS29xZ3BheDZILTlWMDhCWXJKeWxPUXprcWZ4cmg1MV83NS1xNl93VjZ3UjRCaVhUUExLUmhCbDJlZ3AwalN0Ui1PWk1FYQ?oc=5
+- US Stock Futures Point Higher as Investors Assess Earnings and Await Major Technology Results: Dow Jones, S&P, Nasdaq, Wall Street (Yahoo Finance UK) https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGJNV3dEbUNfdHVkX2NSUzduZlIwOEtaeGlKOWNxNFdpSzJZaVNsRmhBZllGbjhVSnV4dzl0TWdLSGVVd2I0c0lyMFRNVDY0YmNmaWtNRHJVWllzbkJRQWl4R0tLMmJSakJrQlUyTFFHVHhLbjRVY183eEdlRWdadEJTdVc?oc=5
+- Elevance raises full-year guidance on lower medical costs (Modern Healthcare) https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5ZdFFZVEdTU25OVTFXN3F0dFNtMmV5OXdBdjhIXy1vOFRzWWR0ckdwdmRVdkd2eHlSX0JxWUdRZ1Fwc3Q4LVdOUUZMaWdYVzlSUGV4dVFZc1JadzVpTFF1clFxdDlhVlpxdGJ1NmpNOVlTcm93Q3hBelpZRWM5V1hrYVNOM1lRWXY3ZUJKS2lUR0MycXc?oc=5
+- Danaher’s (NYSE:DHR) Q3 2026 Earnings Results: Revenue In Line With Expectations (StockStory) https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDVFQlROX0VIUTdUUWFkVFg1emJYVGUwR216UEVpMUdxZld3ZXZ1N2FKMWpUSV9hZkUwMGdZNUZRUkdkb2ZJNUFIVE40NnJVNFcwbzk0NlJKYnhNV21OQWhvQnZmSHlYWXo1YThocmw2LVZ1SXhEYVhuRk5HVUgyN29Uem9vMng4LWRpTmJMYlFRMDJabGF5MXNMUFdIdWNueGlYYWYxRjJicS1qR2dzN0RrYW9wZDV2aDA3QTZaSjlVSzU0RnJLdmZGVQ?oc=5
+- Corpay to Announce Third Quarter 2026 Results on November 4, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMioAFBVV95cUxQOUM1b000bkpEaVB0dDgwWHlwYlhETUhmQ1J3VjBtcjMzbFBNUmtrQVRqWU9aSUo2NVhpQmoxdTlBUktTd0xzeS16enlUbmN3TXctOWRGdkF3X3QwSDA5d1NJVm5WZ1hqTXd6b3BfQ1FCc0h4R1JKRmk0bEo1bDE4YV9kSU9jelpQb0tWWWtIb3EtcENFRk1IeTBUWmZaczM2?oc=5
+- LegalZoom to Announce Third Quarter 2026 Financial Results on Wednesday, November 4, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9seHhLaVA0Z1hfWVZRdE54UGRHVXY5NllQODU1ajUxMzl1MzZySk1rRnI5V2hyckRiTFdIaXJvdktsSTRsdnhkRzMwbkVmOXp4RFFNTW0wb0g1NzFybVo4VVJYTG1ERXNGbW9mS1VOR0tJX1JFQmN4LUpaeFZpUnpmdjM4V0FQcHE3REFtb291ckZ2WWRXQ05YS3Z5VmNoODJsdw?oc=5
+- JPMorgan closes in on Nigeria merchant banking license (Semafor) https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFpXSVdGc3l4cUprbmxIY2llS1o4VmFIVE15UkJ4QUtFM1ZBWFNRSzBxRkpCRUo0MURxY2pXdnNjcXR1UXNZclJVTHZQNGw5OTJTZ3BxRklISG1KZDJRVUxPZjg0VjVYZFdhejhCRlZQMXNSc29jc3Y4d1E0bnU0WC1odTAyTEE?oc=5
 
 ## Headlines: Research
+- The courage not to act - moving towards a demand-driven operational mode (BIS central banker speeches) https://www.bis.org/speeches/20261021-courage-not-act-moving-towards-demand-driven-operational-mode
 - Euro liquidity lines and the international monetary system (BIS central banker speeches) https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system
 - Thoughts on several issues of interest to the market (BIS central banker speeches) https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market
 - Islamic finance for impact - the next measure of success (BIS central banker speeches) https://www.bis.org/speeches/20261021-islamic-finance-impact-next-measure-success
-- The courage not to act - moving towards a demand-driven operational mode (BIS central banker speeches) https://www.bis.org/speeches/20261021-courage-not-act-moving-towards-demand-driven-operational-mode
-- The evolution of bank governance in the EU (BIS central banker speeches) https://www.bis.org/speeches/20261016-evolution-bank-governance-eu
-- Reimagining assurance - harnessing intelligence, resilience and integrity (BIS central banker speeches) https://www.bis.org/speeches/20261020-reimagining-assurance-harnessing-intelligence-resilience-and-integrity
-- Economic activity, prices, and monetary policy in Japan (BIS central banker speeches) https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan
-- Transitioning through trust - securing the future of payments (BIS central banker speeches) https://www.bis.org/speeches/20261020-transitioning-through-trust-securing-future-payments
 - From climate and nature risks to economic resilience and competitiveness (BIS central banker speeches) https://www.bis.org/speeches/20261020-climate-and-nature-risks-economic-resilience-and-competitiveness
 - IMFC Statement (BIS central banker speeches) https://www.bis.org/speeches/20261020-imfc-statement
 - Celebrating 30 years of capital markets development in Uganda (BIS central banker speeches) https://www.bis.org/speeches/20261020-celebrating-30-years-capital-markets-development-uganda
 - Statement - meeting of the Development Committee (BIS central banker speeches) https://www.bis.org/speeches/20261020-statement-meeting-development-committee
+- The Central Bank. Trust. Daft Punk. (BIS central banker speeches) https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk
+- Message for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference (BIS central banker speeches) https://www.bis.org/speeches/20261020-message-58th-annual-financial-executives-institute-philippines-finex-conference
+- The evolution of bank governance in the EU (BIS central banker speeches) https://www.bis.org/speeches/20261016-evolution-bank-governance-eu
+- Reimagining assurance - harnessing intelligence, resilience and integrity (BIS central banker speeches) https://www.bis.org/speeches/20261020-reimagining-assurance-harnessing-intelligence-resilience-and-integrity
 
 ## Headlines: Opinion
+- Which AI Myth Will We Embrace? (Project Syndicate) https://www.project-syndicate.org/commentary/ai-founding-myth-profit-or-social-cooperation-by-richard-k-sherwin-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- No More Superpowers (Project Syndicate) https://www.project-syndicate.org/commentary/superpower-era-over-us-russia-middle-powers-too-by-carl-bildt-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- What’s Driving Persistent Inflation? (Project Syndicate) https://www.project-syndicate.org/commentary/investors-must-not-forget-the-supply-shocks-driving-persistent-inflation-by-sebnem-kalemli-ozcan-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Building the Economy Africa Needs (Project Syndicate) https://www.project-syndicate.org/commentary/africa-needs-regional-integration-industrialization-and-access-to-trade-finance-by-yemi-kale-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- The rise of index vigilantes (FT Alphaville) https://www.ft.com/content/b3544087-2673-4e90-9192-342c6b1a6a03
+- Sticky Inflation Is Testing the Fed’s Resolve (Bloomberg.com) https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkUxWWNmVENYWHNyd3ZtSlV1SGVPSGpFdXl0dm5GWHpVVktsMi1wZ3RmdG4xdkV4SUpmaVMxLTFhQkpDLUs0VDdWOXZnVGZidXVZRGdkOUFNS0E4Tmd2Z3VLZ0wyUjY3SGptbjZnLWp5TUVJekdodHdId0trTWFWUTZQT09YVWluWkdCNFBIaFhfYjZRQkRfNEVRS21PV181TlQyaklJNVM1Qm8?oc=5
 - Science Without Scientists? (Project Syndicate) https://www.project-syndicate.org/commentary/ai-science-need-for-validation-public-trust-by-sami-mahroum-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Opinion | In Six Decades of Public Life, I Never Thought I Would Write This Piece (The New York Times) https://news.google.com/rss/articles/CBMilgFBVV95cUxNanZwN2w3ZW1MVE1ydk5maEw0Q1NCS3RvOGExTDBEUHR4NkExQXBYWEZSdnV6MzY5VmJaUzBNVWNPbDBWMFZsc2hKQ2gzcnJDLTFXT3A3MXZvdWh0OThMaFJDUF9nM0VnOVNXV0k1MzZkQ2pCQ3ozaEJKbktGbVJWR19wTlI0ZmtrNkU3RVpTeWhkc1FZSlE?oc=5
 - When Smart Cities Turn Menacing (Project Syndicate) https://www.project-syndicate.org/onpoint/africa-smart-city-tools-from-china-used-for-surveillance-political-control-by-wairagala-wakabi-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - Oh OK, we’ll write something about the new Truss book (FT Alphaville) https://www.ft.com/content/6d347f2c-b5da-4966-b95d-fd09f2d0960a
 - FTAV’s further reading (FT Alphaville) https://www.ft.com/content/bef7c51e-c07e-4a4a-867c-e792fa5f5186
 - Brazil Cannot Afford Bolsonaro’s Spending Cuts (Project Syndicate) https://www.project-syndicate.org/commentary/flavio-bolsonaro-planned-tax-and-budget-cuts-could-push-brazil-into-recession-by-laura-carvalho-and-joseph-e-stiglitz-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- A Generational Reckoning on the Streets of Paris (Project Syndicate) https://www.project-syndicate.org/commentary/france-youth-protests-may-herald-generational-showdown-upending-democratic-politics-by-jonathan-levy-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- The Algorithm Driving French Student Protests (Project Syndicate) https://www.project-syndicate.org/commentary/france-students-protest-against-parcoursup-digital-admissions-system-by-gabriela-ramos-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- PS Events: Reinventing Europe (Project Syndicate) https://www.project-syndicate.org/videos/ps-events-reinventing-europe-homepage-video?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Is CoreWeave the Silicon Valley Bank of 2026? (FT Alphaville) https://www.ft.com/content/4fb42dd7-a72c-4e20-9e7c-cdc9d3215159
-- CoreWeave’s Bond Rout Should Make the Fed Cautious (Bloomberg.com) https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjFnVTgwSHVqSHFzTS1uWmpTdDMxWGpBaDVneE5JVXJkOW1OUXU0aDdjLWJXRkNYbUFFTno5ZXZ2WktKUWZLaVVROTFwQ3Y2SzVkRWhsOEs0UDlGei0tclJjWWRvSU1vdlEzWEFjTnNMZTdhY2tfcUhuS2FET1VMSzE2Y0ZaelYzU09SS0tra1BERk1xMm50YXN3WkVNUXhBYW1hRDZVaw?oc=5
-- PS Events: Reinventing Europe Video (Project Syndicate) https://www.project-syndicate.org/videos/ps-events-reinventing-europe-video?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Mexico Faces the Populist Tide (Project Syndicate) https://www.project-syndicate.org/commentary/after-brazil-election-mexico-will-be-surrounded-by-trump-aligned-leaders-by-guillermo-ortiz-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
