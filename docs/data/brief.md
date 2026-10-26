@@ -1,5 +1,5 @@
 # Econ Desk snapshot
-Generated 2026-10-26 15:18 (UTC). Source: FRED unless noted.
+Generated 2026-10-26 22:46 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
@@ -12,18 +12,18 @@ Next FOMC decision: 2026-10-28 (2 days away).
 - Fed funds target, upper bound: 4.00%; change unch.; as of Oct 26, 2026
 - Fed funds target, lower bound: 3.75%; change unch.; as of Oct 26, 2026
 - Effective fed funds rate: 3.88%; change unch.; as of Oct 23, 2026
-- Interest on reserve balances: 3.90%; change unch.; as of Oct 26, 2026
-- Overnight reverse repo rate: 3.75%; change unch.; as of Oct 23, 2026
+- Interest on reserve balances: 3.90%; change unch.; as of Oct 27, 2026
+- Overnight reverse repo rate: 3.75%; change unch.; as of Oct 26, 2026
 - SOFR: 3.92%; change +2 bp; as of Oct 23, 2026; Highest since Dec 2025
-- Discount rate (primary credit): 4.00%; change unch.; as of Oct 22, 2026
+- Discount rate (primary credit): 4.00%; change unch.; as of Oct 23, 2026
 - Bank prime loan rate: 7.00%; change unch.; as of Oct 21, 2026
 
 ## Liquidity and plumbing
 - Fed total assets: $6.75T; change -$2.0B; YoY +2.4%; as of Oct 21, 2026
 - Bank reserves: $2.96T; change -$60B; YoY -1.9%; as of Oct 21, 2026
-- Overnight reverse repo usage: $0.2B; change -$0.2B; as of Oct 23, 2026
+- Overnight reverse repo usage: $0.2B; change unch.; as of Oct 26, 2026
 - Treasury General Account: $952B; change +$69B; as of Oct 21, 2026
-- Repo operations (standing repo facility): $0.0B; change unch.; as of Oct 23, 2026
+- Repo operations (standing repo facility): $0.0B; change unch.; as of Oct 26, 2026
 - Discount window lending (primary credit): $9.2B; change -$1.9B; as of Oct 21, 2026
 
 ## Inflation
@@ -33,7 +33,7 @@ Next FOMC decision: 2026-10-28 (2 days away).
 - PCE prices, core (the Fed's target): 3.0%; change unch.; MoM +0.2%; as of Aug 2026
 - PPI, final demand: 6.3%; change +0.8 pts; MoM +1.3%; as of Sep 2026; Highest since Dec 2022
 - UMich 1-year inflation expectations: 4.6%; change +0.6 pts; as of Sep 2026
-- 5y5y forward inflation expectation: 2.20%; change +1 bp; as of Oct 23, 2026
+- 5y5y forward inflation expectation: 2.21%; change +1 bp; as of Oct 26, 2026
 
 ## Labor market
 - Unemployment rate: 4.2%; change +0.1 pts; as of Sep 2026
@@ -64,20 +64,20 @@ Next FOMC decision: 2026-10-28 (2 days away).
 - Empire State manufacturing: 25.5; change +17.9; as of Oct 2026; Highest since Dec 2021
 
 ## Stocks and volatility
-- S&P 500: 7,757; change +45; 1M -0.1%; YoY +15.2%; as of Oct 21, 2026; Highest since Oct 2026
-- Dow Jones Industrial Average: 52,215; change -653; 1M +1.4%; YoY +11.7%; as of Oct 23, 2026
+- S&P 500: 7,624; change -40; 1M -1.1%; YoY +13.1%; as of Oct 23, 2026; Lowest since Sep 2026
+- Dow Jones Industrial Average: 52,362; change +146; 1M +1.0%; YoY +10.9%; as of Oct 26, 2026
 - Nasdaq Composite: 25,955; change -54; 1M -3.6%; YoY +13.1%; as of Oct 23, 2026; Lowest since Aug 2026
 - VIX volatility index: 19.45; change +0.42; as of Oct 23, 2026
 
 ## Treasury yields
-- 3-month Treasury: 4.22%; change -3 bp; as of Oct 22, 2026; Lowest since Oct 2026
-- 2-year Treasury: 4.65%; change -16 bp; as of Oct 22, 2026; Lowest since Sep 2026
-- 10-year Treasury: 4.96%; change -17 bp; as of Oct 22, 2026; Lowest since Sep 2026
-- 30-year Treasury: 5.29%; change -13 bp; as of Oct 22, 2026; Lowest since Sep 2026
-- 2s10s spread: 0.31%; change unch.; as of Oct 23, 2026
-- 3-month/10-year spread: 0.78%; change +4 bp; as of Oct 23, 2026
-- 10-year real yield (TIPS): 2.64%; change -12 bp; as of Oct 22, 2026; Lowest since Sep 2026
-- 10-year breakeven inflation: 2.34%; change +2 bp; as of Oct 23, 2026
+- 3-month Treasury: 4.22%; change unch.; as of Oct 23, 2026
+- 2-year Treasury: 4.69%; change +4 bp; as of Oct 23, 2026
+- 10-year Treasury: 5.00%; change +4 bp; as of Oct 23, 2026
+- 30-year Treasury: 5.33%; change +4 bp; as of Oct 23, 2026
+- 2s10s spread: 0.32%; change +1 bp; as of Oct 26, 2026
+- 3-month/10-year spread: 0.78%; change unch.; as of Oct 26, 2026
+- 10-year real yield (TIPS): 2.66%; change +2 bp; as of Oct 23, 2026
+- 10-year breakeven inflation: 2.34%; change unch.; as of Oct 26, 2026
 
 ## Credit spreads
 - High-yield bond spread: 3.38%; change -2 bp; as of Oct 23, 2026
@@ -87,9 +87,9 @@ Next FOMC decision: 2026-10-28 (2 days away).
 - WTI crude oil, $/barrel: $107.89; change -$2.12; YoY +84.9%; as of Oct 20, 2026
 - Brent crude oil, $/barrel: $115.22; change -$3.60; YoY +89.8%; as of Oct 20, 2026; Lowest since Oct 2026
 - Regular gasoline, $/gallon: $4.28; change -$0.05; YoY +40.0%; as of Oct 19, 2026; Lowest since Sep 2026
-- Broad trade-weighted dollar: 121.40; change -0.16; YoY +0.6%; as of Oct 16, 2026; Lowest since Oct 2026
-- Dollars per euro: 1.1231; change +0.0027; as of Oct 16, 2026; Highest since Oct 2026
-- Yen per dollar: 158.00; change -0.18; as of Oct 16, 2026; Lowest since Oct 2026
+- Broad trade-weighted dollar: 121.32; change -0.03; YoY +0.3%; as of Oct 23, 2026
+- Dollars per euro: 1.1199; change -0.0013; as of Oct 23, 2026; Lowest since Oct 2026
+- Yen per dollar: 156.87; change -0.24; as of Oct 23, 2026; Lowest since Sep 2026
 
 ## Monetary aggregates
 - M2 money stock: $23.34T; change +$125B; MoM +0.5%; YoY +5.7%; as of Aug 2026; Highest since at least 1990
@@ -149,57 +149,57 @@ Next FOMC decision: 2026-10-28 (2 days away).
 - Christine Lagarde: IMFC Statement (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html
 
 ## Headlines: News
-- Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler. (MarketWatch) https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories
-- I want to pay off $4,500 in credit-card debt in 2 months. Is this possible? (MarketWatch) https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories
-- Gold Tests $4,000 Support Ahead of Federal Reserve Decision (FXEmpire) https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ19CSmhpMXFOWmtNN2xUNjJvdjBfR0RxdDczNmVlblZxbXRycTR0NlBkQldlU1ktc0pIU0k5a1hvYjNFMURRQlRFRVhaQjlvUlhZUy1lVUs0UmM4anVFOXVtc1ExRzh6Q0lzTUpRWHZZQ3pnQkRYVWdKN2VsSXZJM0FWX0xXelBvTnFBTVlYZEstV1NZTHAzWWF0OW9TTUF5cl9hNXdIbVBBQldD?oc=5
-- Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers. (MarketWatch) https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories
-- Young Americans are giving up on car ownership. It’s a path to financial freedom for some. (MarketWatch) https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories
-- Federal Reserve executive to speak at Paducah Chamber breakfast Nov. 5 (KBSI Fox 23 Cape Girardeau News | Paducah News) https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlZVazRldkpSTUZpMFhSY2RNWUd3NHdSc3VDcXZsSU1zc01sdkUwVjQzSkUtOXhZOWJnVjJlRC1WSXRibHk2NWZSdXN4MXg4YzR0REVMN1ZWZjNNVnVkSVp1QmtpQW16OEIwUWU2c3VCSFpCM19SalJwLVpjcDJSbWZXak9VTWxtOUk0elRsVkgtb2xiSGJlZFRqUmV1Wk0?oc=5
-- Euro slips as traders await Fed and ECB monetary policy decisions (FXStreet) https://news.google.com/rss/articles/CBMirAFBVV95cUxOaml5VG1XUmFJSVViUmw4dGlsRjF5Q3RtWWNmdmpIMzFTWXJQR0JHNEFVckQtUE5FUldfQjN0eWVPakhMNFFaM3I3NEV2YTZyQmloNFFkZzJzTF9IQmpnOFZvMm93MXcwSmpsb0lqd3I4U0xLUkFDYU9ydWVGR1pBb0NUZmdDT005UTVKQjNGUmVIVG1LM1JNX0tybEdXM1NiRnZXRWRzdkdpV2ZG?oc=5
-- Jeff Sica discusses tech AI spending and Federal Reserve rate expectations (Fox Business) https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wOTFwRU5SdjRiNDFUUUlPNm90WHNwbERNbGZfdExhc2xUNEdVZVFpeGNlV0tZYW1lQnFTZ3dVUFNMN1BxaDQxYnFQLTlKZWh1UUJQMFoxdkZjQkU?oc=5
-- Two stock picks to capitalize on Wall Street’s misguided AI fears (MarketWatch) https://www.marketwatch.com/story/two-stock-picks-to-capitalize-on-wall-streets-misguided-ai-fears-41f81755?mod=mw_rss_topstories
-- New Inflation Warning Echoes the 1960s - Years of Higher Prices Could Become the New Reality (24/7 Wall St.) https://news.google.com/rss/articles/CBMizwFBVV95cUxNS0QtV2ZyclVxa2phMTBXcEFjRkN0bHFDOXNMZHFjdnRkdmQ0R3dOdkRzN0huUVFBM3NzZ2p1UFNfWk1JRkhyNFk5bnFsa1BNYUtpMWVEdFV3YVU3bGRWX2hBRXNEWHhHU2xyMGhjTTVHc3ZTOHJpVkpNSE5tWHZYUi1pMWNzNXRlUG9Wa0l0MXcwVUI5LTFhb1VKTkpzNW15cmxDUmVnRGJ1bEYzaFJTWkF4dTZvR0gwcnROQnkyOUY2QW44RzY0cGhRTFMwb1U?oc=5
-- US Treasury yields hold steady ahead of fed rate decision, PCE inflation data and key US economic reports this week | Hindustan Times (Hindustan Times) https://news.google.com/rss/articles/CBMikwJBVV95cUxOckRlcFFoQlAwUE1yMUtTVXFmRFZWb1V1Z253Z0NQalRvNWI2TVM4WTd6dkRRMlNVU3pVc3JCMHRFcnM2MldFMElUTEY1bWpjX3RodDhHVVpHbnptOGNhdnN2clBBMHBKRDhITFRDbkNyd1JoSWV5VUNvbl9icXVfYXJFcGxXd29USm9MaURjQ05RV0lMZE1acEFkYThDbnlpX1IxUjQxRVRoaGVJbWhaZ05TY2JRY05yVGNrWWlBUll6b3ZfekVybTd4ZzFfelZOUEk3ZDhyMVlmeENIN0RoU0lHZnF2VzhWZ0o5RXhKRE1vdVBiZzVnbm1JbDBIUG9TZ0UwNHpsVE03bnlTUEtMdkctTdIBmAJBVV95cUxQbXlkQ09nZHVoUEdKaDQtdnZOTUhEYl83V1UtX2ZvLU9UdHpmR0gtLTkxT3RGeEtFUXhCQk01OHQ3QjFCMTRvSWZNa3hjLS1nbFU0NWRqSlA0Y1NRUkxoWkl6UGNYZHhMLTh3YmpmSmZPNmhSVHJETmpEYnFabFMxQV9nZFZUeXpoUVdvWmVtaEpWSlpBdldJenIteWhGTXRIVHk2M0hGN0NKRVhkV2NmRXdKLU9ZaDlZUVRHLVVXbGNoQUhCOEczS29KTm01SU5WdHV6Y0lsWDAwdk4zc05nMGRhSFlFWm5VZFVzWjR1T1oycUtsd3ZDNkN3Q0ppclpoTGNYWEVxa1ZFdWpwQVNBeE02SGJtcFI3?oc=5
-- My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked? (MarketWatch) https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories
+- ‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes? (MarketWatch) https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories
+- Fed and ECB decisions fall a day apart for a Euro under 1.12 (FXStreet) https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmhCQjlsdFlUanBmOEJzT0JmckFDUkFMQTdMY0lIRHIydGFQZmdxQVVpYzRDVGdpR2V4QXBTQWtEbUtfVzVVakRsNlVYNTY3Vlk3TWwxQWQzNFVSSWJFVmNtOExQWEl6ZWhHN3ZvY3ZNTXdXZDV3b0YtNFljaHNfdnBmbllCYzYyWm84NzJoeFZJR1FmcnFQLVlRX0ctOURYTFNoRQ?oc=5
+- Dividend stocks are having an excellent October as tech sector struggles (MarketWatch) https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories
+- Options traders are seizing control of the S&P 500 (MarketWatch) https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories
+- The Fed doesn’t like to move rates before elections. Here’s when it did. (The Washington Post) https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWlSVVFnYUJCa1p3WjVqTEVWU1NNamlobzV0T3ZMQ0loYVp0elR0RWhLQThFdTlDNEc3ZXhkUGp6dDB2WEdqYjI2NnZMNWliZ19lRTNkUjhtSzBGTnNwZXJPOVB5NE1KVVZhbFJkZ2hFSTI3TzVZVHdYRFJGQzBDM2lmT3J0MXlqVGhlU2UxbUdGQWJQcmRIR3dmcXByWnpyaDBfU19ENllsM2Jfd0VMOXdhV3JsbFpoMU95TTRnR2E0dw?oc=5
+- TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours. (MarketWatch) https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories
+- Over 40% of Americans are heading toward retirement ‘blind’ — with no plan (MarketWatch) https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories
+- Oil Prices Retreat as Fed and ECB Decisions Loom (FXEmpire) https://news.google.com/rss/articles/CBMioAFBVV95cUxORGxDeVFBa2xPVmFXUW1WenhPRmJucXNpaFh0dzB0bk5LLXhFaE5nTXdWRW5kVUZnVmd4a041S3dJS2J6ZHZDNi1CY2RLS2FiZzhfR2h2aThtUjliQ0t2UFNvcWN5MVJKUjBPN3JJYlBkTUxpYVdENVRFaWxTQi1QU1R5djhOd2tmc25zQnpwcnZ3T3Y2X3IxN2dENzRmck44?oc=5
+- A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say (MarketWatch) https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories
+- Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering (MarketWatch) https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories
+- Charlottesville area gains jobs as Virginia’s workforce shrinks, report shows (WVIR) https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaHAtbzB5S0ZFQ2I2UF81NTQ4Sl91VVB2S2p5ZWZvSG1kYTFEbXhCTVdhQmc0SlhFR1pxeTlVR29pbVFMUndHcHpianhHYjVIVGc0QzJmX2I3X0FheDFMb2NnSEV5WUhNRjdJVDREMEhodzhudThQN2ExNEFYMjVZaWF5ckxDaHd2STQwX3ZTWHhyS0NjN1FrSHFzWllibjhSbDYtTm9SaHpFc1nSAb8BQVVfeXFMUF9vdG5NOUROaG5sM3hNbnVCQzNJTkpzQ0NQNkF6dXB2SHhXV29MNWtTM0J0Qk1lZGNhOExJSmJmOEh2X1htTHd2SFNOS01BUHBtbjFzbTRtT01qQk5nZEM1UmVjUUZZOEJzUTh1SWpHNnN4dnRuQ0RpR1VENXUzdDFQbnozY045bjJqei1yUksydlloR0NpbUJjZElRb1Q3bC1BSWtvUmZfaVE4bE8yc05OT0c1VDRzRkZuelA2eWs?oc=5
+- French Bond Rout Overshadows ECB Succession (Bloomberg.com) https://news.google.com/rss/articles/CBMingFBVV95cUxQMzRPQm5hMnFIYWhiZHhSY1lBbFRJNGRIMGZBVVZmbS1JSVYwcVVuSVdRNkNjZVdmQ0dTWjhPbURySXFaQVJwdlVWalhoNml4bzNlQlYwdzJUUlFFUWJWcjRNQTdKUEM2d0JYc3JIakIyLWJzOGc5ZE1sNTdzT2NmYVcyQWFqVlhwZVo0RVVZaVpfaGx6aFFva3pJQXVMQQ?oc=5
 
 ## Headlines: Companies
-- JPMorgan Funds - Global Focus Fund: High-Conviction Stock Picking Backed by Deep Research (Morningstar) https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTTlJa0JLUW1pdlZjOE5RWHlsTUpyeUtYSUkybzF3aVVidlBvVGJTYmxlMU1FSF9YaHo1N2U2SUhaRkc5N21aNjgyc2RaR0ZGaDh3VE1fUnhiQmtfSVd3X2tHMmJoMFV6SDVWWGFULTNtb2RBU1dtNkpQLW43d2ZRMEREWVFkektpYlV2djhQQThmVFo4ck1Hb1FBS1hjWnNoQWR6clpoLVNMM0REbDlBbDhWQ0RNT0l4TTFWQjl6eHB5UnpwY2dUZg?oc=5
-- Goldman Sachs: Hedge Funds Suffer Worst Week Since 2024 as Nasdaq 100 Drops 5.5% (Coinpaper) https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjJWRS0tUTJkNGdZdlZXM2NjajNzNnBYdWVsVFEtYW5jRmhpblVVUHVLRWI0REhwcDhNYmxoemJrRjd4Q25nbExHV0lTR2lpN3d3cXJvbWRVc3ZtRFkyYXk5blhZSW8yYjExRktaSmtZZVJOTjVMZms5U2J3eHR1UVZyQk01a1F1SkY3TWJWWUZDcEQ1bDc5V1E5OTEzeHZocGhnbFNTRE8xUQ?oc=5
-- Emotional intelligence is the edge in an AI-fueled world, J.P. Morgan’s behavioral science head says (Pensions & Investments) https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSm05OVZOaUxQWHNxcUVBYXFza0hvczBtaUtVTlRFZ1NJczc1eU9ZVktlSVRTZEI0XzUwYWFpdC1taVNsa2k0dXFjSDFHVDhUTjNFMEQzWTNlcVRWNXRMbnpyaGl4THo5WXBBWnVBTDk2XzFEbzJKaW9wM0k1S3M2RVZaNC1QeFBIUFBiZFA5M3ZwS19pLWZuQWYwNTZ3M0JQT0FSWG1HTklnUmlZLXB3XzB1aXZKZjZNTnJ5RFJ6RXI3UWM?oc=5
-- Goldman Sachs to Lead Anthropic IPO (The Information) https://news.google.com/rss/articles/CBMifkFVX3lxTE1xSkFqdFAySEZ4Qjl2dXdrdTNrYlo0N2xtUHBkYkVCT0tvVHB5eEpnS2ZKQTdBLXRHLWx4TlJKSmZaUjEtdjBKYWxGWWtiSU9yRDQ5NERlU3U2U0R3M0JRX0g5MXVmdWhPdk9BZ3RuUDFZMjBJUzh3QzUwWTRPUQ?oc=5
-- JPMorgan (JPM) Stock Could Be 33% Undervalued Following JPM Coin Expansion (Yahoo Finance) https://news.google.com/rss/articles/CBMilwFBVV95cUxNaU9vbG5tendjbUhPc05YeUpNSjN0MDMyTWswQzFkd1g1NWppUUJxeWlfVEpVQmVlTDF6Z2NsLU52NGxnaVl5bDdNYWRvNVQ0WjZNbnZRZVlQcjRRd2FRU3o0WFpmbHJQR2toVDB4Vm9LLXV1c0Z5NXliRnhSYThKVVF1N25UdmdBT2xlQW9fUGtwMVpUOTdz?oc=5
-- Easterly Government Properties Reports Higher Q3 Revenue and Earnings, Raises 2026 Guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGN4Q3hGX0s2QzFWVnFMVEppNkswdU45TElNU3dEN2pTVzI3OWJzM0ZyZ3J5ZzJ0MkNud1EzNmZfUS01eHdjRUpSMHI3c0E4RkZaNnNLR0xKYmRkSXpDY2dBU3NKY3ViZFU1SllhLVBEVDZKZXdOSGlmMHMzcmR0TWUxNnMyUHREd3BROTRlbXlHblJlUkk2ZGFONDJmR0d3b1JmeTBaek1CbGs?oc=5
-- Alliance Resource Partners Reports Higher Q3 Earnings and Revenue, Updates 2026 Guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMilwFBVV95cUxONWdNT2dzVlpkSUFHMDI1cmdhekxYY3FyZDA3eWpIZzFmNG1BaUVZbHBuUVB2d0tVZ0lsU2NYNEF3Y1Q2UGllbWx1MDNSTFVTWnYySUMyMjlYMVlYbDI1SEtwcmppTmpBWUZiTnhyOUlEZkhKS0VvTF9LUkZvVkxpcEdyd2R6bXVXajN4d2szUi1jVFg5UWh3?oc=5
-- Andersen to Announce Third-Quarter 2026 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjB5VVI1VERMUTZqZTludi00eDc5OFV3TVBOQVdxdkVsd2VYdk51UzZrcXk2Xzd6ZC1jQk11RTRXQUJJaDBjTlMyaDE1cGJFQUFxUVBkVm9EX09XNEhIODd3aURDVXRuTWxyN3ZOWmw4QVU1TTJMR2p3MEFYRTRzRVR3ZllsWGZYb0JqeGFKa2UyekhXZVVuZ3BvMUxudzFJVTk0?oc=5
-- Turpaz Industries Ltd. Schedules Third Quarter 2026 Results Release and Webinar for November 10, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjlJM1hPV1JWOWJ5djFHTmtYSXBwajA2UUJYWFQ4SWdpeFU1TFpURmhJTnlnVkNLQm9ld2tVemFXNGZtWGl4N2I3MkZ5Yjl6QnB0djB0bEx3UUd3UjNIWnVtX1BTOXJhQ2dDNnVWdUhVeTlCYW5ONmNEQkR1Tkh6RXZPR1VRVUxPcTRTcV9aMW1DY3Q1c2ttUUJPRXFYck9MTVp3Qw?oc=5
-- Bank of America Maintains Buy Rating on Micron Following Memory Supply and Technology Updates (Yahoo Finance) https://news.google.com/rss/articles/CBMinwFBVV95cUxPQU5lYklxcjNOQVRDVlF5alRkQXpFUy1wMU5XRDRhM2dJZDB1WFhncTN2TEU3TWpHSlhheTRjR3FVQ21iUG5hYlphMmZ2T0xnWURrNHBUTWdVMHVfMVFNLXpxWDFmLXQ4anhYMXNLVy11bDFObXdrclFjWTZVaTNMM05KQjdiUTRmTzNDNzQwSFFQNi10SzNCc2gtZmhydVE?oc=5
-- Verizon Beats Third-Quarter Profit Estimates and Raises 2026 Earnings Guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMioAFBVV95cUxQbk4yMVRleHlNZUJveTl4a3ZWRWZ6WTBMempVTG1TRVMzX1FiSUN0NURJbzZZQmFJczh0NUJGSnpZY2VhSWVoY1EyMjFwRzNVWmgxLVZ5YnZucHFlbGl5akxuM0FuYjVTLXB6MDdMdDJnblNYYnVURlcxVExsNXdlaFFiT25DcDVhR2hXWGV4Ti1OeG9jSVc2Zl9nMDBvRktf?oc=5
-- AI investment growth is expected to peak this quarter – Goldman Sachs (AMZN:NASDAQ) (Seeking Alpha) https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0k5bFpPZ25RbzZQYV9lZVI3NWE1UlZGUFJjMTlrR21MN2s4TXQwdVZPVmsxa1BZQWwtd0t4U3dnd2pRQ2dRV09pNVBmSEJ1Z0s5VmthTDVmZHAxMlg1SjFYdXM5NWVHeXlYV1puWVYyUzRwX2R5UUdqNXg3UEZOZ3RCVTZjdDZ4YTkyNWl6Q3oycTYxM3lIM1NpYTNmTE1nN1NTc2N6dlM?oc=5
+- Volaris Reports Financial Results for the Third Quarter 2026: $1 Billion Revenue, up 32% YoY (markets.businessinsider.com) https://news.google.com/rss/articles/CBMi4AFBVV95cUxONm5lamhNX3ZxTkFucnB5UnZHcEJuX0lJaUtTVXgyRzRHTVVwWGhTcFJXUVpaMTVKbnA4ZExXNEU0emNBREVhaFl1ajlCMHVEMFZOcS15Yjd4MWtNRjhrUXBzV19Yb2VudTRIdjhWX0FHLXRUSF9OUVhKeThPUzBRbHY3Q3ZGSkdSUHE2OTJWdkZLOTdQbVVxTVdrcmdqenhRbkVPOVRaaWVNdjA2RVFOUllRUFR5LWh1VWYwSVkzTTdDUUF0Q25TYWdhVEJrLTZqZlR4ODB2Y20xV0IzSGx2Qw?oc=5
+- JPMorgan’s CEO just sent a memo to anyone watching the U.S. economy (TheStreet) https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGJoOTlZNGxFNDJnWHhBQW9hdWVEd0xDaDYwM1RObFVMUUZwYWpPZXYwTTY1U3F2Vl9oTTdfUkdQV1ZDaU5rZ0MyRDF2Z1UwcWhZVkRQU1pqaDkzRHlEVG5fMXdLQmQzUktkLWd5T2hhZEFIbFZ3NWN1R3hNck5zZUdkcG5kN29Xc3A0aA?oc=5
+- Coveted Roles in Anthropic’s Upcoming IPO Lift Goldman Sachs, Morgan Stanley (Barron's) https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1BiQ0h5WDc5WDk5dTdRSDViM001c0hCZEpiOHBNYW1ySkotRm51RjQtN0FrT3ppYmFmRDhYZGlNVHRLdlRsVFFwYkpwLWNiUmNmZmp2em9WdmpGazJtOTg2bGJUb1pvTjkwRjlZSm5wQl9rSVhHcVVibmNEN2hINGRZbU1EMmltMDdGNg?oc=5
+- Goldman’s $210 Billion Day of Deals Driven by AI Financing Fever (Bloomberg.com) https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDhPSHpsbFdtdG1scmdsMEE1ZXZPQ2VoMDVFUi1uVGZ3bkxMZ1U1dElUQXgyR0Rsc3I4NEVyNHBkTVZwMjZKaTVHSXZDREpDQ3FvYUItaWxxd2xPdy1JaVY2WE43UUtGMzFnd05uaEFvRVFTYVJHdEpzLUJfZ3FsdDRNVkQwenNWcE5IdlMzaTJtS2d4d1djdDZ3Y1NDc09meHFuV0hoR0EtR3F2SThZUkFvLWs?oc=5
+- Park National Corporation reports financial results for third quarter and first nine months of 2026 (markets.businessinsider.com) https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbXBsLV9GdW5ORy1zbTM1T0dKWkVMWEx5czhzc091ek9ES2VLMnRLQi1Bd0hlXzFYbWgzeXozTDNPZldRSm1MVThyTklYS200NVFSNGQyYjJ1VElZeTZub00wMlFjd2VVamVyR1ZFekJ5T1d5MjNmUzg3NktUcXFVMF83blFxdEt2NjRrN3pDaTRMRlhlaXRFZ2IwRzg3YUp3WXMyY3AwWnhvaF9UVzZTb3d1OWx2dXZidmFqZ2NreE9PV2NlX21sNWRFNGNzdUNVS0ZjX2RqQnZJUWd2ZkdoS2RLb3I4ZDJCMzBZTm83Zw?oc=5
+- JetBlue posts bigger loss on fuel costs, but CEO says margins improving (CNBC Business) https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html
+- NRG Energy to Report Third Quarter 2026 Financial Results on November 9, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUNZUHZ2TW9zSTZ2MDNhZTBlVjY1V2ozMk1yNjF1QkViRW9tZlg3QjBGS2lDbFZCNktNWTdGSWRKWEh4VDZWeEdBN2EtS1RnRE96b1VvdGRTOGtjY0hFeEM0VjQ2a2RTZkdBd0tsVXliR3dlbXk3OFpmWVBrTk1NQ2RjT20wUHZjVHdUM0ZYclJxZw?oc=5
+- TWFG, Inc. To Announce Third Quarter 2026 Financial Results on Wednesday, November 4, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGJCbFozTzhJZDF0TWhvN3p6VUw2QzBWMS1HWFVzcERndF9PbFc3Y3o5MEtRdWRVVm8wT3kwSXpnTU1QellrV0N0SGhQb0NPWWNMckZ4dkE0UHk2ZDBPXzZyZW81LXV1SFM3Mnp6cnBYTjJSUU92VUV1UjliWFRVRkloMk5ZZ3oyczhGU005emswLU1JeWJ1d0dmSUo?oc=5
+- Rambus falls despite earnings beat on muted guidance outlook (Yahoo Finance) https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnNDWWJTdDZKOVdKWTJMN0RxdE1oS0pZV2JYVGs5MlV2T2ZxSEotTmItcTJoaTFBbTBicnBNWlkyREJnVHA2ZlotSllUTS1lcFBhWHZuWjAzRkRBWU9uZUxiRmxTNUxITHU5bGJ1cVdTdUVaN3lTSUM3MHA0SnJZeS1JY3VuaV8zSzRnYkVaLWtZVTNSMVQ2S2szRmlEdHJS?oc=5
+- Greenbrier: Fiscal Q4 Earnings Snapshot (Yahoo Finance) https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUk0bEdRMWd2SFVCM0xtT0JZTUhMSXVROE9qQ0VKakZ6OGpuR1l3WXBRWEkydjBRYkZNSzZhSEFkM0tyOFY5WWNiNU4xSzNiSVM0UEx0NzRsQ2owdThPa2xCZDZtb1o4Q0ZGRVktaEV3N25rYmpiMVppUEo5VU12RDNvSzVVUnBqTHFSSGFMQ0R6VnBoYVFqQTJGaFF3ZU5jdGR2S0h3?oc=5
+- Agilysys falls despite earnings beat and raised guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMiowFBVV95cUxPQm5US3BSVWFvd3A4U2Y4UHk1dDJBVjlJTXNDUzJQUFNRZlNuVkdUQXRFdmEyVWY2c1M5NDV4Z1N2TGN0cU5YVzBFOXZjRjdlX1FTZFhfSjRqR182SFY0MVIyWjRjY0hVdGpBZk1kWkg3R3ZDQVRVa2pHRFpFd1Q5VVluRVExdkRLYlZjZVE4U1dOODNWM2luYU56QlExZkdHMllj?oc=5
+- Welltower falls on Q3 earnings miss despite raising guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMingFBVV95cUxPMGhfM0Vqb0J4UUFidFpzQjdyV1dYTzZGOEVVbzJPR0s1NWVZb2VSTFJ0dVV1UkZyUzJwM3JVTXIwcnY0ZW9FMlhyVFMzUlhVb29wRHpjRDMyYjZtbUh6YjBaaHJucUU4VmJtSDAyLWJzdkpJT01Wdmdfb2xiR19aVWdPN09Nc3dJNkFRdGFQQzM2WHVteTdUdWNoNlZKQQ?oc=5
 
 ## Headlines: Research
 - Transiting from emigration to immigration – Malta’s economic post independence economic success story (BIS central banker speeches) https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story
 - Shackleton’s lesson - we still have a choice (BIS central banker speeches) https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice
 - On taxes, credit and growth (BIS central banker speeches) https://www.bis.org/speeches/20261007-taxes-credit-and-growth
 - Rewiring payments - open. Connected. Inclusive. (BIS central banker speeches) https://www.bis.org/speeches/20261026-rewiring-payments-open-connected-inclusive
+- Women in economics - advancing research in economics internationally (BIS central banker speeches) https://www.bis.org/speeches/20261026-women-economics-advancing-research-economics-internationally
+- Purpose, perspective and possibility (BIS central banker speeches) https://www.bis.org/speeches/20261026-purpose-perspective-and-possibility
 - Results of socio-economic development and execution of the republican budget for January–September 2026 (BIS central banker speeches) https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026
 - Growth with responsibility - the next balance sheet (BIS central banker speeches) https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet
+- Closing the gaps - collaboration in the fight against economic crime (BIS central banker speeches) https://www.bis.org/speeches/20261021-closing-gaps-collaboration-fight-against-economic-crime
 - Improving cross-border payments in a changing geopolitical landscape (BIS central banker speeches) https://www.bis.org/speeches/20261021-improving-cross-border-payments-changing-geopolitical-landscape
 - Euro liquidity lines and the international monetary system (BIS central banker speeches) https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system
 - Thoughts on several issues of interest to the market (BIS central banker speeches) https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market
-- Don’t stop thinking about tomorrow - building resilience to climate shocks today (BIS central banker speeches) https://www.bis.org/speeches/20261021-dont-stop-thinking-about-tomorrow-building-resilience-climate-shocks-today
-- Islamic finance for impact - the next measure of success (BIS central banker speeches) https://www.bis.org/speeches/20261021-islamic-finance-impact-next-measure-success
-- Republican budget for 2027–2029 (BIS central banker speeches) https://www.bis.org/speeches/20261021-republican-budget-2027-2029
 
 ## Headlines: Opinion
-- Breaking down Anthropic’s 335-page S-1 (FT Alphaville) https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1
+- Opinion | The Fed Needs Better Models (WSJ) https://news.google.com/rss/articles/CBMickFVX3lxTFBRMUN3bEhiNEtIRGlHd0p4WmlrMTlpY2xzUUszN2xidDN4Y3ZLSnJzRkJJMTlWcWQtTkFGZ3dxQVRscXRFZUdEY21yZjA5dGdkcDU1VFhCZGlpUmNuQWFvdXg5QVFFZlgwOXJiZ2tZZ3gzZw?oc=5
+- Israel’s economy in the age of mega-acquisitions (JNS.org) https://news.google.com/rss/articles/CBMilgFBVV95cUxONHowb2piMFFSSHRwNXJNNms0ODJfOHdUZmpnZE5WSlF4ZTd1TWhEOXNsQUhzMVd0czFCMzBKY2tqOTUwUTVHN2MyN0pubTFOcUlZYzJqMEJyZFNzQTdIOUpZem5xWG5qRHJ6R1FDVF9NTDBtT2EtSm4tMERQM0RnUkFXSTI3Rm1PRkd4aldwWkxrX01salE?oc=5
+- Lula Killed the Donroe Doctrine (Project Syndicate) https://www.project-syndicate.org/commentary/donroe-doctrine-trump-latin-america-strategy-derailed-by-jeremy-adelman-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- And the FTAV chart quiz winner is . . . (FT Alphaville) https://www.ft.com/content/2c478980-b51a-4cfd-a63d-e55e0a7f67a6
+- Opinion | Immigration Enforcement Hurts the Economy (WSJ) https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzQyaVBLQWNYR1J3TVNUZThQa2JXdGE4OXlneEhCekNiQXhTX1dEdTdYVnQxMnlHcjRXNVRmMXp4cmJZVnpDOUcxLWJIcjFORlZUcjZHaWRCN3hFSy1xR0xGb3Z3ZklvQVpXR2RQcFdrZWhPcVFyUHJjZG03SWF4QUhaYlA?oc=5
+- The Wrong Way to Compare Economic Size (Project Syndicate) https://www.project-syndicate.org/commentary/ppp-adjusted-gdp-wrong-way-to-measure-and-compare-economic-size-by-jeffrey-frankel-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Public Control for a Purposeful Economy (Project Syndicate) https://www.project-syndicate.org/commentary/public-control-in-economy-must-be-defined-around-missions-by-mariana-mazzucato-and-anna-hope-emerson-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Anthropic S-1 as it happened: Inside the Claude maker’s 335-page IPO plan (FT Alphaville) https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1
 - Rethinking Sustainable Livelihoods From the Ground Up (Project Syndicate) https://www.project-syndicate.org/commentary/post-coal-fossil-fuel-livelihoods-requires-community-input-regional-endowment-funds-by-grita-anindarini-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - What CH-47 Chinook means to Iowa's economy, nation's defense | Opinion (The Des Moines Register) https://news.google.com/rss/articles/CBMiygFBVV95cUxOcjAtdDJ4Mm9RVVJySmVhNFpCQVBxcDQxQjdTTWhlRHY3WE0tTDBIcHRhM1UycUlaeE5MdUs4MHhGSW8wemNvSGtycXVrT0pXd1lOUEZOdkNGUm9PZEFKV2hxaGJhMDdIZHZCUzh1SEZGNW5CTXQyMFFVNUJpWW0xNVNiRzhtb2NXNmJ4VWJsckZRUFJNT2JLSGVkMFV1N1RINmZPaTFkcVpUY0xEZG12VzUxUW1pTXN4c0ZXYzJXZ2ZQRGNWb1hzbFpB?oc=5
 - The Specter of an AI-Driven Slowdown (Project Syndicate) https://www.project-syndicate.org/commentary/capital-markets-point-to-growing-risk-of-ai-driven-downturn-by-dambisa-moyo-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- FTAV’s further reading (FT Alphaville) https://www.ft.com/content/275de0d7-81c1-4b83-8734-15eece7bf583
-- The rise and fall of the £150bn ‘diversified growth fund’ phenomenon (FT Alphaville) https://www.ft.com/content/cec7ecab-27fa-41ce-93f8-e6a6061599d1
-- Americans are down on the economy and concerned about costs: Polls - ABC News (ABC News - Breaking News, Latest News and Videos) https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc?oc=5
-- Israel’s economy in the age of mega-acquisitions (JNS.org) https://news.google.com/rss/articles/CBMilgFBVV95cUxONHowb2piMFFSSHRwNXJNNms0ODJfOHdUZmpnZE5WSlF4ZTd1TWhEOXNsQUhzMVd0czFCMzBKY2tqOTUwUTVHN2MyN0pubTFOcUlZYzJqMEJyZFNzQTdIOUpZem5xWG5qRHJ6R1FDVF9NTDBtT2EtSm4tMERQM0RnUkFXSTI3Rm1PRkd4aldwWkxrX01salE?oc=5
-- The arts and culture sector injects big numbers into the economy. (Monterey County Weekly) https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWlBIWjVpcV9FWE5IWS00MV9ub3JJV2Zmek53ZWFYdTJFXzJ2U0QzTUFWZjlXMjMwcXpOV0hQOVF6MlhkcVBzS2tUcDR5clpJUUNpRjhZakZzNElIMDFWcjh2WW5KNk9yMGY5cWlISkFXaHFhSFdWMzB6WHpIWkVwMUhtN1ZWczY2eVMxcWVrV3dzZnJiak1jVlFUMUVXTkZQVnF4WElNbGYxTkdVUlEwYS1VbXotMFI1RXo1b25mZWx4b2JDNzljaEl2VTFQTE9oTzFHMjVXUk9hV0tNcWFpVlE0TjZ3T0JSWl9oZ1dDSFBaNW5FWWRvNHFDRdIBgAJBVV95cUxOeWJYSjc3NVZQbkQ4c0ZpX3d6NERWMjJ5MHF2TDF6clp1OHFTd3M0OHFzdVhzVE11MUdNcVpyMmtpMzBNaEhMa1ltdHR3Y3k2RFlZakNlMEJIaEpXZzV5S2puNVo4M3gyU1Q0NHZHdDhfald5SDZrRmVCc0FoZTY3cHRFTDRyUU5kb01CVjBvV3ZjTnYtXzVrSFRUVjlEV0lqVktDYlFoQ1FVWU1QS1Z1bHhqd1FCOGdFSGtJVmdraDM0RkVjOWNseGE3dUE3Z2lRWkc5TmhqSDJXVDlucHRxTE1vbEFoZEwyek92OGNkSlVjcERqS1h3NkhQNV9uMkJk?oc=5
-- Latest U.S. opinion polls (Ipsos) https://news.google.com/rss/articles/CBMiYEFVX3lxTE83Njh3Nmdmc1dSamlYMnEwVlliUHYtYnBHNmg0QlhRdE5Xb0lFUzFnY0hJc2dXOHZSQVNZNWZtOVlPei1IOW1aUHlROUNYQkx1NGcwZ0FfbnJ4QS1qZ1g3bg?oc=5
-- Opinion | Why Trump is failing to make Iran flinch (The Washington Post) https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ29wOWwxY2tHX2JGOVJFWWQ3V3g1RG1GaVIzdjA3QUp2VldoZVNFZ0VUQzhSQ3ZiOHdyaWhvMFpxZi1hbFNib1hXUHJMNFJzOU9JaVRLaWdHSkFaZWxlTndqTVhXUUpEYU1JR3hrTHdiMHItNDF5cXl4RGZKSGI2R0NDcHF4Zw?oc=5
-- Bringing the high-tech economy home | Guest Opinion (Rochester Business Journal) https://news.google.com/rss/articles/CBMicEFVX3lxTFBtS0dlUmN1bmx3NV93ZzJUMG9jSGdiZFczaEJ2cHo1QmRGQ2hubWRicEhhMDAycjBybFF6Q3VEN0dKcU9zSVY2UDQ5SHViS3Y4b25lUml5UE5ubU9Ua05VR3dIOWhtY1BpMUl6UmdCckg?oc=5
+- Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them (WSJ) https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcXF0NUI3czJhVkNQQWc2Tk5GNWxTeHFIdng3S3ljT0JLWXVrVGtJUVpCcndjYU1JMnRNNGo2UjI3UlN4LTBZMnZHTUljV1RwMDZ4THRqZ0E5ZTdiVkRFMWNFLXVBVjVDcUxLZnV5LWNIcDNBN1R4b0dxdGxIMnFiX2pZQS1Qb1Etc2VBN1lEQzNSbUN6QUNyem5IYkxwR2FEWDNIT1FuWERQeWlOc0x6ODhnQmJjb0FQdDVCTFA3Vjh0ZW1zQW41Mg?oc=5
