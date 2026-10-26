@@ -1,16 +1,16 @@
 # Econ Desk snapshot
-Generated 2026-10-23 22:42 (UTC). Source: FRED unless noted.
+Generated 2026-10-26 11:02 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
 - Effective fed funds: 3.88%
 - SOFR: 3.90%
 - Reverse repo rate: 3.75%
-Next FOMC decision: 2026-10-28 (5 days away).
+Next FOMC decision: 2026-10-28 (2 days away).
 
 ## Policy and money market rates
-- Fed funds target, upper bound: 4.00%; change unch.; as of Oct 23, 2026
-- Fed funds target, lower bound: 3.75%; change unch.; as of Oct 23, 2026
+- Fed funds target, upper bound: 4.00%; change unch.; as of Oct 25, 2026
+- Fed funds target, lower bound: 3.75%; change unch.; as of Oct 25, 2026
 - Effective fed funds rate: 3.88%; change unch.; as of Oct 22, 2026
 - Interest on reserve balances: 3.90%; change unch.; as of Oct 26, 2026
 - Overnight reverse repo rate: 3.75%; change unch.; as of Oct 23, 2026
@@ -66,7 +66,7 @@ Next FOMC decision: 2026-10-28 (5 days away).
 ## Stocks and volatility
 - S&P 500: 7,757; change +45; 1M -0.1%; YoY +15.2%; as of Oct 21, 2026; Highest since Oct 2026
 - Dow Jones Industrial Average: 52,215; change -653; 1M +1.4%; YoY +11.7%; as of Oct 23, 2026
-- Nasdaq Composite: 26,009; change -694; 1M -4.5%; YoY +14.4%; as of Oct 22, 2026; Lowest since Sep 2026
+- Nasdaq Composite: 25,955; change -54; 1M -3.6%; YoY +13.1%; as of Oct 23, 2026; Lowest since Aug 2026
 - VIX volatility index: 19.03; change +2.35; as of Oct 22, 2026
 
 ## Treasury yields
@@ -112,9 +112,6 @@ Next FOMC decision: 2026-10-28 (5 days away).
 - Everything else: 69
 
 ## Calendar, next 14 days
-- 2026-10-23: H.8 Assets and Liabilities of Commercial Banks in the United States
-- 2026-10-23: State Unemployment Insurance Weekly Claims Report
-- 2026-10-23: Surveys of Consumers
 - 2026-10-27: H.6 Money Stock Measures
 - 2026-10-27: New Residential Construction
 - 2026-10-28: FOMC decision, 2:00 pm ET, and press conference
@@ -138,6 +135,9 @@ Next FOMC decision: 2026-10-28 (5 days away).
 - 2026-11-06: State Unemployment Insurance Weekly Claims Report
 
 ## Headlines: Official
+- Survey on the Access to Finance of Enterprises: lending conditions tightened (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html
+- Frank Elderson: Taking action for nature – investing in economic resilience and prosperity (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html
+- Piero Cipollone: Interview with Milano Finanza (ECB) https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html
 - ECB Consumer Expectations Survey results – September 2026 (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html
 - Regulators unveil plans to simplify Senior Manager and Certification Regime (Bank of England) https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime
 - Minutes of the Securities Lending Committee meeting – September 2026 (Bank of England) https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026
@@ -147,39 +147,37 @@ Next FOMC decision: 2026-10-28 (5 days away).
 - Frank Elderson: From climate and nature risks to economic resilience and competitiveness (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html
 - Christine Lagarde: IMFC Statement (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html
 - Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm
-- Banknote imagery advisory group minutes – 15 July 2026 (Bank of England) https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july
-- David Roberts CV and questionnaire for the Treasury Select Committee (Bank of England) https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment
-- Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026 (Bank of England) https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026
 
 ## Headlines: News
-- Trump to cut Canadian tariffs after pressure from Republicans (FT Global Economy) https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1
-- Will Anthropic pull off a November IPO? Time is running out to file key paperwork. (MarketWatch) https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories
-- Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out. (MarketWatch) https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories
-- This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%. (MarketWatch) https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories
-- The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean. (MarketWatch) https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories
-- The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term. (MarketWatch) https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories
-- Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies. (MarketWatch) https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories
-- Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey (CNBC Economy) https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html
-- AI Trade Stumbles Again as Investors Rediscover Treasury Haven (Bloomberg) https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1NPZWhQZW05ODAxWnE1dTNYbDJaVVNzbGxjcERRMkRGUnk3OE9jdUE2VGJWRXpTY0VqVnhSeWtYdXhTNGlSM1V3NkVXbFI0RmMweFJqcXZlc0FYdWt5QmtHaWpHQWN5Vzc4aW55cnlqYjdwblM0R04tUUFlRU1ESGk0VnprWjNPRFpWaXJEVkJGMTdab0RtTTlNVWFwN2ZOcF9iVTdDSDhKQnVzNlNqWDdEZw?oc=5
-- US Equity Markets End Lower as Oil, Treasury Yields Gain Amid Middle East Tensions (Yahoo! Finance Canada) https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTVDaGZXc1hvb0ZubjJOYWFEU19tVk5waUZqeVg4aXVoQTV0eXJudHhpNXZTZEZadHJaVG8tODJJY3NsSlJYWDc5bm5wOF8yaTVoSEktQVIzVFNXQnRZcFVFZTRndUVmZHYzaExOaHI0Rmd6b3ZLYnFaYW5zR2R4TW1B?oc=5
-- The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour? (MarketWatch) https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories
-- Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted (MarketWatch) https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories
+- French Bond Rout Overshadows ECB Succession (Bloomberg.com) https://news.google.com/rss/articles/CBMingFBVV95cUxQMzRPQm5hMnFIYWhiZHhSY1lBbFRJNGRIMGZBVVZmbS1JSVYwcVVuSVdRNkNjZVdmQ0dTWjhPbURySXFaQVJwdlVWalhoNml4bzNlQlYwdzJUUlFFUWJWcjRNQTdKUEM2d0JYc3JIakIyLWJzOGc5ZE1sNTdzT2NmYVcyQWFqVlhwZVo0RVVZaVpfaGx6aFFva3pJQXVMQQ?oc=5
+- We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame? (MarketWatch) https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories
+- These four shocks could hand investors an unexpected buying window, strategists say (MarketWatch) https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories
+- The Morning Risk Report: The Signal Chats That Cost OpenAI Researchers Their Jobs (WSJ) https://news.google.com/rss/articles/CBMizgFBVV95cUxNdG1zWHJHcHdMY1NrMDFadURzb0tpeUsxa3hGeEpnXzYtaGhKa3p6N05hSmtmRE9Oc01RUlVXbGpPeXFsaHdJaTh0THhJcEtvQ1dFMHh5S2lhaWxST3ZmdEhzZF9PdVFuS19ud05pcm9nVzJvOUZQRmd4TFhwWVl3LUdEVEtRR1pNVFJxMEFmS2kweUM1U0hNNjVGVlpCYy1uMGtvUGgya3ZsRFlja1c3VHlIbWFfMUdhdlUtYUFFZ1VQQnFNRVpGTnVpa1RmZw?oc=5
+- Stocks Rise Pre-Bell as Traders Await Fed Policy Decision, Inflation Report, Big Tech Earnings (marketscreener.com) https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdUFmZjlkNzBRVTc1WmJ3TnhQMzVHbk1KMmJKVDFOanoxTlhjQ3E2bnJmeW1Ca0VKY0JzT0pwRXZULUJsaW1DNnRxY3FHSmp1djNSNlZ1ejFBSTVCZklFdDl1SmtwMVd3UWlYdzJoMV9KemhRQ2psWVJlSzBCcTRSOUx4RmdUclNKNm5maVB6Ql9ydTluTFo2c05FQVN6Sk5oOVRNV2kxVTd4TXYza0xhM3BPVzBKb0YyMkhtTzdvaGtQZUVxV2ZwWlF1N2hDVF94VEg2Rkt1UmtJZkR3bnc?oc=5
+- The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25% (MarketWatch) https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690?mod=mw_rss_topstories
+- Why the Fed may hold off on another rate hike despite high inflation (USA Today) https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmpIemZMampsNnRvQ2l0MzhWa3huOWk5SGNOSkdMZTN2Sk9lY01fN1NNdW5aS1ZSUG9ZTXRtdHU1MjRlTnlOT1JiQUp5c2NaS2NsUFM0Tm9Jem9yLTdqVThEVTVxUk5CWEtaZTduZTVCMEluakJxblNvcG1iMngxVVBrTGlDMHNGUndoR2R1NkRnemEwcEhVU3RwWGhTTUxpNk9yNUNkSms0T2l6dVpYZHFubGdwZllZbkdhZjNtbkFqSFNOWlNv?oc=5
+- Euro Zone Firms Face Tougher Credit Access, ECB Survey Shows (Global Banking & Finance Review) https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTBpLUpwcnZ6TjZRN1I1YjE5MWFqLXFTNXFSeUNvNUprVUlScW1VT2ViUnpUYlFEZUFGeEp5RGlzT0theG1rY212WlZQYmFXZEIxUkdEQ0tXR2J0X1gxNzhsRnhveGFzZElTanZXQ1Ytc0hwOFV6ZVlSeVJGRzM4NlAzaE5IcFlIUlhiTFNqV0k2T0VJeTRMUlExMDY?oc=5
+- FX little changed ahead of Fed and ECB while stocks gain (TradingView) https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2VzeUhGU3NlNDNYai1PRmhfdEcycEFfOTE2N2NXWlhTRlBhaTVkdWJSUHcyWUdQVG5GcE1rSEFuQVdXM1V6N2pneWxmV0V0Y3c5c0d1dktEVzAteWZjWWZCakFSZ0NqLV9kTGRSZngzT3NqNWdPQTJKVVRyMEFKYUNudk1DZ2NsTEJ5ZXZyVlJnclB1eDlwQk43NzdlNm94aUxKbms2em5rRjhRZl8wZDFxUDE5M1NwUWhzRXp0ZHBGSkx4?oc=5
+- Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus (WSJ) https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5
+- My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked? (MarketWatch) https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories
+- Fed to hit pause on rate hikes, but maybe not for long (Reuters) https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFBxcEVKT0RxYVJKYWZGOUlGd0VJTE5vN2lNTnozcm92NTV5Vzg3aVdhT2p3eGpoVlZlZ19aaGtPa0s2VzBsS2xuamdkTnU4X2dhNGRzYjlaVTFpVzdLSkg4TDRlQThPdnZOandxOE1wV0o0WDFCcDgtbEZIQmR0a3BFOWdIM1dPZGdmQQ?oc=5
 
 ## Headlines: Companies
-- Goldman Sachs CEO David Solomon on the economy and small businesses in the age of AI (NBC News) https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWJ5eURDbU9qUjRPZFNfdlVMaVRyczZBWmlTSENpNlR3QlVSam44WHF3NEZZWjVGSzNRRmNGOUNHWXpwb2xibE1wckQtNjhiYU16RFZSU0EwUFQ5NmVXMW5NSGU2N2VPd3lNNG5DY3NRb1FXcldFbkUyTWVQUEZDRUdqTW9DQlRJWWFEX2Y5STZWaWJuVFQ1aGRrUGVwQk5DRVRNNUJhWVVMR3ZNbXNkQmpySUhIdTFQT1ZPZkpIODJ3MUw0LVE?oc=5
-- Goldman Sachs CEO David Solomon is optimistic about AI. Most of America disagrees. (NBC News) https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTBtRkdCV0JmRVhRRElocWhzcy1QVnNWalVodjRkQTRBa29uVTJhaXc0cXBSTWFYQTluU05rZU54blRJVktmNURyUU1aWldQclZuRllZbzdfSnAyaGNiM3ZYb3VPb2QtdTNna0tvUDdxMDBBRmd0eTVaWDNhX28xWi1SRWd1SV82cjVYeUFxeE1kZw?oc=5
-- Wall St Week Ahead Earnings flood, Fed meeting will test rickety AI market rally (Reuters) https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5
-- GGG Q3 deep dive: margin pressure and cautious guidance amid mixed end-market trends (Yahoo Finance) https://news.google.com/rss/articles/CBMikgFBVV95cUxPajZ6ajdVUjV2ak1SbE14dnhZMWRoSmxmYmY4WGNxeUZtRnBsSlFGZWhmY0lsUGJreWkzczMtWVVOUG9XbGx3Q0pZRnp3X0ZKbXVYcGhXQXBGZWZaQkN3dXZaNWQwZTZicXNlRXpoMWFSWm0yUEVQSzdvRFZ0NFY3LURFSVdhSWxTY19DbXhyaURBQQ?oc=5
-- Meta stock closes out Friday down as AI spending fears continue to rattle markets (Yahoo Finance) https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5
-- Citigroup Inc. stock underperforms Friday when compared to competitors (MarketWatch) https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOWJUUUQxRWE3UjN3MGV5R21nU2hoQ0Y0M1NrVHpWbUs0cGpWS0V6T196YmRycVBnOUJtaTZGdDlHVFp0TWdNNHBRT3p6MGlEVGl2ckJCZ05VREhBX1ZjQS0yMmpVVXQ0SmgzU0I3a2xkQWZlMnUtMWVUS3NiTXFSaU80bEtOYlpYdklHN1BUWlNfeko5NGxIN01wSFRzQ2FRRkNIVWl2RWpVbVUyWGFnNHVkTGxRQlV4a25jc2NJbVg0elNTZ2RweXNQTFlST2xFYVM5NUtjM2RxOEY0d0VVMw?oc=5
-- Goldman Sachs Group Inc. stock underperforms Friday when compared to competitors (MarketWatch) https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGd0aUVHdnJrRWY3cTVHSGJYNFVkRDA5VGtNWkM1SXNIZEF1cFhrb2hVcDFYVDJHcEhjRWJuN1RBREM4dXBDUXV4UDhYenNCcDlkMjZIcldMRFZqWlppc2ZEOE9YUUFGOHRJOEthSUNNOGZsS2RTam9GM2hUT2F4XzdfbkFUajhMY29mYlU3WXl0cUR6OTVUOXFueWw0NnQyQWVxNlNjRXgxN0xGMG53VW14TUpBc25WLVo0bDNlU25feFBlbnlsSjlTR3dhbnEzLUo1SWk2WHRoMXdtS3Z1czB6Zk5nNEd1YUN3WDZB?oc=5
-- Earnings review: AI-driven names rewarded as guidance trumps beats (Investing.com) https://news.google.com/rss/articles/CBMixAFBVV95cUxQay1BYi1PYUpxOUxLZkNwRWtjOVRkcnNFcl9zNUZYWW90dW5QX0E4NDBiM3lZN2dyaTVTQ0hHZlQzdWFaMEZvRXNMTElkWVRmMFJTaUQ4dTcyYnpvbFlXc1VvbFZmNDZFMW9adzBRbEVZN09yMHRrb1hOd1I3THBicWFXVnBCM1ZCMzgzZTByYkFzRUtDWEpKYUJHRFJBbUtsajNzdGtXclJnV2M4YkVSWHVLYUJVcmdFSlZrQklucFQ5Yi1h?oc=5
-- Is Customers Bancorp (CUBI) Undervalued As Earnings Beat And 2026 Guidance Rise? (Yahoo Finance) https://news.google.com/rss/articles/CBMirAFBVV95cUxOMm1BM0N0TUgwbjRmREdUeU9jaFlGMUY0T2JEYTdyQm5MUy1kVVZSWDMzQmRGLU9Uem00RnpsQlh2Rk1kblBTY3RsNDRsQzVZLW8wOEtDdk44VlpBbW9RUENZdDlBVzg5WlFacERWbjlfRjZuXzN1SkMwcTF2UG90dVh6M1Uyc0VpNm44b1Qyc1hvVDU3MnVGSGQwcERQUnpXdGkycW4zNkNua3J6?oc=5
-- Bonesupport Holding (OM:BONEX) Q3 Earnings Back Rapid Growth And Strong Margins (Yahoo Finance) https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDltWm51YXlIel9OQkpNbl9hU3MxMUw1U1hITUdFZFBBTnBCTXMzYWppQmJTWkVENExWcEhrZURVUFdpZjM4MTNpVUNlS0xJUGhpMnFrNy1PVGV1ZXZxZTNzNDctUnFOd21qeFhQTDBUZTJFYjVraDNxN09nZTRQRV9uSmdVUjdZYms3azRBRlBwNlhYdUVDUng5MDg?oc=5
-- GeneDx to Report Third Quarter 2026 Financial Results on Monday, November 9, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMimAFBVV95cUxOTE5tN1Y4ZmpSSC1XYnIwcXBQTElqLVFyTDRtam5yZnpfcUhvaUJMb2lPRUJVY3FjWWJkaGhqTTgzdTlPNnRXZnE5a3duMDB3eTlud1Bmcm1faXk5QU1xWVVBT0Q0dWFrbTFaU1RSSWdvdW94SDZMZzRtSy1PeXN5RmIzNjNpZjh4eTF5Z2wzcU9VZTcwUm5YMw?oc=5
-- Orthofix to Report Third Quarter 2026 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMimwFBVV95cUxQZXZaYWRRWjJOeHNfSk53RmJwaTJ1bW1oNEZOX3BRME9zXzdtQnNGaTlZVE11SE9ZRHN6dXdMV2dhaHdWaXZ6N3JSRm95RXdTS1R5b3oxSl9xazdheldVcmRqakVJbDVvUHhUZE1XNEtoY3ZqRU45b2M5VXhONE4tSDhIS25odEtHMzY0NWcxU1hnbXd0TGxWUEhSMA?oc=5
+- JPMorgan Announces Cash Distributions for the JPMorgan ETFs (StreetInsider) https://news.google.com/rss/articles/CBMiugFBVV95cUxOLW1iMG5hTFlqQ0lmcTZoSmtDX0dIeWh6bVNoR2NUQnpvWTRkX1pHMmZOLXFQTEZlbElOOGl1UjV0a0cyUHRNQkd1eDExWEZUdXVGVm5nVUx4TEtCWnNObnF4cWMtYm1kLW1oYmtYQUdwQWFlSk80X2J4WHExcUk1UFdaenNVUGNvZHp1eU13YWVoTDQwTHZ4QXlpV1ByS0F5LWNHZmVMYnN5MWxEcWJiaXdKaEVtcldDLUE?oc=5
+- Goldman Sachs sees 60% KOSPI upside despite cutting target to 9,000 (Yahoo Finance Singapore) https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWh6Z3FpblNCdEpITHFpSlFZdHBwbHRERG92UWxOeVhmYUY2RXZtVWlEanZ2dEUwTjFnSDV1WTNxMnBKMEJtY2hfVmVwN1ZTNEFZWEY5M181cm40Sl9senhGZndrR1BJZFNpb3F1eGV1UHY0ZlZwRThLbDRaTUIwRjRB?oc=5
+- The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25% (MarketWatch) https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWlVtcFAxMkJFak9ITVJCbHV6c3ZQSmhjdFE2RFdpSF92cjlKcGV1R1dzZVRjVnRvQkVfMEdFY2NESzBVSjZmLTRnMmoydi1tMjNvU0VRMEpneTZUU1Q3RTc4YThIT3k2TG1GcWd2c21qTDBoRVZBUE42Zkp0eWZFeExEcm1sUkJvaE9zSC10U2tUbzlRd00wS21nMFdLRTZqa1k2bkNIajg5WmhhbVVaQ3V0bzRVS0VaalloQTVfQlFaYUtvYm1GRTFwek9udkt6Vl8wVUFIeG1xWXZlZHVmS3czZGRsQQ?oc=5
+- Citigroup Just Opened a "90-Day Catalyst Watch" on SpaceX, While JPMorgan Chase More Than Doubled Its Price Target. Here's Why Wall Street Is Now So Bullish on the Stock (The Motley Fool) https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3M2SGg3S05kRDBfd0xhSmQtd3RyWkhuYUJNd210RVcxVG9UNi14Y2Y3MkxCWDRKd0NyZk9ZTVlJOE9LUDFKNXhralNCSVNUejhsRktoN2hhUVVpSEVtcFdsd3RkSVpLV0pxdndhWXgwSmlHbVBUQkpIVFhzUW9HMi1ycGZSYk9pMEZfc21jS0hYWDVTS3lYRQ?oc=5
+- The Supreme Industries Q2 2027 Earnings Call Is Live (TradingView) https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmFXZ01nVmNWcEFaYmdHNDduSmwxckw2MlBFWlRvZzB3bndDd3VWTGVTSnozdnNLaURuT2FXX1c5SV9YeTBOSzA3ZklWcy0zMEQ1UUF5Q3lCVFE3OHF2dUVOOE01N2tSekx1MmJDeEk5TjR2NGZORjhZX2hIZmp6dzBWV1dWTDZDNTdlUDV3aVhzT0RDa3FSSTlmRWczNE11azdHZnpNaWE2ZW9tSTNMOHVQQTZRdllUTXR3WEFn?oc=5
+- Earnings to watch: NXP Semiconductors (NXPI) reports Q3 results tomorrow (Yahoo Finance) https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUNQamRYMlBVa3N5MGRSanNSSV9HVV9rUE5nXzFydWhZMUtETG5pSFZHZ2VwdlJJWWVGZ05QcS1JMng4TEhDUFY0SkNHMm9RX29FenNxZGVfa3N0TW1ybU8yRDJkQ3dGWV9SWFY0M1hLNVpsWHZHMnFwYnp6eUVPbGp5M1A3Y3g5OEFBSjg5UUJUQS1kbnF6Q3lKdEhrXzdWMmY5elZR?oc=5
+- How David Tepper found his footing in Charlotte (Sports Business Journal) https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTzk4bmZrMjZYUzlTdnlibFNTLTRiUTljTFpPX2tMRzNVejI2dW1qY1RSMkhkMFRYVENIdFNVNGZwVng5VWdJQXdkb0JuT2dQaUN4R3ZVUWFBcEIzNVRLWDVrWS1oQURWUWlfTUI2MWlwUkxhdl9Cbk16RjlHLXBMYzZBN3ZsQXpCNktKWkdXdlREZ3VDWlhVdGQ0LXU1cjRtLTA1QU50aVpTQQ?oc=5
+- People Moves Monday: Bank of America, Goldman Sachs and Tradeweb (The TRADE) https://news.google.com/rss/articles/CBMilwFBVV95cUxPVnNmMmc0UXRaV2taand1YnFjX2I5SHdSTUlScUtRbzdtajdxU2QtT2VuMG5XRm0zRXJsWFYySnEtVVFwZmlKUUZvNkIwUVZ4akxTYjdKTDdBOU1FRkZ5RTFaSTF0Q2h1Xy14Q2JjRzM2VFU3Z3RsUEJEcVVIbE81ajFnNjRZZGRlZF9PZmg4VWItQ2xGVzRj?oc=5
+- Is SpaceX a Buy After Its Latest Quarterly Results? (Yahoo Finance) https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWVaMzlWUEZTN0hlNXplc1ZYR1UtMnpCLXlmNEVXSXhYdHRxMnhHZFVMM2dOcmJiNUNZcWZRczk5U3hqajMyZnZadkV3bk1GbGdpYnpWZUdsZENrOGNfWkxLS0EwMTRqMVNfeERsOGc4YTVDMjd6blRUS1JhOTJJYkZ2RW8wSFhyMWJRUkNKWlNkUnlHclcxY1pUa2YwQ0JndVE?oc=5
+- Booz Allen Logs $2.8B in Q2 FY 2027 Revenue, Updates Guidance (GovCon Wire) https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGl5dGFybEp5cVFpVVhENmdFMGJ2bVhxOTZfbnh0aXgxQTNnQWJpTjlZdGctUXhSam9WZE8wY2JPSTRVaFI2aF9CR0RVM1hSMnhVc08wd2Z0UW5oQmU4Y0tjZDE4RDZDc2tadk5sNGZWLWx5dnJ6WlM1WG9rNHNiTW5rOGNLaGRRUUcxQ1E4cTY?oc=5
+- United Parcel Service (UPS) reports earnings tomorrow: what to expect (Yahoo Finance) https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVRWNWZMMjNZWnZvQzVOUWFNbHJhY05HQWpoVGxFMXRCOEJyamxPZU54M1NyMG94WldZSHpLUmFNbzY1WEdLQ2JZWXVQamRiWDhwQ0xMenlhZy11SVhUQnp4WTNKRXJkQ0J0dFBhZXlaNmVfcWFMRHdzNGlEc05RWloyZ2g1QThxM2E0UVlzSkFaS0w3RFJ2dEpGelhrNEFS?oc=5
+- Goldman Sachs forecasts two Bank of Canada rate hikes by January (Investing.com) https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWNUSGZ5YVo3MjNZM1YwNUVGOUNpN3hTcERadUxlSGkxZHJGOUdubk9LcThLamd3WlFPRUdvUy1FdVIybzdMWHU1VHp6VHNSaGs4bE5VZnV6OHVNSFItUXg0WEdXOFFzTFppUW5ZODV4ZTYya3lweExRdnVUY1dfaE9fT1FVTnM5Z0hfd2dORmhNSkViSkdTem9IYjhzUnRpVDZOaTJvR0dXMlVRbmdwZzN6UUhUaG9XaTFEUmZnYUNTVmpQ?oc=5
 
 ## Headlines: Research
+- The courage not to act - moving towards a demand-driven operational mode (BIS central banker speeches) https://www.bis.org/speeches/20261021-courage-not-act-moving-towards-demand-driven-operational-mode
 - Closing the gaps - collaboration in the fight against economic crime (BIS central banker speeches) https://www.bis.org/speeches/20261021-closing-gaps-collaboration-fight-against-economic-crime
 - Improving cross-border payments in a changing geopolitical landscape (BIS central banker speeches) https://www.bis.org/speeches/20261021-improving-cross-border-payments-changing-geopolitical-landscape
 - Euro liquidity lines and the international monetary system (BIS central banker speeches) https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system
@@ -187,22 +185,21 @@ Next FOMC decision: 2026-10-28 (5 days away).
 - Don’t stop thinking about tomorrow - building resilience to climate shocks today (BIS central banker speeches) https://www.bis.org/speeches/20261021-dont-stop-thinking-about-tomorrow-building-resilience-climate-shocks-today
 - Islamic finance for impact - the next measure of success (BIS central banker speeches) https://www.bis.org/speeches/20261021-islamic-finance-impact-next-measure-success
 - Republican budget for 2027–2029 (BIS central banker speeches) https://www.bis.org/speeches/20261021-republican-budget-2027-2029
-- The courage not to act - moving towards a demand-driven operational mode (BIS central banker speeches) https://www.bis.org/speeches/20261021-courage-not-act-moving-towards-demand-driven-operational-mode
 - Celebrating 30 years of capital markets development in Uganda (BIS central banker speeches) https://www.bis.org/speeches/20261020-celebrating-30-years-capital-markets-development-uganda
 - Statement - meeting of the Development Committee (BIS central banker speeches) https://www.bis.org/speeches/20261020-statement-meeting-development-committee
 - The Central Bank. Trust. Daft Punk. (BIS central banker speeches) https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk
 - Message for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference (BIS central banker speeches) https://www.bis.org/speeches/20261020-message-58th-annual-financial-executives-institute-philippines-finex-conference
 
 ## Headlines: Opinion
+- FTAV’s further reading (FT Alphaville) https://www.ft.com/content/275de0d7-81c1-4b83-8734-15eece7bf583
+- The rise and fall of the £150bn ‘diversified growth fund’ phenomenon (FT Alphaville) https://www.ft.com/content/cec7ecab-27fa-41ce-93f8-e6a6061599d1
+- Americans are down on the economy and concerned about costs: Polls - ABC News (ABC News - Breaking News, Latest News and Videos) https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc?oc=5
+- Israel’s economy in the age of mega-acquisitions (JNS.org) https://news.google.com/rss/articles/CBMilgFBVV95cUxONHowb2piMFFSSHRwNXJNNms0ODJfOHdUZmpnZE5WSlF4ZTd1TWhEOXNsQUhzMVd0czFCMzBKY2tqOTUwUTVHN2MyN0pubTFOcUlZYzJqMEJyZFNzQTdIOUpZem5xWG5qRHJ6R1FDVF9NTDBtT2EtSm4tMERQM0RnUkFXSTI3Rm1PRkd4aldwWkxrX01salE?oc=5
+- The arts and culture sector injects big numbers into the economy. (Monterey County Weekly) https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWlBIWjVpcV9FWE5IWS00MV9ub3JJV2Zmek53ZWFYdTJFXzJ2U0QzTUFWZjlXMjMwcXpOV0hQOVF6MlhkcVBzS2tUcDR5clpJUUNpRjhZakZzNElIMDFWcjh2WW5KNk9yMGY5cWlISkFXaHFhSFdWMzB6WHpIWkVwMUhtN1ZWczY2eVMxcWVrV3dzZnJiak1jVlFUMUVXTkZQVnF4WElNbGYxTkdVUlEwYS1VbXotMFI1RXo1b25mZWx4b2JDNzljaEl2VTFQTE9oTzFHMjVXUk9hV0tNcWFpVlE0TjZ3T0JSWl9oZ1dDSFBaNW5FWWRvNHFDRdIBgAJBVV95cUxOeWJYSjc3NVZQbkQ4c0ZpX3d6NERWMjJ5MHF2TDF6clp1OHFTd3M0OHFzdVhzVE11MUdNcVpyMmtpMzBNaEhMa1ltdHR3Y3k2RFlZakNlMEJIaEpXZzV5S2puNVo4M3gyU1Q0NHZHdDhfald5SDZrRmVCc0FoZTY3cHRFTDRyUU5kb01CVjBvV3ZjTnYtXzVrSFRUVjlEV0lqVktDYlFoQ1FVWU1QS1Z1bHhqd1FCOGdFSGtJVmdraDM0RkVjOWNseGE3dUE3Z2lRWkc5TmhqSDJXVDlucHRxTE1vbEFoZEwyek92OGNkSlVjcERqS1h3NkhQNV9uMkJk?oc=5
+- Latest U.S. opinion polls (Ipsos) https://news.google.com/rss/articles/CBMiYEFVX3lxTE83Njh3Nmdmc1dSamlYMnEwVlliUHYtYnBHNmg0QlhRdE5Xb0lFUzFnY0hJc2dXOHZSQVNZNWZtOVlPei1IOW1aUHlROUNYQkx1NGcwZ0FfbnJ4QS1qZ1g3bg?oc=5
 - Opinion | Why Trump is failing to make Iran flinch (The Washington Post) https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ29wOWwxY2tHX2JGOVJFWWQ3V3g1RG1GaVIzdjA3QUp2VldoZVNFZ0VUQzhSQ3ZiOHdyaWhvMFpxZi1hbFNib1hXUHJMNFJzOU9JaVRLaWdHSkFaZWxlTndqTVhXUUpEYU1JR3hrTHdiMHItNDF5cXl4RGZKSGI2R0NDcHF4Zw?oc=5
 - Bringing the high-tech economy home | Guest Opinion (Rochester Business Journal) https://news.google.com/rss/articles/CBMicEFVX3lxTFBtS0dlUmN1bmx3NV93ZzJUMG9jSGdiZFczaEJ2cHo1QmRGQ2hubWRicEhhMDAycjBybFF6Q3VEN0dKcU9zSVY2UDQ5SHViS3Y4b25lUml5UE5ubU9Ua05VR3dIOWhtY1BpMUl6UmdCckg?oc=5
 - Is a Chinese Implosion Looming? (Project Syndicate) https://www.project-syndicate.org/commentary/china-eroding-fiscal-position-political-purges-economic-weakness-by-navneeraj-sharma-and-arvind-subramanian-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - FTAV’s Friday chart quiz (FT Alphaville) https://www.ft.com/content/49bd797f-603d-44b2-a7b2-2540e43d6cb9
 - PS Events: Reinventing Europe – Ngozi Okonjo-Iweala (Project Syndicate) https://www.project-syndicate.org/videos/ps-events-reinventing-europe-ngozi-okonjo-iweala-video?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - Commentary: The economy, not the Fed (Pensions & Investments) https://news.google.com/rss/articles/CBMifkFVX3lxTFBlT1pFd1VEUVpmRTJ5WjRfUmxaWVhtVWp2ck5ITEtxMlByWG5hQlNVZ0MtS0tKS0VyckpZOFQxT0dkZkVhR0hMSHRubzM5b1FKeWQyTkhLT21wTGZaVWpqSGpSTllfUGxKS3BkS2ItMDBld2puc2hYb3RHSzNtdw?oc=5
-- Who Pays the Fiscal Watchdogs? (Project Syndicate) https://www.project-syndicate.org/commentary/civil-society-oversight-of-public-finances-needs-sustained-external-funding-by-janet-zhou-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- How to Help Left-Behind Regions (Project Syndicate) https://www.project-syndicate.org/commentary/reducing-geographical-inequality-requires-targeted-public-investment-by-keun-lee-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Opinion: It's all inflation (Idaho State Journal) https://news.google.com/rss/articles/CBMivAFBVV95cUxORURaWU42UnprNWNZcElCYUZTOTdULWhQQkJpVFFsLXV2UkluV1lQUE1zWGJTSDg0UVIyTG5yYXBxa0tBRlh5WVEyTzFNeHIxUm5yODVnaVBkMEhKbkhXcjlNbHNHb1R2ei0yOHd4ZmVLSzQ5Z0ttTTRkOUJMZ3A0RkVjY2xBLWNMdXc3Q3gtSWI1WEp5Mjc1UnFxM2xTdnJfNEZLdlNnM2tCU09EYWl4VUxubk92TzlpdWpCWg?oc=5
-- Opinion | There Are Solutions to This Crazy Economy. Voters Will Hate Them. (The New York Times) https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3ZMTE4wTnMyeEgzOWpZYlZMN3p4dlh6blFzNnFKT0ZCM3VpX2ZSVExVdXpiaWFIR1gwVVNLN0djZmlrZXJtWXc2MEczNGN3VXREMUNtMkNMSVVIYkgtU055dHpIU2tQRnJoWUs0YmszN2VjejNDdDh4STNWYkJPOUplN2U0SWZQcEd1aHVVdnBYOG5XWHprbU53?oc=5
-- Video: Opinion | Is This Economy Trump’s Fault? (The New York Times) https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0JVQlRhY1lGVW9MS3Y2cVYyYkRQUVZaaUhSd05pczBVY2tFTGJ1MHlkeHBRU0pvUkFuSFVUa1BzZzRoQTdtS2psMy01WUQ3VFdXS1N6MXRuaGxFN3k5T25MQ3F1UzF1MUU3cnJlay05SFVNcW41RDNZTlI5dzlzOFliZHg1dFFyQkprdkxKQlc?oc=5
-- The Agentic Information Economy (Project Syndicate) https://www.project-syndicate.org/onpoint/agentic-information-economy-by-shuwei-fang-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
