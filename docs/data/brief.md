@@ -1,5 +1,5 @@
 # Econ Desk snapshot
-Generated 2026-10-28 14:28 (UTC). Source: FRED unless noted.
+Generated 2026-10-28 22:50 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
@@ -12,18 +12,18 @@ Next FOMC decision: 2026-10-28 (0 days away).
 - Fed funds target, upper bound: 4.00%; change unch.; as of Oct 28, 2026
 - Fed funds target, lower bound: 3.75%; change unch.; as of Oct 28, 2026
 - Effective fed funds rate: 3.88%; change unch.; as of Oct 27, 2026
-- Interest on reserve balances: 3.90%; change unch.; as of Oct 28, 2026
-- Overnight reverse repo rate: 3.75%; change unch.; as of Oct 27, 2026
+- Interest on reserve balances: 3.90%; change unch.; as of Oct 29, 2026
+- Overnight reverse repo rate: 3.75%; change unch.; as of Oct 28, 2026
 - SOFR: 3.95%; change +2 bp; as of Oct 27, 2026; Highest since Dec 2025
-- Discount rate (primary credit): 4.00%; change unch.; as of Oct 26, 2026
-- Bank prime loan rate: 7.00%; change unch.; as of Oct 26, 2026
+- Discount rate (primary credit): 4.00%; change unch.; as of Oct 27, 2026
+- Bank prime loan rate: 7.00%; change unch.; as of Oct 27, 2026
 
 ## Liquidity and plumbing
 - Fed total assets: $6.75T; change -$2.0B; YoY +2.4%; as of Oct 21, 2026
 - Bank reserves: $2.96T; change -$60B; YoY -1.9%; as of Oct 21, 2026
-- Overnight reverse repo usage: $0.2B; change unch.; as of Oct 27, 2026
+- Overnight reverse repo usage: $0.2B; change -$0.1B; as of Oct 28, 2026; Lowest since Oct 2026
 - Treasury General Account: $952B; change +$69B; as of Oct 21, 2026
-- Repo operations (standing repo facility): $0.0B; change unch.; as of Oct 27, 2026
+- Repo operations (standing repo facility): $0.0B; change unch.; as of Oct 28, 2026
 - Discount window lending (primary credit): $9.2B; change -$1.9B; as of Oct 21, 2026
 
 ## Inflation
@@ -33,7 +33,7 @@ Next FOMC decision: 2026-10-28 (0 days away).
 - PCE prices, core (the Fed's target): 3.0%; change unch.; MoM +0.2%; as of Aug 2026
 - PPI, final demand: 6.3%; change +0.8 pts; MoM +1.3%; as of Sep 2026; Highest since Dec 2022
 - UMich 1-year inflation expectations: 4.6%; change +0.6 pts; as of Sep 2026
-- 5y5y forward inflation expectation: 2.25%; change +4 bp; as of Oct 27, 2026
+- 5y5y forward inflation expectation: 2.27%; change +2 bp; as of Oct 28, 2026
 
 ## Labor market
 - Unemployment rate: 4.2%; change +0.1 pts; as of Sep 2026
@@ -65,27 +65,27 @@ Next FOMC decision: 2026-10-28 (0 days away).
 
 ## Stocks and volatility
 - S&P 500: 7,723; change +46; 1M -0.3%; YoY +12.3%; as of Oct 27, 2026
-- Dow Jones Industrial Average: 52,378; change +16; 1M +1.1%; YoY +10.2%; as of Oct 27, 2026
+- Dow Jones Industrial Average: 52,475; change +98; 1M +1.9%; YoY +10.0%; as of Oct 28, 2026
 - Nasdaq Composite: 26,478; change +308; 1M -2.2%; YoY +12.0%; as of Oct 27, 2026
 - VIX volatility index: 17.52; change -0.87; as of Oct 27, 2026
 
 ## Treasury yields
-- 3-month Treasury: 4.22%; change unch.; as of Oct 26, 2026
-- 2-year Treasury: 4.68%; change -1 bp; as of Oct 26, 2026
-- 10-year Treasury: 5.00%; change unch.; as of Oct 26, 2026
-- 30-year Treasury: 5.31%; change -2 bp; as of Oct 26, 2026
-- 2s10s spread: 0.29%; change -3 bp; as of Oct 27, 2026; Lowest since Sep 2026
-- 3-month/10-year spread: 0.77%; change -1 bp; as of Oct 27, 2026
-- 10-year real yield (TIPS): 2.66%; change unch.; as of Oct 26, 2026
-- 10-year breakeven inflation: 2.35%; change +1 bp; as of Oct 27, 2026
+- 3-month Treasury: 4.22%; change unch.; as of Oct 27, 2026
+- 2-year Treasury: 4.70%; change +2 bp; as of Oct 27, 2026
+- 10-year Treasury: 4.99%; change -1 bp; as of Oct 27, 2026
+- 30-year Treasury: 5.30%; change -1 bp; as of Oct 27, 2026
+- 2s10s spread: 0.38%; change +9 bp; as of Oct 28, 2026; Highest since Oct 2026
+- 3-month/10-year spread: 0.87%; change +10 bp; as of Oct 28, 2026
+- 10-year real yield (TIPS): 2.64%; change -2 bp; as of Oct 27, 2026
+- 10-year breakeven inflation: 2.38%; change +3 bp; as of Oct 28, 2026; Highest since Sep 2026
 
 ## Credit spreads
 - High-yield bond spread: 3.18%; change -12 bp; as of Oct 27, 2026; Lowest since Oct 2026
 - Investment-grade bond spread: 0.88%; change -2 bp; as of Oct 27, 2026
 
 ## Energy and the dollar
-- WTI crude oil, $/barrel: $107.89; change -$2.12; YoY +84.9%; as of Oct 20, 2026
-- Brent crude oil, $/barrel: $115.22; change -$3.60; YoY +89.8%; as of Oct 20, 2026; Lowest since Oct 2026
+- WTI crude oil, $/barrel: $103.37; change -$1.88; YoY +66.4%; as of Oct 27, 2026; Lowest since Oct 2026
+- Brent crude oil, $/barrel: $123.10; change -$5.02; YoY +87.9%; as of Oct 27, 2026
 - Regular gasoline, $/gallon: $4.27; change -$0.01; YoY +41.4%; as of Oct 26, 2026; Lowest since Sep 2026
 - Broad trade-weighted dollar: 121.32; change -0.03; YoY +0.3%; as of Oct 23, 2026
 - Dollars per euro: 1.1199; change -0.0013; as of Oct 23, 2026; Lowest since Oct 2026
@@ -135,6 +135,8 @@ Next FOMC decision: 2026-10-28 (0 days away).
 - 2026-11-10: Research Consumer Price Index
 
 ## Headlines: Official
+- Federal Reserve issues FOMC statement (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
+- Remit for the Monetary Policy Committee - October 2026 (Bank of England) https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026
 - October 2026 euro area bank lending survey (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html
 - Survey on the Access to Finance of Enterprises: lending conditions tightened (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html
 - Frank Elderson: Taking action for nature – investing in economic resilience and prosperity (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html
@@ -145,35 +147,34 @@ Next FOMC decision: 2026-10-28 (0 days away).
 - Piero Cipollone: Pontes and Appia: unlocking opportunities for banks (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf
 - Philip R. Lane: Euro liquidity lines and the international monetary system (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html
 - Frank Elderson: Interview with Die Presse (ECB) https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html
-- Frank Elderson: From climate and nature risks to economic resilience and competitiveness (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html
 
 ## Headlines: News
-- ‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes? (MarketWatch) https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories
+- UK Budget Tests Bond Markets as Fed, ECB and Oil Risks Loom (Bloomberg.com) https://news.google.com/rss/articles/CBMisgFBVV95cUxOckZXZGlIc2VLZlpqMDZWRUdyUFlmMUJRTlFHZDFHQXJxS0Rla1FOaTd1SlJFZ3IwQ2dfRWJadUhVb1I4Rlo3emlXV0Y5MUItbzFlUGNDS2xHd0RpWkI2MEtKdkFWb1lwdlVSLThpRkt0NjNrT2dYYmdZQ1l6a3J0S21jSnE2RjBueE00cjgyaTQtTjZEMDNjVUhqOVAwQzNGRlNLLU9LU0duVTdVSW5RR2Fn?oc=5
+- Fed leaves rates unchanged as it awaits 'accumulation of more information' (Reuters) https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5
+- Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment. (MarketWatch) https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories
+- Federal Reserve holds interest rates steady (The Washington Post) https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFVkNXozVXFDZmYzRUlaajVOYzF5RnZNaHZ3d2QxWkRhbXJKeVY5a3k2cV9jRWd2YU5UcEpuODg1T3JxaDFsRFhHdzIwZ3hpNmd3elJ2alBFb3J1NU1MT3FodWhfcHpkV1dkXzlLNmVUaXFyT1BTNVdJbHhwOHhqWGVKZWFlZmduejd3YURDa2FOZDdaYlptNkVn?oc=5
+- Chipotle now has more demand from lower-income diners than higher-income ones (MarketWatch) https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories
+- Lumentum’s stock pops as investors cheer a possible sale to Marvell (MarketWatch) https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories
+- Inflation rises to 4.3%, increasing RBA rate hike pressure (Ticker News) https://news.google.com/rss/articles/CBMihgFBVV95cUxNa1pzQl9KelNYWXhPcFhzMUxpOWtCWThsT3FXeElhaEctZTRmWmE0VHNwTDA4bzIyeUtWWlRSc3dSZnVsaVp1T3Q4VjZRWWZKTjh0TlpvOC05czNrWURKazZ1VmtuVU9paUpRQlNibkU1Q3ZCN3g4di1QcjEzQ1VLMGJ2clY5QQ?oc=5
 - We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame? (MarketWatch) https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories
-- ‘When do I sell my stocks?’ Ignore the noise and focus on these things. (MarketWatch) https://www.marketwatch.com/story/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-things-5f4ca5aa?mod=mw_rss_topstories
-- U.S. Federal Reserve Expected To Hold Interest Rates Steady (Yahoo! Finance Canada) https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmtaSndoX1lKTUlCdnlDZ1pkc2JSS2RyRnB0ZmMydC1OM1RfdEVtUnJKRUhBMEpSU2wzdmJDRVlVZDJKeWFjcVpXSzkxY05neG9fNW94R3dFYnBSenBaeUxFdmtLNnNoTmwwSlgzQUdYZXlTUEJCVXMyUzN2QmVjRnBJUUFGY0dM?oc=5
-- Stocks Mixed as FOMC Results Are Awaited (Barchart.com) https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUc4bDYtZG8zS21zeUFvZDlaYWdpaEVOQVZtR1gzM2pLS0dnVnllcnhRZXNLa0lRX25ZOUJlQV9YQ3pQM1dnczRLNnZQMHBCMnVDaDZLbmI1YUVqNE0xWUFsQ1NBcjFvOXZ5Wlo2amdXbUxneF9sZG9mTUpNWUVaQm9VZE9aNUs0U1dGeg?oc=5
-- Have Treasury Yields Peaked? (https://www.connectmoney.com/) https://news.google.com/rss/articles/CBMic0FVX3lxTE80SXJ2ZVpVeDFMcDZIX0VwVkZjaGpVeDlGWHdsbTNzWk53NUdxU0ItSjNTU3Iyb1RWdjEyZFR2a1c3UGVaaWcxQVJuV1ZsTFktLUVrdzFUUFFsUllmd0pROGxucVlXdU5CSkJFQUJ0em5qNmc?oc=5
-- Federal Reserve expected to pass on interest rate hike, for now (upi) https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWZYR3Vjakp1SUxsRVNKUDdzbndmdUVRV2hDdTRPMzNhWGVpY1hzdTcxa2hVYXBkbFdKbE9mRzZqem1Oc1V0UUhYQm40dXZ3emJPVnlralNwRXF1SDc4ajhPRHVVLUxiX3A4ZzF1aUJIQlhBU0d6cnBpUFA4alRaQnpZYlVnUVZORGpObThHcTJtdi1FRWVpNzloM2RpeWVCMm1PUl9OSVRSdnhS0gGyAUFVX3lxTE40X3hBWTlweUxqWVl5Y1lBWFBYZXZNRWR0NzBOS25FX1Z0UTNKdGFJQWxnY2h4R0MzQ2lzd3ZHRmsxaC1za08wN1c4Q043TGlUa0FaYVc3LUxheUNpWGFuWVZjWGRDRGlLazRQMUF3bEVQYzhCQjZaYUp6bGpuNnM0T2h1X1ZGeldaTkR4VmxkR1FIelBWbEJjeHBPdFpva3REMm1OUjVRZDNaNWJiV1hmQmc?oc=5
-- Is that used EV worth the price? This checklist could save you thousands of dollars. (MarketWatch) https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories
-- US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates (KTVN) https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTG9mbDBKQVpwV3J6bXlGMFRXV2tCVk43ckxFQ3pTWGhiVXVjaUVlNFZuY0NrUEdKZFRWdUtFU2VmY21ZblNVLVR4ZGltaFMxWnBZcktta05wREFjMkRLY3ZEY3BaTTRXUTE4clY2eUMtQmxUcTc4UEFmR0dWQ1NsQUVzdmFZbWxWbC1qN25fVWRJYW1LWkozM3c1U2RkX0htZEVoRlVUV0plWjdUNGRKeDR3VXBnUlhEWFRYSDhPQVVnQksyOXhqUlB3UkxCT1Q1c3NOMTNROG1wbUFjWGFfQXJxcXlhaU5jbl8zaDRYWFpBTE1RWlVaMjNYQk5QQkk?oc=5
-- Managers convinced ECB will not hike rate rise this week despite energy-driven inflation pressures (Funds Europe) https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3dlSzI3ZTQtNHdKRGRIb3dQdGxUTXVkVHJNR0MyT2Qta1p5cEo0VF9UYjdCQ0xCSmtLTERuVDdlYVAwMmhpN21NMXl3aUF6U0hYdWcxSS0wdkRraUdvRnB3QURKWlVxNU1Ba1lGWlFJdl9wMXg1Um9wNl9JYW9EWDFxQ3NBdWlwTDlEQTFZMV9jTlF5YzJKX0hPd0VXS05TNFpwU2Jsblk0MTBMdnJEOHpoRUV6SVhELW1taklUZjVyZw?oc=5
-- US stocks edge higher ahead of Federal Reserve decision on interest rates (www.the-journal.com) https://news.google.com/rss/articles/CBMixwFBVV95cUxQYkZUN09kekIwV2ZtdGpDUXpJa0VBTTNGM3JVT0JXbXlUVkNBRE9SR1hPY1o2bWhJRy1zYVpsWHBEZV9fcG5tam5kcG44LUVCc0VhRDFRbUEzN2x2SlVlQ0hmdEpPcnZMNlctWEREUGZlVUIta3lEc2JmcUl2UWdpNXlOT3NlRld2VnpDWDFiYUVqbHZYeV9KMWtkMWpQYUM1aDNrMlhUNWZmck9fOHB1N0VHY3lHZENXTHRHVjhlaUpzM212SGc4?oc=5
-- Want guaranteed income in retirement without an annuity? Try laddering I bonds. (MarketWatch) https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories
+- Federal Reserve keeps rates unchanged despite elevated inflation (AP News) https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5
+- My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked? (MarketWatch) https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories
+- Opinion | The Federal Reserve’s Hawkish Hold (WSJ) https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWJuOWxnMlUxMzlNZDRObEJNMWdVWmFDdmVFWEhlZjZUVWRYZ1F5MHliQk5Vb2IzVW9HcWw5RWh2Sjg2bTRQX0RFTUx0WWxrYXVVQ2FDbEJ2QTRCMlZrRWJGeW80ZUZRZ1pRdW9lamIwSnZpd3QwODh5WUNXbTJ1SmVqMlZieDE2cVE5bw?oc=5
+- Fed holds fire on interest rates despite intensifying inflation (FT Global Economy) https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1
 
 ## Headlines: Companies
-- Boston Scientific Warned You. It Slashed Earnings Guidance After Cyberattack Hits Business. (Barron's) https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHpFdFVSNzJKM25OQnk5RXA3Wm84Y1ZmTnR5N0E3a0YtS0ZiRGJZRl95S1NOamNKQm9sejBKYXNqU0NvNWxwaWlsRTBWdXJqN1FZbXB1RlFDbXYwUmd3QVNtVXF4dDI4NDg5ZWR3WVpiaV9tdk1RSWhUYjN5RkRZSmRDNVFaZVU?oc=5
-- Goldman thinks there aren't many Fed hikes left. Stocks could rally (CNBC) https://news.google.com/rss/articles/CBMibkFVX3lxTE9GVXZjb3p0b0VnVjg4WTAzaXY4aHlSb3hEV2FQTjJoYUdweTEyOWxLVU1QeGJrdE5RUWMzYkluYjE2MFlHUTJfWldndzZjckVUWEJ2NjJjbEFoQXV2Zm5sRWQxRDdIcUdvTTB5Mmx3?oc=5
-- JPMorgan to lead retail share sales for Anthropic IPO (Yahoo Finance) https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWdHeW9MZ19oYmNYU2c1blZHcUNJYnFwQWU5UThRdHpSWFFuZHk5cUZPd20xeUlhenR6NWI1LWdPcC1kSWtpcVIxMDNNb0VQdTNadVI1M0VJaEJhN2MyQjZsUURiYzcxRHM0c1Jtck1TeFRRV3pEM0h4LWJBY05jUGE4R1Jla2RJenhWUEJaWmwyaG8xM2RnNHVXMmotcGJWbmc?oc=5
-- America's largest budget airline reports 71% jump in airfare (CNBC Business) https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html
-- Earnings to watch: Mastercard (MA) reports Q3 results tomorrow (Yahoo Finance) https://news.google.com/rss/articles/CBMiowFBVV95cUxQODc4RGZ3YldEd3BzaTR1RURWLVJaWFExTVRQbDViMm5Kd3AwREhNTm9WWUlxN183X08tVTdDQUtGaTh2a2FyR0lORVVRek43eGtSVVp1UU15U0c2bEcxenRFenh3eGVlLWlkVzZvLUwtdG1HdEJTUmRjSGtxMjN4dDRhckZ0ejJrbVY5a1JEdGdRQzlMb3BMMmJOdnRnSm53Q0pB?oc=5
-- GE Vernova Shares Rise 2.5% as Q3 Earnings Beat Forecasts and Full-Year Guidance Increases (Yahoo Finance) https://news.google.com/rss/articles/CBMikwFBVV95cUxNSHlBQ3dSZ2E0Vjk5bzItcFBxMjlXdG9fM1pKdDNNT09oOG1JSzJHNlNlN0JwSEljOE9Rc181RV91b0RVTF9qSjBFVTF1V19PY3RoUHZKSC1LN1I3d1d2TnhQdm96ZTVvREtIeE5BcGNCQlJkaHF0SUVFVThfTkdTcDZySU13bzZweVdkLTJDLUE4SDA?oc=5
-- Boston Scientific Shares Fall 3.5% as Earnings Miss and Lower Guidance Offset Revenue Growth (Yahoo Finance) https://news.google.com/rss/articles/CBMinAFBVV95cUxPRG1hNjRQakdCU0g1NFU2MmR5UjlJV3o5WXZqRXg5SzFZVTRFdExsVWVGNDZJQjdnS3FwNkx0WUpMeERHb2x1VzViZThlMjlVWnd0azItSnpwTmZKQWUwV3RqNlJFYXhkc3lSVm5vNG8ydlJ6ZVh3dEhMNWhEU2czY3Y2cHZudjVTb3pVODlPd3ZEakgtSWFjTF8xMno?oc=5
-- Bank of America expands in-person reach with new financial centers in Wisconsin (TradingView) https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbnpWcl9aWURLWDZYdlp0aEZQczM0YmdmMVY4cmdpWXZJZ1BXQWJNUDNBVWhURkR0S0NTQm5vNHFsem9rTDMxUmpyMzdiX1I0anEwZjlEUy1rTVZoWmJDdVpNRWpReC1vMHRneE5RV3U4WlVPQVpMcnVqQ0xpOUpzcEdBajg2MWVWd1BsSTc1RVNxVlZUaFh3SVBLc0xySDdSaHVjd2VsZDVxVHdBTE81VG13TUlQV2JINEpHS0pjY29yd1RPYndqakZTMDcxODZrcEt2ajlfVlI0UQ?oc=5
-- FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers (CNBC Business) https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html
-- Why China is desperate to ship cars outside of the country (CNBC Business) https://www.cnbc.com/2026/10/28/china-car-exports.html
-- Bank of America plans new branches in Wisconsin, Alabama, New Orleans By Reuters (Investing.com) https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWURXY3FRb3NRV3A1ZldKYlVfOHIxajMyci14ZTZScHdmSDVGQ2dQSkh3UFc1X1FTTVgwVXJoZGFxeU5pWEZvZnZmNUx4NDhkdndKaHY4OU5aRWpEUTlvUkdVWXZVRGRJSzRtRmNZTVkwNVpnSUJuZ0JXSTRjY3NRWmtXZUtsd3FzRmpWc1FoN1YzWHIzTmV3X0RyQjNTT1otUTdwblIzMWxoSkZfd1dlRjlKbFFHYzJUeHVCRVo4bVA5Zw?oc=5
-- Bank of America plans new branches in Wisconsin, Alabama, New Orleans (Reuters) https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTl6WXVFQV92YXdRem83ZHQ3TmgyUEF5REpzdkh3UnlsSGN6dC1WaV83SDJ5N0lGMWdLU3ZsUV9nblZoVV9IV04xb1paWW5qeUp5TW1ZUUs2UVcteVcyd2hWTnNZN0Q1NGw4NVMtN2k4VUFvNUJiX1c2cUpBQlZyazY3aE1FR2kxY0lJSGhJeWxRZ092SXRIT2JaMkxob2RCUjNscElCTTFTb29hak9MOHJfcjc?oc=5
+- Power struggle over Sol Goldman’s multi-billion dollar empire to head to trial (The Real Deal) https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3JJRDlHZHc2c0VDQWY4czJ0REw2bHNhS21maHJIMzUzODYta1VrbzNwN1NyYkk5ZXJYaHFtMHh1RlI1QTI5clN0ak93NGthYTd1dkVhZnFXclZTOFY1MXJKcjlMTUNaRTlET2RmZk5aXzZWeG9WTmhqVzZWNUtkOG1YUW11bUpuMnNVQw?oc=5
+- Vanguard Small-Cap ETF vs JPMorgan BetaBuilders Compared (Yahoo Finance) https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFhpRnhaYWR2S3Iyc2ZtVE1xRnViV1RIbzJqMWN4OU94Wm1TZDNtSFNMNlFrVkdyd0JKVnBuVzU5VjIxNzB4Q0h5NFNaSFlTV2pyemM2VWVoNmQxR2ZBTWFObzB2aXgwWVF4U1lBYmU2cE0tX0JacVJzSkdqTmN1bTNRQkpZWExVelJyOHJLYlRzU3pi?oc=5
+- FedEx beats expectations, raises outlook in first report since calendar adjustment (CNBC Business) https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html
+- Chipotle shares rise 7% after CEO says same-store sales growth will continue (CNBC Business) https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html
+- O’Reilly Automotive surges on earnings beat and guidance raise (Yahoo Finance) https://news.google.com/rss/articles/CBMiogFBVV95cUxPUTQxeVBMNFBDZGViWWRnazU0YlBLOEdULUxueUFnVUVmU0xmWm9mbkdHdHA1SmMzM1FyV0JQVno2WWQwVUx2cExEVXR2eGxBNXYxOVp1VDkxdi1VTmJZRF9FNHRNZlNXeHUzaXVOTTR3SUNIdVlBbnJxRkxMREptWFFBbmxkSjZFaFlaRXJ4dWtSOF9GcFpQSWtnck15eFZZdmc?oc=5
+- Bank of America to open 8 Greater New Orleans branches (New Orleans CityBusiness) https://news.google.com/rss/articles/CBMikwFBVV95cUxPT01lVW5nRk0yQm40ZnlDYWN1OHF1bWQtUlQtY0NWT3A2ZFBIUDJTRHpvVFJOTEtrMGlzQmd4VFVIR0E5T3owMnk0RHQ5QWMyN1U4aTRnV0VwNjJWTTltcFl0SzlfV1VoYzBaUng3dEhyX1dWLVJmUGd2WXhQTmJtRHdjN2x5clFBeDFWM2k0MTdNWk0?oc=5
+- Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year (CNBC Business) https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html
+- Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red (Fortune) https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0Q0YVlPZW5LQlJKcXFTOEFremJocUtxWVVTM0RzWlBETjlCdk9IRTZwdkVFeUY5eHE3OUJTNWVEc2k2Mkt0UGRhbVd3cmRtdUtsX0ZEQnFDOFBzWXR0ZTVlei0xbEhZcGJUb0RRNFRGYjJVcG1oaGNlV1BOU2stMGdzUkFTQ0FVN2MydDZoVEYzZ1ZZQk1pZGtuZzFTaUJKMXM0bXRnUzA?oc=5
+- Align Technology (NASDAQ:ALGN) beats Q3 2026 sales expectations but quarterly revenue guidance misses expectations (Yahoo Finance) https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3N3QzhRWVJpMXdvY0xDZlg5bFJaWmZkUDRxcGhDeWZYWkZ2V2czTlBlNngzcVpxMkNJMkczdHRsTUw5UE0zMUsxQ3VDU2VGeUhNekdzeVN3RnN4bWhadlhVNW1aVXdNWkZ4TjBmR3lKREpISER4T3JZRDVIY2dKUzB3UHMybUJaQjRuU01XcEFnWWF5T1E2RTU4VGVlczdO?oc=5
+- Google misses revenue expectations, Alphabet stock sinks in early after-hours trading (Yahoo Finance) https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTk4NGdYUkZvS1Q4M3RaQWUtZkZtamYzM21WWkVEeWY4anVBWEFOM2o5aGNsVkRSVVpOanlCYU5ZOVI0cTN2ZmFzZG9peU1VemFkNUlUWHRnTGZhRm5nTkNBVHNNdncxVDZGT3k4Vk5QSEZNdkoxMjYyUl8tNFZlUlJGYW0zM01OdzhMbldZWnhHeDY0VEtKcmswU2NUYkgtWTQ0U1dTT1pzLVVB?oc=5
+- Microsoft cloud revenue beats estimates in sign that AI bet is paying off (Reuters) https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5
+- CEMATRIX Announces 2026 Third Quarter Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1dxVkVwMU1mTjRPay1MdjlnZ1Fheno0alFaM3Zsc042akc2Qk1EZUNqYUYwOFZSaUZHZzJCaGNXWTk5UGdCMThiQ2tfMTktQXFRYWk0MGtiMTgzTXVjdXlPbnBnZm5XeWJfZElWeGZaWVg2N2QxdU42RmtiMUxVbl9uWEUtRjNpeTRYYmFtYVI4M1VKdmdncTFGM2ttN3VNbW1nNg?oc=5
 
 ## Headlines: Research
 - Statement to the International Monetary and Financial Committee (IMFC) (BIS central banker speeches) https://www.bis.org/speeches/20261027-statement-international-monetary-and-financial-committee-imfc
@@ -190,15 +191,15 @@ Next FOMC decision: 2026-10-28 (0 days away).
 - Shackleton’s lesson - we still have a choice (BIS central banker speeches) https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice
 
 ## Headlines: Opinion
+- Opinion | Truckers work overtime to keep the economy moving. Pay them for it. (The Washington Post) https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmt0WDFYRWFDenNQZTd4UWJCUkp3ZHhuUjZKTXkwNlEwbnhIQ0wxRUJkWlNFMXlWVzlnQVVCb1RQNmZNSDZoWmZCOWY3c2dST3JpMUdSRFZxVDRmdExiaHc0QUZxRE12U0c3bng5VGd1MjVoQTByQW9SUTNJV05idkhtdVFLYWpPaVpwQ2JPOHdUWDhmYTNaTE1VTVlSa3N4b054X1B0UGs3cjVXUVE?oc=5
+- Trick or Treat, Smell My Feet, This Economy Ain’t So Sweet (Bloomberg.com) https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTV0N3BwR0lnMm5sOHlXU2lHN0JNdURrMThUcUFHX2tPcG9NX0xja1d2ODlSODBKd044Q2Y1LWdUOXd2OG5YT09mSDB6b0VsUGVPUWZ3RDFSZGRvTGVHVXFJZ2IydmVveHpGTENLdUpOb3gxOUIxTm9vQ09CRnhfMVhXcjJlSGtwcTJqQ2J2Q0FNRm1rY3dwV1JYQ21mVHlXZ2VlcTNRd1pheWl5QXQzMUdzMWJDeDJhRWdZ?oc=5
+- Fed holds interest rates as expected and upgrades view on economy (Financial Times) https://news.google.com/rss/articles/CBMicEFVX3lxTE1BVTloVEJXOGt6WDQ0dFVMV3JFS2VvNm5oMW1VM1lmeUw3NlRiWWYtSkt0Y0pJYmpfUTRiWFNtS0xDVW9HbGNCRnpaMDlSOXlLNnExSU5lN2lHeWZuNDZaUG1ueVIzdG1rRTBxMXk2Tm8?oc=5
+- A Tale of Two Chinas (Project Syndicate) https://www.project-syndicate.org/commentary/china-real-estate-crash-highlights-uneven-prosperity-and-regional-disparities-by-kenneth-rogoff-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Sino–American Stability? (Project Syndicate) https://www.project-syndicate.org/commentary/bund-summit-considers-new-chapter-us-china-relations-post-trump-era-by-stephen-s-roach-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Europe’s Winter of Discontent (Project Syndicate) https://www.project-syndicate.org/commentary/europe-facing-industrial-fiscal-security-climate-demographic-crises-all-at-once-by-harold-james-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- The economy is growing, but where are the jobs? (Madison Courier) https://news.google.com/rss/articles/CBMi5gFBVV95cUxQajFFNlcwN0lCUExaVTQybi1tZS0tRGxfXzBCZTl3emQzdVNrWHBRQ0dRbEhxcm1adUhJVUVKZjFTZTQ4NWR0M21KSTJjbC1OSHB5U2p1YUpJemRtTGQ5WG5xeUk3TWJMUUlMZHQ4Y1Zmdy04Wnhhb1dmdjNrZWpBZVlkdkNuR2UyWnc2TW83aUJaRHBYdEtPNkVlRW1DcUdRMmdha3RlUUhROGFyNmZDdlpWa3JOVFFmSjFTSWUzUTJVSFBfdHNFX2lqalJSRWE4YW9kclJxMWpNWUctVzFiRFEzdzFzUQ?oc=5
 - How Students Dethroned Serbia’s Strongman (Project Syndicate) https://www.project-syndicate.org/commentary/serbia-student-list-how-it-dethroned-vucic-by-filip-milacic-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - We read Liz Truss’s book so you don’t have to (FT Alphaville) https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945
 - US Consumers Are Disillusioned About the Economy (Bloomberg.com) https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWJjVWJYSXZwVnRvSzJGeWlhSmdKUFVFRXlvNjlmME41aTM2VEd2emtaaVpwakJrYzdFUmdCcEs2V2tneFRCbUsteEVfS3ljQUZNMUJhYVVVc1ZoZmY2b09WYmNrbTVHdjVGMWFNRU9IMGt5b0h4MGhMQWhRTXFFUHFZT0xCendCT3BxODJXd1dKU3dYcG1aXzlKWHU0NGlhSUs5ZkRFQ2hpUk5JMjlKT0xFOWFXb1JQWGc?oc=5
+- A healthy economy needs a dependable health department | Opinion (The Herald-Times) https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd1RUQWVnN1kwTW1BRnJlekxyM2hEelJPTHRQQVNQV29GYUdzQlpxNl9MUlJKMnJwRjhuWlZXazY5enV1LVlDZU9TZHZYbVRBM0h3RUVFUjVlWDQ0aFJGWnVSNi1MekppdzFvZFVEZDMxRExIMHoyWE1FT2VuTl9WNjBXUzh1elZoOGFJU0Nwck1MMzRIRTNLY0ExaGg1clRSeDcxODVvTjVfN3h6OUd6RmJkeHpweElVQXNHbE5FTGh2WkpEVmJsWk1KMTc0TVBWTWx3a25ldk96Zw?oc=5
 - What a US-China AI Safety Channel Needs (Project Syndicate) https://www.project-syndicate.org/commentary/making-a-us-china-ai-safety-accord-work-by-lizzi-c-lee-and-simon-hedlin-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- The Authoritarian Logic of Selective Privacy (Project Syndicate) https://www.project-syndicate.org/onpoint/when-privacy-becomes-a-privilege-by-danielle-keats-citron-and-ari-waldman-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- FTAV’s further reading (FT Alphaville) https://www.ft.com/content/a5e6aaa1-2870-45a3-a33f-c3745a05551a
-- This is a very interesting time for trashy credit (and all those who love it) (FT Alphaville) https://www.ft.com/content/856aa6be-5543-493c-8d2e-a78c6b772f61
-- The Sharing Economy Is Catching Up With Japan (Bloomberg.com) https://news.google.com/rss/articles/CBMioAFBVV95cUxQc092TDZhZ3ZVNHdQbDV6MHRJTmNJeWxRTEUtanIxQWo4UEUyRHBmek9GWUJRY3M3T0p1ZTB6N1VNdnhZc3ltY0k3ODczN0hITmR2TW1EZThvXzB2eUJxQ01hN3NHcWxPYlMzczNOQkVKOUt5OU9nbXJCRm94S1A1T3BOM0JSeEE1SGlYNlNJYUNEcUY5b1RVZDV6dUZWc2xK?oc=5
-- We don’t understand the gold price (FT Alphaville) https://www.ft.com/content/f0d7a819-7bdf-486d-9fd1-b8cf2eeee15a
-- Brazil’s Chapter in the Anti-Authoritarian Playbook (Project Syndicate) https://www.project-syndicate.org/commentary/brazil-lula-victory-anti-authoritarian-playbook-by-robert-muggah-and-ilona-szabo-de-carvalho-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Another Crash Landing for Brazil’s Economy? (Project Syndicate) https://www.project-syndicate.org/commentary/brazil-fiscal-deterioration-under-lula-will-carry-high-domestic-costs-by-gene-frieda-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Europe’s Make-or-Break Moment Has Arrived (Project Syndicate) https://www.project-syndicate.org/commentary/europe-make-or-break-submission-or-independence-by-joschka-fischer-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
