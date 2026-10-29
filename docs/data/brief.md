@@ -1,5 +1,5 @@
 # Econ Desk snapshot
-Generated 2026-10-29 14:29 (UTC). Source: FRED unless noted.
+Generated 2026-10-29 22:52 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
@@ -12,19 +12,19 @@ Next FOMC decision: 2026-12-09 (41 days away), with new projections.
 - Fed funds target, upper bound: 4.00%; change unch.; as of Oct 29, 2026
 - Fed funds target, lower bound: 3.75%; change unch.; as of Oct 29, 2026
 - Effective fed funds rate: 3.88%; change unch.; as of Oct 28, 2026
-- Interest on reserve balances: 3.90%; change unch.; as of Oct 29, 2026
-- Overnight reverse repo rate: 3.75%; change unch.; as of Oct 28, 2026
+- Interest on reserve balances: 3.90%; change unch.; as of Oct 30, 2026
+- Overnight reverse repo rate: 3.75%; change unch.; as of Oct 29, 2026
 - SOFR: 3.94%; change -1 bp; as of Oct 28, 2026
-- Discount rate (primary credit): 4.00%; change unch.; as of Oct 27, 2026
+- Discount rate (primary credit): 4.00%; change unch.; as of Oct 28, 2026
 - Bank prime loan rate: 7.00%; change unch.; as of Oct 27, 2026
 
 ## Liquidity and plumbing
-- Fed total assets: $6.75T; change -$2.0B; YoY +2.4%; as of Oct 21, 2026
-- Bank reserves: $2.96T; change -$60B; YoY -1.9%; as of Oct 21, 2026
-- Overnight reverse repo usage: $0.2B; change -$0.1B; as of Oct 28, 2026; Lowest since Oct 2026
-- Treasury General Account: $952B; change +$69B; as of Oct 21, 2026
-- Repo operations (standing repo facility): $0.0B; change unch.; as of Oct 28, 2026
-- Discount window lending (primary credit): $9.2B; change -$1.9B; as of Oct 21, 2026
+- Fed total assets: $6.75T; change -$8.0B; YoY +2.4%; as of Oct 28, 2026
+- Bank reserves: $2.89T; change -$69B; YoY -1.3%; as of Oct 28, 2026; Lowest since Dec 2025
+- Overnight reverse repo usage: $0.4B; change +$0.2B; as of Oct 29, 2026; Highest since Oct 2026
+- Treasury General Account: $1,000B; change +$48B; as of Oct 28, 2026; Highest since Apr 2026
+- Repo operations (standing repo facility): $0.0B; change unch.; as of Oct 29, 2026; Highest since Oct 2026
+- Discount window lending (primary credit): $9.5B; change +$0.4B; as of Oct 28, 2026
 
 ## Inflation
 - CPI, headline: 3.7%; change +0.4 pts; MoM +0.6%; as of Sep 2026
@@ -33,7 +33,7 @@ Next FOMC decision: 2026-12-09 (41 days away), with new projections.
 - PCE prices, core (the Fed's target): 3.1%; change +0.1 pts; MoM +0.3%; as of Sep 2026
 - PPI, final demand: 6.3%; change +0.8 pts; MoM +1.3%; as of Sep 2026; Highest since Dec 2022
 - UMich 1-year inflation expectations: 4.6%; change +0.6 pts; as of Sep 2026
-- 5y5y forward inflation expectation: 2.27%; change +2 bp; as of Oct 28, 2026
+- 5y5y forward inflation expectation: 2.23%; change -4 bp; as of Oct 29, 2026
 
 ## Labor market
 - Unemployment rate: 4.2%; change +0.1 pts; as of Sep 2026
@@ -52,8 +52,8 @@ Next FOMC decision: 2026-12-09 (41 days away), with new projections.
 - Capacity utilization: 76.9%; change +0.4 pts; as of Sep 2026; Highest since Dec 2023
 
 ## Housing
-- 30-year mortgage rate: 7.32%; change -8 bp; as of Oct 22, 2026
-- 15-year mortgage rate: 6.68%; change -3 bp; as of Oct 22, 2026
+- 30-year mortgage rate: 7.24%; change -8 bp; as of Oct 29, 2026
+- 15-year mortgage rate: 6.60%; change -8 bp; as of Oct 29, 2026
 - Housing starts (annual rate): 1,221k; change -67k; YoY -7.4%; as of Sep 2026
 - Building permits (annual rate): 1,398k; change -5k; YoY -3.2%; as of Sep 2026
 - Case-Shiller national home prices: 2.1%; change +0.2 pts; as of Aug 2026; Highest since May 2025
@@ -65,19 +65,19 @@ Next FOMC decision: 2026-12-09 (41 days away), with new projections.
 
 ## Stocks and volatility
 - S&P 500: 7,744; change +21; 1M +0.8%; YoY +12.4%; as of Oct 28, 2026
-- Dow Jones Industrial Average: 52,475; change +98; 1M +1.9%; YoY +10.0%; as of Oct 28, 2026
+- Dow Jones Industrial Average: 52,343; change -133; 1M +1.9%; YoY +9.9%; as of Oct 29, 2026
 - Nasdaq Composite: 26,550; change +72; 1M -1.0%; YoY +11.4%; as of Oct 28, 2026
 - VIX volatility index: 16.91; change -0.61; as of Oct 28, 2026
 
 ## Treasury yields
-- 3-month Treasury: 4.22%; change unch.; as of Oct 27, 2026
-- 2-year Treasury: 4.70%; change +2 bp; as of Oct 27, 2026
-- 10-year Treasury: 4.99%; change -1 bp; as of Oct 27, 2026
-- 30-year Treasury: 5.30%; change -1 bp; as of Oct 27, 2026
-- 2s10s spread: 0.38%; change +9 bp; as of Oct 28, 2026; Highest since Oct 2026
-- 3-month/10-year spread: 0.87%; change +10 bp; as of Oct 28, 2026
-- 10-year real yield (TIPS): 2.64%; change -2 bp; as of Oct 27, 2026
-- 10-year breakeven inflation: 2.38%; change +3 bp; as of Oct 28, 2026; Highest since Sep 2026
+- 3-month Treasury: 4.18%; change -4 bp; as of Oct 28, 2026; Lowest since Oct 2026
+- 2-year Treasury: 4.67%; change -3 bp; as of Oct 28, 2026
+- 10-year Treasury: 5.05%; change +6 bp; as of Oct 28, 2026
+- 30-year Treasury: 5.37%; change +7 bp; as of Oct 28, 2026
+- 2s10s spread: 0.37%; change -1 bp; as of Oct 29, 2026
+- 3-month/10-year spread: 0.80%; change -7 bp; as of Oct 29, 2026
+- 10-year real yield (TIPS): 2.67%; change +3 bp; as of Oct 28, 2026
+- 10-year breakeven inflation: 2.35%; change -3 bp; as of Oct 29, 2026
 
 ## Credit spreads
 - High-yield bond spread: 3.14%; change -4 bp; as of Oct 28, 2026; Lowest since Oct 2026
@@ -102,22 +102,22 @@ Next FOMC decision: 2026-12-09 (41 days away), with new projections.
 - Commercial and industrial loans: $2.99T; change +$4.8B; YoY +11.1%; as of Oct 14, 2026; Highest since May 2020
 - Consumer credit outstanding: $5.20T; change +$8.3B; YoY +2.7%; as of Aug 2026; Highest since at least 1990
 
-## Fed balance sheet (as of Oct 21, 2026, $ billions)
-- Total assets: 6,754 (one week earlier 6,756)
-- Treasury securities: 4,573
-- Mortgage-backed securities: 1,895
-- Unamortized premiums: 208
-- Loans: 9
+## Fed balance sheet (as of Oct 28, 2026, $ billions)
+- Total assets: 6,746 (one week earlier 6,754)
+- Treasury securities: 4,577
+- Mortgage-backed securities: 1,884
+- Unamortized premiums: 207
+- Loans: 10
 - Central bank liquidity swaps: 0
 - Everything else: 69
 
 ## Calendar, next 14 days
 - 2026-10-29: Gross Domestic Product
+- 2026-10-29: H.4.1 Factors Affecting Reserve Balances
 - 2026-10-29: Personal Income and Outlays
+- 2026-10-29: Primary Mortgage Market Survey
 - 2026-10-29: Unemployment Insurance Weekly Claims Report
 - 2026-10-29: Debt to Gross Domestic Product Ratios
-- 2026-10-29: H.4.1 Factors Affecting Reserve Balances
-- 2026-10-29: Primary Mortgage Market Survey
 - 2026-10-30: Employment Cost Index
 - 2026-10-30: H.8 Assets and Liabilities of Commercial Banks in the United States
 - 2026-10-30: State Unemployment Insurance Weekly Claims Report
@@ -137,7 +137,9 @@ Next FOMC decision: 2026-12-09 (41 days away), with new projections.
 - 2026-11-12: Unemployment Insurance Weekly Claims Report
 
 ## Headlines: Official
-- Christine Lagarde, Boris Vujčić: Monetary policy statement (ECB) https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html
+- Federal Reserve Board announces approval of application by The Bank of Nova Scotia (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm
+- Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html
+- Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A) (ECB) https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html
 - Minutes of the Meeting of the Court of Directors held on 17 September 2026 (Bank of England) https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026
 - Monetary policy decisions (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html
 - GDP (Advance Estimate), 3rd Quarter 2026 (BEA) https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026
@@ -147,36 +149,34 @@ Next FOMC decision: 2026-12-09 (41 days away), with new projections.
 - Federal Reserve issues FOMC statement (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
 - Remit for the Monetary Policy Committee - October 2026 (Bank of England) https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026
 - October 2026 euro area bank lending survey (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html
-- Survey on the Access to Finance of Enterprises: lending conditions tightened (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html
-- Frank Elderson: Taking action for nature – investing in economic resilience and prosperity (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html
 
 ## Headlines: News
-- Gen Z midterm voters told us they’re focused on their financial future, as social causes take a back seat (MarketWatch) https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories
-- Inflation Is Sending Its Scariest Warning in 3 Years (24/7 Wall St.) https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVc2emprRFl3N1RKYVJaZ1c0X1Z6OGVmV3NyMm5LRHllT1kyb1h6cDZyTEU5bkpfWmdfcXpZNHh0MFFEMWV5dndGR3lUMnVrNGtxSm9lMzdnemx6dWs4cHNxMkFJWFVfZlVyT0hySFpVSW9BUlkxMUlFakZjTmRtQ2NVRFo1Vnh6cktabjJBQUJXczYzTy1NOVNQb18?oc=5
-- European Central Bank keeps key interest rate on hold at 2.5% (CNBC Economy) https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html
-- Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates (CNBC Economy) https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html
-- ECB Leaves Rates Unchanged, Cites Energy Shock as Inflation Driver as December Hike Moves Into Focus (Morningstar) https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMFFGNE92bUVVUmZzMFZsYV83ZVFrMU90ejhiLTVZZ3FCdk1XUzZoR2UtRFQtenhiVDRCQzRfdnVjNTBiVUxSbHg2UU10SHQ0b3BiVk5Fc3RrQThmZXFGWVdGSDZ1MF9kcU1GZGszSnVUOU10SEI4QUVabHdGcUdQOHpEZUdGNEswOXUyTkppc0xuX3dOelNkYlQ3RUlzeThSYUFSaC1pUURYU285QmxfREVWeGRTdXRMX3o4M1lqZ2hHMUU0OVFjSTZlVzY1NEgyNFJGSw?oc=5
-- Christine Lagarde to step down as ECB president in February (FT Global Economy) https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1
-- The two pragmatists leading the race to run the ECB (FT Global Economy) https://www.ft.com/content/281690fe-ac0c-43f1-9a36-a3e6b5ee175d?syn-25a6b1a6=1
-- ServiceNow’s stock is on track for its worst day ever. Here’s what went wrong. (MarketWatch) https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories
-- Strong US inflation and growth will keep Fed on a tightening path (FT Global Economy) https://www.ft.com/content/2afe7f73-4717-4e26-8257-317f637738b4
-- Contest to Lead ECB Begins as Lagarde Bows Out (Bloomberg.com) https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzRlajZPT0w0Z0V1MDQ1bzgwanFaeVdSMkc4UUxkLWJ2Z3N1ZWowd1hLZDg0MXdKdVZ3T0FrWE9aYzk4aGp4WUZBS2piTGVFbmY3MzlCWXVycjVpeTUxdDRoWERXamVFUUxGTldDY2c1dzdLRGNrTkRXaGoxM3AtN21EdDZBa1VBb2RGNFNLYmd6T0hsQlNNNEY5cVBGSTNxeWc?oc=5
-- Economy Accelerates – But So Does Inflation | National News | U.S. News (U.S. News & World Report) https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWtVa0NvUzNDX1NQNmhUa0dTeVJNckFsX1VMcE9iQmtWT0dreTZJaWxmZUE5YWV4TUNpRnVqeGRKN0lKZ2xkTUtsN2wzYXd6Z2sxM1h5YkJYWkswUXFQc1FYODJlTTJPSURDaHZVZVVGQUo5b1NFZ0lTT1Jya3J2c0pDZ3FVYkZlVldrRW9ZVHV5d3JfdmF2X1V0QVZUNEZSak5rd0tn?oc=5
-- As voters struggle with pricey car loans, mortgages and credit-card debt, the cost of money itself is on the ballot (MarketWatch) https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories
+- My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated? (MarketWatch) https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories
+- Former ECB president reacts to Lagarde's big announcement (CNN) https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMkRyNzJ4TTk0U1B0TTJ5S0p4cENJTmNZdlRDaDRVTEt0MUxnZnZtQ1BUUlB5MGZKMlpoaUhUb3lPdG92bFR0dHdHY1FHLXNZb29HUTFJQVJuRXFaeDlUMnlHbzFtSjYtaUstZ1NHM3ZpM09uVldUdGlnUlZ1MTRvdmhwamd2ZjB6TEplVm44OU5qbnFBX2hKaUFsV3liRnY3bDlMZWR4djIyX1otcHVmQ2RVVllnNmY5T2I0MzZUcjZRNng4RUZIVkhlT0JlLVNQclJjcmJsWWhvX1lYeTBuY1pueEdqRUR5WUE?oc=5
+- The midterms are crucial to the future of Social Security — no matter how old you are (MarketWatch) https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories
+- Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it? (MarketWatch) https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories
+- Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment. (MarketWatch) https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories
+- Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus (WSJ) https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5
+- Korea to Cut November Treasury Bond Issuance by 5 Trillion Won (Seoul Economic Daily) https://news.google.com/rss/articles/CBMirgFBVV95cUxPRkVWUG12N3FUaWdNX1VMei1ZRzJNOElLSEs4QWQzVXktUXkxOGdQU0VrLUN6TU0yWXBMdDREYWVzNWdKSy0wQ29GTHN5M0p3d2JQRXBWeG03WnYtSkVZZ1JwTmRjUXh5dXZKOG9CM05QRzI3elVQWS1LMlcyZHExeEFMdXNjNk45NlhtUmVsLVlvVUhUMm5UOVplaU5XVEZzUVRQdFVTbHhSYklzOEE?oc=5
+- A Starbucks turnaround is brewing — but perhaps not quickly enough (MarketWatch) https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories
+- Sandisk sees revenue nearly quintuple — and a stock split is on the way (MarketWatch) https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories
+- ‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend? (MarketWatch) https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories
+- Two Frontrunners Emerge to Succeed Lagarde at ECB (Global Finance Magazine) https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzU2XzVyYmFEYzJ0bjhGbzZRS2FidWVWNXQ1NHhGZ1ctTXppbGFHRzJPbEZvdmhleXp2enRCaGJ6QWVHdEF4RGV0ZzNBQWtldGstQlNHT1dZdjZwWTlSYVcxWWRrd3ozWV9XRnJyUUMyYUx1Rkl0LTUzLWhsYUZHam13MlFzbkFJU3VFMVAtWQ?oc=5
+- Business - ECB President Lagarde steps down in order to speak out (France 24) https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDAyMjVzVUVUX0RTQVl3Z1VBSWxyZjRtTHBPR3F2Q2xrN05ETmxJaVpyTUhtdkRrMFJZSjMzZERURHNCS3M3N0JXb1A1Vi1GOXVNZVl6YktJZ3Rqb0NJNHNsWG92MkNFVmZzVmktR0lNemhrRU4xc1NRTi14NlVHdEQ5VjltdTRjZHlOOUJEMXVRaUt3ZFpTX3BoMDI0YThkSG1TZDJDQmhrS256VkE?oc=5
 
 ## Headlines: Companies
-- Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success (CNBC Business) https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html
-- The AI trade is hitting some bumps in the road. Why the bull case for stocks remains (CNBC) https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkUzZUU3aFg0M0d5YkpQTlp0NklQdEIzY3RoWjBLM1A3N1VyVnpoVGZEM1diakxEUE82YmZkODlGTVA0NU1XU1V3WmVPbFgtTzNPRlFOUGxCRlNHYWdQUHBkcDZ3TUtpR0FkbnhCRWktSTd0dTlOSG9CWjlZdzY5WTViNjFFNGZpRUQ1Wmo3Uk84QjJvczEw?oc=5
-- Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion (CNBC Business) https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html
-- South Korean chipmakers deliver record quarterly results again (upi) https://news.google.com/rss/articles/CBMipAFBVV95cUxQMG9hWkJIWE9QYzgwT1Z4VHFKRmFGbmUzdV90bV83YjBCTk5RaTQ4ODZ3VDlSLUN2Qk9kXy12QndEZE1OekJ1RGFDMC13bjFnSGtmcXBqZVV1VHo3MVJPN1I0bnRBdHl3OXRWVzMteFNnVG1oWm82bjctazFkM0Jid3M0RmZvQ2Q4MVY2N3p5MnhHM1p5S3NiWkxZMVp2VDAxODFMR9IBqgFBVV95cUxQb1Vkd3lPQVNad0hhaTVBa1RlenhBNXVsTzFiTVVZU3UtYmhxMnBERUUxVlFqTjV0U0Z0Ty1WOXpfN3B5d2NUZ0JIZXdkS2tFUmxUckZ6MXhsV3JNZlFuVG9xeUlvVUxoRjVmMldNN1hMMEZXVk5IaUQzblo2bUN1MmJ3bmVielNzZkFleVVDWVdyNzF2UmF1c1NDWlgwWk5yRTBYa0RCTzJBZw?oc=5
-- BofA Macro Traders Avoid Big Bets After Volatile Market Shakeout (Bloomberg.com) https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWmJnQ0xUMkhrTnJDTm9JLTNqYUJnMDFiTGhRRTBZQUhobW9RemVaMndla01vakZkQ3FTZjNPUVlaQ3VRbmpOWE9LckJBTEVqa2cxOG9aOG01a1UtZXdUaV9nY2lYLW5Dc3h2REN4RzJkNU00V3ZzQWdBVV9LNzh3S2QyWWU4OWMzd0JJcDR0N09TTlEwZ3dXSlN5eFVEbjExN1N1MjhoSjFYSGtOSDR1Q2FJdHljT0hRcGVTYWp6ODl2andfb3dpZ1hmV0tQY0pzdGZCYw?oc=5
-- How Is Ford's Stock Looking After Better-Than-Expected Earnings Results? (The Motley Fool) https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2pCYTlWVGUzVGpSS0Z6bW1CZ09XUncwTTllZTlfbmt5R2R2bHdWOWFBbmtvQ2V2MXFYMEl1SGZNQlhoVkIwY1JTOFdOeS1Rd3E5V2szZjJ2Rnpkd2FpRGRSSGk0Ym0yUHRtWmRfcW5YX2tRZlVOb29FV0FFUG13Zjg1eFpQUUE5ZjN2SXFTbnY0d01wbENld1R5c3ZDTVNNMWJuZEZuaENlSmdUNHJtX3pRT3o?oc=5
-- Eli Lilly climbs on strong Q3 earnings results (Yahoo Finance) https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWl2emVaWkVBSi1RQkFyMURWQV8wbUxFNUYwdy1WOFZKdjV2a1NXR25fQmZPZVhPTUUydThIelB0SkM3Y2xXM0xpU1hMU054cHFERU9DanNFcXFhcERhcjgwa2JnN3ozY29WdlQxRDZCdENfYmt4YlFMM3Ftb0VuQ3FQZHVNMXo2VjBtRVprMG5UYWxGM05YTw?oc=5
-- Revenue per share of Bank of America Corp – TURQUOISE:NCBD (TradingView) https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0F1U0tIRXFHLUpZOHI3SEEtNkJvOTJHZVBraXFuMkdwQ3RiZUt3NG93am9XX1VyUERyNGJpN1M2bURKU1EtRXFIZ3Y2ZHB5bVpYLV9UTWF2ZnRrREpva29FSmRlekFEZkhfa2lhUXJ5aE1BcjlLWkIxckloYU1vYksxR0xaUmVhcmNPZThhUndXQWxtRUxBdW9keG9yM3ZBY0VhOQ?oc=5
-- JPMorgan starts Palantir at Overweight, calls it a disruptive AI leader (Investing.com) https://news.google.com/rss/articles/CBMixgFBVV95cUxNTjlGYmlKT3pQdDQxWGMxdGpzS1VEMzd1QklyYkJaOXNaX2w5UDFWT1A0T3RoTGdHS2NFSHM5WXZZZ0xrV2dSaEl4LTZVZGVKZ1UyNS1ZM3RGM3ZkbUIxTFpOcjZpSHhoOURPWlF6Zk9iUjhkOUx4QkJXcUU0cVpRaFRCZmJ3ZFUxY3psQnRLOXJjaENQX0owY0tURHFybTVwT0xzcWNvS3pHeGllNm53YWpuRUFCdmIwOUZXNENOanpNMHplbWc?oc=5
-- BMS Flounders As Opdivo Lags, Earnings Guidance Cut (Investor's Business Daily) https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2dySzNaWW1nTmtJd0JJMUNBTml2MnBSRUduMlh2MjNmZ3FYSlREQlhpQjdWZGM0WFozZnlicEpfVW1OWWxDUWVsbWdyZEtia1JXajJ2Slg2UmpWQzFaQmpSQ3FvZ2pEWU03dEYweTF5ODZaS1NHYnFUdUdRS2ZTWmRGREo3NFdLajIwSkhYb3VRSWFnaGluOG13eUxxdi1vRmQ3VDRnZE9SS2c?oc=5
-- Top CD rates from major banks Oct. 29, 2026: Chase CDs, Bank of America CDs, Citibank CDs, and more (Fortune) https://news.google.com/rss/articles/CBMia0FVX3lxTFBONVJBVEZGaHlHQS0zSW1pVDN1alE5b0xMd1VDNGxqRFpxYUNEN0x0dVNOT0x4Y3pKcWVaVEJXcmtWeHRXU3F1VllwNVRCMFBfRklTQmdLWV9CZXJ0TzVWRVlRSXh2Qy03MGlF?oc=5
-- DHL AG (DHLGY) to Report Q3 Results: Wall Street Expects Earnings Growth (Yahoo Finance) https://news.google.com/rss/articles/CBMikAFBVV95cUxQbnF6b3dUbzBVNlRsd1NVS254V0RQZGxjMjdLcjhuWDRTTDJ5ZmxsX2U1TXJWRGt3LS1xNmh5aklYendrLU5VT0hJdGRnb1V6RkFJcjFOUW5ud3JuenMyQ2h0UXJ6ODR2OXJaT1FLN3dNSkwwMVF5WnNHY1pENi1lNHhsT1Q3NFhNVE1CaTZsUmc?oc=5
+- Citigroup Inc. (C) Seasonal returns chart (Yahoo Finance Australia) https://news.google.com/rss/articles/CBMiXkFVX3lxTE95Y0dva3VCZTh5ZkVldE8xTWxFeFBCQzJuZTVtWTVUYmYxZ3RTM2dSNF9QNW9CMlpaa0ozRWZ3RmRxVU9SdVotQ3J0azBUaEtWQldya19RdEhtWTBxQVE?oc=5
+- Laird Superfood to Report Third Quarter 2026 Financial Results on November 12, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMiowFBVV95cUxQUUJRSkpLRkU1T2IzNWg3NzNRc2gwWkNCUTB4Y3Z1cFI4LTZBU0lNRFZoclBVbGhsajNza3lRTjktb1Q5VV9RbFRBdEp2MThJQlVoNEFWQmtyZ2dpY3FZWXFaVmg5dlVKQlNWbkpuSWYyZHkzSjlPSmFxOXdFREdQcjJFSXprTDZSaVg2aHFyOWdaSVZnSnpDa1pwMVliYjhDeWNB?oc=5
+- Hammond Power Solutions Reports Record Third Quarter 2026 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3VsQVV0RmlJanBPcW9DSC1sRDFob05yeXUwZ0VoX0dJcjgySlRoQ0dfbHAxT3lOY05pRjI0bmZaeWFmQkhmZGltQmliQkhLQnp4R3FDMDFqa1N6VnluWXJZaEFGN2hGWFp1ZmxJVWRHMmx5MXZpMzNyMTdnLVRMeFJpZ3EzX1djeE1JbVJFQWN2OFl0ZC0xTFcyUThYLW5jbHc3cUZR?oc=5
+- The Goldman Sachs Group, Inc. (GS-PD) Seasonal returns chart (Yahoo Finance Singapore) https://news.google.com/rss/articles/CBMiY0FVX3lxTE9taEtKNUlPU2V5Ni03eXdBdnZHdWYxVzNDcml4UHd6Y1JzRFEwbnBTZ3ZPajRmUzRKTFlzLW1nR1hkVjh0ZU9JdmFCUlduaEpNdFpHc1JQQUtpYS1CeUpzMm5nbw?oc=5
+- Exclusive | JPMorgan’s Skyscraper on Park Avenue Estimated to Cost Around $6 Billion (WSJ) https://news.google.com/rss/articles/CBMitgFBVV95cUxOYndrdDdFeWpBV0dYTHNtTGh3N0lhUUxaNGQ2MWRjaWZHN0pfc0FzbWwwSHhKd1NKd05uY1VjQ3VuWGVxYV95NkwtX1Zod2lwemZuMk5UQnlPc25peTZKTmpUcnZlQUR0SDlUcjU4Yl9UOURYZzA0NmxyajdfbXg1MGJvYnUtUmt6d3dPUVI0WktBenB0b1JKUVY0YjIyaVBjVlpPZkNVMC1TYkRvWUx4eG1tcmJwdw?oc=5
+- Citigroup Inc. (CITI.TO) Seasonal returns chart (Yahoo Finance UK) https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ca2s2TjRTMjIyeFZMS29UYlRfaV9kdExyRHcyZTlfSmxXX1JiYkdoZzJBcWxVNEtSRFduWVpWMF9iamlZX1k0QWF2REVyby1lMG1sQUs5WXhfa2JaWk94Qi1oOG5aUQ?oc=5
+- JPMorgan Chase & Co. (JPM) Seasonal returns chart (Yahoo Finance UK) https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3d0VrSWJwT2tHWERrbGgxQW5EMFI1ZnAxd3JNcGFwcVVJZnhwMW5WdlRjZGx0UER0Zm9VRjZ6U3FvWm5nLThjeWF2OG1YU050ZV9JVWRnQ3k1cXJiSlFIYg?oc=5
+- Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise (CNBC Business) https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html
+- JPMorgan, Citi and Barclays Are Now on DTCC's Tokenization Rails. Why Is Canton (CC) Still Down 21% This Month? (24/7 Wall St.) https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbTQ1dGdIWEhENDdDN21wdklVdHU4YnNUNy01NU0zTzU2VUIwbkRNOW03ZHFWTzlrYWVjeC11cnFPWWl6eDM4dHcyT1VqTTlNYzZ3VFJ3bERGZ3AwSV95WlpxSFVXeThpLW5qRUc2dndITkZQTWJJM1R2dzM2aFRBeTRza1R3OTh4SEh1aWF5eURTM21CODhnWm8yemdUU25YTmIweGs1SXNwMmNiUFRJczVPZDZnNzREOXRFc3VxcERpa0MzYlNFa3o1MExVMW1BR0N2QzBwVy00YnBsc3hiWjhJT0drby1fcFlOY3dBY3RjVFpEbWc?oc=5
+- Starbucks sales miss expectations, but its U.S. turnaround is gaining steam (CNBC Business) https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html
+- Lower Guidance Clouds First Solar Earnings Despite Rays of Light on the Horizon (Barron's) https://news.google.com/rss/articles/CBMif0FVX3lxTE1FclBGN3h3M1JlQ1F5czk3T3B5TUhEbThZYks1T0kwQzNsZkxkNEpCSVk2WnZrQnp5MlM5cEVmaWxtZlJkalk4SkZ5c3d4SVNac0ZnZEJwMmZmb3VGTFZwLWYySkRvN2tCOU1yVWxwZFp1WVBKY0ltWnVjR2NJNU0?oc=5
+- Starz Beats Wall Street’s Q3 Earnings Estimates as Net Loss Narrows to $35 Million, Linear TV Revenue Dips (Variety) https://news.google.com/rss/articles/CBMib0FVX3lxTE5ORkUtSkloVTNSbkxiRzJ4eGxEdGR5LUREcHRTRndWdTV1RG1KTUJwUmkwcl9rTE54UTFpel9IT3FCTHRaa3p3TFVaaWMzclluNktSaHVGdkF0U3ZxQUMwLXRzcGlTa0RuYW9nQUltVQ?oc=5
 
 ## Headlines: Research
 - Opening Statement to the Senate Economics Legislation Committee (Supplementary Budget Estimates) (BIS central banker speeches) https://www.bis.org/speeches/20261029-opening-statement-senate-economics-legislation-committee-supplementary-budget-estimates
@@ -184,24 +184,24 @@ Next FOMC decision: 2026-12-09 (41 days away), with new projections.
 - Release of the Monetary Policy Report (BIS central banker speeches) https://www.bis.org/speeches/20261029-release-monetary-policy-report
 - Economic resilience, thinner buffers, emerging risks globally - where does India stand? (BIS central banker speeches) https://www.bis.org/speeches/20261029-economic-resilience-thinner-buffers-emerging-risks-globally-where-does-india-stand
 - Connecting sustainable finance with climate-resilient growth (BIS central banker speeches) https://www.bis.org/speeches/20261029-connecting-sustainable-finance-climate-resilient-growth
+- Keeping European supervision on track (BIS central banker speeches) https://www.bis.org/speeches/20261027-keeping-european-supervision-track
 - Scene-setting remarks on digital safety (BIS central banker speeches) https://www.bis.org/speeches/20261027-scene-setting-remarks-digital-safety
 - Monetary policy in times of geopolitical tensions and technological disruption (BIS central banker speeches) https://www.bis.org/speeches/20261027-monetary-policy-times-geopolitical-tensions-and-technological-disruption
 - Asia-Pacific and Europe - building resilience and growth in an age of geopolitics and fragmentation (BIS central banker speeches) https://www.bis.org/speeches/20261027-asia-pacific-and-europe-building-resilience-and-growth-age-geopolitics-and-fragmentation
 - Welcoming remarks - Malaysia's Designated Non-Financial Businesses and Professions (DNFBP) Compliance Conference 2026 (BIS central banker speeches) https://www.bis.org/speeches/20261027-welcoming-remarks-malaysias-designated-non-financial-businesses-and-professions-dnfbp-compliance-conference-2026
 - Shaping the future of sustainable finance - from market growth to economic transformation (BIS central banker speeches) https://www.bis.org/speeches/20261027-shaping-future-sustainable-finance-market-growth-economic-transformation
 - Strength through resilience, adaptability and trust - insurance for a stronger Europe (BIS central banker speeches) https://www.bis.org/speeches/20261027-strength-through-resilience-adaptability-and-trust-insurance-stronger-europe
-- Statement to the International Monetary and Financial Committee (IMFC) (BIS central banker speeches) https://www.bis.org/speeches/20261027-statement-international-monetary-and-financial-committee-imfc
 
 ## Headlines: Opinion
+- Maine’s forest economy needs a friend in D.C. | Opinion - Portland Press Herald (Portland Press Herald - Maine Sunday Telegram) https://news.google.com/rss/articles/CBMiT0FVX3lxTFBraktuU2tvRWNZTmYzMjJucC1vNDk2WnowU3dfdThObGxzeWM0YkpOMVlQOFlJdkZ4VmplWE9UcWtXQ244cG5iZzBtUlVjZ1E?oc=5
+- Opinion: Are you hurting in this economy? You need to vote (The Johnstonian News) https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVndKSW9ManM3bkZBVS1iQnVjenFiTEh3OUJqcExKVFdaRWE3b3BjUUlWR0dxZzJxSk40UEx2M3dKYjgzazkwVnl0Uk9heF9xaHpKR3hsdzE2d2pFQkFQdHFBanp4RGo1ai04N0lJVWt2QkhucU44YjJ1OUxTenhMTUFhbVhoanpIQkQySE1RekJjOGUyU3ZscE42a09HeEVScHA2dHhqOXE?oc=5
+- The New Geopolitics of Mining (Project Syndicate) https://www.project-syndicate.org/commentary/governments-and-mining-companies-must-win-public-trust-to-extract-critical-minerals-by-ngaire-woods-2206-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Can Bond Vigilantes Prevent the Next Debt Crisis? (Project Syndicate) https://www.project-syndicate.org/commentary/bond-vigilantes-sovereign-debt-crises-france-us-by-nouriel-roubini-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Aracich: Long Island deserves its share of New York’s greenway economy (Long Island Business News) https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnRERDVteVMzUkI4RTlmTzFScWpaMXZsdUN3MVN0bnBLckNtVVBwZzV3Yk9kcEZFdnFCLWJ2NHd2ejZDTHc1bFRQVXRKS3Y2QWg3UU11NXExSWMyVTRZdENDZ2FFRTBSdnV3OFM4bWhDNmlzdEJEeVF5WHFQYk83am5RV0g?oc=5
+- Palantir shareholders want to know when they’ll get their money back (FT Alphaville) https://www.ft.com/content/fbca8eb0-76ef-4e0e-bcc9-c45c8f7d1311
+- A Wealth Tax Would Harm California (Project Syndicate) https://www.project-syndicate.org/commentary/california-billionaire-tax-prop-40-more-harm-than-good-by-laura-tyson-and-lenny-mendonca-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - Polymarket’s Swiss Tony returns (FT Alphaville) https://www.ft.com/content/463865ad-6725-40a7-b394-5cd9ba60bb7d?syn-25a6b1a6=1
-- Missouri Senate race puts economy, education and taxes in focus for Dist. 8 Democrat (Kansas City Star) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMEppVnEzUUIzZzNxWFpJUW1qampzVm5LTThvQ0xMczVHVFkzYmt5eGlCUldsR0g2cU1valRZc053bksxbEppcWFiOWloNHJZc1JleXVxVXU1YzR1T3c0Um5aRVhBRWvSAWdBVV95cUxPdlBFMzk5ZFdXVkhRQmEyd21zVEFmallzbXVVR1h0bnB1akhwZmltbXNzRnNRUnI0WnR5T09JamE5Q2gtTVJEb3FSTHBmN1FtMk13QWtDR0p4dDBJMEJWSFd5ZlhZSXI4?oc=5
 - A Future for Europe’s Youth (Project Syndicate) https://www.project-syndicate.org/commentary/protests-reflect-clash-between-youth-expectations-and-eu-capacity-to-deliver-prosperity-by-ana-palacio-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - FTAV’s further reading (FT Alphaville) https://www.ft.com/content/580fd746-85a1-42a8-801c-5fd1993d228c
 - What has caused the bad economic vibes, and does it actually matter? (FT Alphaville) https://www.ft.com/content/a3d8efb2-6553-46d6-af48-7886b1a14fa3
-- Lord, Let Me Hike Rates, Just Not Now (Bloomberg.com) https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2VWQmZUQWxRQTBtLXBldEZqa09wb2ZCdEdTYXF0N2U3VDUzLVQ1UUxBUVA4ci1GZWpyeVFITXljQ2ptaE85STZSQXRxV0ZjV0c1NHVFWVJfcS1ZdGdIOUo1UTVRY2lGOUk5aVVEbHZidmV0ZmhNTzZabTg4bHhNZi1vMi1takVhaXJhTEZQZndneUZCVURWRDRGSzU?oc=5
 - Opinion | They work 70-hour weeks to keep the economy moving. Pay them for it. (The Washington Post) https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmt0WDFYRWFDenNQZTd4UWJCUkp3ZHhuUjZKTXkwNlEwbnhIQ0wxRUJkWlNFMXlWVzlnQVVCb1RQNmZNSDZoWmZCOWY3c2dST3JpMUdSRFZxVDRmdExiaHc0QUZxRE12U0c3bng5VGd1MjVoQTByQW9SUTNJV05idkhtdVFLYWpPaVpwQ2JPOHdUWDhmYTNaTE1VTVlSa3N4b054X1B0UGs3cjVXUVE?oc=5
-- Trick or Treat, Smell My Feet, This Economy Ain’t So Sweet (Bloomberg.com) https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTV0N3BwR0lnMm5sOHlXU2lHN0JNdURrMThUcUFHX2tPcG9NX0xja1d2ODlSODBKd044Q2Y1LWdUOXd2OG5YT09mSDB6b0VsUGVPUWZ3RDFSZGRvTGVHVXFJZ2IydmVveHpGTENLdUpOb3gxOUIxTm9vQ09CRnhfMVhXcjJlSGtwcTJqQ2J2Q0FNRm1rY3dwV1JYQ21mVHlXZ2VlcTNRd1pheWl5QXQzMUdzMWJDeDJhRWdZ?oc=5
-- Fed holds interest rates as expected and upgrades view on economy (Financial Times) https://news.google.com/rss/articles/CBMicEFVX3lxTE1BVTloVEJXOGt6WDQ0dFVMV3JFS2VvNm5oMW1VM1lmeUw3NlRiWWYtSkt0Y0pJYmpfUTRiWFNtS0xDVW9HbGNCRnpaMDlSOXlLNnExSU5lN2lHeWZuNDZaUG1ueVIzdG1rRTBxMXk2Tm8?oc=5
-- A Tale of Two Chinas (Project Syndicate) https://www.project-syndicate.org/commentary/china-real-estate-crash-highlights-uneven-prosperity-and-regional-disparities-by-kenneth-rogoff-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Sino–American Stability? (Project Syndicate) https://www.project-syndicate.org/commentary/bund-summit-considers-new-chapter-us-china-relations-post-trump-era-by-stephen-s-roach-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Europe’s Winter of Discontent (Project Syndicate) https://www.project-syndicate.org/commentary/europe-facing-industrial-fiscal-security-climate-demographic-crises-all-at-once-by-harold-james-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
