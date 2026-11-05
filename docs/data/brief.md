@@ -1,12 +1,12 @@
 # Econ Desk snapshot
-Generated 2026-11-04 22:57 (UTC). Source: FRED unless noted.
+Generated 2026-11-05 11:21 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
 - Effective fed funds: 3.88%
 - SOFR: 3.97%
 - Reverse repo rate: 3.75%
-Next FOMC decision: 2026-12-09 (35 days away), with new projections.
+Next FOMC decision: 2026-12-09 (34 days away), with new projections.
 
 ## Policy and money market rates
 - Fed funds target, upper bound: 4.00%; change unch.; as of Nov 4, 2026
@@ -65,8 +65,8 @@ Next FOMC decision: 2026-12-09 (35 days away), with new projections.
 
 ## Stocks and volatility
 - S&P 500: 7,569; change +28; 1M -2.0%; YoY +10.5%; as of Nov 3, 2026
-- Dow Jones Industrial Average: 51,787; change -197; 1M +1.2%; YoY +9.4%; as of Nov 3, 2026
-- Nasdaq Composite: 25,372; change +208; 1M -6.7%; YoY +6.4%; as of Nov 3, 2026
+- Dow Jones Industrial Average: 53,356; change +1,569; 1M +4.1%; YoY +13.3%; as of Nov 4, 2026; Highest since Sep 2026
+- Nasdaq Composite: 25,737; change +364; 1M -6.3%; YoY +10.2%; as of Nov 4, 2026
 - VIX volatility index: 20.83; change -0.32; as of Nov 3, 2026
 
 ## Treasury yields
@@ -135,8 +135,14 @@ Next FOMC decision: 2026-12-09 (35 days away), with new projections.
 - 2026-11-17: U.S. Import and Export Price Indexes
 - 2026-11-18: FOMC minutes from the Oct 28 meeting (expected)
 - 2026-11-18: New Residential Construction
+- 2026-11-19: H.4.1 Factors Affecting Reserve Balances
+- 2026-11-19: Manufacturing Business Outlook Survey
+- 2026-11-19: Primary Mortgage Market Survey
+- 2026-11-19: Unemployment Insurance Weekly Claims Report
 
 ## Headlines: Official
+- Isabel Schnabel: Navigating stormy waters: reflections on monetary policy (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html
+- Piero Cipollone: Shaping the future of money (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html
 - Summary of the RTGS CHAPS Industry Forum - 13 October 2026 (Bank of England) https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026
 - U.S. International Trade in Goods and Services, September 2026 (BEA) https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026
 - ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026 (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html
@@ -147,39 +153,39 @@ Next FOMC decision: 2026-12-09 (35 days away), with new projections.
 - Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026 (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html
 - Federal Reserve Board announces approval of application by The Bank of Nova Scotia (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm
 - Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html
-- Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A) (ECB) https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html
-- Minutes of the Meeting of the Court of Directors held on 17 September 2026 (Bank of England) https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026
 
 ## Headlines: News
-- Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it (CNBC Economy) https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html
-- This year’s worst-performing S&P 500 stock is finally seeing some major relief (MarketWatch) https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories
-- Lagarde’s Early Exit Tests ECB’s Eight-Year Terms (Bloomberg.com) https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDROWFlreUdVWEF3bEg4emtvU2dvSjZueHRXSE1CUC1EcTRwVE9YT2duZE5aaUFrWV9Jc3JXb0tjVTBNdEZDR1N5WFpkNmRtaXpJeHRWcXY0OFdvdTM1MGJNM0xLNG9PczlPaDJHNWpXVi1iVmRRR2E2UDBmRFpyMnVPT1ZZZjY1RlBUNEVGdmlFc0lmRzRnVTQ4S1g5c2dzTkIwQjN3?oc=5
-- Dow DJIA Surges 3% Following Democratic Midterm Victory as Treasury Yields Decline (FXLeaders) https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVNGbWhhSzhIQTNXVmpVNEh3bVpLaVZlRURFcGZUa0FsTGpJZXN0OEZRUVp2ck1JNTRMWXlNQmFNNTZJREtWbTFiZ1BZNnRJZkJIYTduNmNtTHNhTC1WQzlHakJNekdQRXVPVlVNUFB2WkYxWTdPU0t1Z3hMbUtBZFNWb1pRdl9lQnZ2Unpmc2ZWRjdNMURjUGxpOVpEU2x3Mks3Q3RoVmliczY4aG1WS0FGX25XblhPeVJpbklCSTRQZw?oc=5
-- ‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions? (MarketWatch) https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories
-- How do Americans feel about the midterm results? It depends on how much money they make. (MarketWatch) https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories
-- Qualcomm’s stock falls as twin forces pressure sales (MarketWatch) https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories
-- Micron and other chip stocks slip as election results strike at the core of data-center optimism (MarketWatch) https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories
-- These stocks soared the most today after the Democrats trounced Trump (MarketWatch) https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories
-- Figma’s stock falls as investors worry that AI momentum is coming at a high price (MarketWatch) https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories
-- Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why (MarketWatch) https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories
-- Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice. (MarketWatch) https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories
+- FirstFT: Democrats look to reshape America (FT Global Economy) https://www.ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a?syn-25a6b1a6=1
+- The Fed Needs a Better Way to Talk About Interest Rates (Bloomberg.com) https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSncyUnJBc25zajNQclpteVFGV3A0bGZtR3JwMEVnYUdOcXZ4eUkyZGNLdG1DcGlZeUJ2dV9ub3lFZDNjTkY3bjZCNkIxTDhtdTBLQTdOcDRQWFprbFp4aVQ3OU1JMWh5bENiMEk1d05DeG0yLWpSTHBSdUI1OW96UzRsekpIU09LVV9GX0tKWS01bWNicV9DYWhPVkZweWhBZWVETUFHbG9BQQ?oc=5
+- How to think about wealth taxation (FT Global Economy) https://www.ft.com/content/3d00ef8c-eec3-4afa-a35f-5ea333bf8bfe?syn-25a6b1a6=1
+- Wall Street bets Democratic sweep will empower moderates in Washington (FT Global Economy) https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f?syn-25a6b1a6=1
+- Bank of England expected to raise interest rates for first time in more than three years (Yahoo) https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGpOQldpS05ITUZ2RHNtdnNRbndwcS1zV2tOTDhqYWMyNkRIbHg3WEpIY0p4R0I0V2g3WXVfS3BkR1N3eVYwbGwzM0tjWXNPVVFUZ0IzcWJxekc0OW9HU3A4cjNkcFB0UXFkODlOeTVoR1dsdGtCckkyb196UHJVRkQxX0FpdVRFR0RN?oc=5
+- High debt, rise of non-banks risk tying ECB's hands, Schnabel says (marketscreener.com) https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0JpYTRZYUdkVFdXS3hWQnBpLS1HeHpTZFBjdEpJVGdvejVZakt1bE1ia2I4WEVMdV9aeUxLN09nX3hxSWwyVUZBQm50Z3RRaG9pVk1Odml0bkptb0dSNGozR3FtNmp3QlVZTDlPaGFGRS1VV0NoRnRHUXo3ZFhtd012VldCYjRzaE1nVUFVRUxkVW1OZDdmMFYzMFpYMTJ3RVhtLXF3X3ptNW1xTG1ISVB1bnVNaHFt?oc=5
+- Friday's jobs report could be a tiebreaker for Wall Street's AI trade as inflation worries linger (Business Insider) https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjYwRGNjTjBBYVNZUU5MS2F4NUZpMlhSZUVqYl96NjRLQ0NxU0w4NDR4bWJHemhILTV3dVZYOGg5V21VTFd5NldNd3gwYktZZncxWS1wQ3E4NmVIdlB6VEkwdWFEZTh6QWZHM1l2NFlpQUI3a0xWWHNPMmFfMDFxalVmUlZRLUQtaWhYSmJvX001di1IcjB2OVdabTZvSjl6VC1TWA?oc=5
+- ECB’s Zigman Sees ‘Rather Big Chance’ of December Rate Hike (Bloomberg.com) https://news.google.com/rss/articles/CBMirAFBVV95cUxQX2tPRDg4UHFHWUJ1b3N3dzN2VEVJb0lfYUFySGNhT2V1anZXbER3ZV9meTNuejd4emZPNEJrSXJBTXNfVEQ3eXZQdFFjRnpqOVBFZ1Y0dkYwdm1kYy1LZGVDSjZ0alR6ZVNiYkpGc3hTVkZKenVQbWpwZEFaYmtWUnBvM3MzamV2ajRndzBDbEtwWmlRR2cxMGJVVU0tLWtKLTJIcERHUDZiWmly?oc=5
+- Bank of England set to hike interest rates to tackle higher inflation caused by Iran war (AP News) https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0NDY2lDWk9qMGtnT3ZVZEhLY1RTQ1J5MFlOazFRTzk4ZVVZR3JhcDJoZ3RmNjZxZHQ2emt3M1hVdXRYS2RscjM5NFhVc3Btd25iU0htTVBLTnNLcE16aVlxVjc4Rjg3TVBrVjJOck93VV9iN19TU1gzNnJTZ1BfVlNieUJFNEpXbzdvSjkyOVM3cV9l?oc=5
+- Bank of England set to raise interest rate as stubborn inflation persists (FXStreet) https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0pLOTBPZnY3bnpaRV9SbHc4b1NyNS1ORlBBb19MemNNRGZVVFlRdEZtTFAxZWtRMlZBQU1CZ2ppcXhiNUxydkoxU0E4N3FLak1TaWNTUmM2M1c1dFM5NDJXcEdZRHVSLVplaUFmWk5IRVloZGRGUnBKY3BnWXdpYVkxN240UW1UQmQxYQ?oc=5
+- EUR/CHF Holds Ground on ECB & SNB Policy Divergence (TradingPedia) https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmNvU0VoSWNnR0Y1N21TY2d6RkNzZ0lZTExtNWN4bHUzeC1ZUGZDcXBnTlZ0WTRHVTJHUk9TMDdLLWRSbkhGRTVfSU1BVUc5WExDYmFBU0xUdlpuQXhkSWcwMjdaRWRiS0loT2dmU1V4T2dBRnRqZE1BeWFkUmVpVmxCMHM1NWp3ajVVdGozdV9FRGlF?oc=5
+- A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist (MarketWatch) https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories
 
 ## Headlines: Companies
-- Goldman and Apollo seek buyers in $40bn SpaceX deal (UA.NEWS) https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXRVVUxGdjFKZ3hDeXZZSVNoTWpkbDh6QlRrQXhIUDFTRGdxczNtSUw4d2xlWE03Vm1TM1BZcHRJNUhnYzNrLVJ1WEN4RFY3SmRMSm9SdGNkaURwZDlsbjhYTVlFcWRaWF8tMjFnU1VCdE1fdEFLUG1hWklUMkk1d1ZiRkk1Z2hEVllZMUI5X3c3OEM1SDVFSU9aV0hYWjdPd0YyQ2R1RTQ5aXhPVkpCalNKcEg?oc=5
-- Goldman, Apollo in talks to sell SpaceX's $40B AI deal - Bloomberg (SPCX:NASDAQ) (Seeking Alpha) https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGRYaEhnZkd2VmVLeHVubURvWXNLb3h0bkVUeklFa3BkUzNKNTdndUlfbGNrWndOY2NyTHh3SkJUVUJQa2pMb29zNjZPd3BtLVJfLVBkNXNVMUVqazdEdUhWYWpDRmEyREtZWkdXT2ZvOG02SW1RVmNydHp3TFJXZnp4OW1Oc3Y0ampFblE1Zkg2bjdZWV9tTWFjMXFEYmpZRWc?oc=5
-- What Does JPMorgan Chase (JPM) Gain From Its Dubai Push And US Hires? (Yahoo Finance) https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmlBcHZCVmVlNFlabHJPWU9HaHJweFV4cVhybU1nZ29OOU8xdXFUckM1QXhza0RiVG0zSUhRcmdGcGNkWVhteVdwUGJYbDNKMS12TjlOU1VHRWZhWU82WXZrblo4NWZ0TzNYRG5hby1tUFFFdkNZZGlsY3BERFVsRks1bmdpTlQ4dV9GeDgzNjR0R09ESHRnYQ?oc=5
-- Financial Guidance Helps Boost Americans’ Feelings of Prosperity (401k Specialist) https://news.google.com/rss/articles/CBMimgFBVV95cUxPYTRnRTNLdElTNWs2YndUT0VfM1dCN1R5RkwzcGVtRWlhejZXRm1kNGhrSF9rOTJHVGJ4YzdhTUp0X0ZIbXMxazkwU0VWazFlUTVYcVJvUENPRWtZNmdHOEpWdFZyeTJtOVhtX2pBbkxiRVlhVUZaQlpMN1A1eThxMGo2cHg4Q1d4aFA4dEpxUkJiWFBSVWtMdkZ3?oc=5
-- Political Ad Revenue Breaks Record For Sinclair, Lifting It To Better-Than-Expected Q3 Results (Deadline) https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW9DajktYlpYekYwelJIN2t0V1VPcTY5UGZ3clVnOVF5QURwaDJPTGFCNnJFMTlYczE1MHd1cVpHeThiS3hCdW43VG1rM3ZfclNGUHBET0RodjRhaHB1cXYtaWFKcV9WalRmMklKNjBLdlpnM2ZBNzlZc1F6aFhKTk9fc2JKcUZoUU5rd1dGYnc?oc=5
-- Pan American Silver Reports Third Quarter 2026 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMinwFBVV95cUxNR05KblFqdHB0WmNyaHVCSFRobE9CMW5OVEx1aEVfTmE5cFdUWVBDU0RTQW5mSjVPbFNvQWg4MnduOXVNeGhoa3kwS3NkbS1RN3JlMkpYMjJ3ZnJ1VEpfWGV2Wk9MU3MxLVFncFluVExpekVHY1B0dlZUcF9OZFE1RlZiaWZrNS14VnBWOVBaLW9rdzRsbURwVHJmU0FFRkE?oc=5
-- DIRTT Reports Third Quarter 2026 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMingFBVV95cUxNZ01rdlp3SktJWkVjSTFyMXRBTEhVa3VGeWpNLXRwY0U2YXNLR0NPTUFWeGFKZ2g3MW55STh3dnBHQ2JzQUxlQjNLaUF5S2V0Q3NzaENlUXZrQ0ZEcVNJaTUtWVFaSnJLakpWdlk3dUhGVVNHcHRwcUJvRFZ4NWg2amN1bFVRNUlob1o1ZlJxS2FLRG1sTVhwTWFjMVBRdw?oc=5
-- Goldman Sachs raises Clear Secure stock price target on bookings beat (Investing.com) https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3lmak1VQ25ISkFLOEpoYmZ4dFl4bXhKNVJpY3hkNlkzbWpmaGZjTV94SzM0MFNJNFo2WFIybjM4Rk1fSzQwMlRBX2VtY1M5QU9xanJRaVFnWjgwcmY1b0M2N1gzNlozNGd2ODFENG1DRktyYmZxbGRKR2F6cHAxeWJaRHpoa0tLdnpQWTFyZ25vM3RVTXZMU2EtMWYtT2NmZGJqUlJtMlZmQmhJLVJDZTdoWTdYbW5ycnlQWmFoOTJEazNHbFc4cA?oc=5
-- Goldman, Apollo seek buyers for $40 billion SpaceX AI chip deal, Bloomberg News reports (Reuters) https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWUxSzVqTVBwUmFlWHFWS0xiRTN1ZVR1TXRUZi01bHBQbF9VOTl1N05uYk5HSGs2NVFCR0hJYVBVNjBKQUR0MlV6ZnRBc3pHVDFHRzAzZUZEaFU4elRlN0lLYXc2NWRzZWNHaVRkOTZTeHZvNGFEU0NXVUZienFBbTBYWlU0WE9BanBDeTVoZG41MW92cXV1OEIwbWNydWZkWjhmUmk3OUx0c2dxUndKWjFxYjFpT0t0eWpadENSMm1OdlQwVk1GdFEyQkVyeHFmanc?oc=5
-- E.l.f. Beauty posts 51% sales increase, raises full-year guidance (CNBC Business) https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html
-- Equibase Earnings Leaderboard: Breeders’ Cup Results Shake Up Standings (America's Best Racing) https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmZERTFPQVVHMjFoYWc3ZExfVFd6R1FUZk9nbHd3ZmdzSEpLWWJzS3dVVmQ5LWFobTliR0tiaDV0aDBkVkNMUEJEeDVjQmRYRWtBYm84SVB0dEQ5SzNfazhRa2g4R1hBZnVTS1Rwbm1jeHFPU3owUWJrVDNuU3VpV1FGY1ZUVjBqMm9OblB6N0o1RzNKeHZfMVZqMk1wNWJUaUZJbEtZZ2xMazJTLWh0RXFPSlNRdnc?oc=5
-- Figma sinks after earnings beat as company prioritizes long-term growth with AI changes (CNBC) https://news.google.com/rss/articles/CBMiekFVX3lxTFB5eWNIOVJnZS1xcmd6bjJscm0yVTNIblNMWTBnUmRFSnlaZndBcXB6eG9jWG5iY2Z6Q0VMdDlnUXU0YV9VSWNvTWlZQjN6aVB6dldHZEYwaGtKckpZM2xSSm9TRmVLdVd2blNIbk1pZC1Dc3ZZU3dTRFVB0gF_QVVfeXFMUHBKSzZya3VLUk5xRXkzdklYSUVfUkt1TUJCTDluU0ctN1FvR1J2eTdCN0tqaUlUWHlyTW1vTVJLc1IyMmc4ZkRPWXNVRkJRWEFteTctMnFkWXNlY0ZwWUlPWUgta2lxZ2VVaXFRN3EyamhhS1diZDNjRWY5NldxSQ?oc=5
+- Goldman Sachs sees USD/CNH entry opportunity on policy move (Investing.com) https://news.google.com/rss/articles/CBMiswFBVV95cUxNcG5ReDY2dk9WNzRCamwyS1BjOWpUNmFkRFd0WmR6NHltQnFFT3dxT1pBUWNZS2pFRWNMcTM3WEUzaGVzMGtvRFBWLWJ5RjBNVkcxb09HTkRmVmdaLXBTVHYyMDA4VVdNRVJhZnNDb0NtYlpZSnlzUFcwSXNKT2NwMkwzOG9FSUtXUmNZdGNjOUU5czM0Rlg2S0d4amNpaUZ4RWRvVGI2dUxfNjRtZmVGdDNDMA?oc=5
+- Spdr Dow Jones Industrial Average ETF (DIA) Sells Goldman Sachs, Caterpillar on Nov. 3 (Yahoo Finance) https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1dNZm5FVHB4TnA4aTVzczQxcXZyakVrWng3VnhWa3pLcHYzNjZjeG1qTzZzaVNjWmxUcVpIN3FTUFFtSnVYaFozMnExcjM2Z1YxbWFvOC10a0dvNVdJd1BLNzk2dWtaTDBlM2g4TC13eUFMeTR2V3hhcWxNT0FmZEQtZlRMNi0yZXo3SHVvZFl2XzR2ZmtEdk52V0EwTzA?oc=5
+- Goldman Sachs Adjusts Price Target on AppLovin to $445 From $400 (Moomoo) https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmQ3YTM4Uk41TlNWamtKcTNHR2FkSzU2SkdlX0MyWEhic0N3TWN6SkRmSXkxcjVsSnk1emJkVGlQTnF0YmlFUXUxR3ZVNkxmOUhHQ0VnakhET0VsRmxMZDh2bUpxaUxfY2g1V1MtTVNVT0N6ZDVqajNuREFQenJzVGF5QUdaYnJRZ3FfZjdrSFVFZUNLaDREWXh4STEtbGkwdzBJTA?oc=5
+- ETFs Are Net Sellers of Bank of America (BAC) on Nov. 3 (Yahoo Finance) https://news.google.com/rss/articles/CBMimgFBVV95cUxQNERJVHh6SUt4c2xibVVMdnVvUUVacENwMmw4NDU2QWZ1cVViN0g2NDQ4LVZHZU84ZlhrckptbTFsdUEzU1hQMzlXYW84RlJ3Z0FHbTRSWU5DZVFMRlYya3pLc2d1akZuZXV1SVhjV0JjbTBBVk9vUF9fUXhjaGtvTXo4OUZvV2tBc2ZEOTFmM00tR0NteVZrTEdR?oc=5
+- ETFs Are Net Sellers of Goldman Sachs (GS) on Nov. 3 (Yahoo Finance) https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUtZSElrWGpvVE5Wd1QzLUFqczM5Yzk0RzhPRzF0MnZoa0kzSWR5VmhLS1c5T2NxNHJzelFRNkxoa0FHaFpLZFZBbE5sNFl1cTNmWmNXVVh3OGZXcFY3RndKLVZSRC04Sy1DemlLcG90U2NPWWZ2elNza1Q0OWl5aTBCVktyLXdqS1dodGNRZnRsdWJSUnFnWWMxdw?oc=5
+- Celsius Holdings Reports Third Quarter 2026 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTRxWmxISGVNa3Z6SjhwZzA2VFNrTjBPclplckRrYzEyRlZSOTRfLXJ2enZnc2F5cDRlRXdRN0IxOU14akJJaUFGNzZoVkRYVnhjV2JnX1YtdEwxM1ltRVB5akxUZnFZSVBRMjFUaTZuLUJsaWs1U0I1OFdEbFh5LUo5d1h2blJsTF9iR2tlM3ZZdFAzQzN4Nm9uRERFQUZURk9fck9n?oc=5
+- Lemonade Announces Third Quarter 2026 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzdxWG9iY1p1dDVqR2ZMdjBiby1GM2Zxblo5NXIwYmdSUnVvOGF3ZENsZ3lYdFYzeVV6VVNFYy0wc0Nmc0FNS1hoYVd0c3FJcTRSRmNxbURsS2RyZTVCNXRCazhUaF9hdkpoTFZaSXRWRG9wSzNMenFrLXBaVVkybDdscDJVRW1uOGdNaDBNRWdVbTRxaWVhQWlzV0lmLThGVHdIMA?oc=5
+- Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds (CNBC Business) https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html
+- Perimeter Group Reports Third Quarter 2026 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzRLbWxMODNNOHBFemZ3RndDMWtGYXZGRTVxOVlyRm83QWNDMWNjRjAybmpuMHJhNkNrbGxTMVlKXzdFU2wxS3JHandpXzFWMFRHTXVJODhUcGV3Vm1NWlM4VUEtaW5QM0FiZTNtaFJnMGNaZlNBd28yaHhfMDdQOWRNVlJPXzVtbWtva2lZVWlYQjRBd3pLWkUxX0pvS1FvcHhwaA?oc=5
+- Oscar Health Announces Financial Results for Third Quarter 2026 and Raises Full Year 2026 Outlook (Yahoo Finance) https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmVLNHRpU0RIenE5OXhFb0NmcTFseG1CR01GZUxXZXBOV0xQb1BSQjd5R05tN3AwZ3lvVXdpRXo0clg0Q3REbnZMN281bU1EQzhSeVZuYkMzeWc1LVVDTUFMUVdqOTFKLWt6eVZiWjc4S1RsYUpYcHNmdWl4bTk4TzZfaUtjVjg3Z2otYTdIZlFNZ3MtM0dLVzJVbldpSVNQTEFZ?oc=5
+- Targa Resources Corp. Reports Third Quarter 2026 Financial Results and Announces Expectation for a 20% Increase to its 2027 Common Dividend (Yahoo Finance) https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzhZYzUxTHJETnNFSVZUbVE0MzlHRWlXMkVmUTZrUWRzVnZxcjVzaEItOTVPNW5JQ3hYd3FmYmd1SmVxaVV3UHpjNGRoQTRJaTA1Mjd0MXZ1bk5fdnpMUGgyWWkyV05QZmNaNGVHVXI1ZUwxY3RtUHY1S09vN1daTkdvQTRqVXpFMExsbUlCYmFnVl9iUlB2cXF0N0tIMGNh?oc=5
+- Bank of America finds late shopping will surpass early holiday shopping (ATM Marketplace) https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0RaOG1UZ1hCUWNHYjFUQVNCQXZuZW54dkVWVGFHZHdsMkhuQVp3Wm9nSkx3UkYxT1ZraFFKRmdfWlBKYlFhdG9CMnRkSzZEUFhnN1hzZkxwRW5MbmJvZXlkNThZc1RGcU1sek1VaHRINlFtUkc0NUVaLU5KV3FRTy1FVlBvOUwtNXFaZlFhSlRzRF9QcmdRQXFBWTduV1Bra014bGtnWGR0NXBf?oc=5
 
 ## Headlines: Research
 - How Market Position Shapes Credit Card Interest Rates (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/
+- Innovation, security and technological sovereignty - reconciling three imperatives (BIS central banker speeches) https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives
+- Economic transitions - technology (BIS central banker speeches) https://www.bis.org/speeches/20261103-economic-transitions-technology
 - Building sills for Africa’s home-grown development (BIS central banker speeches) https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development
 - The path back to 2 % has become less comfortable (BIS central banker speeches) https://www.bis.org/speeches/20261103-path-back-2-has-become-less-comfortable
 - Credit unionism and the development of Barbados (BIS central banker speeches) https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados
@@ -187,21 +193,19 @@ Next FOMC decision: 2026-12-09 (35 days away), with new projections.
 - Stable banks, strong capital markets - Europe’s financial system for the future (BIS central banker speeches) https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future
 - Marking our tenth anniversary - one conviction, two principles and three challenges (BIS central banker speeches) https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges
 - Payments in a fragmenting world - sovereignty, strategy and system design (BIS central banker speeches) https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design
-- Innovation, security and technological sovereignty - reconciling three imperatives (BIS central banker speeches) https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives
-- Economic transitions - technology (BIS central banker speeches) https://www.bis.org/speeches/20261103-economic-transitions-technology
 - How Do Banking Supervisors Deal with Failing Banks? (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/
-- Liquidity against collateral - the Swiss National Bank’s approach (BIS central banker speeches) https://www.bis.org/speeches/20261102-liquidity-against-collateral-swiss-national-banks-approach
+- Capital needs AI, and AI needs capital - Europe's opportunity for more growth (BIS central banker speeches) https://www.bis.org/speeches/20261102-capital-needs-ai-and-ai-needs-capital-europes-opportunity-more-growth
 
 ## Headlines: Opinion
+- The Democrats’ Historic Duty (Project Syndicate) https://www.project-syndicate.org/commentary/democrats-lessons-from-historic-midterm-victory-by-reed-galen-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- FTAV’s further reading (FT Alphaville) https://www.ft.com/content/4c51eb96-50ce-4eed-b1c8-b2c46e4a4f37
+- European rates go electric! (FT Alphaville) https://www.ft.com/content/683ac0a1-3141-4e40-8e21-f786749e3184
+- Opinion | Trump taxed imports. Voters sent Republicans the bill. (The Washington Post) https://news.google.com/rss/articles/CBMirgFBVV95cUxQa19NY2FrTFFWRVlLdWF3a0dzSG1mNElyYzVkUTdTS1RvaWxtWjVXVGI0RmtEY19qZlN2UjNzOTZ0WUl0b2FHSkt4dkxObE4yZDRfcXRRZDVhX1IyTmJkeWtGQ2UxaS1IOTJ6SmNEVmVfaEg1NC1RNTN6ajhIUE5NbHRWdTZobFc0amJLTHU1V1hjSHVLeG9QeU5mY3h0aU5YUE1yck9KcEtIZWwwZWc?oc=5
 - How voters' opinions on the economy affected midterm elections (NBC News) https://news.google.com/rss/articles/CBMisAFBVV95cUxNaW16V0gyM2k1MjNoLVNoU01SMEdMVHdNNmJmRWk0aDhfUUF1UFlxMnBxMHdmZlNKUEcwd29lSlo0bnNiRUlPbzZxNFFrVUs2aVZucEFPWmZHSUk2bGdiLVNyNktXbFZDRzVEMTAycDFvQ1NwbGNuX2RxRDZRYUlpdTR6TEtxdFpsNjZLbTlVTU40a1RuTmtZTnRBbXVJMjBmb24zazZGVEkwSDVPLUFxNA?oc=5
 - Dot-Com Lessons for the AI Bubble (Project Syndicate) https://www.project-syndicate.org/commentary/dotcom-bubble-lessons-for-ai-boom-by-chi-onwurah-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - China Is Defanging the Dollar, Not Dethroning It (Project Syndicate) https://www.project-syndicate.org/commentary/china-trade-with-russia-iran-is-not-de-dollarizing-global-economy-by-ho-fung-hung-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - A Fatal Challenge to Mainstream Economics (Project Syndicate) https://www.project-syndicate.org/commentary/mainstream-economics-no-theoretical-core-fatally-vulnerable-by-james-k-galbraith-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - The midterms have already cost Musk close to $30bn (FT Alphaville) https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836
 - The ECB Must Bail Out France (Project Syndicate) https://www.project-syndicate.org/commentary/ecb-should-waive-its-rules-to-bail-france-out-and-protect-the-euro-by-desmond-lachman-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Two-thirds of Americans say country is headed in the wrong direction: ABC News/Washington Post/Ipsos poll - ABC News (ABC News - Breaking News, Latest News and Videos) https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmxqYTFZRHdmcmVOQVJkdzI4SjBGb1UyZXIya0hrNmRNalk4WVN3TlNIbHBXcGFUanM2S21sSzhORmR6Q1NIdlNCdERXQlRCQkdlc05sd19NdUdsMFZJQzRlcm9NQ1UzR3NKNmNrLW5hS3dWRTVacHNITUdxdTRaZXJfa1RsQVpDM2duQXEwcDI4Z01DbFdiQlM5Wm1NWUxoc2tZS3lpWEJKX1NzenRUMy1HNnY?oc=5
 - OPINION: The Changing Management of Russia’s War Economy (Kyiv Post) https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pNGNBYXZsV2MtNHFPbEpRb0hwS05tTUk4Qy02b21iZ1EyXzNuSUpOUEFxemtzR0VrQTNGRXFjSHZTeWF5VFJNVE1wM2JHZWM?oc=5
 - The Rise and Fall of Privacy (Project Syndicate) https://www.project-syndicate.org/onpoint/privacy-essential-modern-invention-now-in-jeopardy-by-tiffany-jenkins-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Good Institutions Require Good People (Project Syndicate) https://www.project-syndicate.org/commentary/societys-health-rests-on-people-ethics-not-institutions-by-deirdre-nansen-mccloskey-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Voter poll: What have US voters named the top issues at the midterms? (BBC) https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPMXA2Qi1jbV9KU2ZlcGl4c013eUtlUU9HRURwZnBzaUNaYS1Nd0pkbjhFaG40MDNiLUx4Q1c5N2pQdk5FQkVZWENhQ1Vfc2pWRWRsMTItOTliRE0?oc=5
-- Americans are down on the economy and concerned about costs: Polls - ABC News (ABC News - Breaking News, Latest News and Videos) https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc?oc=5
