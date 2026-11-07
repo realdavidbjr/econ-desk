@@ -1,21 +1,21 @@
 # Econ Desk snapshot
-Generated 2026-11-06 20:04 (UTC). Source: FRED unless noted.
+Generated 2026-11-07 01:56 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
 - Effective fed funds: 3.88%
 - SOFR: 3.92%
 - Reverse repo rate: 3.75%
-Next FOMC decision: 2026-12-09 (33 days away), with new projections.
+Next FOMC decision: 2026-12-09 (32 days away), with new projections.
 
 ## Policy and money market rates
 - Fed funds target, upper bound: 4.00%; change unch.; as of Nov 6, 2026
 - Fed funds target, lower bound: 3.75%; change unch.; as of Nov 6, 2026
 - Effective fed funds rate: 3.88%; change unch.; as of Nov 5, 2026
-- Interest on reserve balances: 3.90%; change unch.; as of Nov 6, 2026
+- Interest on reserve balances: 3.90%; change unch.; as of Nov 9, 2026
 - Overnight reverse repo rate: 3.75%; change unch.; as of Nov 6, 2026
 - SOFR: 3.92%; change -2 bp; as of Nov 5, 2026; Lowest since Oct 2026
-- Discount rate (primary credit): 4.00%; change unch.; as of Nov 4, 2026
+- Discount rate (primary credit): 4.00%; change unch.; as of Nov 5, 2026
 - Bank prime loan rate: 7.00%; change unch.; as of Oct 27, 2026
 
 ## Liquidity and plumbing
@@ -33,7 +33,7 @@ Next FOMC decision: 2026-12-09 (33 days away), with new projections.
 - PCE prices, core (the Fed's target): 3.1%; change +0.1 pts; MoM +0.3%; as of Sep 2026
 - PPI, final demand: 6.3%; change +0.8 pts; MoM +1.3%; as of Sep 2026; Highest since Dec 2022
 - UMich 1-year inflation expectations: 4.6%; change +0.6 pts; as of Sep 2026
-- 5y5y forward inflation expectation: 2.22%; change unch.; as of Nov 5, 2026
+- 5y5y forward inflation expectation: 2.17%; change -5 bp; as of Nov 6, 2026; Lowest since Jun 2026
 
 ## Labor market
 - Unemployment rate: 4.1%; change -0.1 pts; as of Oct 2026
@@ -65,19 +65,19 @@ Next FOMC decision: 2026-12-09 (33 days away), with new projections.
 
 ## Stocks and volatility
 - S&P 500: 7,354; change -335; 1M -5.9%; YoY +8.2%; as of Nov 5, 2026; Lowest since Jul 2026
-- Dow Jones Industrial Average: 51,523; change -1,833; 1M +0.0%; YoY +8.9%; as of Nov 5, 2026; Lowest since Oct 2026
+- Dow Jones Industrial Average: 51,286; change -237; 1M +0.2%; YoY +9.3%; as of Nov 6, 2026; Lowest since Oct 2026
 - Nasdaq Composite: 24,315; change -1,422; 1M -11.9%; YoY +3.5%; as of Nov 5, 2026; Lowest since Apr 2026
 - VIX volatility index: 28.18; change +11.57; as of Nov 5, 2026; Highest since Mar 2026
 
 ## Treasury yields
-- 3-month Treasury: 4.21%; change unch.; as of Nov 4, 2026
-- 2-year Treasury: 4.58%; change -3 bp; as of Nov 4, 2026
-- 10-year Treasury: 4.90%; change -5 bp; as of Nov 4, 2026; Lowest since Sep 2026
-- 30-year Treasury: 5.28%; change -4 bp; as of Nov 4, 2026
-- 2s10s spread: 0.38%; change +6 bp; as of Nov 5, 2026
-- 3-month/10-year spread: 0.67%; change -2 bp; as of Nov 5, 2026; Lowest since Jul 2026
-- 10-year real yield (TIPS): 2.64%; change -1 bp; as of Nov 4, 2026
-- 10-year breakeven inflation: 2.24%; change -2 bp; as of Nov 5, 2026; Lowest since Aug 2026
+- 3-month Treasury: 4.17%; change -4 bp; as of Nov 5, 2026
+- 2-year Treasury: 4.46%; change -12 bp; as of Nov 5, 2026; Lowest since Sep 2026
+- 10-year Treasury: 4.84%; change -6 bp; as of Nov 5, 2026; Lowest since Sep 2026
+- 30-year Treasury: 5.25%; change -3 bp; as of Nov 5, 2026; Lowest since Sep 2026
+- 2s10s spread: 0.35%; change -3 bp; as of Nov 6, 2026
+- 3-month/10-year spread: 0.67%; change unch.; as of Nov 6, 2026
+- 10-year real yield (TIPS): 2.60%; change -4 bp; as of Nov 5, 2026
+- 10-year breakeven inflation: 2.23%; change -1 bp; as of Nov 6, 2026; Lowest since Aug 2026
 
 ## Credit spreads
 - High-yield bond spread: 3.48%; change +16 bp; as of Nov 5, 2026; Highest since May 2025
@@ -98,9 +98,9 @@ Next FOMC decision: 2026-12-09 (33 days away), with new projections.
 - Velocity of M2: 1.417; change -0.003; as of Q3 2026
 
 ## Bank credit
-- Bank credit, all commercial banks: $20.01T; change +$29B; YoY +6.3%; as of Oct 21, 2026; Highest since at least 1990
-- Commercial and industrial loans: $3.00T; change +$5.2B; YoY +11.3%; as of Oct 21, 2026; Highest since May 2020
-- Consumer credit outstanding: $5.20T; change +$8.3B; YoY +2.7%; as of Aug 2026; Highest since at least 1990
+- Bank credit, all commercial banks: $20.02T; change +$9.5B; YoY +6.2%; as of Oct 28, 2026; Highest since at least 1990
+- Commercial and industrial loans: $3.00T; change +$2.1B; YoY +11.4%; as of Oct 28, 2026; Highest since May 2020
+- Consumer credit outstanding: $5.22T; change +$28B; YoY +3.0%; as of Sep 2026; Highest since at least 1990
 
 ## Fed balance sheet (as of Nov 4, 2026, $ billions)
 - Total assets: 6,748 (one week earlier 6,746)
@@ -112,10 +112,6 @@ Next FOMC decision: 2026-12-09 (33 days away), with new projections.
 - Everything else: 70
 
 ## Calendar, next 14 days
-- 2026-11-06: Employment Situation
-- 2026-11-06: State Unemployment Insurance Weekly Claims Report
-- 2026-11-06: G.19 Consumer Credit
-- 2026-11-06: H.8 Assets and Liabilities of Commercial Banks in the United States
 - 2026-11-10: Consumer Price Index
 - 2026-11-10: Consumer Price Index Excluding Energy Commodities
 - 2026-11-10: Research Consumer Price Index
@@ -154,36 +150,37 @@ Next FOMC decision: 2026-12-09 (33 days away), with new projections.
 - Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates) (ECB) https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html
 
 ## Headlines: News
-- Job Growth Beats Expectations: October 2026 Jobs Report (Advancing American Freedom) https://news.google.com/rss/articles/CBMingFBVV95cUxPMFFsQUxzNkpSWmVBT1B4NFAwRERrTy1UWTBkWFZsaVROQTFvZEFBd3ZndXlIR3lQSTNVcGxjazZxM0NORTJScDJvTHhNTzhBNkJjYzk5MkVreTZPbnVGT28xdDFMSkJoN3FEUEd6Z0V1TE9aSnhSdTJuSGhwMXIxMm1uTmotWUVmeVhVT25mZENLcl93MkRURjU2cWhWZw?oc=5
-- Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary? (MarketWatch) https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories
+- Jobs report shows U.S. economy added 165,000 jobs in October, exceeding experts' expectations (ABC13 Houston) https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFNrcWJ1dm5GRmlfREJ1MGppQVh5bXp4cUJSNWhucXJCUnBrX0R5eUVOZWs0Z0FFdW56QkdSamgwbzdNaWVjTXRzaGRzeEozUHQ4eHpldkdwa2VzaEJuX0t3X0Z6bGtLNzRLOVRxMGdiYmMxa3dsQkZzQmd6aXk0RFVJLTFCcFM2dlZMUF9BQWFrbnM3Nm4wYXlYN2JSangwemFoVk9oY0dDUWF6aEx5V3o4bG0?oc=5
+- U.S. Hiring Picks Up and Unemployment Falls (The New York Times) https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWtWUC0wbVZ5Um5oQUpudDNtcUZWLXV0SWJDRFRpSVBTRDhJTHUtT20xV3hPR3FwV2NRUERjVVFMeWgtMFhVV2QyNEVJcndzSEJ2Wmo3dkMzb2FWWkV4OXk0R292RnhOUENMbi1rX2d3NE4xV2RJcDIzWmJrbERwdkpabWo4QnhGb0E?oc=5
+- US treasury bond prices down on Friday, Yields on 10-year, 30-year, 2-year jump. Check latest rates (The Economic Times) https://news.google.com/rss/articles/CBMigAJBVV95cUxQU0VwVnh0d3ZtLThFRi1ydDFZcEV3R2VHUE01eFJxb1hab1dzTXJBLXR3bzhfMTlhRlZkcDR3WHYwcEtaWjZtUnRESE0ydGxFQ0M0OGNGV2tHTHJpZXFXS1hfcGt5dVhOYU9GTy1CR2tTaXBHU2pUcWIwcU0wbHo3UHV6ZTVPeG1qNWR3M1lrMEo3bTVfc3U3VnNZNW5CTnh6aWVwVi01SEFoNTJ2Q3NGUmRKWFVwMjVhVm8wbm9pcjBXb3lsT2dtV1FIbzRtVnk2TGtKUEo0M0FhSTJYX1h1YkVhRjh3cVRTcllrVVU2ekUzeHp6ekhIY253RzBNd0R00gGGAkFVX3lxTE1Na1FJdzNJVDlGM21aUFgyZnVQNmVxbnpyUzhILVo5bVBWTVhxNDAzN2piaWtkc24yZ1B0UDFGaHJuLVBLcDRaOUZEMVllcDd3bGhkek9GdENLWFFJTVM1NDRPQmlCQUZuNkVVV3g3bDZHS0FveUxmUUt5dU5lSHpUUnNUVy0xU0xtRWlvVkdhMkFadnN2d1ZMbW1CYmtaOTZCS0lWanNyOWppTHUxLVNnblF5REVsdnR6d2dvNTQ2MnpSU2FXMjNUdWk4elJWVkpnU2lsSmJCQjFJdVd0eWtUX043Tmw1eWYzZU12a05ZUlhHd0M5MzlJMEJJdG55SzJZZW9oUlE?oc=5
+- U.S. economy adds a robust 165,000 jobs in October (CNN) https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEg2Ql9vWE4yWEtWRDBaVmNfbnFVNGhncC1uelBhb3dxYmxIVFNIbUNEYnlKazQxdTRpTXVUTVlrV0tJSUJMdkFWLXFENmtZZFNRSm93ZTEwNmIwMHVPU3JVSzBReWdWb2E4S3h0MFl3RjlFUXZSZ1pMM3A5RmxwVV9wTU9wWHptMllnNjV1QlFMUTJxV2NGUlFvaWRENTVFSFFFZ3lPRGtPLVlyeldJMi1KcUhUSDZPQUE?oc=5
+- Treasury Yields Snapshot: November 6, 2026 (ETF Database) https://news.google.com/rss/articles/CBMijAFBVV95cUxNTExFWV9MSGM1Tnl5bGt2a0J5M2VPSmxSWnVaM3hDdGdiRktVbGs4WDhLdjRSM29zSkRiaTNfU256UTFINWdWR2dpRzFRSktqRml5MkVPdlpyLVJfand1eWMtUVdZRnJsQlpDb09iRnBGQ0hYTGtnVGQ3TE5nWmtLWXV6cVFlbXQ1VXhWeg?oc=5
+- Foreign governments own fewer Treasurys these days. That's pushing interest rates up (Marketplace.org) https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0lkV0RrVGJtR1ZrVFFfWlN3dWJfQ2VZOWxlUzV3OTB2eTBjcmhlWjhsaml6LUhUU282cGNDOHA5dW9lS014RWc3MWd5Z0NaRUI1RXVmbzZORUtqcXRCZkJlaW5FM1k4bGFrWkZSbWNLRVg5b2xaT3ktYlhWSC1uck9ZUlo1ZEZfRUhXNXAyMzlOU3JodE40MElZZEhLXzlxaDRDSm9YOTdLaXVT?oc=5
+- S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings (StoneX) https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjgxZzVKblZ0aDNsQUN0azRrZHN6LVdDd2ZIV3R5TFlaSTRYQ2xnNnFFQmZmVHN4RkhTTEpudUpUelVmbE5rX0N2cEZBRU5JX1cyZ09SeDhldUJJOXU3cHNsdndJNlFiUzlWYzlSWU8zUXVCM3hFd3o2cVRqNm5KUk5RN1pLcEZ1Z2pKelNxUjRKTzFQMEVGUUs2dXRFZUN5Qms1a3NfQ2hNaEE4aS1QY0VHMmdtSUo5aXF1SFNR?oc=5
+- US warns China it must ‘immediately’ meet terms of Busan trade deal (FT Global Economy) https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1
+- Democrats' midterm sweep gives gold a boost, but the Federal Reserve still holds the cards (Kitco) https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzdISW9TT1BGRXJvMjQ0WUd2RFJzUmtWcDlEem5YZm9HVEl2UENMeXdhLWtFS0ttcjQxd0g2dGJwN0ZLUkVBQllvWm9sUk5FVXhnRXRTZ2FZZk41blpxRjJXQ2FmVzR6VXRqNV80RS11cVJQUVlud3psRDVQcDFUQk9tX3I2bVlCb3VOTk5nSDNHN0RFYWV6RENsQTNsdnRES0l1SG1HNUF2SjdzV2p6bnBwb2I4N0FTbTFOaA?oc=5
+- Strong Hiring Reinforces a Sturdy Job Market (The New York Times) https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXBUazJMek5pNDFqRGQyNl9XT0tRQmRFTjhXLW1sbDJ4VEExaXRUU0RxaXZRVkdDS1VYbnRiR2JqZEZTVXNlemN5dEtkZ2NfMU0xaTE3QUlzd2locHl1eDVIdXppaHlISXhybXNCZ0UzS0ZlVkhGazVEN1BaQnlZeFduWlpndmYzaEE?oc=5
 - U.S. economy added 165,000 jobs in October, showing surprising strength (The Washington Post) https://news.google.com/rss/articles/CBMioAFBVV95cUxOazBibjQ3NlNnc3dzRC03dDljRFFJRkdaSzF3SFhHNXJPdXVQVXdpTG9JaVBCTDhNS0I4VzJDaUZUbTE5ZklvcW51SUJKZDNBYmZ2emR4azRSM05BQWZ0dG1rdkxQYjBxXy1CNlc2WXNmNTFRWTRsdFdwTzN3dnU1T1pxa0hFY0ZUbWY5MFFPQklXakQ3YUZGZGtBSy1jcXE4?oc=5
-- A disturbing employment trend is hiding beneath the latest strong job numbers (CNBC Economy) https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html
-- Fed Officials Pointing Toward Additional Interest Rates Hikes to Beat Inflation (TradingView) https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYURfOVFYbFc5UHZKOHRxRVBybDkweUw0ZXpkVE0tdFl2ejVubHZYcjdPUlgtc0RhR3FITEJWVDVnZXZ5LXh5d0xISlkzLTdGT1JZTXN5c1k4SHZtQm1nZTRxRHFuOUJSN2hZeUNqc2JoSUFXY205ZjZDaklaMVpHejE3dmJvREZHXzdxTXB1cXNQUm9PM3VtNHo4WGdFNG5NYjBIWjd2UnFwMURLOGEtRy1tTWVuNmMtUkxTc3VoeFJRbElabmhYTERidnA5YTROVDVhYg?oc=5
-- Four things to note from Friday's US jobs report (Reuters) https://news.google.com/rss/articles/CBMijAFBVV95cUxQcl9IZFVuS00zSjQyMTVpYjM4TldkamZJUDF5LWlKWkQ3NFE4VWtXbmFrVVhORkdKckRRcXU4cU5HQW5HQkF6NDNEYXJoXzR5eEFGV25aS1o4ZUlQQkwwRHV5M2ZSTVVTZG0zZnN2VUdyN1UwcnhtUC1HeERRQTBZVGlXNVhUUWUtWmFxWg?oc=5
-- US labor market regains ground as job growth surges, unemployment rate falls to 4.1% (Reuters) https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5
-- US Equity Indexes Mixed Following Blowout Jobs Report, Gains in Treasury Yields (marketscreener.com) https://news.google.com/rss/articles/CBMiywFBVV95cUxNWkZuWmc4cTIyd09yMmxLaGc1N1RZRHR0em1LVkVUXzl0R2pDTUtiWFJrbjRCNmFkeEI0R0s4cTdubG42b3VtSE9YU3gzYWJDTFlhMk1VRHJsRFBRLVhrZkZBdzh2UF9xd0V0RXB5ZE9BenBfY29mUE9jX1FKdWdodGk2al9Rd2dHY0FZSGw1VkNlcTAxaER4T0VsTXFYMnJ1aGRoc1lCNFhhZmdzVjgxc1Foc0lhTllZdnZIWnRGczYweUJWYjZfOFY3VQ?oc=5
-- ECB forecasting losses of up to £50m in 2027 despite visit of Australia for the Ashes (The Guardian) https://news.google.com/rss/articles/CBMiygFBVV95cUxQSlZNQ0UzS2otdU85S1hrV3R6OUN6aWVnRzQ3TnpUczdMejlFSGpJZTNfR3dDM1FvQXd5aTMzdUdUcXdKcHJVRmZOY21RcDlqZUtaNU8tQzZURzFJQzNoZGgzS1ExZWtQZmVETVo0LXFOVTlRc3FWbWxVMUh3bC1oekRhYnFUZ3Nxa1puUjNzMXhBNm1uN01rTC15M0x5Yk9XNkMwVF91RnlHTlRHWmpCckc0NWI5QkViRFFkRExxeS1XQllSdW54clZB?oc=5
-- Cybertruck’s run comes to an end as Musk kills off pricey pet project (MarketWatch) https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories
-- My adviser recommended an annuity. Is it the right move in this market environment? (MarketWatch) https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories
 - US economy outstrips forecasts to add 165,000 jobs in October (FT Global Economy) https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1
 
 ## Headlines: Companies
-- Supreme Court to Hear Goldman Sachs’ Bankruptcy Arbitration Bid (Bloomberg.com) https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHVWakZUUW5ZUWlwWGVWWk1KSTlFTUlUUWJjWFNkR0VJM2pXX0otcEVDZ3l0VHU4bmhncHFkYklGVzJpZENZZ2VRSF82VFIzQmd3N01KaEFSTVMxOWMtSGdtZVYxU3RaWktXM3Nkd1dVamZuM3JGM3p4bUlnNmMwVlNVV2VweXYyS01YQmVFMUEzZ0ZPc20xZEdONUNLN0owM1ktYnJrQVhSbkNrLXY0dWg3Yw?oc=5
-- BREAKING: High Court Will Take Up Case Of Goldman Arbitration Denial (Law360) https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYXRHSmttY0huczFteURKMUVTbmhfU25NdlNKRElZOXF1QVI5ZXF3R3ViOEwtcTJIVWh6NTVjanQ2WGxQemhiNXZuRERtOEczYjlIN1h6VXo3SFVVaXp1NFFiTVV3Zkd3d2hISlBLRFlacGZHdlNza013YTk2VThTR1hwLTVmanVzNFlHYUR2azFMbjQ3S3Q3ekU0RTNxZHhtblhCZDRmSGRIOHZtOTkwNDQtZVlUWUIxSU5HaW94WXRGLXZfeGhjYVdHc2JHNXZGNnfSAXJBVV95cUxONXRHUHdXeFpSc2ZNS2dPT1FXb2NYUEpHUlNPNHo2UjFfVnEwWTBBS1BMZktEdjM0a1pmb3RBcklJZ0FmZkFBRjRVZ3k2cF9hLVYxWXc2S1kzamd2THBQLTJNWlotalJJQ2VPblEwcVNIclE?oc=5
-- Opendoor Plunges 21% After Q3 Miss and Soft Revenue Guidance; Zillow Group Slides 2%, Rocket Companies Holds Steady (24/7 Wall St.) https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNGtZdVVub2E1NVZtRkRjc2ZPV2N6dWEtVFdpMlZFblZHbk8zT0lBV2habF9QRWxnWm1jZWJocmhZZW02U1hqUlFQaUVPc04xM1ZwRWc5Z2ZZb3VaOUtHRDNEd09vMko2clBBR1NSVXVYUzRpQWdKUGc0cFc4WWFUYlpJd01KcGUtMDdWX085LTA0NzhkYkNYeWY0dERsTnhINGJFM1NyeTJmTkgzSEE0SzZveGpTc2w1dFJoTXc5WlpwMF9XQktDNGtZWnlZQmpvVW5sT05BWVh0S1RJT1NXaVM2S2tOVk9aVWRr?oc=5
-- 'Am I The Wave?' Based on Novel 'Say Her Name' Sets Manuel García-Rulfo, Renata Vaca (Deadline) https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWV6bFlnaVpFRllvbDZpcUFrY3FGNk9nY05sQzRPeGxkLWFwSFF3TjZFLWhrbmhRVDdhcERva0JVWU1la3Q3M2NPR3ZoQWZ0LUNoc0Uza3h0T185aFNBdTQxanlOeTRzUmRCNDBETUZsZ3p4UUk1X0NWX0RPUndzZW96SXZzRjNodkZSUHlWOA?oc=5
-- Airbnb earnings analysis: questions answered and next catalysts (Yahoo Finance) https://news.google.com/rss/articles/CBMirAFBVV95cUxNX21kdzU3Vmh5alFZZ2hsdlBiZE11d2d1bzRybDFYcHNfaHV4OGdXQ2ppalA2bFNibTdvb1NhamFIckwzMVFpVFF6b0NtclV3Y3B1aUw2c2w0aVIzTFhtUkxzSVJIeTlFN0pHQjlmVzBkekxERml2UnJwRktxWXZ4bVlDbW9vbVRNS1VPblZ1eFpyRGpna3dmZl9CYTNDUGNsNEY0MGliS216T0tx?oc=5
-- REGENXBIO Q3 Earnings Call Highlights (Yahoo Finance) https://news.google.com/rss/articles/CBMinwFBVV95cUxNRU9kUm5IZEhLQ0FsQnVrTkk4UVlCR0JnWXdNaXBvYl9oLUUzcm9sSW1PX1dNOERRMmZEdnhWWlV1TTNPMzhfMXMyTU1Ld3Z4ZVhISU45ZndWU09PR203Q2FjZTA0ZzVIVW1WNE9mYVR1Sks3WW5CdmlqNnZFemVjQTZiUHVnMVRQMG45WDVnWmVJME1qajdLOE1sYV9JcFU?oc=5
-- Beauty Health Q3 Earnings Call Highlights (Yahoo Finance) https://news.google.com/rss/articles/CBMilgFBVV95cUxOcjNpZmtMNlRDbmJOR2ZXRTdYeUFaNkJFWFlBdHBvS0NxVlZtZlVWZGVLRE9QUlpiM25MdkpUNTJTMDNaLXZ4aWtPUFhhZGJKTmNNdGhXZGxLem5xcmdiemI4RXc0Zmxob1RVRFRnaWU1eklGMVF2X2NseWQ3dzBsc05odkJpNWlhZVliWmZISDNTanQ1UFE?oc=5
-- NextPlat to Release Third Quarter 2026 Results on Thursday, November 12, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ25JRlFoTk1aSndmMGN6U19UTkIyZ2pUTE9OVWdrOHVjWGVhMElMZTkxNXRrZWJRMGt4TGlFeGg5SWhNYXQtbHVZcjdIRVMxdjlNcGJWZVFXUnQtQjlyRmJGYnhuSFo0S0VNek9tUHYwUWZiX1UtUHctSTBVUEFMcEs0cjdOZmUtNXk1UGZDQnVocndLSXZFbWQwTkxoX2t5cUE?oc=5
-- Under Armour Mired in Decade-Long Earnings Rut (Sportico.com) https://news.google.com/rss/articles/CBMikwFBVV95cUxPN19pV2FLR1Exby1WZGNHcEVxdTBod2tUOGEwTWJzR3R0a0xmeHI4THNoZW9zek8yY3p6MVFBbUlXcVpJNXhkRUlVNHN3OXBtZUVheXhNcGZIaXNiSHNNX2VUeHlURS1BTmtuUFczZDE3SkV6YlJpRk9UaWRJRVFONFFVY015VVFMLUZ5TWVLcjBhZUU?oc=5
-- Dive Deposits: Goldman named new partners but left other details out (Banking Dive) https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeFNpQ2Rud3NmWkQxOTZoZDl1YVQwTkJjOS0ycC1RcnpSQ2hvMXFmZ3c3ODBUOWdwcURKelRnT0tMaEM5dlFhbkMxSmdYUDlCOGxuUWcyRnhDcGxzS1o0TndZYzRWVWxoMk1PMHdxMGdSOW5SQ3l4VU9CdVduUldMTTRwbHI0YzM3SURMaG9ISUxadG1VMWlQYVRBaHRyZ0lmRF9Nd3lFZEVSMFE?oc=5
-- How Investors Are Reacting To Steven Madden (SHOO) Raised Full Year Guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ01RTE5udVVaNS1abzRLQ1NDU1VFQWtFNWg4YjVxVktBbFA4ZkEwNU9DenZEeHRUSjZodWN3NGZVdWxLMUJWRHhqUDJ6a20wRVlPLWtwNklvbXY2WEhXTTJ4YnhiMUtiMnEza1ZtcVcyS2J1elEwWWlnXzBmVk5pT1JrbkdjZFU2VWlEUHdpeFNvdWsxdUo1OUQ1SUpGWGo0Ny1Hcw?oc=5
-- PPL Q3 Earnings Beat Estimates on Higher Rates, Sales Volumes (Yahoo Finance) https://news.google.com/rss/articles/CBMimwFBVV95cUxNNUZBOTdKT2ljWnJ1VU55cThMYnF2R2kzVVZMRmhiemNGNkVoT0lDN1VQVWxsUk11T1dyeTlYRWJIRGRBM1dIUHRWT1NXWnNvZHJpSjNLMzFhNDNnakh3bmdRWjM3YmF4UHlQMjhReEtpZFYtb210YXBqMUx4dk5fNC1NbUo2VlZQOEJFT3dETHRnMUF0UDBxTmVrVQ?oc=5
+- Earnings Preview: NEBIUS to Report Financial Results Pre-market on November 12 (Moomoo) https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGZzdFNBNGNYZVJ6RkZoVndzN3pqN0dueVZ3dHY4QVJIYUoyUzJrcEhjTmtaU2x4dnhUNnJiNGhfc05YdFUwbFBKSl95bm1HaTBHbmxEWmZzeUViaElobzduYVFOMGNMNWFWcE1ucGlMa3ZUWnpUdlR0OXROemUwTVY0YnlrOXp6aFowZl92Zkt3SXJMWVFkbDB0ajB1aEdLS1RkWGRoRXBjVGpxVlE?oc=5
+- Goldman raises global data center capacity forecast to 273 GW by 2030 (Yahoo Finance) https://news.google.com/rss/articles/CBMingFBVV95cUxOSno5d0JsV2taVkdQdVRCXzZUYUVUZi1PYkQ3MlhtTXhmZXR3Z0FWQ1R1azdFd2tFd0tNX0RZWnlIMEl6Q1A4cU9Td0FISXpUaWwwQzNnYzJxWlhHX2RUN3cwUjZMTTB5ZkNLQWNxN0NmdWU2RDJSWW85aDY5ZEZ2ZlhKdzJUdWVva2VQdEZuSE96R1c5X21SNHJXS2RrUQ?oc=5
+- LifeMD Reschedules Third Quarter 2026 Earnings Release and Conference Call to November 12, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NxbGkxUFNzOWRlZlRhS20xNVNVenpLMTU1cXpWM09aNkdieXVyQ1VNdjU0TTFzLXY5NzFHSmM2SXVaNG0zdXV1Ynhza2M2S0xIU0lmc2NwbnJwQWpla21zSEJUd21fd1g4VGp5N1R2X2xpbENHOFlnd1hvaERUOTY3Ykk2bjBhRk1pLUhCY2hHWS1IXzdfWkFyVThEWGc?oc=5
+- Bank of America Corporation (BAC-PB) Seasonal returns chart (Yahoo Finance Australia) https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpeEU3Y2RjRjIzQUlJRHV0dHVnRzJNWkc0Wkl1eVh0V2ZRTFFrME1KZl9EZTNMVUR1RktxTnNNcW1ldHpqLXhEYlJsTUpGWTQ4WXhsM0xFbVZORFI1em1tTWcwOFI?oc=5
+- S&P 500 Earnings Season Update: November 6, 2026 (FactSet Insight) https://news.google.com/rss/articles/CBMifkFVX3lxTFBCRlpfbGZiMEtQTy1uVURVVjdubUxXRFVkTGpjelhTc0pyVFFfR0djYk42VjJISkVYbEhjTm5xRE5oVFp5V0QwQkI0NmJBeEpTRFR0cHVjVm9qN0pGRHhTQmVNLWhvU2JKb2xMeFJVa1I3aW5DRnNFNm5TbURtd9IBjgFBVV95cUxOVGladW9BV0dmMEl6LWJiTnBoSVh0VnBTUU5BemZhVWJESWdtUHRIVTBMbzFOZmVOQ1NhMVpPUG9SSlJMMmRVa05fcEU4Y0VUNXBVNkxZY2NCTFhQd1RGVWpuMnM5NzZPY3J6TTJCZVFBM1N3NTNTNXd4bUxTc09MSEJjWTY2OW9EdHVtVU13?oc=5
+- What SAB Biotherapeutics (SABS) Said on Its Q3 Earnings Call (Yahoo Finance) https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3BBMFktcDRic21YY2FKOGJuN2pLUGpDNl9RS3N6Xzdfc0NYZm1YWUhvck5mcmptNnB2VUJPRUh2Y19Fa3YxODk5N1lBaTFQVktDMjA4RmZPZVJGSUFIVEJRNWpmZzdzTExmbUlTTzhZbEJtMDRIUDNhLVU2dzdTaWJQNzE2eVVLR2dDMjVhT29uVi1LSlBHVA?oc=5
+- Pembina Pipeline Corp (PBA) (Q3 2026) Earnings Call Highlights: Raised Guidance, $3 Billion in ... (Yahoo Finance) https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1Z4d0FPRGNUUWdaa1JlYWhSdzVVSHZQZ1FYNFZIME8yTWlKZmluWWxDOEdpd3dCeXpVbHg0ZXg1YWR1NDhyNUcxN1JxdEFuTGt1RVZkTUotNEo5VU9iUW1saThvQTRqeXhESk4ydS00LUN0c3htX1dDaUJLNmZuX2JCMURMUWxEaC1XcVVRSHBTcVRjYmJSeQ?oc=5
+- Biofrontera Inc. to Report Third Quarter 2026 Financial Results on November 13, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMingFBVV95cUxOSjU1VWpXRjZMaGFTRENWb09zOWtZa0x2YWMyS2gzNFJxTi1rNGlwYkpYaThhelJQa3ZDSEM3Wk94UklGWnRrdW5ISHpGTmZwM3QzcE9ucUVXVnVUTGstSU9vZy1oV1VBdWktcTQtTkU0UnM1dGdfYXowbWtuLUNNZzBhMTBIcVRiRHM4amc0ODNuMDlwN2pqZHBETUcxUQ?oc=5
+- Goldman Sachs Chief Economist Jan Hatzius Joins CNBC to Discuss the US Jobs Report and the Economic Outlook (Goldman Sachs) https://news.google.com/rss/articles/CBMingFBVV95cUxOZHBVek5qZExqR2h5OGo4dmJIYUJaMGNEdkp1SUIwQWlxZXFTWjZmU003SlY4Ri1PZ1p3empOOWtFeVAyZEhNZ0hVdng2ZENzSXFUZG52ZUVJUlZ3MzBxN21EU0kwNndKRWhoWE5zdl9sdmtXMWtVVUt4aHB6eXRDR0VkRWhMZ3ZJQ2cxNjUwTlJvWG94VmtsaVpJN3Jwdw?oc=5
+- LSEG CEO David Schwimmer on Where Global Capital Is Moving (Goldman Sachs) https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZUc0eUNyMTNxZV9XWUFyMVpJNHBob0VHeVVEQUg1djluWnFsMk5lb0kwZ3JseGZKM04zSE5GZTljMGRocVFQZ1pVRFpBdW1KaXlLRElxcGR1M09sVklDal9tVzhRZzBFczA4Vnl0UzY5V1E?oc=5
+- Maersk Shares Tumble After Earnings, Guidance Disappoint (WSJ) https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEdBOGMtVDBsOUQxQ21GYlc4bWZ5cmxZd05GMUJ5Q29PUmlLOW9hLU9fbUhfcTRrTkUwTm5qSG9DVEJESVNBS3FjdzQxQ3J6dl95clZ3ZHBWTlpQRnFWNS14TzJxMmc3QnFiQzR6N1hfM1pZcFNwWlFDRUV0UjRVRFRKQlZ4Ullld0VZTm9YRFpzUnhjdi00Y3g3NlA3RzdBV1BpcTNGX3dudEI1dTNtc3VQSWEtMWJoTHNiNXhR?oc=5
+- Why Ingredion Stock Is In Focus After Lowered Earnings Guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGJxek9fYkpKNXJ3N1FZSXFBSEZOOWtvTGx2LUtyX2dtMDE4NHpwS2ZJel8zWVFwRVk0UnJTM2lvaHMzZDdZNDJJWmlvNEl3RkhSYVdEYVJ3Y2RidkRLT0ZZakk1SUtoTUNHUFptTjBRaVNRcUZLUEdwak5ZQS1SMERJc2d2Szk1TklNY25EWEd2LTZtOG0zTTAxN0V5X00?oc=5
 
 ## Headlines: Research
 - The U.S. Oil Sector’s Role in Restraining Prices (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/the-u-s-oil-sectors-role-in-restraining-prices/
 - How Market Position Shapes Credit Card Interest Rates (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/
+- Innovation, security and technological sovereignty - reconciling three imperatives (BIS central banker speeches) https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives
 - Economic transitions - technology (BIS central banker speeches) https://www.bis.org/speeches/20261103-economic-transitions-technology
 - Building sills for Africa’s home-grown development (BIS central banker speeches) https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development
 - The path back to 2 % has become less comfortable (BIS central banker speeches) https://www.bis.org/speeches/20261103-path-back-2-has-become-less-comfortable
@@ -192,7 +189,6 @@ Next FOMC decision: 2026-12-09 (33 days away), with new projections.
 - Stable banks, strong capital markets - Europe’s financial system for the future (BIS central banker speeches) https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future
 - Marking our tenth anniversary - one conviction, two principles and three challenges (BIS central banker speeches) https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges
 - Payments in a fragmenting world - sovereignty, strategy and system design (BIS central banker speeches) https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design
-- Innovation, security and technological sovereignty - reconciling three imperatives (BIS central banker speeches) https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives
 - How Do Banking Supervisors Deal with Failing Banks? (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/
 
 ## Headlines: Opinion
