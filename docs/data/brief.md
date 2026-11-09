@@ -1,29 +1,29 @@
 # Econ Desk snapshot
-Generated 2026-11-07 01:56 (UTC). Source: FRED unless noted.
+Generated 2026-11-09 20:52 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
 - Effective fed funds: 3.88%
-- SOFR: 3.92%
+- SOFR: 3.89%
 - Reverse repo rate: 3.75%
-Next FOMC decision: 2026-12-09 (32 days away), with new projections.
+Next FOMC decision: 2026-12-09 (30 days away), with new projections.
 
 ## Policy and money market rates
-- Fed funds target, upper bound: 4.00%; change unch.; as of Nov 6, 2026
-- Fed funds target, lower bound: 3.75%; change unch.; as of Nov 6, 2026
-- Effective fed funds rate: 3.88%; change unch.; as of Nov 5, 2026
+- Fed funds target, upper bound: 4.00%; change unch.; as of Nov 9, 2026
+- Fed funds target, lower bound: 3.75%; change unch.; as of Nov 9, 2026
+- Effective fed funds rate: 3.88%; change unch.; as of Nov 6, 2026
 - Interest on reserve balances: 3.90%; change unch.; as of Nov 9, 2026
-- Overnight reverse repo rate: 3.75%; change unch.; as of Nov 6, 2026
-- SOFR: 3.92%; change -2 bp; as of Nov 5, 2026; Lowest since Oct 2026
+- Overnight reverse repo rate: 3.75%; change unch.; as of Nov 9, 2026
+- SOFR: 3.89%; change -3 bp; as of Nov 6, 2026; Lowest since Oct 2026
 - Discount rate (primary credit): 4.00%; change unch.; as of Nov 5, 2026
 - Bank prime loan rate: 7.00%; change unch.; as of Oct 27, 2026
 
 ## Liquidity and plumbing
 - Fed total assets: $6.75T; change +$2.5B; YoY +2.4%; as of Nov 4, 2026
 - Bank reserves: $2.93T; change +$36B; YoY +2.9%; as of Nov 4, 2026
-- Overnight reverse repo usage: $0.1B; change unch.; as of Nov 6, 2026
+- Overnight reverse repo usage: $0.3B; change +$0.1B; as of Nov 9, 2026
 - Treasury General Account: $957B; change -$43B; as of Nov 4, 2026
-- Repo operations (standing repo facility): $0.0B; change unch.; as of Nov 6, 2026
+- Repo operations (standing repo facility): $0.0B; change unch.; as of Nov 9, 2026; Highest since Oct 2026
 - Discount window lending (primary credit): $9.2B; change -$0.3B; as of Nov 4, 2026
 
 ## Inflation
@@ -66,7 +66,7 @@ Next FOMC decision: 2026-12-09 (32 days away), with new projections.
 ## Stocks and volatility
 - S&P 500: 7,354; change -335; 1M -5.9%; YoY +8.2%; as of Nov 5, 2026; Lowest since Jul 2026
 - Dow Jones Industrial Average: 51,286; change -237; 1M +0.2%; YoY +9.3%; as of Nov 6, 2026; Lowest since Oct 2026
-- Nasdaq Composite: 24,315; change -1,422; 1M -11.9%; YoY +3.5%; as of Nov 5, 2026; Lowest since Apr 2026
+- Nasdaq Composite: 24,579; change +264; 1M -10.7%; YoY +6.6%; as of Nov 6, 2026
 - VIX volatility index: 28.18; change +11.57; as of Nov 5, 2026; Highest since Mar 2026
 
 ## Treasury yields
@@ -80,8 +80,8 @@ Next FOMC decision: 2026-12-09 (32 days away), with new projections.
 - 10-year breakeven inflation: 2.23%; change -1 bp; as of Nov 6, 2026; Lowest since Aug 2026
 
 ## Credit spreads
-- High-yield bond spread: 3.48%; change +16 bp; as of Nov 5, 2026; Highest since May 2025
-- Investment-grade bond spread: 0.93%; change +2 bp; as of Nov 5, 2026
+- High-yield bond spread: 3.42%; change -6 bp; as of Nov 6, 2026
+- Investment-grade bond spread: 0.93%; change unch.; as of Nov 6, 2026
 
 ## Energy and the dollar
 - WTI crude oil, $/barrel: $99.64; change -$0.42; YoY +61.3%; as of Nov 3, 2026; Lowest since Oct 2026
@@ -112,6 +112,7 @@ Next FOMC decision: 2026-12-09 (32 days away), with new projections.
 - Everything else: 70
 
 ## Calendar, next 14 days
+- 2026-11-09: State Unemployment Insurance Weekly Claims Report
 - 2026-11-10: Consumer Price Index
 - 2026-11-10: Consumer Price Index Excluding Energy Commodities
 - 2026-11-10: Research Consumer Price Index
@@ -136,6 +137,7 @@ Next FOMC decision: 2026-12-09 (32 days away), with new projections.
 - 2026-11-20: Surveys of Consumers
 
 ## Headlines: Official
+- Christine Lagarde: Interview with Yomiuri Shimbun (ECB) https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html
 - ECB publishes consolidated banking data for end-June 2026 (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html
 - Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm
 - Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes (Bank of England) https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026
@@ -146,61 +148,59 @@ Next FOMC decision: 2026-12-09 (32 days away), with new projections.
 - ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026 (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html
 - Regulators explore credit union reforms to support growth, innovation and better outcomes for members (Bank of England) https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members
 - Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html
-- Philip R. Lane: AI adoption in Europe (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html
-- Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates) (ECB) https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html
 
 ## Headlines: News
-- Jobs report shows U.S. economy added 165,000 jobs in October, exceeding experts' expectations (ABC13 Houston) https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFNrcWJ1dm5GRmlfREJ1MGppQVh5bXp4cUJSNWhucXJCUnBrX0R5eUVOZWs0Z0FFdW56QkdSamgwbzdNaWVjTXRzaGRzeEozUHQ4eHpldkdwa2VzaEJuX0t3X0Z6bGtLNzRLOVRxMGdiYmMxa3dsQkZzQmd6aXk0RFVJLTFCcFM2dlZMUF9BQWFrbnM3Nm4wYXlYN2JSangwemFoVk9oY0dDUWF6aEx5V3o4bG0?oc=5
-- U.S. Hiring Picks Up and Unemployment Falls (The New York Times) https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWtWUC0wbVZ5Um5oQUpudDNtcUZWLXV0SWJDRFRpSVBTRDhJTHUtT20xV3hPR3FwV2NRUERjVVFMeWgtMFhVV2QyNEVJcndzSEJ2Wmo3dkMzb2FWWkV4OXk0R292RnhOUENMbi1rX2d3NE4xV2RJcDIzWmJrbERwdkpabWo4QnhGb0E?oc=5
-- US treasury bond prices down on Friday, Yields on 10-year, 30-year, 2-year jump. Check latest rates (The Economic Times) https://news.google.com/rss/articles/CBMigAJBVV95cUxQU0VwVnh0d3ZtLThFRi1ydDFZcEV3R2VHUE01eFJxb1hab1dzTXJBLXR3bzhfMTlhRlZkcDR3WHYwcEtaWjZtUnRESE0ydGxFQ0M0OGNGV2tHTHJpZXFXS1hfcGt5dVhOYU9GTy1CR2tTaXBHU2pUcWIwcU0wbHo3UHV6ZTVPeG1qNWR3M1lrMEo3bTVfc3U3VnNZNW5CTnh6aWVwVi01SEFoNTJ2Q3NGUmRKWFVwMjVhVm8wbm9pcjBXb3lsT2dtV1FIbzRtVnk2TGtKUEo0M0FhSTJYX1h1YkVhRjh3cVRTcllrVVU2ekUzeHp6ekhIY253RzBNd0R00gGGAkFVX3lxTE1Na1FJdzNJVDlGM21aUFgyZnVQNmVxbnpyUzhILVo5bVBWTVhxNDAzN2piaWtkc24yZ1B0UDFGaHJuLVBLcDRaOUZEMVllcDd3bGhkek9GdENLWFFJTVM1NDRPQmlCQUZuNkVVV3g3bDZHS0FveUxmUUt5dU5lSHpUUnNUVy0xU0xtRWlvVkdhMkFadnN2d1ZMbW1CYmtaOTZCS0lWanNyOWppTHUxLVNnblF5REVsdnR6d2dvNTQ2MnpSU2FXMjNUdWk4elJWVkpnU2lsSmJCQjFJdVd0eWtUX043Tmw1eWYzZU12a05ZUlhHd0M5MzlJMEJJdG55SzJZZW9oUlE?oc=5
-- U.S. economy adds a robust 165,000 jobs in October (CNN) https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEg2Ql9vWE4yWEtWRDBaVmNfbnFVNGhncC1uelBhb3dxYmxIVFNIbUNEYnlKazQxdTRpTXVUTVlrV0tJSUJMdkFWLXFENmtZZFNRSm93ZTEwNmIwMHVPU3JVSzBReWdWb2E4S3h0MFl3RjlFUXZSZ1pMM3A5RmxwVV9wTU9wWHptMllnNjV1QlFMUTJxV2NGUlFvaWRENTVFSFFFZ3lPRGtPLVlyeldJMi1KcUhUSDZPQUE?oc=5
-- Treasury Yields Snapshot: November 6, 2026 (ETF Database) https://news.google.com/rss/articles/CBMijAFBVV95cUxNTExFWV9MSGM1Tnl5bGt2a0J5M2VPSmxSWnVaM3hDdGdiRktVbGs4WDhLdjRSM29zSkRiaTNfU256UTFINWdWR2dpRzFRSktqRml5MkVPdlpyLVJfand1eWMtUVdZRnJsQlpDb09iRnBGQ0hYTGtnVGQ3TE5nWmtLWXV6cVFlbXQ1VXhWeg?oc=5
-- Foreign governments own fewer Treasurys these days. That's pushing interest rates up (Marketplace.org) https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0lkV0RrVGJtR1ZrVFFfWlN3dWJfQ2VZOWxlUzV3OTB2eTBjcmhlWjhsaml6LUhUU282cGNDOHA5dW9lS014RWc3MWd5Z0NaRUI1RXVmbzZORUtqcXRCZkJlaW5FM1k4bGFrWkZSbWNLRVg5b2xaT3ktYlhWSC1uck9ZUlo1ZEZfRUhXNXAyMzlOU3JodE40MElZZEhLXzlxaDRDSm9YOTdLaXVT?oc=5
-- S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings (StoneX) https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjgxZzVKblZ0aDNsQUN0azRrZHN6LVdDd2ZIV3R5TFlaSTRYQ2xnNnFFQmZmVHN4RkhTTEpudUpUelVmbE5rX0N2cEZBRU5JX1cyZ09SeDhldUJJOXU3cHNsdndJNlFiUzlWYzlSWU8zUXVCM3hFd3o2cVRqNm5KUk5RN1pLcEZ1Z2pKelNxUjRKTzFQMEVGUUs2dXRFZUN5Qms1a3NfQ2hNaEE4aS1QY0VHMmdtSUo5aXF1SFNR?oc=5
-- US warns China it must ‘immediately’ meet terms of Busan trade deal (FT Global Economy) https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1
-- Democrats' midterm sweep gives gold a boost, but the Federal Reserve still holds the cards (Kitco) https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzdISW9TT1BGRXJvMjQ0WUd2RFJzUmtWcDlEem5YZm9HVEl2UENMeXdhLWtFS0ttcjQxd0g2dGJwN0ZLUkVBQllvWm9sUk5FVXhnRXRTZ2FZZk41blpxRjJXQ2FmVzR6VXRqNV80RS11cVJQUVlud3psRDVQcDFUQk9tX3I2bVlCb3VOTk5nSDNHN0RFYWV6RENsQTNsdnRES0l1SG1HNUF2SjdzV2p6bnBwb2I4N0FTbTFOaA?oc=5
-- Strong Hiring Reinforces a Sturdy Job Market (The New York Times) https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXBUazJMek5pNDFqRGQyNl9XT0tRQmRFTjhXLW1sbDJ4VEExaXRUU0RxaXZRVkdDS1VYbnRiR2JqZEZTVXNlemN5dEtkZ2NfMU0xaTE3QUlzd2locHl1eDVIdXppaHlISXhybXNCZ0UzS0ZlVkhGazVEN1BaQnlZeFduWlpndmYzaEE?oc=5
-- U.S. economy added 165,000 jobs in October, showing surprising strength (The Washington Post) https://news.google.com/rss/articles/CBMioAFBVV95cUxOazBibjQ3NlNnc3dzRC03dDljRFFJRkdaSzF3SFhHNXJPdXVQVXdpTG9JaVBCTDhNS0I4VzJDaUZUbTE5ZklvcW51SUJKZDNBYmZ2emR4azRSM05BQWZ0dG1rdkxQYjBxXy1CNlc2WXNmNTFRWTRsdFdwTzN3dnU1T1pxa0hFY0ZUbWY5MFFPQklXakQ3YUZGZGtBSy1jcXE4?oc=5
-- US economy outstrips forecasts to add 165,000 jobs in October (FT Global Economy) https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1
+- Analysts say these chip stocks are bargains. Is it time to buy? (MarketWatch) https://www.marketwatch.com/story/analysts-say-these-chip-stocks-are-bargains-is-it-time-to-buy-fb5fdde8?mod=mw_rss_topstories
+- The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test. (MarketWatch) https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbElzUEl3dVVBaVlmTFVuX2kzRlJIVlNWZThFdXR5VmlGSGJhRnV5U0tfUmlHQy1nRkstNjdldDcwY0czb0ZVb0dnaGV4b2g0dlV5YkdWRnlCOGloQU5aVmhFdnlXM2JUTU8wbGwySFI3bzk3bU00WC02S2FxR3BoU2szZDhwM2owaGVacFZtN3p5cDh2aG9GUVNRUmxRVk9NandhbHdnMlQzWElORVl0bTZuRG1aZGJzb1NXM2hTNVdVczdiOF9SM3QxUnRGR2xXb3B5bGY2Nklra182elE?oc=5
+- Should a widow leave her late partner’s home to her stepkids — or cut off contact with them? (MarketWatch) https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories
+- For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet (WSJ) https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5
+- BLS to skip 12-month inflation figures in October CPI report (Quartz) https://news.google.com/rss/articles/CBMid0FVX3lxTE1odkJqMmkyOWJqak16Ql9rU3JuNldVd2owWHZxUVJ1YTJlTTBQQmhzMUx3NDJ6VENhcGxaZmphclh2R3Ryc25ZRXpsRUtTWEg4c2ZOZXh3SGgxUUZsNGdwQ0stSFlCSnBibzFpZXVGUkVQU3dkcW1J?oc=5
+- ‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home (MarketWatch) https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories
+- Sharing the spirit of Thanksgiving (ECB Publishing, Inc.) https://news.google.com/rss/articles/CBMibkFVX3lxTE5sSHZfS2hVbm15T0hoSU1tM3A4Rzc0V2VQUlJPbUhvOWQwUEtSY21RVlN4c1BSY0JpZmJsVW9VRDdHdUlvYUVQT0l6eVh4YWpQZEdKREF3MTlUd05QbFV2Wk8teFQ3YnVrVU1nLV9B?oc=5
+- Fast-food prices have climbed 55% since 2018, new report finds (The Business Journal) https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZ3FfNHVfU0xNeE9FSWFzVjFwUTQ3Vk1mbjRNbTdHZV85U0FkWHNYQUlLUXBvWVNfalgwOTZSMWhFcnVfU2YyVFhaaTRySWdyTWJHbEVPZTQxUHpFN3RlTFhXTHlLREF5bWpnUUo0SnA?oc=5
+- Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still be the highest since 2000 (MarketWatch) https://www.marketwatch.com/story/gas-prices-are-finally-below-4-a-gallon-but-thanksgiving-fuel-costs-will-still-be-the-highest-since-2000-94a7865b?mod=mw_rss_topstories
+- Weekly market commentary (BlackRock) https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5
+- What employers should do to build a pipeline of talented Gen Z workers (MarketWatch) https://www.marketwatch.com/story/what-employers-should-do-to-build-a-pipeline-of-talented-gen-z-workers-31c0e9b9?mod=mw_rss_topstories
+- Federal Reserve Launches Private Credit Lending Survey as Prospe (GuruFocus) https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSmRDSzk0NHJPV2dEaFdPMUQwNWdPU3pENkNHZ1phS0xPc2lQSlpHNmhMYWZGamNHVHQwVnJfYmxOLWxHaG1FSmNGdDZOblJRX0N4NVVCQVBybC1pOFVobUpmb0xES1g5akNsdzVtbUhqcUp5YWRlRzJXakpMR21NQU1YZzlkWjNFdENjaHFZZXJRYkRodElyN2gzQk1NaEc3aE85Zi1KeDFXclM4TmxBcGhzMm9mQ0lMMWVvR19qcXlLZVo4eFNYdkx1QU5KMWRDakwwZFM3dnAzam95a0FBX3JkUXlwTDA?oc=5
 
 ## Headlines: Companies
-- Earnings Preview: NEBIUS to Report Financial Results Pre-market on November 12 (Moomoo) https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGZzdFNBNGNYZVJ6RkZoVndzN3pqN0dueVZ3dHY4QVJIYUoyUzJrcEhjTmtaU2x4dnhUNnJiNGhfc05YdFUwbFBKSl95bm1HaTBHbmxEWmZzeUViaElobzduYVFOMGNMNWFWcE1ucGlMa3ZUWnpUdlR0OXROemUwTVY0YnlrOXp6aFowZl92Zkt3SXJMWVFkbDB0ajB1aEdLS1RkWGRoRXBjVGpxVlE?oc=5
-- Goldman raises global data center capacity forecast to 273 GW by 2030 (Yahoo Finance) https://news.google.com/rss/articles/CBMingFBVV95cUxOSno5d0JsV2taVkdQdVRCXzZUYUVUZi1PYkQ3MlhtTXhmZXR3Z0FWQ1R1azdFd2tFd0tNX0RZWnlIMEl6Q1A4cU9Td0FISXpUaWwwQzNnYzJxWlhHX2RUN3cwUjZMTTB5ZkNLQWNxN0NmdWU2RDJSWW85aDY5ZEZ2ZlhKdzJUdWVva2VQdEZuSE96R1c5X21SNHJXS2RrUQ?oc=5
-- LifeMD Reschedules Third Quarter 2026 Earnings Release and Conference Call to November 12, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NxbGkxUFNzOWRlZlRhS20xNVNVenpLMTU1cXpWM09aNkdieXVyQ1VNdjU0TTFzLXY5NzFHSmM2SXVaNG0zdXV1Ynhza2M2S0xIU0lmc2NwbnJwQWpla21zSEJUd21fd1g4VGp5N1R2X2xpbENHOFlnd1hvaERUOTY3Ykk2bjBhRk1pLUhCY2hHWS1IXzdfWkFyVThEWGc?oc=5
-- Bank of America Corporation (BAC-PB) Seasonal returns chart (Yahoo Finance Australia) https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpeEU3Y2RjRjIzQUlJRHV0dHVnRzJNWkc0Wkl1eVh0V2ZRTFFrME1KZl9EZTNMVUR1RktxTnNNcW1ldHpqLXhEYlJsTUpGWTQ4WXhsM0xFbVZORFI1em1tTWcwOFI?oc=5
-- S&P 500 Earnings Season Update: November 6, 2026 (FactSet Insight) https://news.google.com/rss/articles/CBMifkFVX3lxTFBCRlpfbGZiMEtQTy1uVURVVjdubUxXRFVkTGpjelhTc0pyVFFfR0djYk42VjJISkVYbEhjTm5xRE5oVFp5V0QwQkI0NmJBeEpTRFR0cHVjVm9qN0pGRHhTQmVNLWhvU2JKb2xMeFJVa1I3aW5DRnNFNm5TbURtd9IBjgFBVV95cUxOVGladW9BV0dmMEl6LWJiTnBoSVh0VnBTUU5BemZhVWJESWdtUHRIVTBMbzFOZmVOQ1NhMVpPUG9SSlJMMmRVa05fcEU4Y0VUNXBVNkxZY2NCTFhQd1RGVWpuMnM5NzZPY3J6TTJCZVFBM1N3NTNTNXd4bUxTc09MSEJjWTY2OW9EdHVtVU13?oc=5
-- What SAB Biotherapeutics (SABS) Said on Its Q3 Earnings Call (Yahoo Finance) https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3BBMFktcDRic21YY2FKOGJuN2pLUGpDNl9RS3N6Xzdfc0NYZm1YWUhvck5mcmptNnB2VUJPRUh2Y19Fa3YxODk5N1lBaTFQVktDMjA4RmZPZVJGSUFIVEJRNWpmZzdzTExmbUlTTzhZbEJtMDRIUDNhLVU2dzdTaWJQNzE2eVVLR2dDMjVhT29uVi1LSlBHVA?oc=5
-- Pembina Pipeline Corp (PBA) (Q3 2026) Earnings Call Highlights: Raised Guidance, $3 Billion in ... (Yahoo Finance) https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1Z4d0FPRGNUUWdaa1JlYWhSdzVVSHZQZ1FYNFZIME8yTWlKZmluWWxDOEdpd3dCeXpVbHg0ZXg1YWR1NDhyNUcxN1JxdEFuTGt1RVZkTUotNEo5VU9iUW1saThvQTRqeXhESk4ydS00LUN0c3htX1dDaUJLNmZuX2JCMURMUWxEaC1XcVVRSHBTcVRjYmJSeQ?oc=5
-- Biofrontera Inc. to Report Third Quarter 2026 Financial Results on November 13, 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMingFBVV95cUxOSjU1VWpXRjZMaGFTRENWb09zOWtZa0x2YWMyS2gzNFJxTi1rNGlwYkpYaThhelJQa3ZDSEM3Wk94UklGWnRrdW5ISHpGTmZwM3QzcE9ucUVXVnVUTGstSU9vZy1oV1VBdWktcTQtTkU0UnM1dGdfYXowbWtuLUNNZzBhMTBIcVRiRHM4amc0ODNuMDlwN2pqZHBETUcxUQ?oc=5
-- Goldman Sachs Chief Economist Jan Hatzius Joins CNBC to Discuss the US Jobs Report and the Economic Outlook (Goldman Sachs) https://news.google.com/rss/articles/CBMingFBVV95cUxOZHBVek5qZExqR2h5OGo4dmJIYUJaMGNEdkp1SUIwQWlxZXFTWjZmU003SlY4Ri1PZ1p3empOOWtFeVAyZEhNZ0hVdng2ZENzSXFUZG52ZUVJUlZ3MzBxN21EU0kwNndKRWhoWE5zdl9sdmtXMWtVVUt4aHB6eXRDR0VkRWhMZ3ZJQ2cxNjUwTlJvWG94VmtsaVpJN3Jwdw?oc=5
-- LSEG CEO David Schwimmer on Where Global Capital Is Moving (Goldman Sachs) https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZUc0eUNyMTNxZV9XWUFyMVpJNHBob0VHeVVEQUg1djluWnFsMk5lb0kwZ3JseGZKM04zSE5GZTljMGRocVFQZ1pVRFpBdW1KaXlLRElxcGR1M09sVklDal9tVzhRZzBFczA4Vnl0UzY5V1E?oc=5
-- Maersk Shares Tumble After Earnings, Guidance Disappoint (WSJ) https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEdBOGMtVDBsOUQxQ21GYlc4bWZ5cmxZd05GMUJ5Q29PUmlLOW9hLU9fbUhfcTRrTkUwTm5qSG9DVEJESVNBS3FjdzQxQ3J6dl95clZ3ZHBWTlpQRnFWNS14TzJxMmc3QnFiQzR6N1hfM1pZcFNwWlFDRUV0UjRVRFRKQlZ4Ullld0VZTm9YRFpzUnhjdi00Y3g3NlA3RzdBV1BpcTNGX3dudEI1dTNtc3VQSWEtMWJoTHNiNXhR?oc=5
-- Why Ingredion Stock Is In Focus After Lowered Earnings Guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGJxek9fYkpKNXJ3N1FZSXFBSEZOOWtvTGx2LUtyX2dtMDE4NHpwS2ZJel8zWVFwRVk0UnJTM2lvaHMzZDdZNDJJWmlvNEl3RkhSYVdEYVJ3Y2RidkRLT0ZZakk1SUtoTUNHUFptTjBRaVNRcUZLUEdwak5ZQS1SMERJc2d2Szk1TklNY25EWEd2LTZtOG0zTTAxN0V5X00?oc=5
+- PepsiCo to cut about 1,000 jobs as North American business struggles (CNBC Business) https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html
+- Goldman Sachs CEO said AI financing demand is still strong (Quartz) https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTXFaTGZXUGNqSWpBN0NmTWlhZUlGeFhIMXZxdTB5UlBKejlYM3lJU3l3ZEd6U2RwYTBvWTUtanVNc1NscTFSV1RRdUJxZThMcTVVaEJTQmlGWUpGV2pnaFJVSTV1TEVIOW44WEh6S1c?oc=5
+- Sharplink Reports Third Quarter 2026 Financial and Operating Results (Investing News Network) https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmJzaWVNN1JCSzVnX29ncS1hS21ZM2ZDbHdaLWdWcXh4UGoxSnBRWGVnMXBSNmJHS3pZNTBJRXNvVkJhRnB6TFBtM1pvdG5NbURfdVM2LUN1ckNLYWxNSk11QjVEbVNIN0djekNXZDA3RnJUN00wNThncXRvZTlPbmNrOElrRS10THdvS1NHWDJGUFFncjBwVmJ2WQ?oc=5
+- Zeon (TSE:4205) Stock May Be A Bargain Despite Raised Earnings Guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMikgFBVV95cUxOMUpURG84akNQR0ZPYlJDMGd5X3lrT1FpWE9UWlhydEl0SzZQXzdNVVVvR1BWcWY5YlRqSjVUOXNqcEVPVjZmSlRweG93VFV3WWFuWHBrN2NCN194N1hrc2VNaDloTVJzd1BwdGx4cDloZjhLRFBraFpEM2VoU0lBU2VtZmpocjlqdk0zaU5Qa2hPUQ?oc=5
+- Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected (CNBC Business) https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html
+- AI financial guidance needs caution and context (WFTV) https://news.google.com/rss/articles/CBMipgFBVV95cUxQWURyMmliT3E5Z01XWjhDRVVVQUx3NXBfU2dJQ1hYdXhuX3BYRVBaZ2VNM3dDcTFRLVBGNjc3UEVNdEpYLU43cFEzczRnUFRUdC1kWm5pdXltb1BieVlCY3dZcVhtMzNKU053aGhJQXFCZ2JaVUNmZ2o4ZGxwenJiNnR5OTVZOVphMmZabDkzd1ByemY4TjEzalFUdXVoZ3RYZW14VkRR0gG6AUFVX3lxTE9HUlc3TEF2c3psSlJ2Zk1jTXdueVVuRXNVeWNOM0R3R21HYVl4U0kyOWhjYVdCeTRvUlFCWUs0aTBHM2MyTm1ObU1vQzA3ZWtvNXdITW5rSXFNLXpIb2xSQlo1R2FVejVfZ1hDNmVybFI2cGdONzJhX2h0Ny1MWmlOQUg3Z1dORTExeTFuRER4bGdweW5Gdkh6eWhCYkE0UW9mRU9XSVpYdU1VVXRNcHJiOG5qU0hSYWxfUQ?oc=5
+- Bank of America Chicago Marathon AFSP Race for Hope Team Raise over $1 Million in 2026 for First Time (Morningstar) https://news.google.com/rss/articles/CBMi8wFBVV95cUxNczlURzRuRUJmSkNNbUQycHpsZ1plYnJzbFI3V2NPRFF2LUpMN0RUbWtFbVJKb3Bhd3lYRGw5S3NoRlFwNWo1MTl6LTE1NExtQnN1andJd282QkI0ZUQzWG9lWFR2WmdqRFFnZnZCMV9pRnN4WUJDRlgtaERMTElzcGpWSlJhRmpmR1dSTVFSWmlfVDR0aGlQOHBNcVBUamZuTTRuUjNITWRPSGtCUXNLckYyVG9qV2lPaUU2cDdfcm1NbWlhVXh2LWVoZ3dFYWY2d2VTSm01YzV5YUN1UHkwYUxhM200RWNITUpyRTl5Z1ZUUVk?oc=5
+- GS: Goldman sets auto-callable notes tied to CrowdStrike and Palo Alto (Quantisnow) https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVlaOFFNdnR2SUxtc2lVRk41dVRXWlE3OExERDFCY0dHbkNnVWM2eVFIc3lxbmJEYjVJUWI1NFFYblhZdEZqV0lvX091cXpRMFZva0NrQ2dyV1BpdWs5a1FhcExyQTl2MzZzdG1WQ2dGM3UtNHlMNy1rRElKNXNaZzZERlZHSlZ1M2E1QmtYRU13Zw?oc=5
+- Goldman Sachs CEO on AI sentiment and data centers (CNBC) https://news.google.com/rss/articles/CBMimAFBVV95cUxOb05qMzEySlE3R3BDWWRFR2M0TDhYWFNjaE5wSk9wdmtUOVd1YTg0N2ZGUTdxUzZGTU5OcTlQeVB0NlF6YlhPamdDdEI1b3V2WUtLMFFtODRUdWw5UnE3UDVhbzdOUlp3RWdzTkFFdEZzYmJQR0lGYld6VUtuVmVRbXhac2NiQTNZcGZScDhJMlA3NEhZUHVZaA?oc=5
+- Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty (CNBC Business) https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html
+- Morgan Stanley Climbs 4% on Vinyl Equity Deal to Capture IPO Wealth; Goldman Sachs Rises 5%, JPMorgan Gains 2% (24/7 Wall St.) https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3lyR3dvNTJVMFBxd0kzZlRiUGNBV3RlVGJLUkxvUkNuRGxHZGU4ckY3OWxSVHd5WU1NMU9JM0tIQ1gzQldYTWhpWVJlYkpQb2ptd2Q1Zjh6cFBPVmdZQzF1WkF6UklUc1VJRVg0NzJxWm43Ty1laTV6Ny1rMUkyODdEYWlvT0FaYkdYMUVFX3dHdUNfb25VVC01d2NrejJ3NTJtdTlHQjBpWkpLWjFPa0NIZ01GRHo2LTNpVnlpSV92azc3dzVaTUl6dUVCbU93Z2JLSFdmNlFLQmFWb05TRGlzWQ?oc=5
+- Honda to invest $3 billion in new vehicle assembly plant in Ohio (CNBC Business) https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html
 
 ## Headlines: Research
+- FEDS Note: A Common Pattern behind Diverging Fortunes: U.S. Tariffs and Exports from Canada and Mexico (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/a-common-pattern-behind-diverging-fortunes-u-s-tariffs-and-exports-from-canada-and-mexico-20261109.html
+- FEDS Note: U.S. Private Credit Vehicles: Institutional Structure and Aggregate Balance Sheets (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/u-s-private-credit-vehicles-institutional-structure-and-aggregate-balance-sheets-20261109.html
+- FEDS Note: Gold Reserve Relocations: Are They Always Bad News for U.S. Dollar Reserves? (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/gold-reserve-relocations-are-they-always-bad-news-for-u-s-dollar-reserves-20261109.html
+- FEDS Note: The Effect of Oil Prices on Core Inflation: Recent Evidence from the Advanced Economies (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/the-effect-of-oil-prices-on-core-inflation-recent-evidence-from-the-advanced-economies-20261109.html
+- Has U.S. Monetary Policy Really Improved? A 150‑Year Perspective (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/has-u-s-monetary-policy-really-improved-a-150-year-perspective/
+- Leading today, building for tomorrow (BIS central banker speeches) https://www.bis.org/speeches/20261109-leading-today-building-tomorrow
+- Safeguarding trust and monetary sovereignty in a digital payments era (BIS central banker speeches) https://www.bis.org/speeches/20261109-safeguarding-trust-and-monetary-sovereignty-digital-payments-era
+- Opening remarks - 2026 Market Practitioners Group Conference (BIS central banker speeches) https://www.bis.org/speeches/20261109-opening-remarks-2026-market-practitioners-group-conference
+- Making AI-driven finance work for consumers (BIS central banker speeches) https://www.bis.org/speeches/20261109-making-ai-driven-finance-work-consumers
+- Message for the SEACEN masterclass - central bank communication (BIS central banker speeches) https://www.bis.org/speeches/20261109-message-seacen-masterclass-central-bank-communication
+- Integrated, open and resilient - Europe’s strengths in a fragmenting world (BIS central banker speeches) https://www.bis.org/speeches/20261109-integrated-open-and-resilient-europes-strengths-fragmenting-world
 - The U.S. Oil Sector’s Role in Restraining Prices (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/the-u-s-oil-sectors-role-in-restraining-prices/
-- How Market Position Shapes Credit Card Interest Rates (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/
-- Innovation, security and technological sovereignty - reconciling three imperatives (BIS central banker speeches) https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives
-- Economic transitions - technology (BIS central banker speeches) https://www.bis.org/speeches/20261103-economic-transitions-technology
-- Building sills for Africa’s home-grown development (BIS central banker speeches) https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development
-- The path back to 2 % has become less comfortable (BIS central banker speeches) https://www.bis.org/speeches/20261103-path-back-2-has-become-less-comfortable
-- Credit unionism and the development of Barbados (BIS central banker speeches) https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados
-- A new payment scheme for Iceland - building a sovereign and secure payment system (BIS central banker speeches) https://www.bis.org/speeches/20261103-new-payment-scheme-iceland-building-sovereign-and-secure-payment-system
-- Stable banks, strong capital markets - Europe’s financial system for the future (BIS central banker speeches) https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future
-- Marking our tenth anniversary - one conviction, two principles and three challenges (BIS central banker speeches) https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges
-- Payments in a fragmenting world - sovereignty, strategy and system design (BIS central banker speeches) https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design
-- How Do Banking Supervisors Deal with Failing Banks? (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/
 
 ## Headlines: Opinion
-- How voters' opinions on the economy affected midterm elections (NBC News) https://news.google.com/rss/articles/CBMisAFBVV95cUxNaW16V0gyM2k1MjNoLVNoU01SMEdMVHdNNmJmRWk0aDhfUUF1UFlxMnBxMHdmZlNKUEcwd29lSlo0bnNiRUlPbzZxNFFrVUs2aVZucEFPWmZHSUk2bGdiLVNyNktXbFZDRzVEMTAycDFvQ1NwbGNuX2RxRDZRYUlpdTR6TEtxdFpsNjZLbTlVTU40a1RuTmtZTnRBbXVJMjBmb24zazZGVEkwSDVPLUFxNA?oc=5
-- The Economic Toll of Israel’s Wars (Project Syndicate) https://www.project-syndicate.org/commentary/israel-economic-resilience-is-an-illusion-by-joseph-zeira-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Rebalancing Nature’s Books (Project Syndicate) https://www.project-syndicate.org/commentary/meeting-nature-targets-in-kunming-montreal-framework-requires-focus-on-bioeconomy-by-homi-kharas-et-al-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Only Israel’s Arab Parties Can Restore Its Democracy (Project Syndicate) https://www.project-syndicate.org/commentary/israel-liberal-bloc-must-form-a-coalition-with-arab-parties-by-shlomo-ben-ami-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Making the Most of America’s Midterm Tsunami (Project Syndicate) https://www.project-syndicate.org/commentary/what-comes-after-us-midterm-blue-wave-election-by-aziz-huq-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Taking stock of the flight-to-quality (FT Alphaville) https://www.ft.com/content/11ea58b9-008e-4e09-b384-44b3b7bf5d46
-- Democrats’ big blue wave will destroy the economy (The Hill) https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2ZPYk9JcFg3MDlEdGg2bjRQdjdBNnVpeXAwcmtzekJFNmJjMFlfZEF1RXNVVkR4Rk04eU5sWlVPMEs4X0hLLXhLMWQtbzBxRFBKZTlBQ2JvYVF0SHpfUzlqa3dkaEtWNHVmSEhZbVFzYTkxYkpxRDlRaGdYN0hmUlRFOEjSAYoBQVVfeXFMTzJyNl82UGdNVENMSlVyUGJyWlR2Z1lueU93TkRiVXp3R0xwY0hZRGY4X3lDd00wMHo1T3NFOUlKZEJQamxvZUhJT29MTUVrM1FDSnExWWhoblRpMzVaSmd6VmJURFNrc0pVV1lNeG5lRFl5cU5qYktGN05RSDBVUmtCQkEwQm94dWxR?oc=5
-- AI Can Help Governments Help Citizens (Project Syndicate) https://www.project-syndicate.org/commentary/low-middle-income-countries-must-build-ai-capacity-to-help-citizens-by-kalpana-kochhar-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- MAGA’s Midterm Defeat Won’t Change the Course of History (Project Syndicate) https://www.project-syndicate.org/commentary/trump-midterm-defeat-wont-end-morbid-symptoms-of-disintegrating-system-by-slavoj-zizek-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Why it’s time to build Jacksonville’s human infrastructure | Opinion (FL Times-Union) https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa3pKcEFYNHFZYmY5V0VDa0t0WGN1S3pBQl9jVkI0enpoN2JxRHJ4QjR5ZVJ0cTVtbjZDdm5MaFNlQURFMjZsVjY2cHoxaDg5MG01WTFpc2gxNTJhUXl3NFFnQk5USjhiUjJGZUhOeElFVmxPTU82MVAxU1hRWmhfN0twZmhEbDZGc1NyNFRNTGJLV3ZEZk1RR2JQMzNBempQV25fcTVERHBfOHBuLTNmNUFmSWRMU3JVT0l6SS0zTWlOWGphS3J2b1pTNVBpanM0dlh1VjVVWXNEellWNFpmb3czWQ?oc=5
-- The polls warned Trump for four years. He ignored them | Opinion (USA Today) https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUR0MnJORXZqRWkwQ0R2STlmNlRvLWNsTXo5cldHbWRUdkRWQmIwamhWVXg2NlNUTUMyMzJVZVJfN2plb0VjMDRjMThCYnRVanB1QldqaHlXRWRGaG9ta2lMQ3paUGpjQU80Z0tiOFlzUjZ3U0xucHhYa1lDZG1vcXVHZ05sVklKcU1Tb3JrTVpfbFJsUFY2N3JYQU5JOGp1ZTdpbEEwQ2VqTGVOZ2VFZDd1NUxLUQ?oc=5
-- Opinion | This Is How Democrats Can Make Life More Affordable (The New York Times) https://news.google.com/rss/articles/CBMihgFBVV95cUxNM19pWmNVOGg2ZGRoNE5RUFc3U2d6Qmgyay1KU1hqSEgzeDE2aExXRkhMM3RfWWp4NjNGaFo5MGdwU1VNZVgtZm00MHFXVHhZSVJURWdHdS1xQkx2eVZzZ2xFWUtZRFRMX2s5Nk5sZE1RNU9ZZWhnUzZTLVJDcUoweDVXQ0VUdw?oc=5
+- Why Trump Crowned the Man Who Cost Him Congress (Project Syndicate) https://www.project-syndicate.org/commentary/why-trump-promoted-stephen-miller-despite-voter-repudiation-by-stephen-holmes-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Why Politicians Love Stimulus Checks (Project Syndicate) https://www.project-syndicate.org/commentary/cash-payments-to-voters-amount-to-little-more-than-vote-buying-by-greg-kaplan-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Equity volatility is maybe a bit sort-of back (FT Alphaville) https://www.ft.com/content/5c5926e2-bd32-47d8-954c-a0f02ca7b113
+- Who’s Winning (and Who’s Losing) the Ocean? — Marie-May Jeremie (Project Syndicate) https://www.project-syndicate.org/videos/who-s-winning-and-who-s-losing-the-ocean-marie-may-jeremie?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- The Midterms Won’t Change Much for US Allies (Project Syndicate) https://www.project-syndicate.org/commentary/midterms-dont-change-much-for-us-allies-by-ian-bremmer-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Revolts of the Young (Project Syndicate) https://www.project-syndicate.org/commentary/young-people-protests-france-india-serbia-change-effects-on-liberal-democracy-by-ian-buruma-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Are you into weird, esoteric financial history memorabilia? (FT Alphaville) https://www.ft.com/content/5c0d0477-39cb-4d7b-80c7-f536ae7d90ee
+- What the ILO Can Teach a Divided World (Project Syndicate) https://www.project-syndicate.org/commentary/ilo-offers-useful-model-for-fostering-international-cooperation-amid-global-fragmentation-by-jayati-ghosh-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- And the FTAV chart quiz winner is . . . (FT Alphaville) https://www.ft.com/content/9fcd295c-44a6-49e2-a673-73b5aa626d85
+- The Affordability Crisis Isn’t About Inflation (Bloomberg.com) https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkd1Y2JmdXo3V3F4a2FlN1AtM084OC1nd0pQOVA0TlJZdlpCNHhYUWswUzk1ekZRWXpaR0ZISkNReDB2OFpXSmV5X2pkSU5ISk9paTV1d1JkOVhDWGFzak9WX1dlcjBDSHdvbTdtZHdkTFRBbVBWeXlJakNqSzBPUUJYWjJCU29ZVVRNY1JUODZ6VHV6MnQtTnJlRmh0THhmdWc?oc=5
+- The Five Stages of AI Grief (Project Syndicate) https://www.project-syndicate.org/commentary/ai-five-stages-of-grief-by-dani-rodrik-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- FTAV’s further reading (FT Alphaville) https://www.ft.com/content/00ee3ca9-de9d-4c6e-a90f-6c5906eb140a?syn-25a6b1a6=1
