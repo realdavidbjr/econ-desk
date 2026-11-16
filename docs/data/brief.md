@@ -1,5 +1,5 @@
 # Econ Desk snapshot
-Generated 2026-11-16 20:35 (UTC). Source: FRED unless noted.
+Generated 2026-11-16 23:01 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
@@ -12,10 +12,10 @@ Next FOMC decision: 2026-12-09 (23 days away), with new projections.
 - Fed funds target, upper bound: 4.00%; change unch.; as of Nov 16, 2026
 - Fed funds target, lower bound: 3.75%; change unch.; as of Nov 16, 2026
 - Effective fed funds rate: 3.88%; change unch.; as of Nov 13, 2026
-- Interest on reserve balances: 3.90%; change unch.; as of Nov 16, 2026
+- Interest on reserve balances: 3.90%; change unch.; as of Nov 17, 2026
 - Overnight reverse repo rate: 3.75%; change unch.; as of Nov 16, 2026
 - SOFR: 3.90%; change unch.; as of Nov 13, 2026
-- Discount rate (primary credit): 4.00%; change unch.; as of Nov 12, 2026
+- Discount rate (primary credit): 4.00%; change unch.; as of Nov 13, 2026
 - Bank prime loan rate: 7.00%; change unch.; as of Nov 9, 2026
 
 ## Liquidity and plumbing
@@ -33,7 +33,7 @@ Next FOMC decision: 2026-12-09 (23 days away), with new projections.
 - PCE prices, core (the Fed's target): 3.1%; change +0.1 pts; MoM +0.3%; as of Sep 2026
 - PPI, final demand: 6.5%; change +0.2 pts; MoM +0.3%; as of Oct 2026; Highest since Nov 2022
 - UMich 1-year inflation expectations: 4.6%; change +0.6 pts; as of Sep 2026
-- 5y5y forward inflation expectation: 2.18%; change +1 bp; as of Nov 13, 2026
+- 5y5y forward inflation expectation: 2.15%; change -3 bp; as of Nov 16, 2026
 
 ## Labor market
 - Unemployment rate: 4.1%; change -0.1 pts; as of Oct 2026
@@ -70,14 +70,14 @@ Next FOMC decision: 2026-12-09 (23 days away), with new projections.
 - VIX volatility index: 19.30; change +0.60; as of Nov 13, 2026
 
 ## Treasury yields
-- 3-month Treasury: 4.32%; change +2 bp; as of Nov 12, 2026; Highest since Aug 2025
-- 2-year Treasury: 4.86%; change +13 bp; as of Nov 12, 2026; Highest since Sep 2026
-- 10-year Treasury: 5.10%; change +12 bp; as of Nov 12, 2026; Highest since Oct 2026
-- 30-year Treasury: 5.43%; change +8 bp; as of Nov 12, 2026; Highest since Oct 2026
-- 2s10s spread: 0.27%; change +3 bp; as of Nov 13, 2026
-- 3-month/10-year spread: 0.83%; change +5 bp; as of Nov 13, 2026; Highest since Oct 2026
-- 10-year real yield (TIPS): 2.86%; change +8 bp; as of Nov 12, 2026; Highest since Oct 2026
-- 10-year breakeven inflation: 2.24%; change unch.; as of Nov 13, 2026
+- 3-month Treasury: 4.32%; change unch.; as of Nov 13, 2026
+- 2-year Treasury: 4.88%; change +2 bp; as of Nov 13, 2026; Highest since Sep 2026
+- 10-year Treasury: 5.15%; change +5 bp; as of Nov 13, 2026; Highest since Oct 2026
+- 30-year Treasury: 5.47%; change +4 bp; as of Nov 13, 2026; Highest since Oct 2026
+- 2s10s spread: 0.29%; change +2 bp; as of Nov 16, 2026
+- 3-month/10-year spread: 0.78%; change -5 bp; as of Nov 16, 2026
+- 10-year real yield (TIPS): 2.91%; change +5 bp; as of Nov 13, 2026; Highest since Oct 2026
+- 10-year breakeven inflation: 2.20%; change -4 bp; as of Nov 16, 2026
 
 ## Credit spreads
 - High-yield bond spread: 3.23%; change +3 bp; as of Nov 13, 2026
@@ -87,9 +87,9 @@ Next FOMC decision: 2026-12-09 (23 days away), with new projections.
 - WTI crude oil, $/barrel: $89.62; change unch.; YoY +47.1%; as of Nov 11, 2026
 - Brent crude oil, $/barrel: $92.14; change +$1.98; YoY +44.3%; as of Nov 11, 2026
 - Regular gasoline, $/gallon: $4.00; change -$0.16; YoY +32.3%; as of Nov 9, 2026; Lowest since Jul 2026
-- Broad trade-weighted dollar: 121.88; change +0.37; YoY +0.2%; as of Nov 6, 2026; Highest since Oct 2026
-- Dollars per euro: 1.1154; change -0.0081; as of Nov 6, 2026; Lowest since Oct 2026
-- Yen per dollar: 158.23; change +0.47; as of Nov 6, 2026
+- Broad trade-weighted dollar: 122.65; change +0.11; YoY +1.6%; as of Nov 13, 2026; Highest since May 2025
+- Dollars per euro: 1.1034; change -0.0022; as of Nov 13, 2026; Lowest since Apr 2025
+- Yen per dollar: 159.93; change +0.33; as of Nov 13, 2026; Highest since Sep 2026
 
 ## Monetary aggregates
 - M2 money stock: $23.41T; change +$113B; MoM +0.5%; YoY +5.7%; as of Sep 2026; Highest since at least 1990
@@ -153,32 +153,32 @@ Next FOMC decision: 2026-12-09 (23 days away), with new projections.
 - Barr, American Inequality and the Future of AI (Fed speeches) https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm
 
 ## Headlines: News
-- SpaceX is about to attempt the ‘holy grail’ of rocketry (MarketWatch) https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories
-- Bank of England economist sounds a big warning over interest rates (Mortgage Professional America) https://news.google.com/rss/articles/CBMiywFBVV95cUxPZXllYXdLbE9WeEFta214WWxFZ3RuUTRWQkhaN3dEZmxoUzZoYXZ2Rm1sYVhUeFFGUmJtd1N2QWpPSjc1clV1eDZray1rcklpbXpycldmQXFzSWx5ZmVTQTlxN0VHUm5hdko5U1pVMno3RWdISWdRcmFlWkRVMkl4Y19sM0dmdHVIQUxIVDEteWVuZ0NpTlRETTMzcjV6LXctejFMRnBSTGdOblUzN3I4NmZST0JCQjk3WGxWYTQyQzJXa2h3Mkl0c2JCUQ?oc=5
-- Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely. (MarketWatch) https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories
-- Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV (Reuters) https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk9kal9uc0hmSGMySFhuVE1BbTd3dkV1SkdjbEx3U2NuZFdoMFI1TThKSHVnLUNGTVNOOVpRM3VVUnBZdkxISEhKdVloQzBxUGlEcm15ZkQyUGZjWW5IbVhhZVNKWnBleE1PZzAyNUtmQUVrWHZ1R2YwU1FSZWVjczdVWXcwX3Z4VWhsVXZwUE1EaWMtZ3I0d1I2WlVOdm5rdGdZMFl4VVJENHRaSUE?oc=5
-- Rare-earth stocks sinks deeper into the red. Here’s the latest catalyst. (MarketWatch) https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories
-- Fed December Hike Bets: Yields Above 5%, Data Week Ahead (Admirals) https://news.google.com/rss/articles/CBMiowFBVV95cUxNcU1XYWpRRG5FSlVtVm05a0M5LXR0SzM1b3hpek9TWVdwdWJKZWt0ZTBXRjdZZTFRNnpPWTczNHBaYzQxaWtkVjZBeklFX1lvdGVYNVVpYXdtckZOaFE5YzlUZVNnUHZSdDlIOUoySDFHMzU0TGFZUHo3aEtwbk1fMUQ0REdPS3NMbllHNlVUWGVsaGNpell4bm05R2FObWZ0ekx3?oc=5
-- Fed’s Hammack Prefers Small Hikes, Sees Risk of Bigger Moves (Bloomberg.com) https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3MwUUp3QjVuS0NGTWhLN0hYZldpQkJHUUZKRDZSRlhvdXJ1d2VXTVk1UkVzZ2swX1N1OWdQM1g1cC10cnMwaTRCRzEtVWNfWHBLdjdYY19wUEpZZERkQl9zVzNsbjVuZ25zQUFsaXFBMnBVX1I1X1pPU01SdEpPZzA1clBJZkx5TjYwV29QUmxHRmxfYW8wdWFLazlLbXVBRk9nUm01aVppdHRtS2RjRHlJeW0?oc=5
-- Bond-market volatility is exploding higher. It could be the new normal for investors. (MarketWatch) https://news.google.com/rss/articles/CBMixAFBVV95cUxPUExETmUxSVFWSml4MExJdEZLN3hOZ0xjc1V4b2RNWXpkSVUyUzgwclhOM0ZnUFhMbjQ4S1FydE9wNldRX09LcjBPUzgweUZ5dnFOblhJSC03SXVadmt5eVBWRElXR19ZY1YyYXBKSU96T0FLMnZwNEYxQjdsYTQ3VUtuTi1BWlVSb1pkeUZFNTRsYlN3ZHRsQ0NxbDRUOG82eFExVE45YU9wMDV6YWo3ak1USXlsdHlKRHZKcVVfc3hVdTZH?oc=5
-- I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary? (MarketWatch) https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories
-- Fed Chairman Highlights Economic Uncertainty of A.I. Boom (The New York Times) https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw?oc=5
-- Treasury Yields Fall, German Bunds' Tick Higher -- 2nd Update (marketscreener.com) https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1pfcTB5RWNmNzlhdHJnODlwVjNpZG5KVThNUnlYUUdVWWhYZ2tNVnNWc1cwQXkyZk41ZWRRS3lIQUVDNzlyeGk5NjNwMFBVT01MV0FkZ2hqeWszZGwxdWFzdXRtc0VDUU96MGpfVm4xcDdwcENWek9BM05yY1FfQm1YZUZjQ0VZdDlPRENSanZ4Y1QxVHJFcFZncjVDYWw1dWwtNk5aTFBoTk02OUE?oc=5
-- BPI Statement on Supreme Court Preserving Federal Reserve Discretion Over Master Accounts (Bank Policy Institute) https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0N3X0VlN1JIMU9kcDB5WHBPOWZPZE5VbndpeXoxeWdIRElGSU03UHMtNEtubjFqZ09OMEdSWlJKSmxsaHJrdkNFNXZtYUJKREtGb1BJaFRNc0RTeG8ycmhqd3d4eHZJNjIwQWl5cGFkVHZEbHBSWGxiLS1SdHNHUUVLZWtCU0RWdlV6LUNNRDJJRVM4M2tOVERQYXpvQkE1emh2eGl4SG9mdw?oc=5
+- My husband is happily retired at 64 and thinks I should keep working. Is he being fair? (MarketWatch) https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories
+- U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball (MarketWatch) https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories
+- Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks (MarketWatch) https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories
+- ‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap? (MarketWatch) https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories
+- ECB's Lagarde speaks three times with the Euro at a 19-month low (FXStreet) https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWW1QeXM2VWpHZ3NFU2pYU2xfUHR3NGRMeHFVRkxMYlBuLUZkUGtHVUh3dGJ5OXdzbjRxdHJqNFMtX0ZJN1ZUTmZHeGxXN1pvVGx6SEJYWWtZT18zdU9xYzBIV2cyMktoM1dvZ2hmRy1ocjBXanZpSldpVkk0eUV4dUNrSHlMUms4Slg3SlBGTUxHTjZ0UTV5bi14QlpoaDFTbkM2WkxWT25zZw?oc=5
+- The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled. (MarketWatch) https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories
+- ‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried? (MarketWatch) https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories
+- Which Sectors Do Well Amid 5% 10-Year Treasury Yields? (ETF Database) https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2R6VEk0T04wam5lSEx5MjJDWFNOMkVXeUpmYlRiYWJEM0RmWF9UeFd2cWxTbGdkdW9tdmk3dUYtalVFZzF4ZjFzUWNxdm9Hem8tVkVUcC1yVHJIZTBmQlgxejVmVUZ4WnhRMkQ2LTlndWt5RXBhWTZQeHQ3YVBkSWRyWXNKUFlfczlRUXo1RHVxeWdhdmp5bktTNzgxMG5PaW9XLUpxMUQ?oc=5
+- Is the Bond Market Warning of a Stock Market Crash? (STL.News) https://news.google.com/rss/articles/CBMifEFVX3lxTE1IVDhXR1Q5WDFRNHRUempIRUhpUEJ1SUdjaERKZEZ4UDdGM3dlN1lVWmtXLU5EYVV1MEVWcHpEaDFGMEpqZTh0cTZ3clIyNjJWQlp0WjllQk40VVFfVjlrcE9oTkdkV2QwSzFXcjU5M2ptLVplUGFHSk5iYl8?oc=5
+- Nvidia’s stock extends decline following harsh words from the U.S. government (MarketWatch) https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories
+- Chase says ‘software bug’ could be causing disruptions at major U.S. banks (MarketWatch) https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories
+- Fed’s Hammack Reiterates Preference for Small, Incremental Hikes (Bloomberg.com) https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3MwUUp3QjVuS0NGTWhLN0hYZldpQkJHUUZKRDZSRlhvdXJ1d2VXTVk1UkVzZ2swX1N1OWdQM1g1cC10cnMwaTRCRzEtVWNfWHBLdjdYY19wUEpZZERkQl9zVzNsbjVuZ25zQUFsaXFBMnBVX1I1X1pPU01SdEpPZzA1clBJZkx5TjYwV29QUmxHRmxfYW8wdWFLazlLbXVBRk9nUm01aVppdHRtS2RjRHlJeW0?oc=5
 
 ## Headlines: Companies
-- Bank of America, Chase and others are reporting outages across the country according to Downdetector. See link below ⬇️ 📸 Andrew Dolph, USA TODAY Network via Reuters Connect (Facebook) https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnhDdm9nemFDeE9EbzVSRUgtcHFSS1RpdDVrMFp2OEg0WG1VSUhlVWcyX1BvUFp0NU85RDUzM1ZoMGZHUURQZkg3YVdJR2F6S213NzJZVHMtdGZ5aTVFVHgxdlJCQU1mNmRUMk5OYjVTOTllTml1ZW9yb21GTGtJMTRmdTFSc3hWQXJuRzhSVm9JY1g1dktBVEJxdklqeU4tNV9LOTM5YjhucTdZTEdhU3hreDd1cll1S1hvTmJhSmk2VTA3RmtRMnVWT2t4enZGakYteUpNMnZwb0plLTVJ?oc=5
-- Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs (Bloomberg.com) https://news.google.com/rss/articles/CBMiuwFBVV95cUxNczF1RXhsRmNwczFILVk5SGZNMVhVeERCSHJkOS1OdDFNcndMcHk0ZTUxVVc0QXNUd0lCZEVqYmxfOGV5eGpsMEhnMGpRWUhLVEJqdWQ1MExqZUxMcjQ1S1h1LWx5QzBDVzkyY3BYQVk1Y2VkSnIyOWxMOV9tcTdYOU1lSUxCMHVfNFJkTm5vbDFpLUItZnFWMlhfamdvdHZoak9RRG9Xakl6RFBIb29JSkRWRENVM1dlWU1v?oc=5
-- Online banking disruptions hit Chase, Bank of America and other major U.S. banks (Medical Economics) https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmJ4aEVONEdEOFFTcXNlMy1SZ3NKSW9tR0pGOUtpSDN6bWJ5UElvcnhqcGNCdnY1ZWNtZ2ZYR1FsUy1qWEhhcERaOVhTanZLdGM1cFZSNDVCZ051WkVJYXU3ZzlCMzhoU3lRRHdqZDRBR29HNkYyLUtELVQ1eWRtNHlMUm5CVGxQRlNCMHV1eG1KN0FBZE1uMVhfX29paDFHaVF1OXp0SGRqTzhTTjRCUVdOSURzdw?oc=5
-- Bank outages hit Chase, Bank of America, Wells Fargo customers (Greenville Online) https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0VTOUh1YUVxWUZlVnNfZU5mNnYyUlFTTHVDZUl0b3NTXzNDTnU2TmlaQkJTWW9ZWmt1bkxrWFNFRVJEdWlCUTFxSXJVSUk3NlpXbFVWSjVVaEtYZ3hkalg2Q3FHUjFaY2JzdVZZVWRaN0xyb2tVTlAzTGtkSmFmT0w1R0hIcy1iNnlPQ21aT2JvZFlHc3VZcjZBYVY3R3RXUGE0MG5FOWl0UnlWRUJwc20xQjg4c2VRT2FPdUxvb3Y2Ym43YnRqWC1DR3gtcThaYlctaWtNRQ?oc=5
-- Customers at major US banks report difficulty with some online services (AP News) https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5
-- Chase, Bank of America, Wells Fargo and Capital One customers report outages in latest tech hiccup (New York Post) https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDE2OWRPT2s1N1BzT0phWk9uWlh2a1FiS2R2ZGlVdTRQWVFtT2hiZ0ZxWEhXWkZ1OVlGLXNGbUpZX080c2pDQVFoWHdySnlGejdWeGxCRXBzYmwtWEtlLXFUczJyd3JIWW11ZzFYSXFBQW9iTDEtdE9IVFdEa21ZY2p6SXV3ZWxlRmFpSDFkRzFNeXg1VGZ5Q1BUZDg4QkN4?oc=5
-- Downdetector reports user issues at major US banks (Reuters) https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5
-- JPMorgan Chase says it is working to fix ‘technical issue’; other banks show higher reports of problems (Crain's Detroit) https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2hZNUlWQXNIM1NFX0RLYVBWdFlUZkpaZWRYZUNCV3VwbmUtOHZuT3oxQ1NKOG1sLWhBRm9CS3BEVy1QUW9SX1ZSLTlodjJGWjg1M1BhMC02WHBJOFpLWlI1WkJhaXpva01reHVvZmRuZ2ZzS2VrRGIxXzdwdzdvMWNOdG5BZw?oc=5
-- Wall Street slumps on AI jitters ahead of Nvidia results, Anthropic IPO (Reuters) https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5
-- Citigroup CEO Jane Fraser sees ‘demand side problem’ for AI (Semafor) https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzNOSlJER05ZM0UyWFYwTzF1ZERuWnMzMURQdEdXa2lvRHVMenJsamlJQVRJdFQxY1ZnZnJJM05sZFBYQllzMXNrNTIzbkpuZDQ1dWRvbmpNVE82Ym1xa2RZeHNUT21kNlZTXzYtUktzUkRqaDBxNzRsaDcyRl9vdlFsLW9rejZqX19HblVKczFnOHpHRlF5a3ZNOVl1NDhxYXc?oc=5
-- JPMorgan, Wells Fargo among main banks reportedly down according to users (The Jerusalem Post) https://news.google.com/rss/articles/CBMihwFBVV95cUxNckdDZ0tZQXBORDJsaXItZEZBa3c3QmdKUW82aElQRWcyQzVBOEJ6VW1pdHBtcmhzRGktZEZqTXhoc1Nsb0pBY3JLNFhtR1ZOYzRGUlRxckxSMk1BR0k0dUx4WGU5aHFLajRpVlNjQXJOWWN6TVRrUEhsTzNfUHRsRlE5T1B2RVE?oc=5
-- Nvidia’s Massive Backlog Puts Earnings Guidance Ahead of Leadership Concerns (Investing.com) https://news.google.com/rss/articles/CBMivAFBVV95cUxPREJRX0F6ZnEtelZZX0xsV0tqTVE1R1Zpb2h0eGxYUFFVQlFHTVA0aUhsUVFUcDFSR3VHS2pnVGdUYzRDSzl3UUVYSmlOVmVYU1g0RHp2WW9lMmZzS2d2djcyY3NuMTRGR3U4VFNnT3JKQzFmY3ZCY24zVldiYTAtTXh3eFlzWnFFcGt6LVZwd1BMZElMd1VRVWNlRDhTelNkQ1B5VUpHV29FTzZ0NDVsZHV6NXp4RDZFVERReA?oc=5
+- ‘Software bug’ in JPMorgan Chase systems halts online banking (Politico) https://news.google.com/rss/articles/CBMilwFBVV95cUxOWVRvY3I5V3BMbW52ZmFWRzJKT2dXYTVrOTkwOEhkdHFLY3dXVHRWN1hBZnEzdGhUV0NuWnRoemtady1BX3pKdDJzMXZBcVk0TEx1d1RaRFNrSXd4RUp4b0NDVUY2aVVfemlVX0VCZzVvcmJaY2ZoMnpMS1R5Vnp1VFQ1Tm5EVnZRYmdJN0h1amg3b1JMcnBz?oc=5
+- United Airlines reports system outage affecting departing flights (CNBC Business) https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html
+- Technical issue at one major bank causes disruptions for customers at banks in NC, across the US (ABC11 News) https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakdYaEZtZkJuZFlxZnlKSW40d3I5Rl8wbko0WmpES3NLdmZRbHZrRzRRMlgtbmZVaWhyUEFDbllPbV9MdHZQTU44OHNZMTdra0h3dVU3aXlTdG8tMXg3d0E0ZWpxRTNhNWlMRXdUSFQ0N3luNE9qXzR2amhKMkVRbVc5Mmo0a01XWVNGMF9qdnhWOHpJMzlSMTJfY1hKVU9yRno5ejJncnJCZjJ3aEQ5U19ocE95a2lXM2swTGVvQTVwZw?oc=5
+- US Pentagon rejects allegations linking deputy to a Goldman Sachs banker (Al Jazeera) https://news.google.com/rss/articles/CBMitAFBVV95cUxNTldadkI5NUFCTERRMHhxdHFUa2xMUDVITjhZa0I1MkpkczZYeXpjejFHSmpKb01YZnZzZEdiZ2pNM0RaeG5vQlM3YjlLSkVtY1ZObkx3Vm9PZ0t0TTZHRG9HaXFHOVZlZHYxazE0NnAwc3poWGpURUIySEIxZUdBSVA3T2VkRmI5RGdDN3piUEVCalNONnI5Qk1Bb0VSV1dkbVJEdmJKRkt2OFB0THB6dkxOaWrSAboBQVVfeXFMTl9DZUI0QkhnaUVNSXA1N0hzRDFURFhiNHZTZXVJT2ZfWlF0d0sxWjJhTllCeDBxek9nTXhVemFfUjRDaHpxN0xoMXVWX280WVpxUkFuSFFPQzBlYlE0WUZfdlYyZzNlUm5tZzdBUTRnOFZPRzZPZGE1UlVKdm9Pa3VHMzlHOUNfNFk3dkZCZlNOcmtsa0E5Q2tkbkM1ZmpTZUpHZ3lJRkkwZy02SmNiUG1WaVR4aHhST2t3?oc=5
+- Big bank customers report outages; JPMorgan Chase blames software bug with potential ripple effects (New York Post) https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDE2OWRPT2s1N1BzT0phWk9uWlh2a1FiS2R2ZGlVdTRQWVFtT2hiZ0ZxWEhXWkZ1OVlGLXNGbUpZX080c2pDQVFoWHdySnlGejdWeGxCRXBzYmwtWEtlLXFUczJyd3JIWW11ZzFYSXFBQW9iTDEtdE9IVFdEa21ZY2p6SXV3ZWxlRmFpSDFkRzFNeXg1VGZ5Q1BUZDg4QkN4?oc=5
+- Berkshire lowers Bank of America, Capital One stakes, adds to Delta (Reuters) https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0NWRXlPMk11MUZ5Y2l0N0t6NEl4NTdVdzVZN04xN1dpQWJPZ1UyNkE1VGtMTkxkYm1GWklFQlRWY0FXOVNHcnRHZFZJSXhWUmFJUlNJWmxaZHNNVUtwRVZhOW1JQzNWSkU2V2hmR0RHRlFfZ1Bmbm9udEFJNm9oOGZjYW5UeUFvVmktUGR0R3BVVWRONnZyZFR3REFqVFpDQ2ZfQTlpOA?oc=5
+- Texxon Holding Limited Announces Financial Results for Fiscal Year 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkVZX1g1bzg4WFFwU1FzbWIxSl96aUprRzI0WHptRDdGRXFmdENRYWpKZkdBcFFpSFVpYjBGQkFWbnQyMkFtamtSVHk0Wno5MVRDYVZ1Zkt1ZkdKTHM3MVo5V1ZyR0NaOUJhR1FLUkpvNE01aW1EQVcySUpzZG9uS3FfTmU5Sk9QZWljTkYyM1hqYllBS0ZnMEYxbzRseHJkTnRyU1ZWU3ZsdGc?oc=5
+- Major U.S. banks report widespread service outages (CBS News) https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5
+- JPMorgan Chase says temporary software bug is affecting consumer banking (CNBC) https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUlIQzloelRpYkY5b0RWdGJ3VDQ3ckszb29PYVItM1BETUxzV183Zkpqc1hJZW5xT3o5N3Iydm5VUDllQXctOXRSaEppNnRSYVNVYXhteWdtY3MxWVBhTWR0blZabWxpX2tlUTZSbEZCWjR5ZXlEaHl0NUc5eW9QRm0xSUZiUXZtY0NmTGtVUHVkUDBIRHZIXzFyeXpxREFObGhfQlVDNVAzTl9SNlhKeDFyRVozZw?oc=5
+- A technical issue at JPMorgan Chase triggers online banking delays across major US banks (ABC7 Los Angeles) https://news.google.com/rss/articles/CBMitAFBVV95cUxORVBPM0VXWHNRcTlnN3hCYUdWSnQxbUNkSVlBY21ITUlSbWN1bDJlcWU4Z2J3b3RYQ1RUQzlQMXA2a2o5SU5lY1pURXBURTd6WG80UkhtT1N1OUU4QmN5a0FUTmxMTVZKNk9HeTRnSTJxdGpoaW5kUFY5UExpVFBuTnpDM3lPMjdibXlBQmxtdjNiTlJmNW02Z2pFc3dzLThLY1JETzBNTjhlTk5iRXNqS1VYN0zSAboBQVVfeXFMT1dkQllTOWZYVHBTU1hzSTJnV2U3OE1Fb1ZpSWJ1TlhkcFhYWFh4elV0SGlJeG45SHBLRUdzUDZ4Q3VzN0ZkOFdMOExRVUQ5M19QamVzSGtVT3FCUUFNVWRvQ3hNaklYSThDNks3RmtHZjhDZEwxZXY1RUxYZ1ZQcWhYcXVqdFdzWGVLZ0dYc0k2YVJKc0J5b2NKUHlvbmMyVGNqYTBjbUlRemM3dkN6T3I4R1ZPNlRzVjhn?oc=5
+- JPMorgan says software bug slows its transactions (Reuters) https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5
+- A JPMorgan Chase software bug wreaked havoc on online banking (Business Insider) https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUhxbGdMMGx2aHR5RnB4ZWl5Tk5ZV3pFOW9PU09ONkkxSXM1bl9sOGpIYkt4MFNWZW5ibFpqaFNsVE5pLTBQWWxFeDVFaEtqTFd4bXVhODFLc0Q0YzljVlI2R0pJT1JKX0FjQzVEdXVLRWhaXzdfNE10ZmVyT29rWUx0YXVpcGR6RDJkY3lB?oc=5
 
 ## Headlines: Research
 - Can Workers Predict Job Finding and Job Loss? (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/can-workers-predict-job-finding-and-job-loss/
@@ -204,6 +204,6 @@ Next FOMC decision: 2026-12-09 (23 days away), with new projections.
 - The Global Economy After the Iran War Ends (Project Syndicate) https://www.project-syndicate.org/commentary/iran-war-economic-impacts-will-reverberate-long-after-it-ends-by-dambisa-moyo-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - Breaking Billionaires’ Political Grip (Project Syndicate) https://www.project-syndicate.org/commentary/fight-against-oligarchy-does-not-end-at-ballot-box-by-maira-martini-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - The Dance of Empires (Project Syndicate) https://www.project-syndicate.org/onpoint/rise-of-china-highlights-fatal-conceit-that-brought-great-empires-to-their-knees-by-arnold-thackray-1-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Opinion | The Financial Bubble Cycles Are Getting Worse (The New York Times) https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHVKUjNNRmxUOER2UU1SUTBmS0NzcW1FX0FLRFhESzI4UGd4REtXY0F4emxqczVYb3c1MEZ5MW5EMGVNR2V3YXMweHdmQ3FidFNsSmNzYjZVMmhfWWhrQ1VsZ253d3ZQNUt0ZlM5N3prQnV6ZFp3Z2QxUl9mcC1zQ0czUVJ6TjZmQVpLbkZB?oc=5
 - FTAV’s further reading (FT Alphaville) https://www.ft.com/content/d55dbb16-b0ec-4f49-9d44-b30c62efa79f
 - The latest twist in Strategy’s tragicomedy (FT Alphaville) https://www.ft.com/content/9242798a-beb3-42d4-ae54-120acbac82a7
-- Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered (WSJ) https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg?oc=5
