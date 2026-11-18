@@ -1,12 +1,12 @@
 # Econ Desk snapshot
-Generated 2026-11-17 21:54 (UTC). Source: FRED unless noted.
+Generated 2026-11-18 03:43 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
 - Effective fed funds: 3.88%
 - SOFR: 3.93%
 - Reverse repo rate: 3.75%
-Next FOMC decision: 2026-12-09 (22 days away), with new projections.
+Next FOMC decision: 2026-12-09 (21 days away), with new projections.
 
 ## Policy and money market rates
 - Fed funds target, upper bound: 4.00%; change unch.; as of Nov 17, 2026
@@ -33,7 +33,7 @@ Next FOMC decision: 2026-12-09 (22 days away), with new projections.
 - PCE prices, core (the Fed's target): 3.1%; change +0.1 pts; MoM +0.3%; as of Sep 2026
 - PPI, final demand: 6.5%; change +0.2 pts; MoM +0.3%; as of Oct 2026; Highest since Nov 2022
 - UMich 1-year inflation expectations: 4.6%; change +0.6 pts; as of Sep 2026
-- 5y5y forward inflation expectation: 2.15%; change -3 bp; as of Nov 16, 2026
+- 5y5y forward inflation expectation: 2.16%; change +1 bp; as of Nov 17, 2026
 
 ## Labor market
 - Unemployment rate: 4.1%; change -0.1 pts; as of Oct 2026
@@ -65,7 +65,7 @@ Next FOMC decision: 2026-12-09 (22 days away), with new projections.
 
 ## Stocks and volatility
 - S&P 500: 7,417; change -145; 1M -3.2%; as of Nov 16, 2026; Lowest since Nov 2026
-- Dow Jones Industrial Average: 51,608; change -739; 1M -0.8%; YoY +9.5%; as of Nov 16, 2026; Lowest since Nov 2026
+- Dow Jones Industrial Average: 50,759; change -849; 1M -2.4%; YoY +8.9%; as of Nov 17, 2026; Lowest since Jun 2026
 - Nasdaq Composite: 24,510; change -627; 1M -6.2%; YoY +7.0%; as of Nov 16, 2026; Lowest since Nov 2026
 - VIX volatility index: 22.91; change +3.61; as of Nov 16, 2026; Highest since Nov 2026
 
@@ -74,10 +74,10 @@ Next FOMC decision: 2026-12-09 (22 days away), with new projections.
 - 2-year Treasury: 4.83%; change -5 bp; as of Nov 16, 2026
 - 10-year Treasury: 5.12%; change -3 bp; as of Nov 16, 2026
 - 30-year Treasury: 5.46%; change -1 bp; as of Nov 16, 2026
-- 2s10s spread: 0.29%; change +2 bp; as of Nov 16, 2026
-- 3-month/10-year spread: 0.78%; change -5 bp; as of Nov 16, 2026
+- 2s10s spread: 0.30%; change +1 bp; as of Nov 17, 2026
+- 3-month/10-year spread: 0.77%; change -1 bp; as of Nov 17, 2026
 - 10-year real yield (TIPS): 2.92%; change +1 bp; as of Nov 16, 2026; Highest since Oct 2026
-- 10-year breakeven inflation: 2.20%; change -4 bp; as of Nov 16, 2026
+- 10-year breakeven inflation: 2.21%; change +1 bp; as of Nov 17, 2026
 
 ## Credit spreads
 - High-yield bond spread: 3.34%; change +11 bp; as of Nov 16, 2026
@@ -112,9 +112,6 @@ Next FOMC decision: 2026-12-09 (22 days away), with new projections.
 - Everything else: 73
 
 ## Calendar, next 14 days
-- 2026-11-17: Advance Monthly Sales for Retail and Food Services
-- 2026-11-17: G.17 Industrial Production and Capacity Utilization
-- 2026-11-17: U.S. Import and Export Price Indexes
 - 2026-11-18: FOMC minutes from the Oct 28 meeting (expected)
 - 2026-11-18: New Residential Construction
 - 2026-11-19: H.4.1 Factors Affecting Reserve Balances
@@ -137,6 +134,7 @@ Next FOMC decision: 2026-12-09 (22 days away), with new projections.
 - 2026-11-27: H.8 Assets and Liabilities of Commercial Banks in the United States
 - 2026-11-27: State Unemployment Insurance Weekly Claims Report
 - 2026-12-01: Job Openings and Labor Turnover Survey
+- 2026-12-02: Gross Domestic Product by County
 
 ## Headlines: Official
 - Philip R. Lane: The practice and science of monetary policy communication: the ECB experience (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf
@@ -153,32 +151,32 @@ Next FOMC decision: 2026-12-09 (22 days away), with new projections.
 - Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027 (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm
 
 ## Headlines: News
-- Futures Levels & Sentiment for Nov. 18th , Unleaded Gas Outlook, FOMC Minutes Tomorrow, ANT IPO and NVIDIA.... (Barchart.com) https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWG12OGlrZ0drNWlZSjdQVVZORHRpVkExcVljLW5mZ3FERTBoTER2dERDcXpkTU9XQkJuWng0Vk1QbTNqNE1oMHVrOWM3eGN5WEZqU0RZeTBqMjBYbkpkR21pa281Sm9Gekc4ajBNRVQ4UGtKSFBIczlLS1RLc2pZS2pzbkQ3MF9pd1MtaEZlVXpmcFhNWWdUbEFkSlBiRHNhYjFwRUNuVlY4RmhLSENPWEhDdWRMWEpDNXJ1SXNxNEpJRFZ5ajRjb25Uc1F6Vzc1UnZFY2pVeW9ST1k?oc=5
-- My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her? (MarketWatch) https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories
-- Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters (MarketWatch) https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories
-- ‘Can I pick your brain?’ and other terrible things to say in a networking email (MarketWatch) https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories
-- ‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried? (MarketWatch) https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories
-- Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug (MarketWatch) https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories
-- Treasury Yields Fall as Wall Street Waits for Nvidia -- Market Talk (Moomoo) https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzVabGRZbFRrSndiTkxoeWNxekFUOXVGRTJ6dEJCS1ZndXlWYjFvYWpkc2RPckZiRDJFTUM4NlU0TV9CTnpXbXhhWkUyOEdFVGpJUFhaTGpQNGJBR2VCbFZjaWhpU1IteVplUXNua3ZCNldkeC1MdGRxb2s1eVVaOTM5NGR6X0s1ajhJR1hqRkFHcm92cVRVZ0VoOTJLTWRabHVMNGxB?oc=5
-- Cautious trader dumps millions ahead of Nov. 18 FOMC minutes release (Yahoo Finance) https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDJnMkpsNnVaaGhhalpvUERKcjFOc3l2bXZOZ1Z3MDB2Z1plYnp1bElNYzg5MmVtTkxsamJGYW1faWRTMkF2dEdFRE42Ui0xeXlUbVh6NVBmcW9CU2I4d1VOcUFYTE9jb01DNW1qWXh6djhEaWdrNG8tUVIxX3ppMUZKODVYMFNxMlZ1Z01KUkFmLXJyMFdYRVZ4cEtpMHMwQS1Z?oc=5
-- The U.S.’s classified national-security communications network experiences tech outage (MarketWatch) https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories
-- Private equity has been buying up hospice centers — with striking consequences (MarketWatch) https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories
-- Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy? (MarketWatch) https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories
-- Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action' (Reuters) https://news.google.com/rss/articles/CBMiwwFBVV95cUxObk9OREc3MG52anFIVXNNUy1VaUhIWnJ3bTZjS2RhQVZaSHgzV1VXZEpqSmVMR2pHdGpVdTFRbXlKWFhPLXBXTWtVX0NvQ2xScUk0dnI5MjA5VVpLQTF0YkIwYi1uMjNyTGZaTlloNjE4c0dlMmhlOTJxWVQ0RVkzMG12WEZPRTFyZnNLU3V2TmFqYmNMUUhYRXJ2SGdySEFKdnN4c1Q2MDdrVW5NTTY0UFBVeTVpb1QzODBOMHFLQlRCaDA?oc=5
+- Russia’s Putin addresses global CEOs in China (FT Global Economy) https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1
+- United States Dollar index struggles to extend rally beyond 103.80, FOMC Minutes eyed (FXStreet) https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1EyMGRrM0FBd0RhUFpYUHpMZjNJWVZjcW45dF9kUVhSUW9rU3UyR2MzZXdNcWZUVEt0QUtJSlVQcW1WZHN1elREQ2FIWnVWd1VaV1lVbEhZdTdjZHBqOTAxRElmOGVCSkNwT2pLVDFDVWhvcmJkdW5pLVVMbWhWUzVMTGFHNVYyTElKYXFubHpRREU3cDh2ZC04aEpuNXk0dzFfLWtSUlp5YkFmRUI0TWVnbnluUHdUcENDa1dZbVRzSGpn?oc=5
+- Fidelity International Pushes Back: Even at 6%, 10-Year Treasury Yields Still Aren't Cheap (BigGo Finance) https://news.google.com/rss/articles/CBMidkFVX3lxTE1WWDVVU2xaTnF1MkptN0pKZlRxUHVWVFVpSDFFV0dUb1plbXpEdmFmUmZCV1RvQXkyUERwSzFPbW5FX3FBVHpJdFJiYUxHRl92YTI3d295T1lXN3ozRXkxSWlJX3ZXRnNQdHMtdUJ6V1UyMWhqb2c?oc=5
+- Bank of Japan governor says central bank should keep raising rates (Reuters) https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXVIT0VoOTAtWnNpWjBvTlRGS0o1aEp1RklzQjZLTVFOb1pha3FPSUJJaFJrMjIzQzZ5WGtOUG5OUl9VM2paLTZ3aEY4d3ZLMFN5NUdkSU5aT09EOWs1MFp1eUVSbzh6VVkyaEFuTWo0cS1Tb1RGVlJKdWdoSXlsbkZJRFJnT2tDMHNINXhGSDlDVzZnWTVkV2pYWGcwZnhjMEk1RHZQSWlsQkJCNW5KbGJR?oc=5
+- Australian Dollar declines below 0.6750 on hawkish Fed, traders await FOMC Minutes (FXStreet) https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWJfbmVTSmxqVV96RWlqS0txYlVrTVlkb0Q0YnVfdlpHUEZibVhVTXRxMFN5bzNHaEhIdFVjd2pqdks0c2Y3WDFYN3BxR0dicWg5ZEUzMmwzeWloaHhVU3BTbUFhMVpEVW9ZM0c4OC1QNEdZenhYNmdmY200NGM1S2RMU2NpcDFmMW5wcFQxNThyNXBHbXVhaUdPR0pVVVVKclEzd2lEZ3FfRlpLZjNQek15aXpxY0EwSS1RMmxUTk4?oc=5
+- CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing (MarketWatch) https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories
+- Medicare Part B premiums rise due higher healthcare spending (MarketWatch) https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories
+- Nvidia’s stock rises as blowout numbers help ease CEO transition fears (MarketWatch) https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories
+- Japanese Yen softens ahead of FOMC Minutes, intervention risk in focus (FXStreet) https://news.google.com/rss/articles/CBMisgFBVV95cUxQZUMtd3UyRVV5LU43TzRfRlVpMEVBbkczcUFJVFFYM1pPWGFBMEhJUkxBVzJ2Y29seVdDUFp6RTZsVm9WLUpoRUktT0N1ZE1Ib1pjX1U5VDF4Q0Rzb0h3bVdXMUh3UHprdU1Wc29SdUhzbGx1OE1UTXpveDhkalRQeTRLWE5hZ0x4SDcxS0Y0VTlMR2J6em9TX3dUMWRfRkp1ZXNteFdBanBTbW1YQ3JMSl9R?oc=5
+- Japan exports in October surge 20.5%, beating estimates on robust chip shipments (CNBC Economy) https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html
+- Looking for a Career Change? The New Jobs Report Shows Where Hiring Is Climbing (AOL.com) https://news.google.com/rss/articles/CBMigwFBVV95cUxQbjA1cnhXUUQ1cmR6a1NvWFBqcFpuRHRLZ1dGMjBDM0hXV2twdTBPSzNjVDNzVjF2LXBHYW10ZVFseHpraVkzd0FPZDVieWxLbWVxNzY5SFlHWGdNVU41Q0tWNFRFWXdUcWdUekJ0V0VNRWVOWHk0NXNHcXdfc2t6dTBvZw?oc=5
+- Good News: "Trumpflation" Might Go Away Soon. Here's What This Means for Stocks. (The Motley Fool) https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2RCMTVEOHJucGQwbnlzWE1sZVljaU4tQm5HMTZCdHlhVExOXzNrMDJ0RlBNYlg3LWk2UHVlQUtNd2o3bHR6MVgtREVzVzVBaE9pNTJvcGkxTjlaNkV0ZDI4UUx6aDVNZ0ExelIzNnUxQ1Q2QmJFNnE1b2g1MFJyU2NxaTRWZWpUaERfeXdGeVZRZ0t2UzRTWm5RVGNnSkEzdklvemE2bENncGNlcDQ3REUtN2pYQWpadEE?oc=5
 
 ## Headlines: Companies
-- Why the US Economy Is Forecast to Grow Faster than Consensus Estimates (Goldman Sachs) https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb0FWNnM5TmY5MkM3VTlHd3lCVnZXRTZVZGVnZmN0WEdELVZyNGVlMmhqQWtIMS10b0dFNEhGa2w2Q3JYcEtXSWtjZkZ0OWNPWHM3Qy1VdUtGb2xRY09MWnUyLUIyaEpVRmlIUmdndFg2cC1QcC02VFVmYjhxN0hSeTZzcDB5UkJkWmlRVkpTS01DeXFPblVfT28waWVOczdOOTlIYl9tNTNsbzBhZHVzSmtXZUIxWHpp?oc=5
-- Nvidia records strong growth in first earnings report without Jensen Huang (CBS News) https://news.google.com/rss/articles/CBMifEFVX3lxTE5zbkVuZVV1aE51bVM3Vkxyc2lYQVR4Qms5TDhnOTVwQTV4cG9MMkZtQVAxQXlWdDVSR25hUE9uMnRVbXZpWE5kTXZKNlZzdTlnV2NydUtYeklYaTNldjhFclBfaVZvTllXdFJ0dXRqQ3BhMzJSSlNpOTJtdVg?oc=5
-- How JPMorgan, Citi Missed Megaspeed Risks in a $2.8 Billion Data Center Loan (The Information) https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmUwRDdGeEdOYnI0Q0RzZ2s5cE1fWDQwTTdWTGZ3dG1iamtVU3c2SXlTSnBadFh6eWZfTGRUWXVjcDB2RWs4T1FQNENfeERKbTNqQmZzQm9VNDk3Wm9VblVqcEhDQkJZQ2ZIa25FeGVhcmp2NVlPQm5zVzFadnRfbnB2Vjd1WmZINUdDZFhZdzMxU2xXVmUwLVpVTUR3LU0tQnUtZnU5OUc?oc=5
-- Nvidia Without Huang: $115.8 Billion in Revenue Beats All Expectations (www.trendingtopics.eu) https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0J2cDBhcGFnRzllWmp0MUxzYUc0U0JiM0x5aVk2WkdZUWFfYURKWFNkUEhaUjI0NW1zSHpkc0FzaXVwVGZKaDZoWC1zX1h2YU1GdHJJZy1oaFM4d3pTVXRmakdGS3ZKc3o1cERZNnA4eU5SWTRDWHB4SDdHN3F3U2FMWkM5T3puWVdtZGUzQ21ocG5WaFVtUG1OV0FJQzZr?oc=5
-- Nvidia beats on Q3 revenue and earnings, stock pops slightly on results (CNBC) https://news.google.com/rss/articles/CBMiswFBVV95cUxPM20yOU9VSXBPbmtnNC10OXBjM3JCTzJMZHlla2pwVUgtQmVqNnJOVnZEZjFJR1g4czUzb2pSdkRNckVDU0JfWWRZb0FRT2xaQ20xVFVhN0tYUmpqbWhQR0dLSHdZa2VYenVMRDVGMWM5NTh2X2s4TE9QbkY0Q0JyRGZ4TTBwYmxEMVEtMndjM0s0U3l4aUxzV0s5S1NVWU1vLVR1a0xqOFBScFRXTUJkOFFJdw?oc=5
-- Atico Reports Consolidated Financial Results for the Third Quarter of 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMitAFBVV95cUxPenYzdVRDenJvUmdiRE5YLUZYY1paMEdodXRYUjhMSWk1QVc1aVVTM08wSXF3VHFjWmk1SmF1WmktRDNVYV8xbzVmYXBTTE4tMlpJWnRxVldvb0xmdTlxV3dybmdKcG9PcURnaDR3ZzQtTm5wRVFscjdwb3dHN2R4RWdhZGZyRzdaOTg5OWV1ajZtMEcyZTBKUXI2cHJtZmRUZ1R6WHZMbnlNNkFaN1dWTFRMUWo?oc=5
-- Nvidia quarterly results beat estimates (Investing.com) https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWp3TU9FbzR5SEtqVnRuMnBiM3NXb3U3ZnMtS0RvR3dyV1JWOFUwM3JjcXFEcUNaX3dSOWFtT3pnQmh3bmlhWnBvQ1BEYWFJRTlZU2o4TXo0OGdfVXJlbTF4ZWhUYTdYeGRrR1JuUS1YS2VVdEh3LWZ6b3d0TFNlZjg5Z2N1cDJ2MzZWT1k0R3E?oc=5
-- Nvidia Beats Estimates in First Earnings Report After Jensen Huang’s Ouster (WSJ) https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5
-- NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 (GlobeNewswire) https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU29vb0hhcXc4SlRyUlJFbjR2bmZydk96VThQQnhVUXFaU3BId3lnOHZvUnZTUmZtS2Fld0xGT05pZFNwcUE4WjFHWndTb0xqaklBNkYzOWhWUUduWGxTT21wX2dMUWZlQzBYYlMtdmg0bFh5Z1JNbGVyeGxuNmtPRlZMQllacUxlT1FmMjRjRnZPSVo3WHNKbm9oZV9MUU5LczZtcmM4VzNUOHBCbWxvRGdQWHhJSHZfTXlHN2I0emdHMVFZWl9tTVIzdnVaWTV5ZFE?oc=5
-- Dolby Laboratories Reports Fourth Quarter and Fiscal Year 2026 Financial Results (Morningstar) https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdWhQRmVLWlZGdXNYeG45eTh2RGJTaS1VQ1p3VFdibHhJanBXTDB0UDlmUWU3SEwzTTRqLTBZaUZlUUg1RWQ5RF9QWTJlRm5iN0NmZ0tBU2prZnhIcmtGZTd2Z29vcEFJU2I5bkZ0dHhtME1seWhQZWZZY0toS0g2V3Qzd0ppT2p3UVhLUUJSMGJqYWRLVXI0TzZnblJtX3ZTR0NBS09QeUFaSDRjUkxHTEMtVm80c3dmaWlVOHN3ajIxS0g4SlZ1RE9zY1NxdjcxSjdmd3NKVzc?oc=5
-- GitLab To Announce Third Quarter Fiscal 2027 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGxRZ1NqZkdSR0ZsOWpPMWtVMmZjQnB6bTVzWWNSbnZSb2tILUpFT3RtRGt4RnJrRzZITDlFUUc4d1R4MWlhSVJLUmNoZ3JNOHZTb0k1ZFVhcUxGaV9DMV84U0tLUE55LWFzT2NyT3J2MV9YT0lDMG95aWp2bGs4VWhpVl9ja3BJTXNhMUFpOEdFZEZldWRzWWc5dnpsenZEZkFR?oc=5
-- Wall Street ends lower ahead of Nvidia earnings, Anthropic debut (Reuters) https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5
+- Nvidia shoots down calls for Jensen Huang’s return amid strong earnings (Al Jazeera) https://news.google.com/rss/articles/CBMitgFBVV95cUxPWWdPODgyZEhvek5GeEswOWp6WWlUX2ZBN2NYVU5WNjBxVm94ZlhRT2lFbmUtTUJ5Q0xIUDJIOEVTeW02Tm5IZF9ZZzVrRVVqczlZVG55aFBLR19lc2wwMVRHMU5jUGY3aHgtd3l1MDc4OUdYOWE5MHFrbWtBS2c0cTJYRDZRRnNMcWdDdXVIc0RKTVZMZjZSVVRodGtqcXd6YTBqMjR0Tl9xM1Q4VlZOUjJkY25LZ9IBuwFBVV95cUxQaTBwN2dnb3ZDbFpFVl8tSzNYRFZwZkZ2VU9qblFlbkpSbHZyVDh1UkY2SEZxX1loWm1QMDFpVUNMdzB3cW9CMC03MG1UcF8xbHNObVphRFZiU1NrZmpGa0VpUm5uOS1rRndhUWd6TmxXYk9mTHNwRS01RVBOSWVmeFBWYS10eHdWNGhZNDJWX3JTQVZ5U3E5NmhYV1FkSk9oT2RWdWkzTW9va0JOaGhFSFBMQXZQcFJOZnhJ?oc=5
+- Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO (WSJ) https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5
+- Nvidia rejects Jensen Huang's offer to return as CEO despite pressure from Silicon Valley (OPB) https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVm4xVzJETjVWcUU1ekNhSHMyLWtVWHp1REpOZHFmcXNjUFNxYmMyNmNyQjEwdlgxanBBUUtxeDl2S2VnUElNbFhtRm9TaGtrU3dnVHpaY05VbXlkUTVQdjRfNEg0LW15U0ZBOEVUeHV0eXJ2VXM2TjVlUzFSdHhPSF9MUkcxRHFVWjMySVpxTS04LXdrd3NBNFpkSnFfREY5OWpzaVZudkNSRFRvbE5oS05uWFlEc2JiN2xnTnAwT1FWS2JwaHFKag?oc=5
+- Nvidia Earnings Live Updates: First Report Since Jensen Huang’s Resignation Beats Expectations (The New York Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFFIYV9qR0U3Q3Q5bFNVM2VscDYtYU01YkxpSDFVRUkxNkYyX0l1NlNDYmRDU25NaHhJR0JvV0tnMDQxRHBvYkx5Y21WaDVwVDA5MjdaNndERWNmZlp2dzVIdm8ySG40RzJRWGVfY1RCdTNkd2NmVlN2Q3JURVpfNWptNDk?oc=5
+- NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 (NVIDIA Newsroom) https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1NfbkFJSF9aUlBlMkphNjFXMERWTUluUWdsNjQxajFFbjdEdEJHU0FwRU1USGh2MkVWMUYtNDRFNU1qVHlRSzNyQ2ZUQXZuY2M4bWhmdHVaczZqXzJWaExTVXVIQlIyVWNQMUZsV09Ua0F1UDJ5Wkg0engwakZkbDdkaGRTOHZpN200clNRVXR5QXZRNXo0NDlBaVZJdDE0?oc=5
+- Nvidia reports bumper results as firm says it's not reinstating Jensen Huang (BBC) https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdlJaZXA0OTdrVzY5SjlMN3laeThvMnMxTThSYXAxbEFiODFZQkJMWFBWbWZoQy15ZTVRRkV6VW1HOTNrd0hSSndGUGZISl9FbzhJUF9yOFYtLVU?oc=5
+- Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty (CoinDesk) https://news.google.com/rss/articles/CBMizgFBVV95cUxOSDY3OXBJekI5YjNfWDQ5d0NqWHZvZHNtbXhQQXVhSnVSVS15NzlMc2xyMGNoUmtKeHc3TTMtRzNXRHd5R1BBeHh5SHdNYnhxUi1seWpfSFpYYTIwVmdvNzE5QWRyQk9FRnEtQWtCZHhqRk1ZWHNUM2dWM05VUlFxS0QwZXEyZThveXFqeVpVQ3gxb2JXNzNUZWVVZVhQdmZzREQyRWVjbkJEMS1wdmIxb3JqRGZrOXZvOUxlSi11Zzh3UjlTZHpaZEM0Q3M0QQ?oc=5
+- BofA rearranges upper ranks of business banking leadership in DFW (The Business Journals) https://news.google.com/rss/articles/CBMipAFBVV95cUxON0Izdlh5aWh4elN0eDFOUlBheDRZTWl1aHBhUktvZkZsZnhzUDJINjFnVHNzMDM1V0kyLXhRUXE1TWMtZE9UQ3hweGRHSUNBdUx0UldyMC04SEpaMmEzOEtZUndBWkRmSkd2X0VCT3pnLXdkLVp3eWI2b1prX1F1bnhpejZoNVdUWl9OZldSZGhWMVhGdXJ3ek96SU5HeUtPb0FMaw?oc=5
+- Nvidia Q3 revenue doubles in first report since Huang exit; shares jump 5% (Investing.com) https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWp3TU9FbzR5SEtqVnRuMnBiM3NXb3U3ZnMtS0RvR3dyV1JWOFUwM3JjcXFEcUNaX3dSOWFtT3pnQmh3bmlhWnBvQ1BEYWFJRTlZU2o4TXo0OGdfVXJlbTF4ZWhUYTdYeGRrR1JuUS1YS2VVdEh3LWZ6b3d0TFNlZjg5Z2N1cDJ2MzZWT1k0R3E?oc=5
+- Instant view: Nvidia earnings beat estimates; attention turns to call (Reuters) https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWVjeHRTNkRreHFmNVBsYkdQeFJjc1htLXA4enJfTEV5clpxOHZRRGdGZXNkZGFzY2FPWUtTMkdCSGZYZXFHMmE5OVFzUDJuc2ZjRGJybkF2MG1pTkxhMFBRam5wdjFNdG5sRGJaaEN5bE1keENqTkJGb2lPeFJQM2Y2NDAtQ3JvSG9pRXExTFpwSE9iandZTFMtcEEtX21xUXM0?oc=5
+- Nvidia: Blowout Earnings, Huge Guidance, Insane 0.2x PEG (NASDAQ:NVDA) (Seeking Alpha) https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHNEbzZKWVBDeDh1cG9YNU5WS3JfeDlhVi1TdlRYOU9SUTF6ckVnZ2hKcjlsbVVXMHVhdHdhRzdtRFF1eUVCaTNUUHBuV2doT0hIZ0R0S0VMMlJIUjBqQklNdndPNDV6ckRya3JkM21NU2FQcXZ1TTY1NWZkemZBM2FfOXhxNUpNanNjWGhmb2oyQjNCUVNIbnF3?oc=5
+- JPMorgan is working on AI agent transactions that don’t involve humans (CNBC) https://news.google.com/rss/articles/CBMigwFBVV95cUxONVh4eHlLNlRjTEtRMFZKMF8wUHk1WFFNdHJhVXJVaGhIVFAweG9CUkttNG1Yakl4TExFektkSFNtcGxkazZjMGQ2ZUw1dm5meW9TME90YUlWamE4eEl3MjVianBhaVZpRFh2R1Y0Rko4bi1IWDZWRkRaeXQwazF4S1Zic9IBiAFBVV95cUxQMFZmbVZHeVo3X21XallydUV2Z1FoVGJMYWFfYVk4bXYwUFFwMEdnSG00RlNySHFqcUg1SzUwUFp4QWZPeHNzczItNHFpdUtYU2JKTXU5RWZ3TTNtaVI3dlFXVTViNHJsSGFyRWJCNGQzTmJCUU1JVnpyUUtkdkFsMTdUWTB6UzNj?oc=5
 
 ## Headlines: Research
 - Does the Stock Market Stigmatize Banks that Borrow from the Fed? (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/does-the-stock-market-stigmatize-banks-that-borrow-from-the-fed/
@@ -195,6 +193,7 @@ Next FOMC decision: 2026-12-09 (22 days away), with new projections.
 - Competitiveness and resilience in the financial sector - oxymoron or complementarity? (BIS central banker speeches) https://www.bis.org/speeches/20261112-competitiveness-and-resilience-financial-sector-oxymoron-or-complementarity
 
 ## Headlines: Opinion
+- Opinion | Joe Biden’s alternative history of inflation (The Washington Post) https://news.google.com/rss/articles/CBMingFBVV95cUxOaTNRV2FOTkFUNV9ULTdJSkxlSlR4RzdWbHFLMTdQMnByNndQWXZqUUNOeC15Y2t0enFGY0lCYWRBdHpqdW0tNkNrb0VwWTlFdDFHaGdGUzBlRU5ockJQSHVnbjBXVVdOQUdhOFNiWDZCMEVSeTV4dU1zS2tfODFwR0lmcVc5Vms1OC1SbTItcVIycEprQmktcXNmYUVrZw?oc=5
 - China Is Getting Inflation in All the Wrong Places (Bloomberg.com) https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3hSa0xoNVY1b0pFMHlFODhjRFV5TUJMRVgwdXJ1dFJFSVlNc0R0TzZ2VFgzcE5NbjcyanJic3VuTWFSdU9RallLZEVRNVZ0YXlLUGt6VHB3cF9ORnhqenE2S2diR19jS1F4WjhVS25McVFhYURxbUpRcWRRWGtPZWloZVlmcnFUMnBHOG5sb0s4ejhSTkZLdEJxcS1ZakpNZU9HaGFNdw?oc=5
 - Nigeria’s Big Bet on Health Care (Project Syndicate) https://www.project-syndicate.org/commentary/why-nigeria-is-building-domestic-health-care-sector-by-bola-ahmed-tinubu-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - What Should the Nvidia Board Do? (Project Syndicate) https://www.project-syndicate.org/commentary/nvidia-board-principles-to-navigate-the-crisis-by-dambisa-moyo-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
@@ -206,4 +205,3 @@ Next FOMC decision: 2026-12-09 (22 days away), with new projections.
 - Oceania’s Three Goals for COP31 (Project Syndicate) https://www.project-syndicate.org/commentary/pacific-three-goals-cop31-ocean-protection-by-tina-stege-et-al-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - The Fed's 'Immaculate Disinflation' Strategy Will Fail (Bloomberg.com) https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUJYdloyd3NVVjR5Mm4yd0xYbjV4aHlxd2NpcVdvTVpxWk1jcmxmRjhpbl9sNHRTRFJQRHJMamVQV3Eyb00welR0VXUzYlRMU1Y4R0ttemVLS0o2bnN5MUVOVFZXeTBxUzRYZjMwUjFRcm1SMUo5bE03alJWZmR5ZHpWbHJIaURhQVdIZlQ3d1piWFVkQnI1YVVyWDQ1VkdjLW9TcTBrb1VsZw?oc=5
 - #SpaceWatchGL Opinion: From Space Policy to Space Economy: Ghana’s Next Challenge (SpaceWatch.GLOBAL) https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHdnWkJWR3dUY0lJZ0h0YUdXSFJ3UWthcjU1dHYtbjQ3ZWh5Z1pZNkdlemVQS3dVb0xBQnd3VTVhZUR6RlUyeUIwUUVld3EzTDB1b0R1VkFLWHJCUHo5bHJ3SEVCWGppVm9ZNG9rLTNGaVBvX0ltLWdiS3RWR3hNQjJGVVBMajFaR0ctRml5ZFJoWGtOSnl2b1A5TXp1SjJHRW1Lajh6Zi1rUmNXQmFVYTVR?oc=5
-- FTAV’s further reading (FT Alphaville) https://www.ft.com/content/6f2ccfcd-2711-4ec2-9ac9-0998f858411a
