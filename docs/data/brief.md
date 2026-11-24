@@ -1,5 +1,5 @@
 # Econ Desk snapshot
-Generated 2026-11-24 06:04 (UTC). Source: FRED unless noted.
+Generated 2026-11-24 20:43 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
@@ -9,21 +9,21 @@ Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 
 ## Policy and money market rates
-- Fed funds target, upper bound: 4.00%; change unch.; as of Nov 23, 2026
-- Fed funds target, lower bound: 3.75%; change unch.; as of Nov 23, 2026
-- Effective fed funds rate: 3.88%; change unch.; as of Nov 20, 2026
+- Fed funds target, upper bound: 4.00%; change unch.; as of Nov 24, 2026
+- Fed funds target, lower bound: 3.75%; change unch.; as of Nov 24, 2026
+- Effective fed funds rate: 3.88%; change unch.; as of Nov 23, 2026
 - Interest on reserve balances: 3.90%; change unch.; as of Nov 24, 2026
-- Overnight reverse repo rate: 3.75%; change unch.; as of Nov 23, 2026
-- SOFR: 3.92%; change +1 bp; as of Nov 20, 2026
+- Overnight reverse repo rate: 3.75%; change unch.; as of Nov 24, 2026
+- SOFR: 3.92%; change unch.; as of Nov 23, 2026
 - Discount rate (primary credit): 4.00%; change unch.; as of Nov 20, 2026
 - Bank prime loan rate: 7.00%; change unch.; as of Nov 9, 2026
 
 ## Liquidity and plumbing
 - Fed total assets: $6.74T; change -$17B; YoY +2.4%; as of Nov 18, 2026; Lowest since Sep 2026
 - Bank reserves: $2.98T; change +$19B; YoY +4.4%; as of Nov 18, 2026
-- Overnight reverse repo usage: $0.3B; change -$0.1B; as of Nov 23, 2026
+- Overnight reverse repo usage: $0.3B; change unch.; as of Nov 24, 2026; Lowest since Nov 2026
 - Treasury General Account: $917B; change +$2.2B; as of Nov 18, 2026
-- Repo operations (standing repo facility): $0.0B; change unch.; as of Nov 23, 2026
+- Repo operations (standing repo facility): $0.0B; change unch.; as of Nov 24, 2026
 - Discount window lending (primary credit): $9.1B; change -$0.2B; as of Nov 18, 2026; Lowest since Sep 2026
 
 ## Inflation
@@ -48,15 +48,15 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 ## Growth and activity
 - Real GDP, annualized quarterly growth: 3.4%; change +1.2 pts; as of Q3 2026
 - Retail sales: 0.2%; change -0.6 pts; YoY +6.8%; as of Oct 2026
-- Industrial production: -0.4%; change -1.2 pts; YoY +2.1%; as of Oct 2026; Lowest since Jan 2026
-- Capacity utilization: 76.4%; change -0.4 pts; as of Oct 2026
+- Industrial production: -0.4%; change -1.0 pts; YoY +1.7%; as of Oct 2026; Lowest since Sep 2024
+- Capacity utilization: 76.8%; change -0.4 pts; as of Oct 2026; Lowest since Mar 2026
 
 ## Housing
 - 30-year mortgage rate: 7.28%; change +17 bp; as of Nov 19, 2026
 - 15-year mortgage rate: 6.66%; change +21 bp; as of Nov 19, 2026
 - Housing starts (annual rate): 1,309k; change +118k; YoY +2.8%; as of Oct 2026
 - Building permits (annual rate): 1,295k; change -103k; YoY -8.7%; as of Oct 2026; Lowest since May 2020
-- Case-Shiller national home prices: 2.1%; change +0.2 pts; as of Aug 2026; Highest since May 2025
+- Case-Shiller national home prices: 2.1%; change unch.; as of Sep 2026
 
 ## Sentiment and surveys
 - UMich consumer sentiment: 48.0; change -0.1; as of Oct 2026
@@ -64,10 +64,10 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 - Empire State manufacturing: 7.8; change -17.7; as of Nov 2026
 
 ## Stocks and volatility
-- S&P 500: 6,910; change -265; 1M -10.9%; YoY +5.7%; as of Nov 20, 2026; Lowest since Apr 2026
+- S&P 500: 7,237; change +327; 1M -5.1%; YoY +9.6%; as of Nov 23, 2026
 - Dow Jones Industrial Average: 49,595; change +1,448; 1M -5.0%; YoY +7.2%; as of Nov 23, 2026
 - Nasdaq Composite: 23,879; change -551; 1M -9.6%; YoY +5.8%; as of Nov 19, 2026; Lowest since Apr 2026
-- VIX volatility index: 35.89; change +7.45; as of Nov 20, 2026; Highest since Apr 2025
+- VIX volatility index: 26.62; change -9.27; as of Nov 23, 2026
 
 ## Treasury yields
 - 3-month Treasury: 4.32%; change -2 bp; as of Nov 20, 2026
@@ -80,21 +80,21 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 - 10-year breakeven inflation: 2.13%; change -2 bp; as of Nov 23, 2026; Lowest since Sep 2024
 
 ## Credit spreads
-- High-yield bond spread: 3.76%; change +24 bp; as of Nov 20, 2026; Highest since May 2025
-- Investment-grade bond spread: 0.98%; change +4 bp; as of Nov 20, 2026; Highest since May 2025
+- High-yield bond spread: 3.63%; change -13 bp; as of Nov 23, 2026
+- Investment-grade bond spread: 0.97%; change -1 bp; as of Nov 23, 2026
 
 ## Energy and the dollar
 - WTI crude oil, $/barrel: $89.53; change +$0.29; YoY +47.6%; as of Nov 17, 2026
 - Brent crude oil, $/barrel: $92.94; change +$0.04; YoY +47.2%; as of Nov 17, 2026
-- Regular gasoline, $/gallon: $3.81; change -$0.19; YoY +24.5%; as of Nov 16, 2026; Lowest since Jul 2026
+- Regular gasoline, $/gallon: $3.64; change -$0.16; YoY +18.9%; as of Nov 23, 2026; Lowest since Mar 2026
 - Broad trade-weighted dollar: 123.60; change +0.07; YoY +1.6%; as of Nov 20, 2026; Highest since Apr 2025
 - Dollars per euro: 1.0981; change unch.; as of Nov 20, 2026
 - Yen per dollar: 158.76; change -1.00; as of Nov 20, 2026; Lowest since Nov 2026
 
 ## Monetary aggregates
-- M2 money stock: $23.41T; change +$113B; MoM +0.5%; YoY +5.7%; as of Sep 2026; Highest since at least 1990
-- M1 money stock: $20.06T; change +$94B; MoM +0.5%; YoY +6.2%; as of Sep 2026; Highest since Oct 2022
-- Monetary base: $5.45T; change +$38B; MoM +0.7%; YoY -0.5%; as of Sep 2026
+- M2 money stock: $23.53T; change +$118B; MoM +0.5%; YoY +5.9%; as of Oct 2026; Highest since at least 1990
+- M1 money stock: $20.17T; change +$105B; MoM +0.5%; YoY +6.3%; as of Oct 2026; Highest since Sep 2022
+- Monetary base: $5.46T; change +$10B; MoM +0.2%; YoY +1.8%; as of Oct 2026
 - Velocity of M2: 1.417; change -0.003; as of Q3 2026
 
 ## Bank credit
@@ -136,6 +136,9 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 - 2026-12-08: Productivity and Costs
 
 ## Headlines: Official
+- Minutes of the Board's discount rate meetings on October 19 and October 28, 2026 (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm
+- Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee (Bank of England) https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc
+- Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html
 - Philip R. Lane: Climate change and monetary policy (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf
 - ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html
 - General insurance stress test highlights value of rehearsing crisis response and recovery (Bank of England) https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery
@@ -145,62 +148,59 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 - Activities of U.S. Multinational Enterprises, 2024 (BEA) https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024
 - Waller, Opening Remarks (Fed speeches) https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm
 - Christine Lagarde: Acting in time (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html
-- Federal Reserve Board issues enforcement action with former employee of First Security Bancorp (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm
-- Jefferson, Monetary Policy amid Frequent and Complex Shocks (Fed speeches) https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm
-- Cyber resilience guidance consultation and AI and quantum effective practices (Bank of England) https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices
 
 ## Headlines: News
-- Irish economy to outperform eurozone in 2027 despite inflation (businessplus.ie) https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ea2RkcFZUSVFxNVgzeC1uVzdId2ZLVU4zVjJVMk9ZcnQwbFVpQ0Nzd2FZUTdoUVd2TDF5TGN0dFp0aUwtWDE3ZlBxMWRYMkhPcE5fUW1qOFJYWEdlSmllUUdyTnBwSDZ2RHZOTTVQZUgtQW13QkVCNXVwb3U5QQ?oc=5
-- ECB Pillar 2 requirements shift for most supervised banks; China completes recapitalisation bond sales (The Asian Banker) https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTEFxdmRFbVJRZ01MRWlCZjI2Z0dmcHJhS3cxSE01LWpJMktrYWhBNGRsd2czTFFRQW1MZ19zOFVFWE1ZNjFrTndFNHlCSHJ1M2ZDSjJoY0JLcGduSU9fWXRISmE1UENqVzBfSVVJZUhjZGdadXYwVVZ3VTFHS3FGUXM0Z2xFMmhzaWJObko3cndvdFFhMnVNNDVzdlpnU3FfOWEtVjI2S2dhVzdZd0tNTm5feTdQazg0UjJ6SkJ0cEZCcWxrUDdmcUNHWmZlNjcyV1ZqTFNDWGJsRW9RMHdhZzk2dXFrR1FC?oc=5
-- How Does iShares U.S. Treasury Bond (AUD Hedged) ETF (ASX:IUSG) Track US Government Debt? (Kalkine) https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWYwOThSLXJUS3hLUUM1TWVFYmpjTGlxRmtXMTN3WTFfcFh1amkwd3Y4dV9CSkpUSzNkd1VBVE5qeDNJbS1GQUZVVVY5aV93bWI5bzJNcHR2TkZUSGlOakdCQklscjBKOVVneVVRS0RaUUMwT2VwM19wSHh6RkJEeUVRaWYtaEw4Uks2ci15bG9TT3U5TzAwbGxTbVgxMW9VM2VuWTQzLWNrUWdjdF9sT29ibW1YbHg1OWpN?oc=5
-- FirstFT: Inside Jensen Huang’s return to power (FT Global Economy) https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514?syn-25a6b1a6=1
-- The ECB’s new team faces a testing start – With the skills to match (FXStreet) https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmpnNDRlSWhVYnV4RzZER3hDb3NNYXlKLW1uLXFEd0JXeUpHYXVNSmRLNWJ4T2ZHMGN2NmRKVHB3VHR6RWVBZEk0NUtYd1hOUjBhTVlWZ2JVc2F1cUUyUE9iYzR4OXVQVXNhdlU5YVc2MXJFMVlVdk1OdGoybVlvaXdsUmo1emJQa2ZxQlNaOExhZ3Y3aFU4UkhlcFo4Z25xQWtWelRtR3B0aThpZjM5aA?oc=5
-- France Makes Leading the ECB a Perilous Job to Fill (Bloomberg.com) https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWQtTGFjVGxfcThKcFBOYTlkb0hRSnhUYXlUa2pHZmNtajQtM3FxaFV4U2RQMjAycHBGWDdxX2ZkM19YZTJDYjBGOThCSDZfRnRoS0tveWkyaUZ2UnhRZ1paNFdUQk9uSFA1djFkeDdsbjYtMzMxTkoza3d0S1JxaGJSdHpjRWgyVWtyalFoOUFCMFlyOWN4RDNlay1QMk03Nk9rUlZtSUFKMkpMQWNDYWNlaXhIWTlmWlE?oc=5
-- Pan Gongsheng Meets ECB Officials; RMB Exchange Rate and Trade Imbalance in Focus (BigGo Finance) https://news.google.com/rss/articles/CBMidkFVX3lxTE9oT1NHZmpvZzgwWlVXQXIwVWRpdGtvbmEyc3lfRjRDaTlrUk9xY3d6VFBvU0xyLWF0UEJGbUdzVXktQWxwWFFXb2pDM0t4TVJlNDVDb2hhZFpfbUZNYjU3WmRlbmdVX1NRU25yUWtXbEVzakpVSUE?oc=5
-- 2-Year Treasury Yield Drops 13 Basis Points to 4.63%, Signaling a Fed Rethink (24/7 Wall St.) https://news.google.com/rss/articles/CBMiyAFBVV95cUxNejZkZ2I3Q2RTR3dPTGY3X1VRYzg1NHZ0bC1GMG4wYUoyRkhKMjRCZ0VDTHhBa3BhOXRnUUtNZ1U5aUF4Q3g3VnhzbXR2OTlPR2k3REkwRFpaVVo5dzR1T2VkbVRCdEEtMjJEd1l5VTRNNGhkODl0enVoc0dxcHZnbmhkNDVHTFdfTVZmYzhWZXhNM1pBWGNkejhYd09wckhTcldZUkgzeW1OVHRtTUlDY3J1UnJxbTJrdnlxVHF1R1B4VjlfWUUxaQ?oc=5
-- Federal Reserve official faces probe over blackout period compliance (Forex Factory) https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWtQVE9LMGtRZ09tbzFyUXdVTXAtWEhRRWlBeUhRQlNZM2hGclUwTUMtUm5jSm5EN0VIVnp1VFZvUTU3b012R2NmdnBlTEY5WlpfeWlMejllR1BlOThwdVBub3JnOTJ2dEFYR0QwNGtCc082ZGZjZGIyR2o1MFFPTHBlYzE1MjJnbTJpMTZGOGJiX0UxVGtrLWNBN3ZzMHho0gGmAUFVX3lxTE9weG51dWFtMV9hOFZJZ0NqMzNHYWRnNlBycVUzSXBjMEZ3MjBOMXpEclg4cUs1aXR2X0VhODdWblA4NjVHRHpjQk5mVG5qWkU0Skp2aWctSjNFSGVISWZRenQycTFMY0xicUZmSWFLV3NvRjZUNlgtZ0dhdlJDUEY0cnpFSVlhcV94ZUdMaUVfbEljNkE5ZDJOY2R4UHFCQTVBVGp1R2c?oc=5
-- President Lee says fine for treasury bond bid-rigging not excessive, urges faster capital market reform (디지털투데이) https://news.google.com/rss/articles/CBMi4gFBVV95cUxQanE0a1RWM1lQUXZISEszRmtfdnFvOHp6VzZpN2Q3cjFfOGNtZUdrTlk1d3JLRFlHenhCcl9ManJ0Y1VQZWttYk1FMEtsOHZTN0NXcUVrcWhDaGNsZl82MFhyUGF6Zy15Q3k5VVNaTnRuUW9oem9kRW9CZzFKa0RGQS1XX3g4c1FtZUhfZjc1Wk1iSS1nbHdhYUhOdXRoT2dkbFN1MUl5N0JPVnM2cndOVlBtbUlNTnBZR2JDdjhCMFR2VUFFOWp5S0I3blNjQnlvTVU5bGM4TnNrM0czSFFmZUpB?oc=5
-- President Lee: KRW 1.6 Trillion Treasury Bond Bid-Rigging Fines "Still Seem Small" (아시아경제) https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zYUlkNXBxRzg3aFljRENZOXNOZVlBYXpCdUhjU3hHbVhsV2xodnpka1JuMDIxRjNPZWJsVDZPSUdFR0hRekk3dUo5Y20zZkdNOFFBNHBIWXZURUpkZGJmZGF0M1k?oc=5
-- White-collar jobs set to grow 8.16 pc in 2027; reach 1.38 crore: Report - People Matters (People Matters - HR News) https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3BMbHZvNVlTZkg1Uy1iUkdabFRNd0pybHA2Uk9yejFYX29fZlZ1S2NBU3VLN1FBMmwxWWFnN3NLaktMM3JDMlljZ0c0S1pDN2s4NHhwOUtfRkstVGdPMXFFaGlNZXI4ZzNQdDJxMjU4cXpaS0lYUXJHeGJkb3ZSazZxRXdFWmFpX0xZb0ZfWGlmbFFNdV9HbmpHZ3FWdWRGMmlTbUtzN2VDbHYtMUEzei1iYnRCRjVjSWJ4S3l5cGFFWEk?oc=5
+- A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return (MarketWatch) https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories
+- Treasury Yields Hold Steady as AI Stock Rally Cools; 10-Year Slips to 4.906% (BigGo Finance) https://news.google.com/rss/articles/CBMidkFVX3lxTFBtdGs5VXY0MGp5a09MTVBSTmFGbUNJcHBkaVdjSXBzeFJ6R3JJSG45ZzZ2SDhRbldsSC1tUVcxeGIxNDhaX2JCVlR3c2pLcUtyLURWbF9hTERjOFc3REdQaDdBNkQ5Y0h4MVQ2TlRRUy1FdDR6emc?oc=5
+- I’m in my 70s and buying a new BMW X1. Should I put my only son on the title? (MarketWatch) https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories
+- My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission? (MarketWatch) https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories
+- ECB expands role of tokenized assets in traditional finance (Yahoo Finance) https://news.google.com/rss/articles/CBMihwFBVV95cUxOenhVdGotZUJleDRqU0VYa3B0STM3YnFhellBUjBYWVRpNE9ubE50b3pqRjFadmJmekpOeUIwN1ZmdEV6cUZHS3paZXRMY1dDQmV2UFE1eXV6cHFxM2hrLVpyLUE0dVhHY2dOY0RkcENwSEZWbm13UHE2OTdxeXdoTE1sVmpqYVk?oc=5
+- GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls (MarketWatch) https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories
+- Most Fed Regional Boards Wanted to Raise Rates in October (Bloomberg.com) https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFNldmpiMGd5YzhHM3NRMXFQbmV5ZkE1ZkVXR3liN3RmVHhLdlF2TExubnJJeEM0Vm5NTHJpMlpBSlFZemt6YURLM3I1TFBrcWQzSUtUUGNEX3FiZ2dUZWlCZnl4c0w2SFZQYklPeExXTHNWdVlGYUltbEdvaWJuYUZTSHVRRHA0Rk5rQUN5T0dMVHFnek9vZlEzdlpxYUpEQ3I0ZDJmaUtGQ1VL?oc=5
+- Anthropic’s stock just broke below its IPO price for the first time (MarketWatch) https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories
+- Many people overlook this crucial piece of retirement planning — and it isn’t money (MarketWatch) https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories
+- Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before. (MarketWatch) https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories
+- Visiting Las Vegas is getting too expensive — but don’t blame airfares (MarketWatch) https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories
+- Market Power, Technological Change, and the Post-pandemic Labor Share Decline (Federal Reserve Bank of Boston) https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcDJEZW9BdHhrZlRNcUw4czFLM2M4b1lQZWdacXBycElZY3ZOeGk1UDFuT3FPQlRzNG9ZMVRIem14SDBDR2lyZVpLLVJsQmVlYkFUSWowa3cxcWpubkpwZjQzdmJrZDJlZXdyQWt6UlE3OW9CVTlSaldCdGJRV0lNRC02dUZkTzgxYkNDV0JaUWdwTWtZTGo2Q3hMQi1hWUNQNVpOdUlKNE9sMGczNEJiemZVNUpNdDExN3pHWmpCcVFWZlFLRjJaT0R3eVh6UTNu?oc=5
 
 ## Headlines: Companies
-- Four Jets Attributed to JPMorgan Chase Logged 116 Flights Year to Date, With Estimated 2,259 t of CO₂ (Avi-Go) https://news.google.com/rss/articles/CBMic0FVX3lxTE53c3didWVsOVlBaXgzZjM2cTVJOWdWZmRMSUNUajJKNVpzOHlZQ0F4OUNLczM4cWkwLWMwemhqMDd2N3A2ZDhDdW1fQVd2YXZTdWVKOTEtOXFwUm9YNmg1MGZSdnktanpnSVROa1Q5Tm4yU3M?oc=5
-- Yamazen Corporation 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:YMZNF) 2026-11-24 (Seeking Alpha) https://news.google.com/rss/articles/CBMixwFBVV95cUxNWDVxNkxSeWF2R2ludlNDNllqSDcycUZxV0V6UWFnckpoN05sRmE4djhrdEx0dUptVm83bXkzanNsQkVqckVuUlpKQzJfNU5ERTZEVTR0NUFGNTZ5SllxeVZQQXVGR0Z0OXBLUVJ3YTVOTUpobWVKODJub2JJdVZ2clpNaXRZX2N0eVVuT0tPVE1heXRtaHM0dHVnMm15Z3N1c19YbVgydXdjWU5lVzNHT2lfcmhxU08yOTJhVlZnb0dPZE5zR1Nr?oc=5
-- Goldman Sachs Group, Inc. (The) (GS) Stock Forecasts (Yahoo Finance) https://news.google.com/rss/articles/CBMijAFBVV95cUxPaklpVlUxbVJWSzZpaWlONFBHWGpJSzZHaUpDSnRHZHk4ajR2ckhTRUFfTEZSRkZFZkRBTEZJbUhqTTdmWTNrdzB5Z1ctVUdVbUktQVlXQzhCUnYxNkZCNXc5aExBM0M3enZ1RldOcFVZdi0tdHhTVDdPZHlVNUV2RHF4MUhIam0yNThqcg?oc=5
-- How Investors May Respond To ICL Group (ICL) Stronger Earnings Results (Yahoo Finance) https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGlqaGZjN2RHOUZKRm1kM3ZyRWR5WFlNZ1RPaGJuU1UzQm8xUjhqMEpWOU1uaUprODBLVDdhWlAyQWswaEhMZHhiYmJVMXltbDZTUGJ2VHhnRUJpaWZHOFJVUFlLSzU1LTFObm5jSFNLNzlhTUh4MmpTZGFIeC1KVmJjNnN5Y1lfNEs2eFU1MkJtbU02eFZkcGZBNWw?oc=5
-- Spc Global Holdings Ltd Revises Earnings Guidance for Fy2027 (www.marketscreener.com) https://news.google.com/rss/articles/CBMiswFBVV95cUxQcmI4bGdTVjJXekVfZ3lfblRfLVZPbk0zX2NnU09aeW83MkZPcmpuU0p4NW8zWldBdkFNNlJYTFlZSEVhVjNvRF9UUHo5MEJhSC1fWXlKSVQ4UFhTSFJrOGpMcV9ZOHBLRTRDUW41Rk9JQTZ3YktaZzRHVXMybmNBcXMzcEtHd2xVeURCZzJtX0VIXzJoWHZhQmpFT3FLLXBfSDdPVDNFR1NPOE1rSG1EMWdLVQ?oc=5
-- JPMorgan Chase Financial Company LLC Point to Point Worst Of Buffer Note AAJBJXX (AAJBJXX) (Yahoo Finance UK) https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRTEE5V3lpS2VjSGx1MFc1Q09vWGdzWkk0SkRQVGxoZk9LeGhtcHh4V0EtQml0WW8zdTdkSExkbHFIUW9wSkRHMW9VNXVmV2twWld3dFg0VWt2aUZXUGtHVw?oc=5
-- EROAD Limited Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkwyVGtnbGhyVzk5WG5NV3dwSmVFcy1TeDVZczVJMzQ4NHZxM3NzcnJZVUl3YmFQYVI5RGNtbzVXOFVFWUhidTFzUDJOcy1fVmRDX3h4Wm53WVUyX2tUZ0FpeTA2TGdTNWdIQU5zTHhRN3hoMkM4OVlrcHpoVEo2aWhjSEtnS0tFamFaQjhERF9IMmlhYTJCdmFpT0wyQUJtdDhTV2E3enlCY2pSV09uWGFrQk5DSnBad2dmaUpvNTExMzdiRHBneXVwd29ZUQ?oc=5
-- Pacific Edge Limited Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSFR2eXZRNlIybWJMNzlSOGt4Q0lrWG5KaUM5Vkd2RzB4RTE5ZVJ0N2ExemgyTDc5TXNUT241MF9nRlExNEtlbkJwTnpZX2doaGpxeWlXaHF2Qi1PYzV4djlvNDVzVldCeDVpejFwUG9CUms5ZXV1OTlHOU0xTmUzV2FFZjVtNUVtbzl5YkNfSmFhUWtLX2JJTWZIbGlaeXQwTHY3QmhzOW1wOEFjNjJRVUZfaW1jSWlkVGRidWtKcUVjZFBldVhGWXBwSzJrQThVYlBVY01tTQ?oc=5
-- Nathan Goldman Elected to National Tax Association Board of Directors (NC State Poole College of Management) https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGotdm1kYVAtb25HenFYclktSENtMEo4dk1RTXRhbmJKMzJjZHlhd19xdGxaUVZNYUJ4YXBGbHVWRlB2VWZqNHJSSjdKTGRFaXJBZHN6WVI4V2dTcUJFb1ZaNWdVLWN3UVNWOWRnN2VZOXV5a3hZQTV6TUkwanBGUUNyelJ1TG9uTDRWVUh5M044NjM0eXZrcnMwRXFxYkZDdEU0VHhLSU1PUFVDemc?oc=5
-- Goldman Sachs' Peter Callahan: The Trading Alert We've Been Waiting For — But Does This Rally Feel Real? (The Dark Side Of The Boom) https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnliazU5Smg2N0dQVmRycU52V3FuSURKRnZkT1FENXg5Y0x5Q0R1NGpqcDI1NG1EM3pRR3hlUTVWRDM3bDdsRnRYVG1UeldQVVUwUzVoeDdZME9EZ1BieDlWWFJvWmFLOHZhT0ZGM3NhLXhMZkJVSE9yeDdTUEQyZWl3?oc=5
-- Is Earnings Rebound Altering The Investment Case For Citigroup (C)? (Yahoo Finance) https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUU15bENmRVBVQXE5YTlpd3dKY0Z5MWFlNE8wTXdYMWdzel9sdWV4NlpXei1nb1hSNU43TWNwQzRyS3lpRmVsU3NKa3dodEdLYTQ4dGVHTDZydG8xTUozWjFQN2xIVkk0bDVyMFBfODd2SkdiSUFzaTl3eVpXNUlqN3hibzRNWlBmQWIwMG52ZHBpXy1sOWdXczdUUmdYUjBHTVBCUGFCZG4tUQ?oc=5
-- HPE just posted its strongest growth ever — but its stock is sinking (MarketWatch) https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhyY3Jxcm1ZNEhfdFNUS2p5RTAta1NyTnNGS0tOLWx5UkEwWGpYZm9IeWtQUmVjMWFKeE1kbFRLZURzUTJkLTRhV0t2Q2tURGZzYjc5Mlh1eWFhaEpLWmctTkRFeFR1RGxINGh2aEdlZ2xSX0hKYXNkZThTaEpsT1VMSVAyUmJmX2dscXZSLWJkM3hYQ2ZYejN1akN0UlpqeG5Ibks4alRZTkpsR05Qa3czTnVVT3VvV1dTejFJUU9XNHJvMEE?oc=5
+- Key insights from HPE’s Q4 earnings report (SiliconANGLE) https://news.google.com/rss/articles/CBMihAFBVV95cUxQcW5nT1FQSlFxTmNwNlN3a3JjeTk4dF9yMXl3dGZHbzJ1LUpYQWhIX0FTeVlGS3o2M2NFNElXRXhBMWFKVHRmZGxyd1M2b0V6c0t0MkdZN1pnVmtJdnFtZGJrM05IUTh1VHJyYXdrcDdOcExwWVRUMzFuNHlQUFo4eURMTDQ?oc=5
+- Netflix Buys Seinfeld Studio Lot After Goldman Forecloses (Bloomberg.com) https://news.google.com/rss/articles/CBMisAFBVV95cUxORGduSXhLR1MtRllQa1VHRU5SRV9fSVFKQzBwSEEtLXFwSGppaVNKckRROFBHT25fWFZWeXN2ZXRBUmJfMks5dGV5LWJTR3cxMTlEWmNzNEFZRUZ2aS1oZm9BX29QUk9TRkZRU0hNOHFPTU5BMkdYRjh5dmR1VGhrc3FYQmxCbTlpVFBjWEx6eF9xOVM5NVo3a1hCZ0NZUkVzRkRtR0NULTlfM0EzVUFsTQ?oc=5
+- Goldman Sachs officially takes over Radford Studio Center with $380M credit bid (Yahoo Finance) https://news.google.com/rss/articles/CBMingFBVV95cUxNRGFaNDlMUnJVNGZNWkRGXzlSQkpoaFVvMERZT3VYY2p4dzA2YnhJcjlEbS0tT094ZlRxLUo3NTNlU2k1bGRyZ0xuWkQ4azhDb3hoXzRlNko3dHlPSWRiRm8zZEJULWhmeWJJM0JEWDE0RGNoRDZIZzlHSHpEb0ZEdVZsLS1rRHlDRFdqUGNNZk12Tl9abXkzVkV4MTg4QQ?oc=5
+- Gloo to Report Third Quarter 2026 Financial Results on December 8... (Quantisnow) https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0ZVbXplc0hjZWNpelFzVEVueVJfWUFNSEw0VTROQkZ1UFQzcm1XYmdmVXhxc09PZTZPeFdPZTIyWHB2TUlCaEo4M0F4cng3eDBkY2Y1V3FoTlU5TkN2MXRVVE81dlFjZG0zR20xN24yZkZEa3djc3JlZU9XWm1UZkhNbFJYS004YWhzSDU0V0NIRkpxMmNRYTdUNVdOSXVoVmRzcHNzRjhEZw?oc=5
+- MAMA earnings (Quantisnow) https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT1RkTzYzclBTbGlQLVNmQy1pQzI0eHhVNjNZbF9OdTRpOHdvMGI5a19xLTBoUTZpTFAzdjNsNVdOM0RQR1ZLM0hDcFF0N01HT2c?oc=5
+- Goldman's Daan Struyven: We estimate Middle East crude exports are back at 2025 average levels (CNBC) https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRm0xcVhwUUlSVWFuZGhVR0N5cVBUUm9VMl9Ld3VmMi1rZ0NhS2c2eTJ4VERNNlpLY21OQ2l1T2ZENDRkUDJKa3NkU0h1NFF3Y25XNGt4cS1FZzYwQTY3OEdub2c5UnpnNml2aWVlak16azVLQXRWUS02NTlVa2JISzl2SzJxOXA1RDdkbTlxalJKREVySWsxQ2lUZlNmd0JydlhVblg4T290dUh6SzByQ0pnZjh3dEJfdkFIaW5wNy15Ujd4NkNFYlRFcExLamtI?oc=5
+- Retail turnarounds are taking hold just in time for the holiday season (CNBC Business) https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html
+- What's Next for Bank Of America Corporation Shareholders After 4.76% Stock Drop? Glancy Prongay Wolke & Rotter LLP Explains Securities Fraud Class Action Lead Plaintiff Deadline (Morningstar) https://news.google.com/rss/articles/CBMi0gJBVV95cUxNOE5RWGRiNjBib3BidVVXTE9MQmZpN1FKZmlsdWRKR25wU2E2TW1RZFhxWDBlMDQycEhuaVBQSE5uZjJHODNXMTV3Rlo4WnFVbm9BNlJEeTNCSjFfa0FQOHVKRFRCVTYwUGpoeFF6NGFYQVA4NHg4Vk5jb0E0QTRnUlBudzZBclNCaUwtUGI5bEhzczYxVUgyWXZBX256d3Bzb1RKaDhDMHBuRnRkWGMyRk1yUS0wUS1MekZndmtkTTV2elpKSVZiMW1yZXZIek1vNlJ5SkdWVVBLZzhvYmNCa3Nla0gwTG9VWnlFZ3AzRzdmdWlUWmM2VXRTVGRyLUgxcnZIUVcta2RqR0EzNXQ0RHZFNW90Y29OanBUcTFLQ1pmSk5WdC1MU3Y2SEJLcklZOEVqYjQwXzlYU1ROUGVTQi1SVXlwRXdyTVNnR0kzUi10UQ?oc=5
+- JPMorgan’s Bruce Kasman expects the Fed to hike rates at its next three meetings (CNBC) https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3ppMC1lX3NDS0JocVFuT3p1Ty10OVR0N1JXTGYwUUh5bkkwLTFHX0JMcXJUaE05b0pyQnVGdXA1cjhHSURjdVlwaFFjMTNVdXZNZUxza1NzWWpzdlRnVldjYjA4YWZzek9SclRvenVUbEF6N2tyNUNUcUZsalBfY2lqNDNNVzJZeTJxanIzM08xeHJZeV9VS0Fn?oc=5
+- Ex-Goldman Banker Says Bribery Bars Heiress' £40M Claim (Law360) https://news.google.com/rss/articles/CBMiVkFVX3lxTE96dWQ4T1p1NTJhazRSd0J4LW9VN3ZBcHZ3bkVZb2pSS2ZxVzNZSkFlQzNxSEl4LTI0TlVxTzhndGxWMndoWXpTN29sdHZ2WkVRaFlGZXB30gFWQVVfeXFMT3p1ZDhPWnU1MmFrNFJ3Qngtb1U3dkFwdnduRVlvalJLZnFXM1lKQWVDM3FISXgtMjROVXFPOGd0bFYyd2hZelM3b2x0dnZaRVFoWUZlcHc?oc=5
+- Reko Reports Sales Growth and Improved Earnings in Fiscal 2026 (Yahoo Finance) https://news.google.com/rss/articles/CBMioAFBVV95cUxNV25vTWpBZWQ1WDJxMUo3NXRhR0tDVGdSbVU1U0ZkSnVEZmR5d3huZjNjbG5KYlZ5WnV0akNPYWlkekxJM193eTM0ZVZGZWdoUzFybXNUdnJNT1g1ZHRnOTU1LUI1N3lLR0stTGlJOS1SX19NSzg3TzNHOE5FRFUybDFoeXoySVJqbXJ3NzJhX0ZyOEQtSUhUQTBVbndGLTVr?oc=5
+- Dell’s Earnings Are Expected to Surge. The Stock Is a Tougher Call. (Barron's) https://news.google.com/rss/articles/CBMidkFVX3lxTE55MEZwd3dvejJKRkJhZjk0SkJuUDBNTTJudWNnMHdmVWE5Qk1MUUVpZ3pmQi10WG80M3NqRWZEN1kzWWlTUWVZNU95MWRjVVRacHNQcWp1SFFNLWl6MEp2YkFqMFpza1hpM1NiUU5hS2hWWXZNZmc?oc=5
 
 ## Headlines: Research
+- As Corporate Bond Markets Grow, Is Bank Lending Shrinking? (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/as-corporate-bond-markets-grow-is-bank-lending-shrinking/
 - What Do Foreign Trends Tell Us About Future U.S. Labor Force Dynamics? (Liberty Street Economics) https://libertystreeteconomics.newyorkfed.org/2026/11/what-do-foreign-trends-tell-us-about-future-u-s-labor-force-dynamics/
 - FEDS Note: Europe’s Natural Gas Outlook for the Upcoming Winter 2026/2027 (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/europes-natural-gas-outlook-for-the-upcoming-winter-2026-2027-20261120.html
 - FEDS Note: When productivity booms, do interest rates rise? (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/when-productivity-booms-do-interest-rates-rise-20261120.html
 - FEDS Note: Increasing International Interdependence: Global Supply Chains and Cross-Border Macroeconomic Spillovers (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/increasing-international-interdependence-global-supply-chains-and-cross-border-macroeconomic-spillovers-20261120.html
-- Can sustainable finance save the planet? (BIS central banker speeches) https://www.bis.org/speeches/20261119-can-sustainable-finance-save-planet
-- Industrial policy - redux or renewal? (BIS central banker speeches) https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal
-- AI forecasts GDP as well as economists (BIS central banker speeches) https://www.bis.org/speeches/20261119-ai-forecasts-gdp-well-economists
-- Made in Europe (BIS central banker speeches) https://www.bis.org/speeches/20261119-made-europe
 - Economic activity, prices, and monetary policy in Japan (BIS central banker speeches) https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan
 - Governance - the cornerstone of a credible financial sector (BIS central banker speeches) https://www.bis.org/speeches/20261119-governance-cornerstone-credible-financial-sector
 - New technology, old questions: productivity puzzles and the macroeconomy (BIS central banker speeches) https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy
 - The customer at the centre - building a responsible, resilient and sustainable microfinance sector (BIS central banker speeches) https://www.bis.org/speeches/20261119-customer-centre-building-responsible-resilient-and-sustainable-microfinance-sector
+- The Deutsche Bundesbank's 2026 Financial Stability Review (BIS central banker speeches) https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review
+- Opening remarks – Central Bank Governors’ Roundtable (BIS central banker speeches) https://www.bis.org/speeches/20261119-opening-remarks-central-bank-governors-roundtable
+- Navigating new economic realities - Europe’s outlook in a changing global landscape (BIS central banker speeches) https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape
 
 ## Headlines: Opinion
-- Opinion | Republicans are flirting with a leftist tenet. They need to rethink. (The Washington Post) https://news.google.com/rss/articles/CBMirAFBVV95cUxQdnBlTHBCUjJHRjk4VE9zaGhOU3FNSldRYkxMeGY0SHNDNHIzOS0xY2llamU5aW9xdmZ4NFg1WnIyX1g5emQyZEVNNGlOV0hEd1JzR1F2Vm9WYUFjNG1EMTJqQ1pzS045SlZVRWdYZDBOWlZ3VUdDN1F6S0pLTElWZXhHOUFKMlZWR1JlelNFZ2VmUkZYb3ZhbldZdTVhTlJEaUdlc09OWHllazQ5?oc=5
-- Opinion | The streets of Europe lay bare the biggest economic risk (The Washington Post) https://news.google.com/rss/articles/CBMimAFBVV95cUxOd09GUTNnd0NGM2VsMEZQVnZ3bHowcGZsRFFSWHMtUzBHNmU4TEdHdXdMU2w0cEF5WUFDUENUa3RXWTRIU1Q0RmV4T3dyeGNyOHJpNXdxWVQ1NF8yOUF5Zm5RRGFtNVBaSFNGeGs2a0JZbE9nNW5kVFY2dEFXWm1XOVFBMDFFTGlQY1dtWV9qLXVVNDNNMURneQ?oc=5
-- The leveraged short Nvidia ETFs have just blown up (FT Alphaville) https://www.ft.com/content/6a18ca6e-e85a-4f07-b8ff-08344b982609
-- The Achilles’ Heel of Emerging Economies’ Trade (Project Syndicate) https://www.project-syndicate.org/commentary/emerging-economies-must-identify-achilles-heel-goods-trade-by-nick-leung-et-al-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- SpaceX’s big bad Black Friday bond hangover (FT Alphaville) https://www.ft.com/content/5ddc1453-026e-4adb-a5eb-950e7d666abc
-- AI Agents Could Make Big Tech Bigger (Project Syndicate) https://www.project-syndicate.org/commentary/high-costs-of-the-emerging-agentic-ai-oligopoly-by-max-von-thun-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Hiring: Nvidia Chief Compliance Officer (FT Alphaville) https://www.ft.com/content/81511d01-2a10-46f1-8eda-ee74aae4e7cb
-- If the AI Bubble Is Bursting, the Fallout Will Be Severe (Project Syndicate) https://www.project-syndicate.org/commentary/ai-bubble-why-fallout-will-be-severe-by-desmond-lachman-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Is the solution to survey problems to make up the data? (FT Alphaville) https://www.ft.com/content/771104b5-1c74-42e4-81a5-cc30bcbefb02
-- Warsh's Call for a Quieter Fed Falls on Deaf Ears (Bloomberg.com) https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFhiS3lLcVRCbEpTX0lZaGVTbDlrakpvMWZ0ZUJGRmRTdnRVb3luY09zbVFJZUIxZGd5TGtGdjhmZEVRT2d2UkVqMm55TC1mWFRORUc0Vkc2RnNDTDd0YnBsbF9WNWMtem04c2JyLVFKYi02VFF0aDFoZ1dKaU1PVmRtdFNhbXdXTWZ0Z29zOUZhNWNfMEZJRXcta2Vrencxd29QaEFBbzFma285QThJdzIzN1JSY0U?oc=5
-- And the FTAV chart quiz winner is . . . (FT Alphaville) https://www.ft.com/content/f6d92fc6-cc55-40d4-98ed-02d93d76f637
-- FTAV’s further reading (FT Alphaville) https://www.ft.com/content/e72d4946-fb72-465e-a9f2-92ee4391d099
+- Holiday 2026 Reading List (Project Syndicate) https://www.project-syndicate.org/onpoint/holiday-2026-reading-list?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- The Summit of Self-Promotion (Project Syndicate) https://www.project-syndicate.org/commentary/shenzhen-summit-xi-trump-putin-did-not-achieve-anything-by-stephen-s-roach-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Why Nvidia Couldn’t Quit Jensen Huang (Project Syndicate) https://www.project-syndicate.org/commentary/why-nvidia-reinstated-jensen-huang-by-s-alex-yang-and-angela-huyue-zhang-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- AI could make the economy grow yet still leave workers behind (The Hill) https://news.google.com/rss/articles/CBMijgFBVV95cUxOdURjdmVjMWw4T2dVTUtQcTQ0ek1TTlk1Rk9idnY5OC1NUjU2YXBLY3dUUm1vTzNpa3JBV1lCNlF0UGwtZjA1NVN6cG12MEU3VlJwTGxsQ0xSbW1VOGxHWXY0MjBnVW80akRqTGMyYmZJWmdzRllVU05rWkFGNlZyMUU5Z0tLbmJWUkV3ekx30gGTAUFVX3lxTFB6M1dDSFJtRER1bUM2b1hfdG4tZTl6Z0gzUFFHQmVBZzNMUkFjYUtlUGo3aGtoVVFFN3ZfSm1VVUpWSVdYaHAyLS1lTXZLRVpXVGQ4RFdsSlF5RHh3R2E1TS1XSkNZUVI4TXY0ZGlPVE1uWXRreFFrVFY3LWJPY1dqYXd3LW12TXRTSVd3MjNpSTdrMA?oc=5
+- Black Friday Sale Now On (FT Alphaville) https://www.ft.com/content/d7a7b7e3-9fe0-45f1-ab12-479b28d509bd
+- Chips Too Big to Fail (Project Syndicate) https://www.project-syndicate.org/commentary/jensen-huang-return-to-nvidia-shows-ai-firm-too-big-to-fail-by-harold-james-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Amplifying the Voice of Human Limits (Project Syndicate) https://www.project-syndicate.org/commentary/europe-should-lead-in-ensuring-that-technology-and-finance-benefit-humans-by-bertrand-badre-and-florian-ingen-housz-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Making the Most of South Korea’s Semiconductor Boom (Project Syndicate) https://www.project-syndicate.org/commentary/how-south-korea-can-use-semiconductor-boom-to-strengthen-overall-economy-by-lee-jong-wha-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- BlackRock wants to launch private market ETFs. Because of course it does (FT Alphaville) https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9
+- Is a Financial-Market Reckoning Imminent? (Project Syndicate) https://www.project-syndicate.org/onpoint/is-a-financial-market-reckoning-imminent?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- Be thankful. Turkey Day meal prices are steady | Opinion (The Palm Beach Post) https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXdkel9kbXNyT0JaRTdZVDZrRGotU2ZIMWtITkU4bjRyZENrcTdNN1FWdWhHSm9sYW1vbjFCNFpldWNHZFY4enpCM0ZxR1RDY0diSXE2SWtRZk4wdVh1VHFYZkRwUW5hcE02QTBhNVpvcDQwMmtrd2theG1hdWI3LWRKSDdNUHBxN18wQ2FxcmZHLTRfdUtfeHhLSFk0eUdxRWQzTVVXV0VkZWZDMThwVU1LWFJvTVVFUFY4T0l6bWxySFlJSEpxUjh3?oc=5
+- The African Union’s Elusive Quest for Security (Project Syndicate) https://www.project-syndicate.org/commentary/how-the-au-can-improve-security-peacekeeping-fulfill-ali-mazrui-vision-by-adekeye-adebajo-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
