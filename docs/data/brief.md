@@ -1,12 +1,12 @@
 # Econ Desk snapshot
-Generated 2026-11-24 23:15 (UTC). Source: FRED unless noted.
+Generated 2026-11-25 04:53 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
 - Effective fed funds: 3.88%
 - SOFR: 3.92%
 - Reverse repo rate: 3.75%
-Next FOMC decision: 2026-12-09 (15 days away), with new projections.
+Next FOMC decision: 2026-12-09 (14 days away), with new projections.
 
 ## Policy and money market rates
 - Fed funds target, upper bound: 4.00%; change unch.; as of Nov 24, 2026
@@ -66,7 +66,7 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 ## Stocks and volatility
 - S&P 500: 7,237; change +327; 1M -5.1%; YoY +9.6%; as of Nov 23, 2026
 - Dow Jones Industrial Average: 50,019; change +423; 1M -4.2%; YoY +7.7%; as of Nov 24, 2026
-- Nasdaq Composite: 23,879; change -551; 1M -9.6%; YoY +5.8%; as of Nov 19, 2026; Lowest since Apr 2026
+- Nasdaq Composite: 23,734; change -356; 1M -8.6%; YoY +3.8%; as of Nov 24, 2026
 - VIX volatility index: 26.62; change -9.27; as of Nov 23, 2026
 
 ## Treasury yields
@@ -112,9 +112,6 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 - Everything else: 55
 
 ## Calendar, next 14 days
-- 2026-11-24: G.17 Industrial Production and Capacity Utilization
-- 2026-11-24: H.6 Money Stock Measures
-- 2026-11-24: Nonmanufacturing Business Outlook Survey
 - 2026-11-25: Debt to Gross Domestic Product Ratios
 - 2026-11-25: Gross Domestic Product
 - 2026-11-25: New Residential Construction
@@ -134,6 +131,7 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 - 2026-12-04: State Unemployment Insurance Weekly Claims Report
 - 2026-12-07: G.19 Consumer Credit
 - 2026-12-08: Productivity and Costs
+- 2026-12-09: FOMC decision, 2:00 pm ET, and press conference, with new projections (dot plot)
 
 ## Headlines: Official
 - Minutes of the Board's discount rate meetings on October 19 and October 28, 2026 (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm
@@ -150,32 +148,32 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 - Christine Lagarde: Acting in time (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html
 
 ## Headlines: News
+- Treasury Yields Hold Steady Ahead of Inflation Data (Demokratis.co.id) https://news.google.com/rss/articles/CBMiakFVX3lxTE1SdGc2MV9XeFJpY19UY0cwMnc0UkNIVkhfM1ByR1R4VUduckNlQWFKTV96ZlpIMU1VMWcwbmJDZWJ4dGlUaC0zOVc4SFF0cmVLeTZWcWZXZjlQb3NidndwN1JGaGlZRzJpR2c?oc=5
+- Treasury Yields Hold Steady as Investors Await Inflation Data (cwibc.co.id) https://news.google.com/rss/articles/CBMiY0FVX3lxTE56MzFXUjFUQXBuNzh1M0YyTkVQeHc1cDRNcndQempENHh6b3h4QVRHMG9Yeml6UXdNUWRZUlVoQ2x0aHBLMWVvMXhXbWFydjNWQ01CLWFBb1FpRzMzT0lwOWp1TQ?oc=5
+- ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast (CNBC Economy) https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html
+- Consumer confidence rebounds with better-than-expected sentiment on jobs and the economy (Scripps News) https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzVKeHFWRTdtZ185Y2d6RTdEOVdtUURwR0JvM2VWdnBSZmpFN1lsM0JTQ1p0NzhoQW9VRUhGaEZVSkRtTGRLYjA5amZ1R193YXdrdGZvQXJMVDBwMkRqeklBSXo5REFmRU8weHA0NWxobW0zT2MyVE1wRzdNTGwtTDJ2YlZCMko2SnVVeVJBYXBLNktiYUVrdkxXTzFDM2lwWXNldERVaDBNVlFiUnI1M3Z5N3pSUDhIQ3prVFY3a0FFcVp2TElKQXY1TkhHUQ?oc=5
+- Australian inflation heats up in October, core hits two-year high (KFGO) https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVd6R0JQMDB1VFQ4TXBjak1OcGhlc2pnU2cyR2lnall0MWlrR2g2cXFPTEtnM1BiWF9iQ2ZfdFZlUDFVOXZZeGdxT1RHZFNPSGo3Wll6US1yREJCUHg0VmlfOUxDdTFVMTBXMGlYVnktRW5JYlM5bG8xUHN5dWx5Snh6bDItWE9uaS1wbWZoTUFiWVY1VWNrbQ?oc=5
+- Eight Regional Fed Banks Recommend Raising Discount Rate, Wall Street Institutions Expect the Fed to Continue Raising Rates (NAI500) https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZFJHcTMtbnlKZV9uYm5kb1M4WmZScVJndnRFdkUtY01VTV9xa1paclBWb3c1ZjRxbTJkelUtRTJpX0lUbjRMeTBUTDU3S3JOUGZkTkRDUHkyM2VxczE4Z2J5YWQwT1pxajZjUW5XR0JKWHExOW1JLVZvZk9mdl9lOFVTR0NKdW1NYVYwalNyUzNwemRsTGNDSk0waUQ2SDRBajhXbnN2QmZ3Q0xlMFB6Ylo3TjcxVUhqUkRqX2NCT0ozdnpIN3p4SUZEeS03MTVvSDU4T1NheGlXWFJsUzkyX0lxTlR0a3JkTGNB?oc=5
+- I’m in my 70s and buying a new BMW X1. Should I put my only son on the title? (MarketWatch) https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories
+- Dell’s stock rises as the AI boom helps sales more than double (MarketWatch) https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories
+- Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies (The Guardian) https://news.google.com/rss/articles/CBMikwFBVV95cUxON1NTaWoxaXBTS1JIQ0hCQm9vMnhJWnZYeXVwSWhHU0ZISXhfS2t0b0VIZEVVcWc0MGlha19ld2pTYVc1X20xSTRSSmlQbV8ta29TMzU4WUdVOEJfcGZVbFo1WmZKVzF3RXFfVTFNbXVPcFVzM19KN0VGSFRkMlN3Q25UT1d5dlNTRHEtbVZWZHRKS0U?oc=5
+- My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission? (MarketWatch) https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories
+- The 10-Year Treasury Yields 4.92%. JPMorgan’s Income ETF Paid 5.7% Over the Past Year, BlackRock’s Paid 6.06%, and Neither Has a Maturity Date (Yahoo Finance) https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1dGWjNXYkVFemRNa1NGSTdudlVKOUY1Ujl6OVhkRnJGclBCTGM4SHB2aElhZGNyTUViSThLUnFDS2pqdkMzSEIxQ1Y1OElXTkN2TUNaYThTTmVPUUdYaFZUSm5TN0lFVGY2am00VWFBeGhudmdnMGU4aURGb2I1V1habWdRVTV1RTlFMDlMeS1iT2c?oc=5
 - Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows (MarketWatch) https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories
-- Huawei convicted in US trial that exposed corporate espionage and sanctions evasion (FT Global Economy) https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1
-- Euro rebounds from a 19-month low before ECB minutes and US inflation (FXStreet) https://news.google.com/rss/articles/CBMisgFBVV95cUxOOU5CcTdfS3lVQTNGa2pHSHVtX1ZMWlJKakN1Y2MtUDE2OEkyUDZDZ3F6YXV4STd4MkhXSjFCQVdTbnYtWGJZazI5ZUNaT0JyRWZyTnRXUklzNW9uWXZKUUZ2RE9rVEViYVdGXzFRLWNVRzZuaDl2Z3NpZWQ2N2lpcW9WYXVFSjRCMGRVYkJCVDBFb2xqamVpRXlvX3gyUE9vR0JmQjVTZkw3VGZ0aTBMMUNR?oc=5
-- Data center construction continues to support U.S. manufacturing (www.marketplace.org) https://news.google.com/rss/articles/CBMiogFBVV95cUxNSW1CN3dvYkZpaDY5Q004RzNNTXJjY3FQUkNyOGxsTjFDYUtPN2xOdkNQcExrUVZQMUZLbVVEQ0RBQUpuM0xZcjA5MGViZTZzRXRHVGs0bUkwTktKYTFFdE1FOU1NX3J2eGs0bHRHTXV5XzJtZ3pGUTQtMUFhanlta3Z5Y0NhZmtsTE14cUdrakZIM09IWUg1NjVicTJlLVRGeEE?oc=5
-- Texas jobs up 1.1% in 2026, says Federal Reserve Bank of Dallas (HPPR) https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXVEb0tjWjRYUjVQcXRCU0w2ZXpBeGxUMk9tdENHemQyc01RTnhVSjRwREsyR0pkZXJkZVhnUjVPaWNTN0sxcThqWVJzVFMxRVJwUFoxQmdxZDUxV0YzTjBoNk9LMjlLMlcxTWRPRmJzS3lPalEyeGY0b2VzT29mMXl5cHlFRTlIQXFqRTA4TEQyZGU2cGdoYmFPOU1XTEdyNjVqZkNB?oc=5
-- Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report (Kitco) https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2lqcG5YQlM4N3pRZHUyQkIyM2ZCZ1FLTE9ZTzNLQWNCRkxzdnFZS2VFcHVUY2Nfcjc2TzFPaV83WXNKUzd0SE5YZVZUYXYyMF9nbzBzamo2MjB0M2hUQkRQRzBUTk5wVzBPbU01ZFU0TFhyZktReS1KZ0E1MjNySU1JcHhsaTB3QlFUeGVyRzcyT01xMmxXejJzYW5BcmtJcG13SGFMZ3VKZjM1SmZYV1JFSGttM3l3NWpucw?oc=5
-- FirstFT: Huawei convicted of fraud and stealing trade secrets in US trial (FT Global Economy) https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1
-- 12 days of sardines and Croc charms: Are Advent calendars getting out of control? (MarketWatch) https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories
-- Anthropic’s stock just broke below its IPO price for the first time (MarketWatch) https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories
-- HPE just posted its strongest growth ever — but its stock is sinking (MarketWatch) https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories
-- Consumer confidence rebounds with better-than-expected sentiment on jobs and the economy (Scripps News) https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2tFT1VjZllZRjVGUVpoTDdpQzJ5WnNPU2tUcGxFOUpJd0drdngwR2lkN0YzMDFxelM5R0VBVzZSZWlHNXh2QWJtSWh4Z3BjS1NQM1J6b0I4dTVyVnpIMjU4OFlSd3FVWkhoS0xXb0hQU3p6U2ZPTFhXWkpnNF85U1I0b0gwTTBkdWN6VXpvM1cwNDVrbW9URXJzc2M2eDdkemRlN01pVHFZZVhBd3dkSFVERUlQZFpuemk4U1VJelNNaDFFV2Y1RmZsNWdOdjk0TTlmRVdSaw?oc=5
-- How much more are richest Americans spending on the holidays compared to everyone else? (MarketWatch) https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories
 
 ## Headlines: Companies
-- Inflation, not markets, is driving Fed decisions, says JPMorgan's Michael Feroli (CNBC) https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3hXUTZHU3dCY0FLT0RCQ0FiT2pET0lZdWpQTkFDQ0p0ckNDdnB1RWZvLWZaRG1BUzdNY2h1WkVBRWZXSWp5UUcySzNsVndzemp0WGR3RHhFeUh1a3h5bjl1R25HaGFHNmpxdFFjaEticE5tZmZ3WkZrQlk2QXNoblU0d25DNm1ZN0N6WUpqblFKQ29DS2l6UHRlWGpMQ0hRbF9WdVMwNG9vQWprTUhfREkzRQ?oc=5
-- Autodesk Boosts Guidance as Construction Spending Drives Revenue (WSJ) https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUhFaWp0MXhPTEg0c0hPUUNkcktHM2pXbjJCd1ZfSGVFaGEyWXFlb0RvZzU2c2hUN0c0TG1Db0JlUy13a0luVUxBTWZhTjF3QnBqT0xRQ3JsRWhObWlMck8wbHdvS0pneTIwS2pkclpLblRDNjhZdDNZbjg5dXdMRGNBZi1tOUZNeDRsZ2hFb19aT1VqQUFsRG1wZlNnWndvVmNoY2ZuSmkxSnZsektfOQ?oc=5
-- JPMorgan's 8,200 S&P 500 target for 2027 sits below peers as Fed risk tempers AI upside (investingLive) https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2pnZFZfMFJrNTcxM0dieEo3aW1CYV9kbGxuTDhmZi11NjFoU0JkV2liSy1YcUdjMzc1TTNGNU9tV3d2QmhFMGVTVHdNWkNOcWw5N3lmYjRFTC1nb3haUTV2Yl84aTJ5YzdxaFlGbVNoYWRPTGktUGU0azZQY0swR0lZOUdkanlkXzFDR1ZHWU4zOHREYzBJSml4QTFWYWpHMTM0ODE0WEtoS2hYZm9EOEg2a3NsNXBjeUFvVjlBeFVKNnVnNC1tLVZ1MDJDcGc?oc=5
-- Qfin Holdings Announces Third Quarter 2026 Unaudited Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxPem5EY3dZQ3NZRFFIQnZYSVlTY3REZEJjODV6NDZLb1hEdFhLdV9IeFdkeFVrdkxWam01YldZVjdDWmFqSG9HbGFmeTd6UnRKM0ctT3c0OG1lcEtSQmZZdWR4YVRVSEtiWXBMdG9sanhqa1VmZ09jUDVJUUl5dnB0cTczem5sZW5qN0N5OTdEemFTaEcwMFpzU2RLWUhrTFFLaTdpSQ?oc=5
-- HP stock reverses course after hours despite quarterly results beat, dividend bump (Yahoo Finance) https://news.google.com/rss/articles/CBMimwFBVV95cUxNaERld1NLd2EzNUJRRV9mWGtLVWN4ZVhIeUlxcEV0a0VaMmhIWVdjWThzMENXVGs4c3MtSE1ZbTJFYlhlb3pkR2U5UmFCWlp3Q3NaalBMTzNqY3NVR0d4RU5oTFBVTnF1RTZsWnIzSzBZcFVGQm9hbnRCU1dvRmEwQ2JKc1RYTnZfSjJ2eTlTYWd2d3JGZHNlbE10TQ?oc=5
-- HPE just posted its strongest growth ever — but its stock is sinking (MarketWatch) https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhyY3Jxcm1ZNEhfdFNUS2p5RTAta1NyTnNGS0tOLWx5UkEwWGpYZm9IeWtQUmVjMWFKeE1kbFRLZURzUTJkLTRhV0t2Q2tURGZzYjc5Mlh1eWFhaEpLWmctTkRFeFR1RGxINGh2aEdlZ2xSX0hKYXNkZThTaEpsT1VMSVAyUmJmX2dscXZSLWJkM3hYQ2ZYejN1akN0UlpqeG5Ibks4alRZTkpsR05Qa3czTnVVT3VvV1dTejFJUU9XNHJvMEE?oc=5
-- Autodesk shares fall despite Q3 earnings beat, strong guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1Vxd0t3eFdWOGFzTnIxdFVEbTJjek9uaTRhVVJNeFRpWnRhQllSRDNJYUVVbFhvMlhkcGhYcnZZTXhRbEFQbXRzRTN5Vk1MeFVXcEpMUjlrajhZNTI4Qmd3SENjSi1iN0JKZE1ZMzdia2tkRHBjenJZX1RnS2w1QjFOeTBsVkNWNlJjbmRnRkIxMTBMcUdqMlVtY3I?oc=5
-- Smucker releases Q2 FY2027 earnings results (Commercial Baking) https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQlNVMWlfdlAyY1lfclhqSXhPWnF0a2V2dTlWblE5c2RNbHJ6V2U5NEhPQ0s4REswNlBORzBwQXc3NEdYLVd5NmJCa2tTODJnMTI5MkNSMjNiRWlLS0FyVWxFQm02dHZOSTFLTUNwYmNfcGtpcXBZUUJWM0Fmdw?oc=5
-- Goldman Sachs Group Inc. stock underperforms Tuesday when compared to competitors (MarketWatch) https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSlhiR2hTb2daSndaS21xcDl6RDlUd0NaUGM4dDdzSzQ3d2RZMUc1Vlp5VnAyQ1RfeXFCMzdkSjlsUFJDSFF6TWRiTjJTU0k5ekgyNFlGX1pxTU1ubHB1ZVFuZ2hHQUF5M0h1RDVSbzdlaVdpYURKSGVXeTZOdkxIdldXMHRjbVVOa1Z4VkVEQ2h2a00taHM4eUw2Sldtdml5YlZneDY0MWNHcjAzc2Q0YjcyN1hBbkdSOE92NzlMR0QyT0FpZEgwbVowYml6TWZvVUl0dVVaZXhyN2RfOUd5ZE1Lc05seklBY0RHeV9zYw?oc=5
-- HP Offers ‘Prudent’ Guidance Amid Rising Memory Costs (WSJ) https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlZHNU1nUDNxN2FlNkoxa2hTakxDSDM4cXFvSkY2d2loOUtsdEFWNjBoTG90eWNZeVhKVF9QUnRCV2hPSVRhQnAwYTBsWU9xRWktSzFpam1QeXRrbTFTeU5IZzlpWkNpam9Ka0NoRThnUlpENXdYN3I4VC10NDNYOGV6aWFEcUpVMzE3REM2RXNEdncxal9zRlhMQVYtRms?oc=5
-- Dell Lifts Outlook as Revenue Doubles on Server Demand (WSJ) https://news.google.com/rss/articles/CBMiowFBVV95cUxObk5GZm9mdm5WV1hxX3JqcnkyeEdaWTdPRmpuUnRvQ3NDSnQ3b0VXbEFUMjNXQVpGQ2dZRlJWTzczbzZsbHprRHFpUzhadnpUQU5GRlppYU01MkV2RzV1LTJVcnNvd3ZCSDhpdHlqTU5oMjJvLUwzTGNTR3Y5VlRvc29IdnhtSUhKQ3NOcE1NNjl5ekFqeng1ZHJ2QzRCTFJTbXJZ?oc=5
-- First Horizon Corporation to Participate in the Goldman Sachs 2026 Financial Services Conference (Yahoo Finance) https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmxnc0V6S0NYVWlXWUZ6S2xDRGNEYnhZOHlGZm1hc0dUZ2QxRndLeVk2bXBGYWtjVFh3Yk9xOHRHWWwwaHRYdkUyenEwbG92Y3A5d0NoWXR3bkNXeE00QzNvV2dubmdnMlVWcDZJa19tcEpKSWNBdEFVMk5NS3lCRUsxdXVWbEpER1NjVGxOUm1kMk9sd3ZqZG5KX1BzZXFlR3hvZzZfdHBsR1FYSDd3?oc=5
+- Goldman: US data center power capacity to grow through 2028, adding 52 GW (BigGo Finance) https://news.google.com/rss/articles/CBMidkFVX3lxTE9lcEtmRGE2Vnd1aldEWGhLLWdZSG9SWmlCcGFQMVVnYmZpRnVNSUxjYkFhT0RaVDVDNG9IRzlndDQzMWhQWUlRSU92QW1fTzRkb2NYRUdZMHhXWGNhNTdackE3STZUYXZlZnoyQTZOUk9YdHFXeGc?oc=5
+- Goldman says US data center boom through 2028 will lift power and gas demand By Reuters (Investing.com) https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGZZbFB3cGNzWk5Sdi1XbFdxTVlxeXhyM202NFMwcjFKZXJlcTdIYXR1SVB5OUdiSnk1RnJJMFhTUzV2OTBYTG8yY1RIcURscHgwdEk1RDFySnFUMmVQakU4cGxfTnRWX3c2VUV2SUFQUzZlbnZnNVNKdzBPS3BpUWtnLUxkRlJTbFNpamN5RGw2OGRDekJqWnZMQ0p3WXdtaG1RY3Vjb1lPMjVVd1o4RWd5RWx2RXk2TUgzRy13S1lZTjZMdVVucS1WbFM?oc=5
+- UBS sees gold at $5,000 by end-2027, well above Goldman's $4,650 call (investingLive) https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JLRVdRWDdMSnk5eUtuQnlod2pUWnE2cXNJMGU0WTg4eWNYYnpWS3hNRThRVDh5Q1F1OG1sRExVVnp4VzNEVEN0ZzNtWFlROTR0NGh4NXZQM3BqbUlsdHNqajVuVnNBd2dEZmcwMlItVG85Q3ppY2gzeHVqZWI0VzNsV25UTW0zZ3luWHlfTnRhbUNHY1lIS3lBUlBTQ0pjY29tX2tPMXQ?oc=5
+- Aurora Spine Corporation Announces Third Quarter FY26 Financial Results (Investing News Network) https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0JUMlV1QnJlcDhoMkp6N1VlOGExdjZXS3AwX3FRWWhRU1R1ZUh2emZxMTFoa19vdGhvVFJpNGpoN2JVakVRRlBSRmswMl9fa1E1VHIzOVVGckpib19sQWFxWC1sOWszaGtXWjNwU2JUZ2pFS0JHV3VKbVlLSmVqanZyQzlpYzV6LXRzbVlvd0RHVTBuOTZtZEMyRlJlVHc?oc=5
+- Goldman sees TOPIX up 20% to 4,500 and names five themes for Japanese stocks in 2027 (investingLive) https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0FSMUhXOXB5QzA2WXFOWm9MVGkxVmkzUndEazg5b2tpaTBOR05malItVHpwWmYwWUJQRTB5cmFxUUViWFBYNS1GX0dodnRma3U1aUNTWjAtZ0p2WTRuZEk4QU44X1dqb1hoRzg1Z1l3WVhEWlpvTUt0VmZhcmFpWkNpazUwQi1OUXVncjRtd2tPTmtxU3FuMExQcGFXY1RRWk5GM19lWVVtUC1OUEEzN1hZYmYyVFRm?oc=5
+- What Autodesk (ADSK) Said on Its Q3 Earnings Call (Yahoo Finance) https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXpBOFJVdGotN0tUd3FXV25zdXExU29FOVpxUzQtZ3doMmp3SWdzbkpzNWUzbm11aEIxSkdpTjlLTlNyallxMUhzc1pxdTFEUzFUTGxlRGtCQXQ1bGZ1MFBrcC03NTRwbjNqa3JSMmhpc3hPcWFtaFJ4d3lFZW5kOFotNWdfWE05WXNNVDdQVTlLbjFhbE9CZnhiZw?oc=5
+- Globant Stock Has The Bull Case Changed After Lower Earnings Guidance (Yahoo Finance) https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0RzelJrSUhPWDRseDJQVlJFTHFFNjFPM0tGeHZnbW1PZEdVcG9WRE40anluWHd6am9TaEpWTm10LUR5a2NQNllBQ3JGT0ZhLUdTX3FqbDVYSWptZXBUdl9heXJXMGNQTloyazdHWFBmS2VJUjdVeXo1UkdNMDRjdjNQTGpFQjBzdDg3VUllWW5WZjFxOThzSWIyLWE?oc=5
+- Who Is Michael Dell? Dell Reports Earnings After the Bell Today (The Profile | Polina Pompliano) https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWo1b2xBYmxIMmhVWW1BLTIyZDFpUWVxSW1PSklfZ01MLVFyYTR2YWxYdUs0N0RxTmM4SUo0aUFzZVNtTXdqeGtIY0pabGxYZU9teGx2cVFvdWxzVGRxRTFR?oc=5
+- 2026 Global Alternatives Survey: The GP View (Goldman Sachs Asset Management) https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVljaGltMHQ5aFM0VzNYQ1BkLXp6YmZ1Yy1FbmRWSjdQQUlyNS16TEVyalBwUVgxTmZvbmF6bzExRmF1bEdKLUNOeTJrNTRqcDNuTXpGeGVZTHlPVC1MSTJOWUgzTVJRQmZoOFlHYnNkbWJYaENnMlI5RVBRLTFiRmdlTE1EX3VpU2VPTjZB?oc=5
+- Diamond Estates Wines & Spirits Reports Second Quarter Fiscal 2027 Financial Results (Yahoo Finance) https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWxfdG1Qdy1RZXplVmhQRWszWThUMXpBMWI2NEpobUFETW8xWHJHalhQSDJMQnotb3hKeDR6Smw4X0lXR25Xb3ZBQmpEaUZQSUVhU3l3UVREelpOcTNTQXlwNEtZeEZVZGhMN1UxZmVqU09UMl9nbEdXLTQyTDg4V2NscE5lUTNqeWFRWDFhVmM5aTV6NjJuR0xuUk1SaV9DUnZ6QQ?oc=5
+- Dell lifts annual forecasts after record quarter on surging AI server demand (Reuters) https://news.google.com/rss/articles/CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5uaVJJZWZxLXhVcWxSa0h6cUh5bkpSdk9VdDN5QlIzb3hSLUhRV0FaM2FrVzlkUDJoN2FaeUxKOEhlN2RsZ1VoUUUwNHdTcWp6cV9BNE90ejFEVWRTcWtnbW9XV1A0VEhnSDRhMWVhbkFia1E?oc=5
+- Nutanix (NASDAQ:NTNX) Shares Fall on Soft Revenue Guidance and CEO Succession Plan (ChartMill) https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVY0SER3VDVhQmhZTGhoU1Rtd0R0d1VDX3p2eE9OcDBVTHZURTFRWGNWTVBtUm9LckU0TkxtTDBPcDBVeTY1MHVyYkh3QjdtWTBQZDRveXBDU0xfandMZ1NlSThHSDgwMUlPQkE0SWg2LWZlVDRpYURGeUdQZWtZQW9KbUxHX3NZdGNCeW8yZ24wN3IwX0s0MkVIeDllenRfRTZ6bF9UbjZfaVVYMGtFajRYSm43LWs4THBUdEFLMmtqeW9sTVcxZlFrZw?oc=5
 
 ## Headlines: Research
 - FEDS Note: Why Has Global Trade Remained Resilient Despite High Trade Policy Uncertainty? (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/why-has-global-trade-remained-resilient-despite-high-trade-policy-uncertainty-20261124.html
@@ -192,6 +190,7 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 - Opening remarks – Central Bank Governors’ Roundtable (BIS central banker speeches) https://www.bis.org/speeches/20261119-opening-remarks-central-bank-governors-roundtable
 
 ## Headlines: Opinion
+- ‘Huang Put’ Is the Fed’s Thanksgiving Pardon (Bloomberg.com) https://news.google.com/rss/articles/CBMiogFBVV95cUxPNExna2VaMnE5QzZoMmctX0NzNnY2QTJpZlk2T2I4cVZ6Nld3QU5qZWNVZ1lMM05QVjhvWVFja2xnRVZqbUpBVmtjYXlWZ3ZZSGxaMnR5a1dsYVdxS1l4MUNVVzA4MW5UMVBQSFU3Yk1UTm9laDkzOWNUWjVxMHhSQW9pZzlWdGdaV3FvVi1EVTgyb0VDbnpGSDdmbGdLaVNRQUE?oc=5
 - Holiday 2026 Reading List (Project Syndicate) https://www.project-syndicate.org/onpoint/holiday-2026-reading-list?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - The Summit of Self-Promotion (Project Syndicate) https://www.project-syndicate.org/commentary/shenzhen-summit-xi-trump-putin-did-not-achieve-anything-by-stephen-s-roach-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - Why Nvidia Couldn’t Quit Jensen Huang (Project Syndicate) https://www.project-syndicate.org/commentary/why-nvidia-reinstated-jensen-huang-by-s-alex-yang-and-angela-huyue-zhang-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
@@ -202,5 +201,4 @@ Next FOMC decision: 2026-12-09 (15 days away), with new projections.
 - Making the Most of South Korea’s Semiconductor Boom (Project Syndicate) https://www.project-syndicate.org/commentary/how-south-korea-can-use-semiconductor-boom-to-strengthen-overall-economy-by-lee-jong-wha-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - BlackRock wants to launch private market ETFs. Because of course it does (FT Alphaville) https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9
 - Is a Financial-Market Reckoning Imminent? (Project Syndicate) https://www.project-syndicate.org/onpoint/is-a-financial-market-reckoning-imminent?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- Be thankful. Turkey Day meal prices are steady | Opinion (The Palm Beach Post) https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXdkel9kbXNyT0JaRTdZVDZrRGotU2ZIMWtITkU4bjRyZENrcTdNN1FWdWhHSm9sYW1vbjFCNFpldWNHZFY4enpCM0ZxR1RDY0diSXE2SWtRZk4wdVh1VHFYZkRwUW5hcE02QTBhNVpvcDQwMmtrd2theG1hdWI3LWRKSDdNUHBxN18wQ2FxcmZHLTRfdUtfeHhLSFk0eUdxRWQzTVVXV0VkZWZDMThwVU1LWFJvTVVFUFY4T0l6bWxySFlJSEpxUjh3?oc=5
 - The African Union’s Elusive Quest for Security (Project Syndicate) https://www.project-syndicate.org/commentary/how-the-au-can-improve-security-peacekeeping-fulfill-ali-mazrui-vision-by-adekeye-adebajo-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
