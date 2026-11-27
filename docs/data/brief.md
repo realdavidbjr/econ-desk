@@ -1,5 +1,5 @@
 # Econ Desk snapshot
-Generated 2026-11-27 19:33 (UTC). Source: FRED unless noted.
+Generated 2026-11-27 22:18 (UTC). Source: FRED unless noted.
 
 Fed funds target range: 3.75–4.00%. Last move: 25 bp hike, Sep 17, 2026
 - Interest on reserves: 3.90%
@@ -12,19 +12,19 @@ Next FOMC decision: 2026-12-09 (12 days away), with new projections.
 - Fed funds target, upper bound: 4.00%; change unch.; as of Nov 27, 2026
 - Fed funds target, lower bound: 3.75%; change unch.; as of Nov 27, 2026
 - Effective fed funds rate: 3.88%; change unch.; as of Nov 25, 2026
-- Interest on reserve balances: 3.90%; change unch.; as of Nov 27, 2026
+- Interest on reserve balances: 3.90%; change unch.; as of Nov 30, 2026
 - Overnight reverse repo rate: 3.75%; change unch.; as of Nov 27, 2026
 - SOFR: 3.95%; change +1 bp; as of Nov 25, 2026; Highest since Nov 2026
-- Discount rate (primary credit): 4.00%; change unch.; as of Nov 24, 2026
+- Discount rate (primary credit): 4.00%; change unch.; as of Nov 26, 2026
 - Bank prime loan rate: 7.00%; change unch.; as of Nov 23, 2026
 
 ## Liquidity and plumbing
-- Fed total assets: $6.74T; change -$17B; YoY +2.4%; as of Nov 18, 2026; Lowest since Sep 2026
-- Bank reserves: $2.98T; change +$19B; YoY +4.4%; as of Nov 18, 2026
+- Fed total assets: $6.73T; change -$9.4B; YoY +2.7%; as of Nov 25, 2026; Lowest since Aug 2026
+- Bank reserves: $2.96T; change -$16B; YoY +2.6%; as of Nov 25, 2026
 - Overnight reverse repo usage: $0.3B; change unch.; as of Nov 27, 2026
-- Treasury General Account: $917B; change +$2.2B; as of Nov 18, 2026
+- Treasury General Account: $902B; change -$15B; as of Nov 25, 2026; Lowest since Oct 2026
 - Repo operations (standing repo facility): $23B; change +$23B; as of Nov 27, 2026; Highest since Dec 2025
-- Discount window lending (primary credit): $9.1B; change -$0.2B; as of Nov 18, 2026; Lowest since Sep 2026
+- Discount window lending (primary credit): $8.9B; change -$0.2B; as of Nov 25, 2026; Lowest since Sep 2026
 
 ## Inflation
 - CPI, headline: 4.1%; change +0.4 pts; MoM +0.4%; as of Oct 2026
@@ -33,7 +33,7 @@ Next FOMC decision: 2026-12-09 (12 days away), with new projections.
 - PCE prices, core (the Fed's target): 3.3%; change +0.1 pts; MoM +0.3%; as of Oct 2026; Highest since Nov 2023
 - PPI, final demand: 6.5%; change +0.2 pts; MoM +0.3%; as of Oct 2026; Highest since Nov 2022
 - UMich 1-year inflation expectations: 4.7%; change +0.1 pts; as of Oct 2026
-- 5y5y forward inflation expectation: 2.11%; change -2 bp; as of Nov 25, 2026
+- 5y5y forward inflation expectation: 2.14%; change +3 bp; as of Nov 27, 2026; Highest since Nov 2026
 
 ## Labor market
 - Unemployment rate: 4.1%; change -0.1 pts; as of Oct 2026
@@ -65,19 +65,19 @@ Next FOMC decision: 2026-12-09 (12 days away), with new projections.
 
 ## Stocks and volatility
 - S&P 500: 7,183; change -18; 1M -6.4%; YoY +6.2%; as of Nov 25, 2026
-- Dow Jones Industrial Average: 50,183; change +164; 1M -4.2%; YoY +6.5%; as of Nov 25, 2026
+- Dow Jones Industrial Average: 50,775; change +592; 1M -3.2%; YoY +7.1%; as of Nov 27, 2026; Highest since Nov 2026
 - Nasdaq Composite: 23,586; change -148; 1M -9.9%; YoY +2.4%; as of Nov 25, 2026
 - VIX volatility index: 26.80; change -1.49; as of Nov 26, 2026
 
 ## Treasury yields
-- 3-month Treasury: 4.36%; change -1 bp; as of Nov 24, 2026
-- 2-year Treasury: 4.63%; change unch.; as of Nov 24, 2026
-- 10-year Treasury: 4.91%; change -1 bp; as of Nov 24, 2026; Lowest since Nov 2026
-- 30-year Treasury: 5.30%; change +1 bp; as of Nov 24, 2026
-- 2s10s spread: 0.24%; change -4 bp; as of Nov 25, 2026; Lowest since Nov 2026
-- 3-month/10-year spread: 0.51%; change -4 bp; as of Nov 25, 2026; Lowest since Jun 2026
-- 10-year real yield (TIPS): 2.79%; change unch.; as of Nov 24, 2026
-- 10-year breakeven inflation: 2.12%; change unch.; as of Nov 25, 2026
+- 3-month Treasury: 4.34%; change -2 bp; as of Nov 25, 2026
+- 2-year Treasury: 4.61%; change -2 bp; as of Nov 25, 2026; Lowest since Nov 2026
+- 10-year Treasury: 4.85%; change -6 bp; as of Nov 25, 2026; Lowest since Nov 2026
+- 30-year Treasury: 5.24%; change -6 bp; as of Nov 25, 2026; Lowest since Sep 2026
+- 2s10s spread: 0.25%; change +1 bp; as of Nov 27, 2026
+- 3-month/10-year spread: 0.59%; change +8 bp; as of Nov 27, 2026
+- 10-year real yield (TIPS): 2.73%; change -6 bp; as of Nov 25, 2026; Lowest since Nov 2026
+- 10-year breakeven inflation: 2.15%; change +3 bp; as of Nov 27, 2026
 
 ## Credit spreads
 - High-yield bond spread: 3.77%; change unch.; as of Nov 26, 2026
@@ -98,14 +98,14 @@ Next FOMC decision: 2026-12-09 (12 days away), with new projections.
 - Velocity of M2: 1.419; change -0.001; as of Q3 2026
 
 ## Bank credit
-- Bank credit, all commercial banks: $20.13T; change +$62B; YoY +6.7%; as of Nov 11, 2026; Highest since at least 1990
-- Commercial and industrial loans: $3.02T; change +$26B; YoY +12.0%; as of Nov 11, 2026; Highest since May 2020
+- Bank credit, all commercial banks: $20.15T; change +$13B; YoY +6.6%; as of Nov 18, 2026; Highest since at least 1990
+- Commercial and industrial loans: $3.01T; change -$11B; YoY +11.5%; as of Nov 18, 2026
 - Consumer credit outstanding: $5.22T; change +$28B; YoY +3.0%; as of Sep 2026; Highest since at least 1990
 
-## Fed balance sheet (as of Nov 18, 2026, $ billions)
-- Total assets: 6,742 (one week earlier 6,759)
-- Treasury securities: 4,587
-- Mortgage-backed securities: 1,884
+## Fed balance sheet (as of Nov 25, 2026, $ billions)
+- Total assets: 6,732 (one week earlier 6,742)
+- Treasury securities: 4,593
+- Mortgage-backed securities: 1,870
 - Unamortized premiums: 206
 - Loans: 9
 - Central bank liquidity swaps: 0
@@ -142,40 +142,40 @@ Next FOMC decision: 2026-12-09 (12 days away), with new projections.
 - Statistical Notice 2026/09 - Update to the classification of accounts guide (Bank of England) https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09
 - Meeting of 28-29 October 2026 (ECB) https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html
 - Financial Policy Committee Record – November 2026 (Bank of England) https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026
-- Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm
-- Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans (Fed press releases) https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm
 - ECB and Sveriges Riksbank conclude agreement for Sweden to join T2 (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html
-- GDP, (Second Estimate) and Corporate Profits, 3rd Quarter 2026 (BEA) https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026
-- Personal Income and Outlays, October 2026 (BEA) https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026
 - Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas (Fed speeches) https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm
+- Card payments edge past cash in shops; euro area consumers want both (ECB) https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html
+- Regulators implement growth-friendly securitisation reforms (Bank of England) https://www.bankofengland.co.uk/news/2026/november/regulators-implement-growth-friendly-securitisation-reforms
+- Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee (Bank of England) https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc
+- Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe (ECB) https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html
 
 ## Headlines: News
-- Catalyst Watch: Jobs report, Jensen Huang in DC, and Cyber Monday (Seeking Alpha) https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0dvTGJhRmV3YkxDYTBoX21EaW9tczc4a05BZUpFR05pbG1FSU5DTTRBSVdmYTVPVlNmMng0OGxaRnZhcWN3TWhPU0IwNzZFY2Q5V3lhWlRFQjhiNlFYUlk0ZG54aG5Jc01nLTNIcW5KaVdpcW03SHZnR1ZKTHFrZVYtUklxSzZ1WkJTZGExZE1xcm9HMl9IYjhmTWR4bkpGMmc?oc=5
+- Are we on track for a dovish Federal Reserve Board? (Fox Business) https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hcVJqRnRwXzJZM2dVZzBaSWM1T1VSS3gxZGpqLVRFc2RqQUx6WlNxSTRLRmNYV2gxeFVzOG95NWU4MFh3cmVZNVQxaXpPWkNHNFNqY0x6SVJheUE?oc=5
+- Even the price of toys is on the rise. How Americans are scaling back holiday plans (CNBC Economy) https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html
+- S&P cuts France outlook to negative (FT Global Economy) https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1
+- Federal Reserve Beige Book Highlights Resilient U.S. Economic Growth And Sticky Inflation (Crowdfund Insider) https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSEx4Ql9xaWJtTkJsU1RfNGlvVnY4bjNid2M0MVBBRW9ERlhDYlFqamtNSGNSeHBTUVdSanRZbHZoa0l4V2ljWTRGYjFmbnZKUjlvTFpzclVMQ1Y2WWhLTE4wMm5qSU9kdEtxb3NRY0V5eVdUMDQ5cDA1MjlBaGJzWW5jMWZhdnI2YjZlSzRoUkdmTVVGTUhydkIxRHhJSHJRWHhFSVhwZEFlRWxmRmZrQ3NGODIzR2JyRzVPN2J6Qkk2Y1FYNHE5Tmh3R1VvX3BKb0F3?oc=5
+- New ECB Presidential pick could sway digital euro holding limits, boost tokenized deposits (Ledger Insights) https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlRrSENQdm5yM096UXI4NnkzaEJPcXFlcHo4M1hYZERPemo5YXgzZnNhbE5PcDJ1ajZiOFU5c0FjVnp1ZTFHZ0VIbmlYY0NnNk5TQ09qeXpwR2ZZaGktWVV4d01kN3hNQ3JWdDAxeHh5RnM4ejA3bTFqMllyWWlMQ09aMUdKN3NSaFBiNl8ycUtnR1pyTlVVdDg3NG9PdDh0UkpqeVFpR0dQTTJOS25OVVB5VHNPOExjdldjNi1R?oc=5
+- Inflation expectations surge: ECB survey (Investment Executive) https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3ZMVVlURHN6cnQxZnVneTJzU19UeG9fcVF3VUpmVDRSZzBrVk8yT1NvenpJZ1I3X3kxemlXLTBOQjZWMmZLM0ZSMkp1MkFwdXBESDlEYnhOY3FyZnlnMlFpNDdmSUZSanRxWkg5dDBCRmVqYXN2YU1jRkNObjNpMVM2eVBPZ2F0?oc=5
 - These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia (MarketWatch) https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories
-- Gold defies surging US Dollar and Treasury yields as bulls target $3,700 (www.tmgm.com) https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMUM2QmNtRGtjVXdTNldEdmd0ODlKSlFreWlRU2xuYzhZdDhtcGdiaktoWEFLSmU0b29RR1JieFU0bUJYWFpGUF9pTDl1akVMZllCZEZuQU1iM0hBZE55WVBKeUkwZGsxaHE3ZkVYY0hicjFGZFMtRUlLNzBVN0lQZ1pKTk9NaEt5a1F3N2MxbUxyamtBdkNLSUl0M050aHBwMFRyVXBnSS14Z2JIVllOcExfd0M3SGRnOEM2NmhQVjZDM2toVDl1XzFDZGRVUG1obndB?oc=5
-- The warnings behind this week’s stock-market rally (MarketWatch) https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories
-- Sweden joins eurosystem platform as ECB embraces blockchain-backed securities (The Brussels Times) https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXJTWUpxSXpHX2JDVkVpMG04TjVHazFzS2xPT3JyN2NQa2pZeWJNVzNjUVZlUEp4UlNyTnNuSFNKbkZMalgzRk1Oa3dDUmxKcTZsNncyV1p1eV9HT0VrWVJoZkg4dDBvYkdvQ3M3M016UDJNT21rN1R6eGpBQmJ1REs3NEFMOVc3OHVfOU9hVGNTbUtmLVdIcm9lWEpub1IzdFBDeUMxLWxyakQ3djlhbmprdmg3dw?oc=5
-- US Equity Indexes Jump With Treasury Yields as Consumer Discretionary, Technology Top Sector Charts (marketscreener.com) https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRG9kNXhkU05yRllSTjRaMzZoQ003Zks1bUZETnBrbURFSnk1ZWtrM3U5UGNJclBHQXZ4Y2hFYU02U0xsaTJPSDBraUJMcWFvUWRzUjd2aHMtNk1ZZFlrUWlHeS00NWJMMEl2VHZac0xLdkNsV25PeEhmdDg3MzNEaWh2aUVVdTV3OFFtcHhXN0taNkRoSUJIZWlzTFFiN1BfX0hoZ2VpcW1xS0g4NWJqMFlIM2V4ZXhqOFkwLW8ydWJKN3hmZWJFSk96dS1NWEhvWVFuLURTVmJjNHB5Y0xyUDVzQlBhdw?oc=5
-- World in Brief: the ECB picks its next president; Elon Musk promises American children SpaceX shares (The Economist) https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnZITVdpcm5UM3NmMHFYckZ5U05TRDUzelRNQ2Y4cEZsaW41WWFUWndjX0pYS2lRc3FVYXVyTTE1SFJDT1hYMWo3QzAyazFMdmwxdnJKSk5xck5PREVFTzAtYlIzV3NyOUU0YTlQMG5WUWxqc3F1bWNzNWVBd1R4RXhXMGZSb05oQ3dQSVVwd0o4X2RaSzdJ?oc=5
-- Spot Silver Surges 7% Above $44: What Caused the Rise in Silver Prices? (TradingKey) https://news.google.com/rss/articles/CBMiywFBVV95cUxPN2JnQ1ZJRy1fV1c2Q1pSSlJUNVhTMXRvWkFOdUpmN1ZzSFJIUjV1VVI1MGw5YWRFaGRLT3g0b3pRNmx6V21FdVFqZWl0Sy05YndWd3Z1cVRtUEtqNGUwY0VxdDJRRUpYbmEwclV0d3VaWFFua1lEYmhpYXRqalU3SVVINFROWG5uYTA0RjFTSl9CZDV2OGpjUkdiZDh6eXUtRjVDVXpsR3JHVkpKb1dfQWdsbkpMcGFBenpqTVVTTkNONDVwY21wTGhkYw?oc=5
-- Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal? (MarketWatch) https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories
-- 12 days of sardines and Croc charms: Are Advent calendars getting out of control? (MarketWatch) https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories
-- New ECB leadership inherits a broken playbook (Breakingviews) https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDRVN25PZFNKLUhuai1HbG9kdjBRbW1XM21iMEZWTl94SmhMblZORXRZeFBjcExNREp3YnJrWVVGRW5kT1V0ajg3VDlLMERfa0lWMWpJNHJSZzFnNU9fQm1vVlo5aDBidlE2eE13VVd5X0pNc3NiYTRfLUZLQnFaZFg5MFB1S1dOUERPY1E1anpOMDg0WmFpN290N0trLWpOc09QUUNCOUptWVJ2Qmc?oc=5
-- AI caramba (FT Global Economy) https://www.ft.com/content/9c54e827-3786-4bad-ae06-f9a3f31fcab5
+- Federal Reserve and CFPB Set New $76,300 Consumer Protection Thresholds for 2027 (FF News) https://news.google.com/rss/articles/CBMiswFBVV95cUxORm5JSWNpUW1Eclg0ME9OUk9YQU41SEZ1b1pxSkV2VlhxZnNsWWlZMDFGRC1CWTNiOTBobEpBWU5ua2RhZkYwcjc4QnF1V2cwZzdMYmNzd0Izbk9hZFZpMGdkZW45RHJRXzdZTzl2Zk5HbFJjVmdIc1ZIMzFCVW1RUk9ycGduRlk3WjJzVXdOTE9pOXJkWlVsRDVIa25aYUQ2clozVjBRcFNsYWNlMDA3R2hMWQ?oc=5
+- Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest (MarketWatch) https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories
+- Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End (TradingView) https://news.google.com/rss/articles/CBMiywFBVV95cUxNOG00dUVjZFhJM0F4aHEyYVhzRW93V29aWVJnR3BQLXdzRFBDRmdocmg4V2JxeF9TeG9KY012eWo5QlRTUzFlSE9kaDFvbmVEWC1jQWxsb3NnNkZ4VWdtZmJHSnJOZEE1YTNEcmxWMGNGcEt3UmZvV0ZQZl83a1R6dVdMX2w0NHYyZjIwcGtlbFN2Zm5mVkZSX0VEemFTNnc2NkR3dXpBVXkwUkhxWGNIUHJ4WDZERTc1YmhaZ3dvZ0VXeEwtZjR4R3RDTQ?oc=5
+- Stock Market Rallies, Triggers This Shift; Jensen Huang Testimony, Jobs Report Loom (Investor's Business Daily) https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTAzQ1N2QWlMSk5RNmdzMlpQQVA4ZTFvcl9tNVo0V3F6cWkxYW41WDB5Rk4xZVhSRmVmN25hUW00blJhZ0RPTkUyMm85MFJhcWtFZVJvaFBuMkpONnItLXF5c01iMHBwXzBzSzdTUGRXTGppeHNsSnlRRkF2ekltN0N1RFdjYmJNVGxqck92ekk3NHI5Z08ybjFiazBHY0pSM2JUOFRIcXdockhaUlQzMkhVcU1zOXJkYTZZZlROV19jakxaYk9J?oc=5
+- European Council endorses Pablo Hernández de Cos as next ECB President (INSIGHT EU MONITORING) https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2lBb000TjEyZ1RMeUhGSUZwWnVaaERxcnhySDN5NEhhdWNVSUpTRHN0blVXaVpvcDJHbk0xVkdWUFZiX3JKVkgzRWdJTnpyeG9Yc3lYWWJRU3FQTW5vYkJvanJkNkdob050aS10dkhmT0FHcHRXV3NsOGd1RzZaVXk5cnhucS0taG04Q3JDVVNmTUhYNG1XMWF6RldWc0p0dGZ6YldyVFhoZjRid1V0NzJRWEdiQURabzE1OGprako0Z0JKcXNwNmpDa3ByMEVTRDZJ?oc=5
 
 ## Headlines: Companies
-- Guarantor: JPMorgan Chase & Co. (StreetInsider) https://news.google.com/rss/articles/CBMimgFBVV95cUxNelJkQlJTbUQ1a1RUaWZGOEZrY08zQV95TTlGMk83cnNMaTA1QTYtOEVFUUFRckZpN2dTNEE4VmRETWRDaWxId2ZVTDUxbzZQYXllV0xGWXdDdFpOWjljSi1jVUtDSlBtWEVIbXY4em1uVXBURUQ3YmhJY20yb015M211clZ4b0JITWNwQmJCTGctcWlORXVqelNn?oc=5
-- Aceso Life Science Group Limited Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWG5yNU5sOWtTVDJGN1NxYnhjMmhUN2Zmd3g3eWNPaGNQWHk1aU44dUIyeDhDNml0WW5CeHBweWxCSDFJSHNwVHMxYTRTWG1TU1VVOG1oT2VhREpRdkpiOWFLTFhNVllySzF2YmU5QnZKSDhLUTZ4dVNFMmxlNER3M0QxQnZJdS1yazN4Qm8zRDI2SVdSYVBzVHBTYmRjbEdXdkpiclkxQk16VFNxbmhaVWZIRnRxQWlhWXI0Vmgyem53MngzNTFvWXZTZjZIOXlxa2RuUk1OTkFoNXRuV2pyTjljVFN0OXc?oc=5
-- C: SEC Form FWP filed by Citigroup Inc. (Quantisnow) https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0d2a3NOSHBHVDkwQ1hYTGpWcGtteS1MeFdTWnhDY215UHh0eWs1cldjcEctMWJvTmo1b1MxU2FWa1JqcW52MFU4V3I0ODh0LXdhLW5TQjJXa2hrcm9iSnRSbWlPdW5nNlRiMHl5a3JoN1UxZHlFTHk4UGF4bmFEaTFYeWo?oc=5
-- Boardwalktech Software Corp. Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFY5VXJKdmdEYmdzUG1CbWRQMmFsRjY5aVVPc1piRzNoanREX0lIcDBLMXhOWFN6MWlvb3dOUmE3Y0NKazR1UU9pbkd4UW1hMzlfMnIzUEdBWXY2d0tlLU9iQVdONWVxeG1QZDZrcUJSZ05zemVZN041WUx2aWRpd1ZhUmRIV3RBbGM3SXpxRDlxTnFwczctWXd6QldacUoydFJET0UzMW1MMm1WcGpXSWhHV2NuWDAzX2dGMnRaN0pIU0tVa05oOU4xWEltVkFnb1Y1X2R6SUdxcUprdmgzZg?oc=5
-- Baron Financials ETF adds Dave, JPMorgan, and AerCap; exits Baldwin Insurance and Fair Isaac (TradingView) https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUjg5MVFzNVVMcnRkOEl1TGhGMU9BN1E3TjY1LW9aOUM4SjNXSjNFUWk2cnVvNkVaUnNUYV8tMXRLbDFkelJXU3FlSi1FUE92T2RQN0NacnBlVEs2X2d3Unc4UUxDUEtELWhUV19ZWVBMSDE1NzRpUVZQcUQ5VlQxSmc5d0NhbWk1Nmp5eDBDTTNSQ2JsV3B2X19MX0xhbmRPTHZxdnFHVjFNMHRHQWZFVUhCVUJjMDJ0dlc3N3lQaVRpQ2pndktfRWdrQkR4MEhqYXVOY1lqcnV3UzROZVd5TU5uamRoVVE?oc=5
-- New Sparkle Roll International Group Limited Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTktxTHR0d2NrcUUxbVdpeG10NUJuenN1RXFudDNzLTJEUTFPMlR3RFlyRzlzbHNobXkwN195NmdCTzBBVDBmbkpzbXBjY3RLZUFtVmpwVEhqS0xRNS1GSGZaaDRnQVZGcmRXSXhGd3lGZ2J6NTZYdnRMc0hlWHlyMm00U3UyZFpWTU9kd1hURF90MVMwbVdldUc2OC1Iazd4TjdjNno4ay1VVGlOLWZfYzlmSzVLSkViWmdwcFhhd3JpQzd4VWV2S3c5dllXLWVLZGVLZWdfQWQtd1hqZnd5M1JRMk9qdWlx?oc=5
-- Asset Chain Limited Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMEN1UXVVTGhoVVVnRktHejA5d1FLV3gwR2ZQZU1EYmtpTFY3R0pfSkIzSUJ0RHprRVZ6TlFWRlVlbjZ2YUhVWTZReGNmT0dBOW5VWXV5b0ZQdTlFQll1VFdmSERCaU14cXljajZUT0ZCUVJ3anZHR0RKYlYzQzBRUnJwbEF0UlNXZUlrWnVVSlVIbDFGa3RGdlBCb0lsUlhoUEVtS2tHcXNKcmg1MTBSMmdISkN2RFdkdThiQWwyejdqME1OT1Rhbzhsck1jVUVWbTlvZjRB?oc=5
-- Form 424B2 GOLDMAN SACHS GROUP INC (StreetInsider) https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHE2Snkta2w3QUZqVFRfQ3dXRURXd245aEg4UWIwZGRWTG5yY2YzdkI2bzlYNFZBUURGa1pObGZJNkFfRjhRY05MVDJCUFd1WE83VFZEQUpSeHpoZ0lYR1BYZXdlRWM3Z2FJbDB0bFRaM291bE5zZ3VrZng0WFc3MFdBODdhYWdBTW9MdmtzZHBSZmFC?oc=5
-- Magnus Concordia Group Limited Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY04wS01fa3pvLWllclJDa2E3MUlJamxidVdncHZ1RWt1dWFlSTZxbWVVX1lCNHBNTXotYmwtb1RuTU1jSkhCUWRHazB6RkJzd2ZLVmFsTDRHSDQzVVQwOUpCeHdnREltVnlINGlPVFRtamk2M0NhRTNUa29JQ1JXenNFSDFTSzNXZ0ZPZ0xvY2RyUWI2U0wxMTU0OEZpZ2VMOTk2d3JpNFpwNVlkRnFablJTNnprVXVMNUJFVDFQZWFNdFVjM1lZX1ZZcDl2NDR2cGtLMGdlUWgydHBpQzA1eU02ZGg?oc=5
-- Jakota Capital Group Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeE1DLU5OU3RzRldOTFNXWEloZ0xWamxZSFlGVGhrTnhJeHBIYm9MSVNXRE01bldlR2VYLWJabGFWTGduM2Rla19GOVdaNFVTLXcyOHBISThLc1dlRUVJOFhqMUIya2M0WnRkM040LXpiVllLeTVna3ZJMkJ2dDA3anhJWGFXUlZleW1VSFhTblp5UjhOekE4dVhsaXNxSWtfd0hoVmJpcEw5ZlBjVkNVN09KaU5oNEFQRTNSb2hOb0RjTlBuLWFqYkVmWV9xa1lWbzdwbnY0dw?oc=5
-- C: Citigroup sets 5-year contingent coupon notes tied to SPXI4EV6 (Quantisnow) https://news.google.com/rss/articles/CBMif0FVX3lxTE4tUnRKUW1BSkF2dEdkbXU4UVFCRFI0UFlhTTdBeFdQaWh3ZnJPQUhqdDY0Y1drbHk5dmVMMUNJOXZBSm0yZS1STjNsay1UNzJ2QlN3LTZrU09ySWRZWllRQnotVE1BUHdHbE15VHQxb09YcFdBTEN4QTVTcDJZbWc?oc=5
-- Elephant Holdings Group Limited Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc1RnMU42ZkNwOEU3bjFuSzRmQkZoLXVPR0NIdk5CVTdDbnlfeGdkSDhtaG00MENQY2lVQXBKTXItdEhab3poS0RCdVNkQjEtb0VNellHQVV2SEM5aTVPcXVqQ3Q4bXJ5bGdYY3JmQWZkQ2NoRER0Ujhhb0NTaUNTbnVmeGRQUXE4ekozTjVjeVFrZWJmc1VNbG5uYzE1S0ZZTzhVb05PVHlRTTRXUjNFLXlWbjFDaWZBTm0taTJlRE9CX1lvZGpYU2FibGN2YktnR0lYa29xU0VxN3FjcXZiWVN3OTNwQQ?oc=5
+- JPM: SEC Form FWP filed by JP Morgan Chase & Co. (Quantisnow) https://news.google.com/rss/articles/CBMihgFBVV95cUxNbE9UcGs0ekpMcEdXc3ZwOHVJV2dhWkdKVktJY21BejdiOWZGXzNmMExQUkFLM0QzSlFyZlg3WV9KTlcxTXNBdjl0SE9YNGRLZGgtQ2QzOUZqOF9zcUlUTXBURmV3TUFzVnphd2hTLUQtMjdUaXRMaTNhZkFNTUsya3c3M2dxZw?oc=5
+- Inflation has shoppers hunting for value. That bodes well for Black Friday (CNBC Business) https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html
+- C: Citigroup sells 3-year autocallable notes tied to worst of SPX and RTY (Quantisnow) https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUt3bU9RemJUX05ZM2NaNVFvU01ua09EdEloZy1TZnVGdHhrNVZpWGhMb0dzTmNHQ0tCWkF4UmFIZmg2dzc1aG5kZkJMTzlvbnBCbTdIRThJbDVXMTBBWWNZQS1kTGstN2J0UzhfMFNuaXdIb1NVSjR5REIzaWltVXg0MEQ?oc=5
+- Pengo Holdings Group Limited Reports Earnings Results for the Half Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNDdtbXdwY2NLZnVXS1lIN3VLd2Z3aHNqLWFSTVlhOW5ZUndTQjNaS3BNT2txUmNISzI4WWF6aXMxUGQtZWljdVY1WXhuaE9rc05FMU8yY2xZanBQWHFfU0p1LXp6TkxOZW9DYm16WGZBTEtfS3B0c1l1SV9yU0UxQ01sRDVrd0t6bXVmSkhqWGZpN1VBdElZSWs3NEtrazVobDRmby1jdk91MlhndTd2cmUzbmo1bVh3TGQybkRJOXdFd3ZVRWF6ZnZIbS1TQk1yak1IRUQ2R0xKaGEzV2tVQll3?oc=5
+- West Red Lake Gold Reports Q3 2026 Financial Results and Continued Positive Free Cash Flow (GlobeNewswire) https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMWFHQnk1VlRVeU1Fa1hCdHdVVjZpYlUtUUZWUG4xX09HYlpkUlBoN3d5ZC1oTUdnZlhOa2tJZGU2Y0JtcUpnc2dYOHpfbEx1a1czZ2pZZWV3RUZCLWxoU3R3UDJILVBqOEZsS2t6Uks5aXVlSEM1c3pJajJYd29xX20yQ1dLUEpaZEI3TjJMSEFmZWlseTREMjNzLVdGV2ttMHdkTFdqQ0l2eXpwN2wxQkcwU0RnekVjYkl0Uzc5UWpSSnprenlqdjRzQ28tVlVCZzMteVJXb3V0TkNrN2dwYVFhcjFRb3ZYeVZ3WnZoVFU5V2tx?oc=5
+- C: SEC Form FWP filed by Citigroup Inc. (Quantisnow) https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkxySWlhT0dLdTlOWFVfMXNVYzQ3aHhWWFJfWHMyNkZ3bjZicDhvOWJ5SUZGTjNvaG1JbXBCTmxkUlo0eXF6aVNxOXIyTVhUQVFUdXJJalBLTVhKeG50NUFLXzlTM2xsYVRRM2RRSnVDRENTR3kyeUlOSjlRZVV4bDNNQ2U?oc=5
+- JPMorgan vs TD Cowen: Can Saylor's Strategy Survive a Record Discount? (Cryptonews.net) https://news.google.com/rss/articles/CBMiWEFVX3lxTE82dUZudGpLQzZCSFdleW1EY0Z6ZHJndjROTUlaNUtwdjBvOGNfTHNHUXNfUTJUcTJSZk1BQmJXUWxyMTdvYVpfNmdLYkl5Tmdqc2xRSmtXem4?oc=5
+- C: Citigroup Inc. filed SEC Form 8-K: Financial Statements and Exhibits (Quantisnow) https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlJSeXNEa1UwZEtrUWlWaXFVUmJCZFhQVGw1Rm5Ycm9fQ1cwcF85LUZxX3VtcF9GOW9KR1ZVMjg1SXJNT0FGc2hVaUp4bHJ4aldIaW9zOTlMOVBBV1locWdld3BDWmY1N3JVMm0zR0FUNW44dzg4d0tqb0Rka0VZTWRCMUJ1TkRjY2pSczVuZkZQZUhzOXppTjNwVWljNHdLSEV6SElzV3RsZHczZkE?oc=5
+- Why JPMorgan Chase Fans May Look To ETFs Right Now (Yahoo Finance) https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2NKTjBfcGpwaVBaTk9WVzJ2bUY0NmlrTkh5Wk5abEt5TjNRRUFFa2RWdEl3cEowSGNpTS1fanNtblVSYjZSMG9INDhMWHd1WGxOVDM3bTFiODlvbHA0RVh5S2tnZHNvWE1uX1E3WVVyYkVicjV1azhiaDFTUFdTT2taZFRvT1ItYTFSYkNYRWdobWZveExRTA?oc=5
+- Quantum Foods Holdings Ltd Reports Earnings Results for the Full Year Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOHNkTUY0cW5uV05TamluVk9kbTZ6NmdQZDFPQVJmMjh2d0ZHYThveEF0SFRMVzlSek9ic1Jsa0dSemV2V05qblJKaGRxTWt5NVo1SlcxQ1J3WDJlYi1RRHdraDFhX2E2Y0tQamhXVWY0Qlg5Q2Z6YjZOUkR4VWE2ckxpVmtLS05oZGt6dnd0MFFoY0ZLckR1WXg4Z1RtZXNheVlZM0JOcURiaWFnZUF5emJsUVJaNEo2YnRBS3dyVDRMaHpVZkJvSHcwa25pUVpKNkdEZndLaFpESlY2R0Nv?oc=5
+- Credit Bank of Moscow (public joint-stock company) Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 (www.marketscreener.com) https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZjdoM2U0aWJpV0lJR1IzX0lfckY5bWh3WmVOWGFMOEFRZ0RHTTVlMEZ6bEpqQjk0dEZIazN3WUZjRFhSN0U2NzVfZ2lUaExjT2o3OXJMZ2l2eHJHQ0tmNjFNT1pSbmN1cDF1RWdvNi02VzBMeHBPcTZwQjFOa2E4VU9LQnQtbTZmNmVmRlVaN2tRLXlvZS1SMUszMGlOVDZqdTRxTzVtdmhfNkxyOWZ3TlVsY1pCb1hFWXpIM2xnS3NjajFROU9qNVdXcWlLdnN5QlFYNVZvUUhLNDBBN2h1YWp1TklMQQ?oc=5
+- ZTEST Electronics Inc. Reports Earnings Results for the First Quarter Ended September 30, 2026 (marketscreener.com) https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdkRfTFRrNUllakY1VlJRVzkzWFpmMkRESW16bmJ1V3ZVNmg0b0JwMnpRWkpibU5uUXZXSUdTek1td1NuckU5UC01Y3QzY2p6ZDRjTUp1UkpFTGF0Ync0Vy1IeHRCREw4WWpLVTJadzJGM2lSd05Dd0tyaE5rRWZhZDVKblZLWXRkUFpTQjd3aVBmalRvU0lkT3ZTSHQ4SUNCWkoxdVNiMENiUV9CQjdIYklyVGtFSzVCUFl0Zk96ZmpVQkNjcW9PdTZCQmZhVENrRUprLVNJcjRfZGpJLVE?oc=5
 
 ## Headlines: Research
 - The Bank of Japan's Semiannual Report on Currency and Monetary Control (BIS central banker speeches) https://www.bis.org/speeches/20261126-bank-japans-semiannual-report-currency-and-monetary-control
@@ -192,15 +192,15 @@ Next FOMC decision: 2026-12-09 (12 days away), with new projections.
 - FEDS Note: The Surprising Stability of Hedge Fund Repo Haircuts (FEDS Notes) https://www.federalreserve.gov/econres/notes/feds-notes/the-surprising-stability-of-hedge-fund-repo-haircuts-20261125.html
 
 ## Headlines: Opinion
+- A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade (WSJ) https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZoNE5qVlVJSWdVTHRMY1R0bFBac204aUVreDhOR3NtUE4yWjBESlJMUHZoLVo0NjdrTW1kUXF5RUxDQWJfRnhrdkJpSTF5VUduMWVDaU9aVjg3N3dCTW96TDUtQV9SRE9TSEN1Um9LTm0teG9MV2hrQkhEM0RDYnhCVVgzNHhpcEJ1cnc5azMzTm10am04MTZoS2wtc19RSTNSRW5sMlBGdWhaYWNlVmhn?oc=5
 - LETTER: Wage hikes and inflation (Las Vegas Review-Journal) https://news.google.com/rss/articles/CBMiogJBVV95cUxOWlhMYUcwWGhYMFRnLVQ5UVlDalNodmFtNng3eF90ek5xSDBQdTJpOGR6Ql9DZjh5R0JhZkw0WFFZMnROSE9PanpVV2swaWpDS3dDejVMSi02ekl0b3BJalRPX242aFkyU0h3T3VtWHFQOWJTOFdmYVlmMklVYWpEZ3h2ZUlTVmRIX1JFVzAyMjFFZGMzRk9ZVlhhQ2RmdDNFR1ZzTVQyZFM5cEM4WnFXRGJrOTRMalVYQmJPYzl1Vl8xN0xaV1NDT1lEcmNDNms4VzFUUHRwUG9vUDMyeFRWaUNFc1Z0dXJ0WjRBUlR2WTB0cXFGQlAwaFY3eDVvdnFvcWdQNHNEY21SSldoRVlJamQ4dGNOUkdiVzViRnUyQVdIQQ?oc=5
 - Reimagining Food Innovation (Project Syndicate) https://www.project-syndicate.org/commentary/fixing-broken-food-system-requires-social-not-technological-innovation-by-andrea-borghini-et-al-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 - Gun Buybacks Work, But Not the Way We Thought (Project Syndicate) https://www.project-syndicate.org/commentary/gun-buybacks-can-reduce-nonlethal-firearm-injuries-mexico-city-by-aurora-a-ramirez-alvarez-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- THINK Ahead: The ECB’s new boss has timing on his side (ing think) https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEEtUl84UXc1aWgxWFA0cC01clJPNEdSclpUd0YxbnRXbFVvbFFQQ2VJeFF1NjA5UUs0Z3d6US1XNm93dDFhVGJibmxveUNwWUxCS3ZTSUpIdk1mc2hHQm5ZVU9pNWIxbEM4ZjBXTTVkNXhJQ0lQYWVNemtldllBZnNiQWlONkw2V2ZQNA?oc=5
 - The Future of the Global Disability Agenda (Project Syndicate) https://www.project-syndicate.org/commentary/disability-inclusion-rights-in-the-un-must-go-beyond-mainstreaming-by-alberto-vasquez-encalada-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
-- SMX Featured in The Denver Post Opinion Piece on the Future of Colorado's Recycling Economy (The Courier-Journal) https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYUpTalFDenlPelpTOHVYV1pmbUJkeWNLc0lrRGxaT05kTzFGUUpEUjgybUxCOXdBTGtiNF9Kc2t1NUY4QTV4ai1OamdPSFdfTnRGMkJ4Y2VxSWlHaG51WkdTVXhzdTNsZUxMMDBUNFR3NU1VR1YzYmk5Zk9aYXBpQU83SllTelM4OXd3Q1Zpd0VWQW5ZS1hfY3hqRy1lTmdaeWpVLUZ6Z29fYlBuMlZCaGh3eDlOWWxwaFFEOEh6dE1uNVZHMFZjZEk0ZjZBT3R6Rzh4LVdIRFhpWms5SDRvZHlFdUQ?oc=5
-- Opinion: Carney’s growth strategy risks sidelining the private sector (Business in Vancouver) https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1lzQ00tOGhadGxRSEZtbTBVVDAwcmVfSVp4NVFmLUE5M0xYdUNwcDcwTmEyeXBnUUg2X0VKTS1obmp4RWpHdjI2ZUNvMXBBRklNNF9BdnZBMmpTOVFFdWtjSGY0enlOMXBjSVZ3cWM5M0ZadWVTYmlwNGpyZEM3TkhScUJ1Y1Q2OFlINV9GZEtGblUyY0w0dzlzaUZpaVFNajhuZW9tZWlsTVAyaFhCWjM4aGJiQlIzNWtPNngyZw?oc=5
 - Can the AI Mineral Rush Advance a Just Green Transition? (Project Syndicate) https://www.project-syndicate.org/commentary/ai-mineral-rush-can-advance-just-equitable-transition-by-suneeta-kaimal-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- High Inflation Puts Fed’s Credibility On the Line (Bloomberg) https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5
 - Even when the Fed gets it right, it gets it wrong | Opinion (Knoxville News Sentinel) https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5
 - FTAV’s Friday charts quiz (FT Alphaville) https://www.ft.com/content/ac51c59c-7eb1-46ee-beec-cd0a1589fb46
-- Turkey’s defence paradox — a booming arms industry on a fragile economy (ThePrint) https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjV1cFIzTm9zSy0ycEFXbks3Mm1rUkNJbHJvX1hUVjFLOFdOME84bWctMEhfTThLTXhuRzVhRHg4YWRXZXEwUFNncGVpSnJmSmtyZXNIZ0lDeXZ2NFlJallLWEN5UGVReU1GazNVV3d6Nl96SmJjbW9iYU1rWmFBd1hfRFdTbV9zMHNCeGhaa0VLTk9PZTFNMlJiU1AwWjhRcTFYMWpraHTSAa4BQVVfeXFMTVhVRGNmZ3FNZ2RWdTJELUVXUmd0UWlBdnJaT1FoeVVnRHBRdFRQOVFLd3NNZVJvVGVjeVNlVEo2eEFoZFRiQjhPRUlkeXFEX2hqcjRLdVZjZm94dTZKWTJxa1NJT0NfamJNSjg2c1ZlV0taZkY0clY1VW9EREhETTZYa2JqREFlRjlYTXZyb0o1dmhTcTZrdkdmLTRQMHVTNUM1NUtsdU9jeFl1c3J3?oc=5
+- Back to inflation (UBS) https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYkRIeXBheHJxRXFrUmg5RXhDN18wUEZ2Z0ttaTNLNWJYOXNrUTZDc0loTDFtQ2hyMUJwM1NTMnQtQlZUcW0xQ0xydHJmbmNLcTNnMkxxSGNUOFJLR3pfOHBXRnhvWFdNbWE2OUZZS2tiRXAwaUpQTEJfSmNVQXRBdzhHWVpmWTJrNHBIOW5CdnlCWXpJc0JDSmFXMDI3bDF6bEF1elNPRjgzcGhWZlhQQzRpTml6ODM0MkVOUTdmTHplU2hsenE0aXJoZjdsd1k4Rnc?oc=5
 - The Evolving Terrain of the Global AI Transformation (Project Syndicate) https://www.project-syndicate.org/onpoint/what-explains-ai-missing-productivity-boom-by-michael-spence-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
+- FTAV’s further reading (FT Alphaville) https://www.ft.com/content/637cfd22-c5cc-477f-b351-5c533fcba26d
